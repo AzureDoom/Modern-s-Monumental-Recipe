@@ -1,7 +1,6 @@
-# Modern's Monumental Recipes
-
-
 <div align="center">
+<h1 style="text-align: center;">Modern's Monumental Recipes</h1>
+
   
 Thank you for introducing Modern's Monumental Recipes, a dedicated mod designed to store custom-made recipes for Monumental Experience 1.19.2 and above. It's important to note that this mod is specifically intended for use with Monumental Experience and not compatible with other modpacks.
 
