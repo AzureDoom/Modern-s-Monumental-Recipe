@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "kubejs:compressed_iron_plate"
+    }
+  ],
+  "type": "create:pressing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:compressed_iron_plate"
+    }
+  ]
+}
