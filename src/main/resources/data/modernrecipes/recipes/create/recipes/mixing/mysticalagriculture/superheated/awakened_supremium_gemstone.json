@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:awakened_supremium_gemstone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "matc:supremium_crystal",
+      "data": 32767
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:supremium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:supremium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:supremium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:supremium_gemstone"
+    },
+    {
+      "item": "matc:supremium_crystal",
+      "data": 32767
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:awakened_supremium_gemstone",
+      "count": 2
+    }
+  ]
+}

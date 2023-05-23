@@ -1,0 +1,41 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:imperium_ingot"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "matc:tertium_crystal"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:tertium_essence"
+    },
+    {
+      "item": "mysticalagriculture:tertium_essence"
+    },
+    {
+      "item": "mysticalagriculture:tertium_essence"
+    },
+    {
+      "item": "mysticalagriculture:tertium_essence"
+    },
+    {
+      "item": "matc:tertium_crystal"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:imperium_essence",
+      "count": 2
+    }
+  ]
+}

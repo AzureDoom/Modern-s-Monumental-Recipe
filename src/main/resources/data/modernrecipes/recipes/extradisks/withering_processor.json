@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extradisks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extradisks:withering_processor"
+    }
+  ],
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "tag": "forge:silicon"
+    },
+    "middle": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "top": {
+      "item": "extradisks:raw_withering_processor"
+    }
+  },
+  "mode": "inscribe",
+  "result": {
+    "item": "extradisks:withering_processor"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:annihilation_core"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "tag": "forge:gems/quartz"
+    },
+    {
+      "tag": "forge:dusts/fluix"
+    },
+    {
+      "item": "ae2:logic_processor"
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:annihilation_core"
+    }
+  ]
+}

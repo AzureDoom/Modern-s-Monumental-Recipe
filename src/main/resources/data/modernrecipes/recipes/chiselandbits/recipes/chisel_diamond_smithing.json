@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "chiselsandbits:terra_shovel"
+      "item": "chiselsandbits:chisel_diamond"
     }
   ],
   "type": "minecraft:smithing",
