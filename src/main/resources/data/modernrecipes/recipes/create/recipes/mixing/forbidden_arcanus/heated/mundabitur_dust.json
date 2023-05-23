@@ -13,7 +13,7 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "minecraft:bone_meal"
+      "tag": "forge:fertilizer"
     },
     {
       "item": "minecraft:phantom_membrane"
