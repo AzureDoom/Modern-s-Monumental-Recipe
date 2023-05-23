@@ -1,0 +1,11 @@
+{
+  "values": [
+    "cyclic:conveyor",
+    "industrialforegoing:conveyor",
+    "immersiveengineering:conveyor_basic",
+    "immersiveengineering:conveyor_redstone",
+    "immersiveengineering:conveyor_dropper",
+    "immersiveengineering:conveyor_vertical",
+    "immersiveengineering:conveyor_splitter"
+  ]
+}

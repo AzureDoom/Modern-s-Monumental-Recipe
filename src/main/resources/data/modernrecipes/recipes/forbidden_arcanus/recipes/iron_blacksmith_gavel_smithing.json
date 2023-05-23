@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:iron_blacksmith_gavel"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "forbidden_arcanus:stone_blacksmith_gavel"
+  },
+  "addition": {
+    "tag": "forge:ingots/iron"
+  },
+  "result": {
+    "item": "forbidden_arcanus:iron_blacksmith_gavel"
+  }
+}
