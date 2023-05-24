@@ -11,7 +11,7 @@
   ],
   "type": "naturesaura:offering",
     "input": {
-        "item": "gobber2:gobber2_block_nether"
+        "item": "gobber2:gobber2_block"
     },
     "start_item": {
         "item": "minecraft:netherite_axe"
