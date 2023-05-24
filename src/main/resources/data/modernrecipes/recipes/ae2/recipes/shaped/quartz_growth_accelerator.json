@@ -7,6 +7,10 @@
     {
       "type": "forge:item_exists",
       "item": "ae2:quartz_growth_accelerator"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "kubejs:compressed_iron_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
