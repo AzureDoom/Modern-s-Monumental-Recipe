@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forcecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forcecraft:force_shovel"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:stone_shovel"
+  },
+  "addition": {
+    "item": "forcecraft:force_stick"
+  },
+  "result": {
+    "item": "forcecraft:force_shovel"
+  }
+}
