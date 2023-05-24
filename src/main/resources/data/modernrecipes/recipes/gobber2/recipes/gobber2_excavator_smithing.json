@@ -14,7 +14,7 @@
     "item": "minecraft:netherite_shovel"
   },
   "addition": {
-    "tag": "forge:rods/gobber"
+    "tag": "forge:rods/gobber_rod"
   },
   "result": {
     "item": "gobber2:gobber2_excavator"
