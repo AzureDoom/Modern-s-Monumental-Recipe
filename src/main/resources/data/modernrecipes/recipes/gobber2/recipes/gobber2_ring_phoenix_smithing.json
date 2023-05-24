@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_ring_phoenix"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gobber2:gobber2_ring_nether"
+  },
+  "addition": {
+    "tag": "forge:magma"
+  },
+  "result": {
+    "item": "gobber2:gobber2_ring_phoenix"
+  }
+}
