@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "easy_mob_farm"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "easy_mob_farm:witch_bottle"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:aureal_bottle"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "forbidden_arcanus:aureal_bottle"
+    },
+    "E": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    "F": {
+      "tag": "forge:storage_blocks/flint"
+    }
+  },
+  "pattern": [
+    "   ",
+    "FGF",
+    "EEE"
+  ],
+  "result": {
+    "item": "easy_mob_farm:witch_bottle"
+  }
+}
