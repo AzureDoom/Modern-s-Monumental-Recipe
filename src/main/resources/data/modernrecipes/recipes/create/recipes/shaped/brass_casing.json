@@ -16,7 +16,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "createdeco:brass_sheet_metal"
+      "item": "createdeco:brass_sheet_metal"
     },
     "C": {
       "tag": "forge:plates/brass"
