@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:crafter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "compressium:diamond_1"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "toms_storage:ts.adv_wireless_terminal"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "compressium:diamond_1"
+    },
+    "B": {
+      "item": "toms_storage:ts.adv_wireless_terminal"
+    },
+    "C": {
+      "tag": "modernrecipes:piston"
+    },
+    "D": {
+      "item": "cyclic:gem_amber"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "result": {
+    "item": "cyclic:crafter"
+  }
+}
