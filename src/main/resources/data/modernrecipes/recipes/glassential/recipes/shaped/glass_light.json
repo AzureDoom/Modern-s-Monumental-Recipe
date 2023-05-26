@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "glassential"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "glassential:glass_light"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "prefab:block_compressed_glowstone"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:glass"
+    },
+    "B": {
+      "item": "prefab:block_compressed_glowstone"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "item": "glassential:glass_light"
+  }
+}
