@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "lootbundles"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "lootbundles:loot_bundle"
+    },
+    {
+      "type": "forge:item_exists",
+      "tag": "forge:rope"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "tag": "forge:rope"
+    },
+    "E": {
+      "item": "material_elements:leather_sheet"
+    }
+  },
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "result": {
+    "item": "lootbundles:loot_bundle"
+  }
+}
