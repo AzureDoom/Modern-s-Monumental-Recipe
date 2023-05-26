@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ironjetpacks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ironjetpacks:ultimate_coil"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:rf_coil"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:gems/emerald"
+    },
+    "B": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "C": {
+      "item": "thermal:rf_coil"
+    }
+  },
+  "pattern": [
+    " AB",
+    "ACA",
+    "BA "
+  ],
+  "result": {
+    "item": "ironjetpacks:ultimate_coil"
+  }
+}
