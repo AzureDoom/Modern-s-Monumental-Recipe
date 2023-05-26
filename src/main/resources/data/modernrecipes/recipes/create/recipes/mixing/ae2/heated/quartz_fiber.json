@@ -13,7 +13,7 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "thermal:glass/hardened"
+      "tag": "thermal:glass/hardened"
     },
     {
       "tag": "forge:dusts/certus_quartz"
