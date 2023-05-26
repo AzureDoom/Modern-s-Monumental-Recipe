@@ -15,7 +15,7 @@
       "tag": "forge:plates/iron"
     },
     "B": {
-      "tag": "modernrecipes:workbenches"
+      "tag": "forge:workbenches"
     },
     "C": {
       "item": "extendedcrafting:basic_component"
