@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:tertium_farmland"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:tertium_essence"
+    },
+    {
+      "tag": "forge:tools/hoes"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_farmland"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:tertium_farmland",
+      "count": 2
+    }
+  ]
+}

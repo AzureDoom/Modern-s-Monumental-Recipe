@@ -6,25 +6,25 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mysticalagriculture:tertium_farmland"
+      "item": "mysticalagriculture:supremium_farmland"
     }
   ],
   "type": "create:mixing",
-  "heatRequirement": "heated",
+  "heatRequirement": "superheated",
   "ingredients": [
     {
-      "item": "mysticalagriculture:tertium_essence"
+      "item": "mysticalagriculture:supremium_essence"
     },
     {
       "tag": "forge:tools/hoes"
     },
     {
-      "item": "mysticalagriculture:prudentium_farmland"
+      "item": "mysticalagriculture:imperium_farmland"
     }
   ],
   "results": [
     {
-      "item": "mysticalagriculture:tertium_farmland",
+      "item": "mysticalagriculture:supremium_farmland",
       "count": 2
     }
   ]

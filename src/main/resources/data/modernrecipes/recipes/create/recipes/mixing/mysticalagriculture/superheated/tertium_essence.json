@@ -10,7 +10,7 @@
     }
   ],
   "type": "create:mixing",
-  "heatRequirement": "heated",
+  "heatRequirement": "superheated",
   "ingredients": [
     {
       "item": "mysticalagriculture:prudentium_essence"
