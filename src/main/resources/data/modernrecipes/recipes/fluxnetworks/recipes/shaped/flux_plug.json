@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fluxnetworks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "fluxnetworks:flux_plug"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:plastic"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "c": {
+      "item": "fluxnetworks:flux_core"
+    },
+    "b": {
+      "item": "fluxnetworks:flux_block"
+    },
+    "x": {
+      "item": "pneumaticcraft:plastic"
+    }
+  },
+  "pattern": [
+    "xcx",
+    "cbc",
+    "xcx"
+  ],
+  "result": {
+    "item": "fluxnetworks:flux_plug"
+  }
+}

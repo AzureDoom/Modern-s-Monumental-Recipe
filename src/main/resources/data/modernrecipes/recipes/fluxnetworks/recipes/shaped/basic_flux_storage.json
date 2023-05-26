@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fluxnetworks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "fluxnetworks:basic_flux_storage"
+    },
+    {
+      "type": "forge:item_exists",
+      "tag": "thermal:glass/hardened"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "g": {
+      "item": "fluxnetworks:flux_block"
+    },
+    "b": {
+      "tag": "thermal:glass/hardened"
+    }
+  },
+  "pattern": [
+    "bbb",
+    "g g",
+    "bbb"
+  ],
+  "result": {
+    "item": "fluxnetworks:basic_flux_storage"
+  }
+}

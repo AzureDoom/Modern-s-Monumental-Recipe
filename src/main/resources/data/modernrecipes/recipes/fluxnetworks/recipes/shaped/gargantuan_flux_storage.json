@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fluxnetworks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "fluxnetworks:flux_controller"
+    },
+    {
+      "type": "forge:item_exists",
+      "tag": "thermal:glass/hardened"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "fluxnetworks:herculean_flux_storage"
+    },
+    "g": {
+      "tag": "thermal:glass/hardened"
+    }
+  },
+  "pattern": [
+    "bbb",
+    "g g",
+    "bbb"
+  ],
+  "result": {
+    "item": "fluxnetworks:gargantuan_flux_storage"
+  }
+}
