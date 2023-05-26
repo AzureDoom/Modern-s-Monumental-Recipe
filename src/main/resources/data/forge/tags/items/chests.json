@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "echochest:echo_chest",
+        "prefab:item_compressed_chest",
+        "ironchest:iron_chest",
+        "ironchest:gold_chest",
+        "ironchest:diamond_chest",
+        "ironchest:copper_chest",
+        "ironchest:crystal_chest",
+        "ironchest:obsidian_chest",
+        "ironchest:dirt_chest"
+    ]
+}
