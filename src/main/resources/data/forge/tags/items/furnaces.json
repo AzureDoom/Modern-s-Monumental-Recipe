@@ -24,5 +24,10 @@
     "forcecraft:purple_force_furnace",
     "forcecraft:red_force_furnace",
     "forcecraft:white_force_furnace",
+    "engineersdecor:small_electrical_furnace",
+    "engineersdecor:small_mineral_smelter",
+    "engineersdecor:small_lab_furnace",
+    "quark:blackstone_furnace",
+    "quark:deepslate_furnace"
   ]
 }
