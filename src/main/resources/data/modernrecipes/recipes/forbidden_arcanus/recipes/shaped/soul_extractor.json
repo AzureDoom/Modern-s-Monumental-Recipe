@@ -18,10 +18,10 @@
       "tag": "forge:bricks/nether"
     },
     "C": {
-      "item": "forge:blocks/quartz"
+      "tag": "forge:blocks/quartz"
     },
     "D": {
-      "item": "forge:gems/quartz"
+      "tag": "forge:gems/quartz"
     }
   },
   "pattern": [
