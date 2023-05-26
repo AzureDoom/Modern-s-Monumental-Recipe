@@ -1,0 +1,28 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "item": "create:polished_rose_quartz",
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "item": "immersiveengineering:insulating_glass"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "tag": "forge:ingots/obsidian",
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "thermal:obsidian_glass",
+      "count": 2
+    }
+  ],
+  "energy": 4800
+}
