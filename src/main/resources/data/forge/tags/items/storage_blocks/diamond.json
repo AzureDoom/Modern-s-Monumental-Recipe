@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "chipped:ancient_diamond_block",
+    "chipped:chipped_diamond_block",
+    "chipped:embossed_diamond_block",
+    "chipped:engraved_diamond_block"
+  ]
+}
