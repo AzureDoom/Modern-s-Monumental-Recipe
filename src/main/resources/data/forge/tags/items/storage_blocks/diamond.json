@@ -1,6 +1,6 @@
 {
   "values": [
     "minecraft:diamond_block",
-    "chipped:ancient_diamond_block",
+    "#chipped:diamond"
   ]
 }
