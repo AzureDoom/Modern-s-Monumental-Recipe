@@ -6,11 +6,11 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "aiotbotania:livingwood_shears"
+      "item": "aiotbotania:livingrock_shears"
     },
     {
       "type": "forge:item_exists",
-      "tag": "botania:livingwood_logs"
+      "item": "botania:livingrock"
     }
   ],
   "type": "minecraft:smithing",
@@ -18,9 +18,9 @@
     "item": "minecraft:shears"
   },
   "addition": {
-    "tag": "botania:livingwood_logs"
+    "item": "botania:livingrock"
   },
   "result": {
-    "item": "aiotbotania:livingwood_shears"
+    "item": "aiotbotania:livingrock_shears"
   }
 }
