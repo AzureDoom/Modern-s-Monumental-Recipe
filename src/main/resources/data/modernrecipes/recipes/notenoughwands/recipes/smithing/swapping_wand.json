@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "notenoughwands:acceleration_wand"
+      "item": "notenoughwands:swapping_wand"
     },
     {
       "type": "forge:item_exists",
-      "tag": "modernrecipes:clocks"
+      "item": "sophisticatedbackpacks:tool_swapper_upgrade"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "tag": "modernrecipes:clocks"
+    "item": "sophisticatedbackpacks:tool_swapper_upgrade"
   },
   "addition": {
-    "item": "notenoughwands:advanced_wand_core"
+    "item": "notenoughwands:wand_core"
   },
   "result": {
-    "item": "notenoughwands:acceleration_wand"
+    "item": "notenoughwands:swapping_wand"
   }
 }

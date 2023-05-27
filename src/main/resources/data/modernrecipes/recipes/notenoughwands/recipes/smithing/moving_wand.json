@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "notenoughwands:acceleration_wand"
+      "item": "notenoughwands:moving_wand"
     },
     {
       "type": "forge:item_exists",
-      "tag": "modernrecipes:clocks"
+      "item": "buildinggadgets:construction_paste"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "tag": "modernrecipes:clocks"
+    "tag": "modernrecipes:conveyors"
   },
   "addition": {
-    "item": "notenoughwands:advanced_wand_core"
+    "item": "notenoughwands:wand_core"
   },
   "result": {
-    "item": "notenoughwands:acceleration_wand"
+    "item": "notenoughwands:moving_wand"
   }
 }

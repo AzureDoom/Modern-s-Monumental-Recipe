@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "notenoughwands:acceleration_wand"
+      "item": "notenoughwands:teleportation_wand"
     },
     {
       "type": "forge:item_exists",
-      "tag": "modernrecipes:clocks"
+      "item": "mysticalagriculture:enderman_essence"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "tag": "modernrecipes:clocks"
+    "item": "mysticalagriculture:enderman_essence"
   },
   "addition": {
-    "item": "notenoughwands:advanced_wand_core"
+    "item": "notenoughwands:wand_core"
   },
   "result": {
-    "item": "notenoughwands:acceleration_wand"
+    "item": "notenoughwands:teleportation_wand"
   }
 }
