@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "minecraft:furnace",
+    "quark:deepslate_furnace",
+    "quark:blackston_furnace"
     "mysticalagriculture:inferium_furnace",
     "mysticalagriculture:prudentium_furnace",
     "mysticalagriculture:tertium_furnace",
