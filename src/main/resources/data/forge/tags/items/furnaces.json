@@ -2,7 +2,6 @@
   "replace": false,
   "values": [
     "minecraft:furnace",
-    "mysticalagriculture:allthemodium_furnace",
     "mysticalagriculture:inferium_furnace",
     "mysticalagriculture:prudentium_furnace",
     "mysticalagriculture:tertium_furnace",
