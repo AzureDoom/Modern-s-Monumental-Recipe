@@ -2,11 +2,11 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "modularrouters"
+      "modid": "notenoughwands"
     },
     {
       "type": "forge:item_exists",
-      "item": "modularrouters:breaker_module"
+      "item": "notenoughwands:illumination_wand"
     },
     {
       "type": "forge:item_exists",
