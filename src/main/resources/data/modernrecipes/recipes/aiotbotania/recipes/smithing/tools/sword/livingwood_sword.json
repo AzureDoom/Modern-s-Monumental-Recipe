@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aiotbotania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aiotbotania:livingwood_sword"
+    },
+    {
+      "type": "forge:item_exists",
+      "tag": "botania:livingwood_logs"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:wooden_sword"
+  },
+  "addition": {
+    "tag": "botania:livingwood_logs"
+  },
+  "result": {
+    "item": "aiotbotania:livingwood_sword"
+  }
+}
