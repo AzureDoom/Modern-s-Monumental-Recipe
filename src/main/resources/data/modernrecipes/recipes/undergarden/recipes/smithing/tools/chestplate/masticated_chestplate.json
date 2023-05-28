@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "undergarden"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "undergarden:masticated_chestplate"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "addition": {
+    "item": "undergarden:masticator_scales"
+  },
+  "result": {
+    "item": "undergarden:masticated_chestplate"
+  }
+}
