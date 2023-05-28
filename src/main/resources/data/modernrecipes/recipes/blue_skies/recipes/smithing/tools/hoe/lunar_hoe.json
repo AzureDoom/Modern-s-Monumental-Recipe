@@ -14,7 +14,7 @@
     "item": "minecraft:wooden_hoe"
   },
   "addition": {
-    "tag": "blue_skies:lunar_planks"
+    "item": "blue_skies:lunar_planks"
   },
   "result": {
     "item": "blue_skies:lunar_hoe"
