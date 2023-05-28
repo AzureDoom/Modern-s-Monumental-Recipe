@@ -10,7 +10,11 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "thermal:redstone_mushroom_spores"
+      "tag": "modernrecipes:chunks/coal"
+    },
+    {
+      "type": "forge:item_exists",
+      "tag": "minecraft:soul_fire_base_blocks"
     }
   ],
   "type": "minecraft:crafting_shaped",
