@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "lootbundles"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:torch"
+    },
+    {
+      "type": "forge:item_exists",
+      "tag": "modernrecipes:chunks/coal"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "modernrecipes:chunks/coal"
+    },
+    "B": {
+      "item": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    " A ",
+    " B "
+  ],
+  "result": {
+    "item": "minecraft:torch",
+    "count": 2
+  }
+}
