@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "minecraft:crafting_table",
     "immersiveengineering:craftingtable",
     "blue_skies:bluebright_crafting_table",
     "blue_skies:starlit_crafting_table",
