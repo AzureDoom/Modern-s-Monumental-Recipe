@@ -26,9 +26,9 @@
     }
   },
   "pattern": [
-    "CCC",
-    "ABA",
-    "DDD"
+    "BAB",
+    "ACA",
+    "BAB"
   ],
   "result": {
     "item": "mekanism:superheating_element"
