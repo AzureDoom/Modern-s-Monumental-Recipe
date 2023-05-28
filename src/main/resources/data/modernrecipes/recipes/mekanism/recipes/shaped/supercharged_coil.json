@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "forge:circuits/ultimate"
+      "tag": "forge:circuits/ultimate"
     },
     "B": {
       "item": "mekanism:laser"
