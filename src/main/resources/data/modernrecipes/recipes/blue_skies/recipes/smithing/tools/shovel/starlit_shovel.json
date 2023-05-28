@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "blue_skies:starlit_pickaxe"
+      "item": "blue_skies:starlit_shovel"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:wooden_pickaxe"
+    "item": "minecraft:wooden_shovel"
   },
   "addition": {
     "item": "blue_skies:starlit_planks"
   },
   "result": {
-    "item": "blue_skies:starlit_pickaxe"
+    "item": "blue_skies:starlit_shovel"
   }
 }
