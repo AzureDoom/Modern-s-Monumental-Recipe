@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "aquaculture"
+      "modid": "blue_skies"
     },
     {
       "type": "forge:item_exists",
-      "item": "aquaculture:neptunium_hoe"
+      "item": "blue_skies:lunar_hoe"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_hoe"
+    "item": "minecraft:wooden_hoe"
   },
   "addition": {
-    "tag": "forge:ingots/neptunium"
+    "tag": "blue_skies:lunar_planks"
   },
   "result": {
-    "item": "aquaculture:neptunium_hoe"
+    "item": "blue_skies:lunar_hoe"
   }
 }
