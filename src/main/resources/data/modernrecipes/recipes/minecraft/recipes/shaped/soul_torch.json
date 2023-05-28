@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "lootbundles"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:soul_torch"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:redstone_mushroom_spores"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "modernrecipes:chunks/coal"
+    },
+    "B": {
+      "tag": "forge:rods/wooden"
+    },
+    "C": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    }
+  },
+  "pattern": [
+    " A ",
+    " B ",
+    " C "
+  ],
+  "result": {
+    "item": "minecraft:soul_torch",
+    "count": 2
+  }
+}
