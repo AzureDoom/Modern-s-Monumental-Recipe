@@ -29,7 +29,7 @@
       "item": "extendedcrafting:redstone_component"
     },
     "D": {
-      "item": "forge:furnaces"
+      "tag": "forge:furnaces"
     },
     "E": {
       "item": "mekanism:steel_casing"
