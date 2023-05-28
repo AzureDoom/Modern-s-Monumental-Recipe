@@ -19,7 +19,7 @@
       "tag": "modernrecipes:chunks/coal"
     },
     "B": {
-      "item": "forge:rods/wooden"
+      "tag": "forge:rods/wooden"
     }
   },
   "pattern": [
