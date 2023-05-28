@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "minecraft:torch"
+      "item": "minecraft:redstone_torch"
     },
     {
       "type": "forge:item_exists",
@@ -19,7 +19,7 @@
       "item": "thermal:redstone_mushroom_spores"
     },
     "B": {
-      "item": "forge:rods/wooden"
+      "tag": "forge:rods/wooden"
     }
   },
   "pattern": [
@@ -27,7 +27,7 @@
     " B "
   ],
   "result": {
-    "item": "minecraft:torch",
+    "item": "minecraft:redstone_torch",
     "count": 2
   }
 }
