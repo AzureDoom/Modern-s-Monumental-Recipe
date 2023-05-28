@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "reliquary"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "reliquary:shears_of_winter"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:shears"
+  },
+  "addition": {
+    "item": "reliquary:frozen_core"
+  },
+  "result": {
+    "item": "reliquary:shears_of_winter"
+  }
+}
