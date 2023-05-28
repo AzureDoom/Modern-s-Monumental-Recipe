@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "aquaculture"
+      "modid": "blue_skies"
     },
     {
       "type": "forge:item_exists",
-      "item": "aquaculture:neptunium_pickaxe"
+      "item": "blue_skies:lunar_pickaxe"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_pickaxe"
+    "item": "minecraft:wooden_pickaxe"
   },
   "addition": {
-    "tag": "forge:ingots/neptunium"
+    "item": "blue_skies:lunar_planks"
   },
   "result": {
-    "item": "aquaculture:neptunium_pickaxe"
+    "item": "blue_skies:lunar_pickaxe"
   }
 }
