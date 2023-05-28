@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "aquaculture"
+      "modid": "blue_skies"
     },
     {
       "type": "forge:item_exists",
-      "item": "aquaculture:neptunium_shovel"
+      "item": "blue_skies:lunar_stone_sword"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_shovel"
+    "item": "minecraft:stone_sword"
   },
   "addition": {
-    "tag": "forge:ingots/neptunium"
+    "item": "blue_skies:lunar_cobblestone"
   },
   "result": {
-    "item": "aquaculture:neptunium_shovel"
+    "item": "blue_skies:lunar_stone_sword"
   }
 }

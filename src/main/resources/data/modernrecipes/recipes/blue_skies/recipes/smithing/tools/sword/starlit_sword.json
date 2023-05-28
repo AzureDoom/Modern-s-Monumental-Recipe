@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "aquaculture"
+      "modid": "blue_skies"
     },
     {
       "type": "forge:item_exists",
-      "item": "aquaculture:neptunium_sword"
+      "item": "blue_skies:starlit_sword"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_sword"
+    "item": "minecraft:wooden_sword"
   },
   "addition": {
-    "tag": "forge:ingots/neptunium"
+    "item": "blue_skies:starlit_planks"
   },
   "result": {
-    "item": "aquaculture:neptunium_sword"
+    "item": "blue_skies:starlit_sword"
   }
 }
