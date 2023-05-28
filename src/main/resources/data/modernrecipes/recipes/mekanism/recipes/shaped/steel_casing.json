@@ -30,9 +30,9 @@
     }
   },
   "pattern": [
+    "CAC",
     "ABA",
-    "CXC",
-    "III"
+    "CAC"
   ],
   "result": {
     "item": "mekanism:steel_casing"
