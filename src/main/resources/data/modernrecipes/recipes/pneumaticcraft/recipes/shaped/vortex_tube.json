@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "pneumaticcraft:vortex_tube"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:insulating_glass"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -25,7 +21,7 @@
       "tag": "forge:plates/gold"
     },
     "s": {
-      "tag": "forge:gears/compressed_iron"
+      "item": "pneumaticcraft:compressed_iron_gear"
     }
   },
   "pattern": [
