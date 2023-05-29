@@ -10,17 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:craftingtable"
-    },
-    {
-      "type": "forge:item_exists",
       "item": "immersiveengineering:wirecoil_redstone"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "C": {
-      "item": "immersiveengineering:craftingtable"
+      "tag": "forge:workbench"
     },
     "M": {
       "item": "rftoolsutility:crafter2"
