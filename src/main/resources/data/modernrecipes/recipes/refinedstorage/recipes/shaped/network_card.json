@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:network_card"
+    },
+    {
+      "type": "forge:item_exists",
+      "tag": "forge:plastic"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Q": {
+      "item": "refinedstorage:advanced_processor"
+    },
+    "W": {
+      "tag": "forge:plastic"
+    },
+    "S": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "WQW",
+    "SSS"
+  ],
+  "result": {
+    "item": "refinedstorage:network_card"
+  }
+}
