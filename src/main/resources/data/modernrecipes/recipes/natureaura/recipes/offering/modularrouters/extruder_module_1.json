@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modularrouters:extruder_module_1"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "modularrouters:blank_module"
+    },
+    "start_item": {
+        "item": "modularrouters:breaker_module"
+    },
+    "output": {
+        "item": "modularrouters:extruder_module_1"
+  }
+}
