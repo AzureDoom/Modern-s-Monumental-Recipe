@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:advanced_catalyst"
+    }
+  ],
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "extendedcrafting:advanced_component"
+    },
+    {
+      "item": "extendedcrafting:advanced_component"
+    },
+    {
+      "item": "extendedcrafting:advanced_component"
+    },
+    {
+      "item": "extendedcrafting:advanced_component"
+    },
+    {
+      "item": "extendedcrafting:black_iron_ingot"
+    },
+    {
+      "item": "extendedcrafting:black_iron_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcrafting:advanced_catalyst"
+    }
+  ]
+}
