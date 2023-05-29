@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:moving_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "tag": "modernrecipes:conveyors"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "notenoughwands:wand_core"
+    },
+    "start_item": {
+        "tag": "modernrecipes:conveyors"
+    },
+    "output": {
+        "item": "notenoughwands:moving_wand"
+  }
+}
