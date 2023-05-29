@@ -10,10 +10,6 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:craftingtable"
-    },
-    {
-      "type": "forge:item_exists",
       "item": "immersiveengineering:heavy_engineering"
     },
     {
@@ -24,7 +20,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "C": {
-      "item": "immersiveengineering:craftingtable"
+      "tag": "forge:workbench"
     },
     "M": {
       "item": "immersiveengineering:heavy_engineering"
