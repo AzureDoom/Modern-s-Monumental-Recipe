@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:insulating_glass"
+      "tag": "modernrecipes:tanks"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -28,7 +28,7 @@
   "pattern": [
     "BIB",
     "IGI",
-    "BIB",
+    "BIB"
   ],
   "result": {
     "item": "pneumaticcraft:small_tank"
