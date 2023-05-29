@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:vortex_tube"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "pneumaticcraft:reinforced_stone_bricks"
+    },
+    "T": {
+      "item": "pneumaticcraft:pressure_tube"
+    },
+    "F": {
+      "tag": "forge:furnaces"
+    }
+  },
+  "pattern": [
+    "III",
+    "ITI",
+    "IFI",
+  ],
+  "result": {
+    "item": "pneumaticcraft:air_compressor"
+  }
+}
