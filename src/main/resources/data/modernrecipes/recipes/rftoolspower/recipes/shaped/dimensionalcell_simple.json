@@ -23,7 +23,7 @@
       "item": "extendedcrafting:redstone_catalyst"
     },
     "d": {
-      "item": "forge:gears/diamond"
+      "tag": "forge:gears/diamond"
     },
     "q": {
       "item": "create:polished_rose_quartz"
