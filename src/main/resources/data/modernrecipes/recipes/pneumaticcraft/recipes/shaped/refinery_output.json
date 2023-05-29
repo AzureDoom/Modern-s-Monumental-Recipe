@@ -26,9 +26,9 @@
     }
   },
   "pattern": [
-    " G ",
-    "GIG",
-    " G ",
+    "SSS",
+    "GDG",
+    "SSS",
   ],
   "result": {
     "item": "pneumaticcraft:refinery_output"
