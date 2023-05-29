@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "I": {
-      "tag": "forge:gears/compressed_iron"
+      "item": "pneumaticcraft:compressed_iron_gear"
     },
     "G": {
       "tag": "forge:glass"
