@@ -1,0 +1,47 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rftoolscontrol"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolscontrol:craftingstation"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:craftingtable"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:heavy_engineering"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "M": {
+      "item": "rftoolscontrol:card_base"
+    },
+    "C": {
+      "item": "immersiveengineering:craftingtable"
+    },
+    "r": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "F": {
+      "item": "immersiveengineering:heavy_engineering"
+    }
+  },
+  "pattern": [
+    "rMr",
+    "CFC",
+    "rMr"
+  ],
+  "result": {
+    "item": "rftoolscontrol:craftingstation"
+  }
+}
