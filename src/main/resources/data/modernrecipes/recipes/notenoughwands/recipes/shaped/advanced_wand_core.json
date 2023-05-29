@@ -33,9 +33,9 @@
     }
   },
   "pattern": [
-    "Xn ",
-    "nXn",
-    " nX"
+    " x ",
+    "twt",
+    " d "
   ],
   "result": {
     "item": "notenoughwands:advanced_wand_core"
