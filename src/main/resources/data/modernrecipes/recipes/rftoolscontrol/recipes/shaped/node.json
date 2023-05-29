@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "rftoolscontrol:node"
+      "item": "rftoolscontrol:craftingstation"
     },
     {
       "type": "forge:item_exists",
