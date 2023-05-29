@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "notenoughwands"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:wand_core"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_rod"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "gobber2:gobber2_rod"
+    },
+    "n": {
+      "tag": "forge:plates/gold"
+    }
+  },
+  "pattern": [
+    "Xn ",
+    "nXn",
+    " nX"
+  ],
+  "result": {
+    "item": "notenoughwands:wand_core"
+  }
+}
