@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "rftoolscontrol:craftingstation"
+      "item": "rftoolscontrol:node"
     },
     {
       "type": "forge:item_exists",
@@ -42,6 +42,6 @@
     "rMr"
   ],
   "result": {
-    "item": "rftoolscontrol:craftingstation"
+    "item": "rftoolscontrol:node"
   }
 }
