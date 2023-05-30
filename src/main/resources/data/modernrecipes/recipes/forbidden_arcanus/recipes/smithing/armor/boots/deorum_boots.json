@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "immersiveengineering"
+      "modid": "forbidden_arcanus"
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:steel_shovel"
+      "item": "forbidden_arcanus:deorum_boots"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:iron_shovel"
+    "item": "minecraft:netherite_boots"
   },
   "addition": {
-    "tag": "forge:ingots/steel"
+    "item": "forge:ingots/deorum"
   },
   "result": {
-    "item": "immersiveengineering:shovel_steel"
+    "item": "forbidden_arcanus:deorum_boots"
   }
 }

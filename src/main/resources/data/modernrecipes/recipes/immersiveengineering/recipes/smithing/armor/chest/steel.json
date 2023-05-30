@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:steel_shovel"
+      "item": "immersiveengineering:steel_axe"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:iron_shovel"
+    "item": "minecraft:iron_axe"
   },
   "addition": {
     "tag": "forge:ingots/steel"
   },
   "result": {
-    "item": "immersiveengineering:shovel_steel"
+    "item": "immersiveengineering:steel_axe"
   }
 }
