@@ -1,10 +1,10 @@
 {
   "values": [
+    "minecraft:chain",
     "cyclic:gold_chain",
     "cyclic:copper_chain",
     "cyclic:netherite_chain",
     "forbidden_arcanus:deorum_chain",
-    "minecraft:chain",
     "decorative_blocks:chain",
     "littlelogistics:spring",
     "additionallanterns:obsidian_chain",

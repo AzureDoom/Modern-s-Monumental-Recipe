@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:netherite_helmet"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "addition": {
+    "tag": "forge:ingots/netherite"
+  },
+  "result": {
+    "item": "minecraft:netherite_helmet"
+  }
+}

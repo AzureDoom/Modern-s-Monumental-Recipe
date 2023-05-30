@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_chest"
+      "item": "immersiveengineering:armor_steel_legs"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:iron_chest"
+    "item": "minecraft:iron_leggings"
   },
   "addition": {
     "tag": "forge:plates/steel"
   },
   "result": {
-    "item": "immersiveengineering:armor_steel_chest"
+    "item": "immersiveengineering:armor_steel_legs"
   }
 }

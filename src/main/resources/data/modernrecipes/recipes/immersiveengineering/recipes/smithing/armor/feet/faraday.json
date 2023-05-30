@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_chest"
+      "item": "immersiveengineering:armor_faraday_feet"
     }
   ],
   "type": "minecraft:smithing",
@@ -14,9 +14,9 @@
     "item": "minecraft:iron_chest"
   },
   "addition": {
-    "tag": "forge:plates/steel"
+    "tag": "forge:plates/aluminum"
   },
   "result": {
-    "item": "immersiveengineering:armor_steel_chest"
+    "item": "immersiveengineering:armor_faraday_feet"
   }
 }
