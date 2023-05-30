@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "shrink"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "shrink:shrinking_device"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:circuit_board"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsbase:infused_enderpearl"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "tag": "forge:ingots/steel"
+    },
+    "E": {
+      "tag": "forge:glass"
+    },
+    "P": {
+      "item": "immersiveengineering:circuit_board"
+    },
+    "D": {
+      "item": "rftoolsbase:infused_enderpearl"
+    }
+  },
+  "pattern": [
+    "GDG",
+    "GEG",
+    "GPG"
+  ],
+  "result": {
+    "item": "shrink:shrinking_device"
+  }
+}
