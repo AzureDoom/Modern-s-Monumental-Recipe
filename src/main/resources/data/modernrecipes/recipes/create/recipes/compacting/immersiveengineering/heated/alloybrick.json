@@ -17,19 +17,19 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "forge:sandstone"
+      "tag": "forge:sandstone"
     },
     {
-      "item": "forge:sandstone"
+      "tag": "forge:sandstone"
     },
     {
-      "item": "forge:sandstone"
+      "tag": "forge:sandstone"
     },
     {
-      "item": "forge:sandstone"
+      "tag": "forge:sandstone"
     },
     {
-      "tag": "compressium:sand_2"
+      "item": "compressium:sand_2"
     },
     {
       "tag": "engineersdecor:brick_blocks"
