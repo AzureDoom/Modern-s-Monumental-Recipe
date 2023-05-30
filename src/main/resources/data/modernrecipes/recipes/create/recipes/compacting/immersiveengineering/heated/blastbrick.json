@@ -6,26 +6,25 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "pneumaticcraft:reinforced_stone"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "immersiveengineering:blastbrick"
     }
   ],
   "type": "create:compacting",
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "immersiveengineering:cokebrick"
     },
     {
-      "item": "minecraft:smooth_stone"
+      "tag": "forge:netherbricks/red"
+    },
+    {
+      "tag": "forge:magma"
     }
   ],
   "results": [
     {
-      "item": "pneumaticcraft:reinforced_stone",
+      "item": "immersiveengineering:blastbrick",
       "count": 2
     }
   ]
