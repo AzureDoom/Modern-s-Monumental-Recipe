@@ -27,7 +27,7 @@
   },
   "pattern": [
     "BBB",
-    "IGI",
+    "IGI"
   ],
   "result": {
     "item": "pneumaticcraft:heat_sink"
