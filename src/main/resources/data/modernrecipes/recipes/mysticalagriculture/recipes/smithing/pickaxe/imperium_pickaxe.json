@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mysticalagriculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:imperium_pickaxe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:tertium_pickaxe"
+  },
+  "addition": {
+    "item": "mysticalagriculture:imperium_gemstone"
+  },
+  "result": {
+    "item": "mysticalagriculture:imperium_pickaxe"
+  }
+}
