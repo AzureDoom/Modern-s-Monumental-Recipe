@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:netherrack",
+    "quark:netherrack_bricks",
+    "rechiseled:netherrack_beams",
+    "rechiseled:netherrack_bricks",
+    "rechiseled:netherrack_dented",
+    "rechiseled:netherrack_small_tiles",
+    "rechiseled:netherrack_stripes",
+    "rechiseled:netherrack_tiles",
+    "#chipped:netherrack"
+  ]
+}
