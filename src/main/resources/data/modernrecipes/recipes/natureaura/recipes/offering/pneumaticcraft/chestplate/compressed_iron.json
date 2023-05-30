@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "pneumaticcraft:compressed_iron_boots"
+      "item": "pneumaticcraft:compressed_iron_chestplate"
     },
     {
       "type": "forge:item_exists",
@@ -18,9 +18,9 @@
         "item": "kubejs:compressed_iron_plate"
     },
     "start_item": {
-        "item": "minecraft:iron_boots"
+        "item": "minecraft:iron_chestplate"
     },
     "output": {
-        "item": "pneumaticcraft:compressed_iron_boots"
+        "item": "pneumaticcraft:compressed_iron_chestplate"
   }
 }
