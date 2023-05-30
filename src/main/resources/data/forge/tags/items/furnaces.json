@@ -26,6 +26,7 @@
     "mysticalagriculture:imperium_furnace",
     "mysticalagriculture:supremium_furnace",
     "mysticalagriculture:awakened_supremium_furnace",
-    "#forcecraft:force_furnace"
+    "#forcecraft:force_furnace",
+    "nethersdelight:blackstone_furnace"
   ]
 }
