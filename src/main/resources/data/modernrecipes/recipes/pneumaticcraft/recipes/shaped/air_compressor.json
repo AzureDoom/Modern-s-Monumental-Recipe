@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "I": {
-      "tag": "pneumaticcraft:reinforced_stone_bricks"
+      "item": "pneumaticcraft:reinforced_stone"
     },
     "T": {
       "item": "pneumaticcraft:pressure_tube"
