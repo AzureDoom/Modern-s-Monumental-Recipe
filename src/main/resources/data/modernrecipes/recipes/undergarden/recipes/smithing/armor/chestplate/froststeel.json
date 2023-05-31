@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "twilightforest"
+      "modid": "undergarden"
     },
     {
       "type": "forge:item_exists",
-      "item": "twilightforest:steeleaf_sword"
+      "item": "undergarden:froststeel_chestplate"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_sword"
+    "item": "minecraft:iron_chestplate"
   },
   "addition": {
-    "tag": "forge:ingots/steeleaf"
+    "tag": "forge:ingots/froststeel"
   },
   "result": {
-    "item": "twilightforest:steeleaf_sword"
+    "item": "undergarden:froststeel_chestplate"
   }
 }

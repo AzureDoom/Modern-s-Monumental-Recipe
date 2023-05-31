@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "twilightforest"
+      "modid": "undergarden"
     },
     {
       "type": "forge:item_exists",
-      "item": "twilightforest:ironwood_shovel"
+      "item": "undergarden:utherium_boots"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:iron_shovel"
+    "item": "minecraft:netherite_boots"
   },
   "addition": {
-    "tag": "forge:ingots/ironwood"
+    "tag": "forge:ingots/utherium"
   },
   "result": {
-    "item": "twilightforest:ironwood_shovel"
+    "item": "undergarden:utherium_boots"
   }
 }

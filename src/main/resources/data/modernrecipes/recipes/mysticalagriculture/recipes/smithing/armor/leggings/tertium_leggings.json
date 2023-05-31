@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mysticalagriculture:supremium_chestplate"
+      "item": "mysticalagriculture:tertium_leggings"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "mysticalagriculture:imperium_chestplate"
+    "item": "mysticalagriculture:prudentium_leggings"
   },
   "addition": {
-    "item": "mysticalagriculture:supremium_gemstone"
+    "item": "mysticalagriculture:tertium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:supremium_chestplate"
+    "item": "mysticalagriculture:tertium_leggings"
   }
 }

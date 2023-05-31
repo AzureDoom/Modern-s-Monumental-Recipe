@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "twilightforest:steeleaf_shovel"
+      "item": "twilightforest:knightmetal_chestplate"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_shovel"
+    "item": "minecraft:netherite_chestplate"
   },
   "addition": {
-    "tag": "forge:ingots/steeleaf"
+    "tag": "forge:ingots/knightmetal"
   },
   "result": {
-    "item": "twilightforest:steeleaf_shovel"
+    "item": "twilightforest:knightmetal_chestplate"
   }
 }

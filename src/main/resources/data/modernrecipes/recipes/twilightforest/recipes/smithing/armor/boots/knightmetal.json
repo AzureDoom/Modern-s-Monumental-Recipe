@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "twilightforest:fiery_sword"
+      "item": "twilightforest:knightmetal_boots"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_sword"
+    "item": "minecraft:netherite_boots"
   },
   "addition": {
-    "tag": "forge:ingots/fiery"
+    "tag": "forge:ingots/knightmetal"
   },
   "result": {
-    "item": "twilightforest:fiery_sword"
+    "item": "twilightforest:knightmetal_boots"
   }
 }

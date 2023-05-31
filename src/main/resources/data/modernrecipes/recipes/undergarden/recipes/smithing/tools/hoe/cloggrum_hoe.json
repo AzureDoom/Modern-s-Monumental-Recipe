@@ -2,11 +2,11 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "twilightforest"
+      "modid": "undergarden"
     },
     {
       "type": "forge:item_exists",
-      "item": "twilightforest:cloggrum_hoe"
+      "item": "undergarden:cloggrum_hoe"
     }
   ],
   "type": "minecraft:smithing",
@@ -17,6 +17,6 @@
     "tag": "forge:ingots/cloggrum"
   },
   "result": {
-    "item": "twilightforest:cloggrum_hoe"
+    "item": "undergarden:cloggrum_hoe"
   }
 }
