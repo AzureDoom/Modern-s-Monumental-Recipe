@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "occultism:crushed_end_stone"
+    }
+  ],
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "value": [
+      {
+        "tag": "forge:end_stones"
+      }
+    ],
+    "count": 2
+  },
+  "result": [
+    {
+      "item": "occultism:crushed_end_stone",
+      "count": 2
+    }
+  ],
+  "experience": 0.1
+}
