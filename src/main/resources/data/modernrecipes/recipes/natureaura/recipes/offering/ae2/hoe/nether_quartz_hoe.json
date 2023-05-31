@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:nether_quartz_axe"
+      "item": "ae2:nether_quartz_hoe"
     }
   ],
   "type": "naturesaura:offering",
@@ -14,9 +14,9 @@
         "tag": "forge:gems/quartz"
     },
     "start_item": {
-        "item": "minecraft:iron_axe"
+        "item": "minecraft:iron_hoe"
     },
     "output": {
-        "item": "ae2:nether_quartz_axe"
+        "item": "ae2:nether_quartz_hoe"
   }
 }
