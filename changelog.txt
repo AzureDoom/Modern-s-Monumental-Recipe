@@ -1,3 +1,3 @@
-v0.2
+v0.3
 
-- First build for github with most Custom Recipes added, more will be added in v0.3
+- Added Botania Elven Trade Custom Tool/Armor System
