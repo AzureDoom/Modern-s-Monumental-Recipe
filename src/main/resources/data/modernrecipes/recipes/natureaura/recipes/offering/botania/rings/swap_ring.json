@@ -11,7 +11,7 @@
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:ingots/elementium"
+        "tag": "forge:ingots/manasteel"
     },
     "start_item": {
         "tag": "forge:storage_blocks/clay"
