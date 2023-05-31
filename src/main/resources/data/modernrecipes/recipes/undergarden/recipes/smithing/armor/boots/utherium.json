@@ -2,11 +2,11 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "minecraft"
+      "modid": "undergarden"
     },
     {
       "type": "forge:item_exists",
-      "item": "twilightforest:utherium_boots"
+      "item": "undergarden:utherium_boots"
     }
   ],
   "type": "minecraft:smithing",
@@ -17,6 +17,6 @@
     "tag": "forge:ingots/utherium"
   },
   "result": {
-    "item": "twilightforest:utherium_boots"
+    "item": "undergarden:utherium_boots"
   }
 }

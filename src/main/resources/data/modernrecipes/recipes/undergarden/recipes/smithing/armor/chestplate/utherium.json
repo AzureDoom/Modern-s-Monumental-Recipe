@@ -2,7 +2,7 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "minecraft"
+      "modid": "undergarden"
     },
     {
       "type": "forge:item_exists",
@@ -11,12 +11,12 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_chestplate"
+    "item": "undergarden:netherite_chestplate"
   },
   "addition": {
     "tag": "forge:ingots/utherium"
   },
   "result": {
-    "item": "twilightforest:utherium_chestplate"
+    "item": "undergarden:utherium_chestplate"
   }
 }

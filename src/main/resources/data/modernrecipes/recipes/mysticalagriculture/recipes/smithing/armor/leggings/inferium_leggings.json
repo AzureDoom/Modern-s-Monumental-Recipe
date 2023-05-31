@@ -1,4 +1,3 @@
-
 {
   "conditions": [
     {
@@ -7,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mysticalagriculture:prudentium_chestplate"
+      "item": "mysticalagriculture:inferium_leggings"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "mysticalagriculture:inferium_chestplate"
+    "item": "minecraft:diamond_leggings"
   },
   "addition": {
-    "item": "mysticalagriculture:prudentium_gemstone"
+    "item": "mysticalagriculture:inferium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:prudentium_chestplate"
+    "item": "mysticalagriculture:inferium_leggings"
   }
 }

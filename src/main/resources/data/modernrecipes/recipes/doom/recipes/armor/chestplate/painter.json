@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "twilightforest"
+      "modid": "minecraft"
     },
     {
       "type": "forge:item_exists",
-      "item": "twilightforest:steeleaf_sword"
+      "item": "doom:deorum_chestplate"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_sword"
+    "item": "doom:doom_chestplate"
   },
   "addition": {
-    "tag": "forge:ingots/steeleaf"
+    "tag": "forge:dyes/brown"
   },
   "result": {
-    "item": "twilightforest:steeleaf_sword"
+    "item": "doom:painter_doom_chestplate"
   }
 }

@@ -14,7 +14,7 @@
     "item": "minecraft:netherite_chestplate"
   },
   "addition": {
-    "item": "forge:ingots/deorum"
+    "tag": "forge:ingots/deorum"
   },
   "result": {
     "item": "forbidden_arcanus:deorum_chestplate"

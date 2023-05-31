@@ -2,11 +2,11 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "minecraft"
+      "modid": "undergarden"
     },
     {
       "type": "forge:item_exists",
-      "item": "twilightforest:froststeel_leggings"
+      "item": "undergarden:froststeel_leggings"
     }
   ],
   "type": "minecraft:smithing",
@@ -17,6 +17,6 @@
     "tag": "forge:ingots/froststeel"
   },
   "result": {
-    "item": "twilightforest:froststeel_leggings"
+    "item": "undergarden:froststeel_leggings"
   }
 }
