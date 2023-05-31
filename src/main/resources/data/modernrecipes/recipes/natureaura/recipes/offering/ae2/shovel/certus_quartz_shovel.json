@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:certus_quartz_shovel"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:gems/certus_quartz"
+    },
+    "start_item": {
+        "item": "minecraft:iron_shovel"
+    },
+    "output": {
+        "item": "ae2:certus_quartz_shovel"
+  }
+}
