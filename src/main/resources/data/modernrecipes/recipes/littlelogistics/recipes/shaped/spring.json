@@ -19,7 +19,7 @@
       "tag": "forge:nuggets/black_iron"
     },
     "E": {
-      "item": "forge:string"
+      "tag": "forge:string"
     }
   },
   "pattern": [
