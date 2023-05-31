@@ -13,7 +13,7 @@
   "heatRequirement": "superheated",
   "ingredients": [
     {
-      "tag": "forge:workbenches"
+      "tag": "forge:workbench"
     },
     {
       "tag": "forge:gems/quartz"

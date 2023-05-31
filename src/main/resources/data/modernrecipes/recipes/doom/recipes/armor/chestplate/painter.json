@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "doom:deorum_chestplate"
+      "item": "doom:painter_doom_chestplate"
     }
   ],
   "type": "minecraft:smithing",

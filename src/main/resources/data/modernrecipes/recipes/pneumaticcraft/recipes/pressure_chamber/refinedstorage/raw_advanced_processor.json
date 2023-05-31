@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "refinedstorage:processor_binding"
+      "item": "refinedstorage:raw_advanced_processor"
     }
   ],
   "type": "pneumaticcraft:pressure_chamber",
@@ -25,13 +25,13 @@
       "item": "extendedcrafting:redstone_catalyst"
     },
     {
-      "item": "refinedstorage:raw_advanced_processor"
+      "item": "refinedstorage:processor_binding"
     }
   ],
   "pressure": 4,
   "results": [
     {
-      "item": "refinedstorage:processor_binding",
+      "item": "refinedstorage:raw_advanced_processor",
       "count": 2
     }
   ]
