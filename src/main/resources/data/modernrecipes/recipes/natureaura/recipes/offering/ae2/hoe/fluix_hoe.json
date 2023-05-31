@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:fluix_axe"
+      "item": "ae2:fluix_hoe"
     }
   ],
   "type": "naturesaura:offering",
@@ -14,9 +14,9 @@
         "item": "ae2:fluix_block"
     },
     "start_item": {
-        "item": "minecraft:iron_axe"
+        "item": "minecraft:iron_hoe"
     },
     "output": {
-        "item": "ae2:fluix_axe"
+        "item": "ae2:fluix_hoe"
   }
 }
