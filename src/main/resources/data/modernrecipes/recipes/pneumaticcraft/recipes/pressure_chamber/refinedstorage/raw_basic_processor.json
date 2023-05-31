@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_catalyst"
+      "item": "extendedcrafting:black_iron_ingot"
     },
     {
       "type": "forge:item_exists",
