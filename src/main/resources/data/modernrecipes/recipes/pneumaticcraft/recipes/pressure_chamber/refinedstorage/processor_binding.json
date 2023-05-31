@@ -38,7 +38,7 @@
   "pressure": 4,
   "results": [
     {
-      "item": "refinedstorageprocessor_binding",
+      "item": "refinedstorage:processor_binding",
       "count": 2
     }
   ]
