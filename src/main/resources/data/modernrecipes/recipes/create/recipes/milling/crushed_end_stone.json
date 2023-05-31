@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "forge:end_stones"
+      "tag": "forge:end_stones"
     }
   ],
   "processingTime": 200,
