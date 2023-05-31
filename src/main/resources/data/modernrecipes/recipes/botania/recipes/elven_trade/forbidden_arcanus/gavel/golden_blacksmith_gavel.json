@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:golden_blacksmith_gavel"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:iron_blacksmith_gavel"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "output": [
+    {
+      "item": "forbidden_arcanus:golden_blacksmith_gavel"
+    }
+  ]
+}
