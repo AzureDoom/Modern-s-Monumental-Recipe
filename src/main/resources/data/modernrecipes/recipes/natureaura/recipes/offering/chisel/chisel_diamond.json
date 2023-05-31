@@ -11,7 +11,7 @@
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:gems/diamond"
+        "tag": "forge:storage_blocks/diamond"
     },
     "start_item": {
         "item": "chiselsandbits:chisel_gold"
