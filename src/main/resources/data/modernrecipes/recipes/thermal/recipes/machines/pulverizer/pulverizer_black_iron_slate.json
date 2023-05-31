@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:black_iron_ingot"
+    }
+  ],
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "value": [
+      {
+        "item": "extendedcrafting:black_iron_ingot"
+      }
+    ],
+    "count": 2
+  },
+  "result": [
+    {
+      "item": "extendedcrafting:black_iron_slate",
+      "count": 1
+    }
+  ],
+  "experience": 0.1
+}

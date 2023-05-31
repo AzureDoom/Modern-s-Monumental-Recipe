@@ -6,35 +6,27 @@
     },,
     {
       "type": "forge:item_exists",
-      "item": "create:polished_rose_quartz"
+      "item": "extendedcrafting:black_iron_ingot"
     }
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:insulating_glass"
+      "item": "refinedstorage:quartz_enriched_iron"
     }
   ],
   "type": "thermal:smelter",
   "ingredients": [
     {
-      "item": "create:polished_rose_quartz",
+      "item": "extendedcrafting:black_iron_ingot",
       "count": 1
     },
     {
-      "value": [
-        {
-          "item": "immersiveengineering:insulating_glass"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "tag": "forge:ingots/obsidian",
+      "tag": "forge:silicon",
       "count": 1
     }
   ],
   "result": [
     {
-      "item": "thermal:obsidian_glass",
+      "item": "refinedstorage:quartz_enriched_iron",
       "count": 2
     }
   ],
