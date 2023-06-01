@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:crossbow"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:tripwire_hook"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "output": [
+    {
+      "item": "minecraft:crossbow"
+    }
+  ]
+}
