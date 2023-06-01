@@ -15,7 +15,7 @@
       "tag": "minecraft:planks"
     },
     {
-      "item": "forge:ingots/iron"
+      "tag": "forge:ingots/iron"
     }
   ],
   "output": [
