@@ -19,7 +19,7 @@
       "tag": "forge:plates/iron"
     },
     {
-      "tag": "extendedcrafting:redstone_ingot"
+      "item": "extendedcrafting:redstone_ingot"
     }
   ],
   "output": [
