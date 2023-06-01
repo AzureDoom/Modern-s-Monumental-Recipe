@@ -11,10 +11,10 @@
   ],
   "type": "naturesaura:offering",
     "input": {
-        "item": "bettershears3:unfired_clay_shears"
+         "tag": "forge:storage_blocks/clay"
     },
     "start_item": {
-        "tag": "forge:storage_blocks/clay"
+        "item": "bettershears3:unfired_clay_shears"
     },
     "output": {
         "item": "bettershears3:clay_shears"
