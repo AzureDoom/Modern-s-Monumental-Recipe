@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "bettershears3:cobblestone_shears"
+    "item": "bettershears3:cobble_shears"
   },
   "addition": {
     "tag": "minecraft:planks"
