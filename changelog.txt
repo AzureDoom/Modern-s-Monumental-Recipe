@@ -1,3 +1,4 @@
 v0.3
 
 - Added Botania Elven Trade Custom Tool/Armor System
+- Fixed Some Broken Recipes due to wrong tag
