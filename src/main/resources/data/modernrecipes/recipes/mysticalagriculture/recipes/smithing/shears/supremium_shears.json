@@ -14,7 +14,7 @@
     "item": "mysticalagriculture:imperium_shears"
   },
   "addition": {
-    "item": "forge:gems/supremium"
+    "item": "mysticalagriculture:supremium_gemstone"
   },
   "result": {
     "item": "mysticalagriculture:supremium_shears"
