@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "minecraft:stone_shovel"
+      "item": "minecraft:stone_sword"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:wooden_shovel"
+      "item": "minecraft:wooden_sword"
     },
     {
       "tag": "forge:stone"
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "minecraft:stone_shovel"
+      "item": "minecraft:stone_sword"
     }
   ]
 }
