@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "prefab"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "prefab:item_sickle_diamond"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "prefab:item_sickle_gold"
+  },
+  "addition": {
+    "tag": "forge:gems/diamond"
+  },
+  "result": {
+    "item": "prefab:item_sickle_diamond"
+  }
+}
