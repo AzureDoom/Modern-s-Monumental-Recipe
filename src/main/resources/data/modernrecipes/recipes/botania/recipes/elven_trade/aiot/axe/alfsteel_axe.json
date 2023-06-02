@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "aiotbotania:alfsteel_axe"
+      "item": "mythicbotany:alfsteel_axe"
     }
   ],
   "type": "botania:elven_trade",
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "aiotbotania:alfsteel_axe"
+      "item": "mythicbotany:alfsteel_axe"
     }
   ]
 }
