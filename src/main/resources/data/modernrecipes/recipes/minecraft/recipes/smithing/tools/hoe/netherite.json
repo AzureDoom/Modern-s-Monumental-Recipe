@@ -14,7 +14,7 @@
     "item": "minecraft:diamond_hoe"
   },
   "addition": {
-    "tag": "forge:ingots/netherite"
+    "tag": "forge:storage_blocks/netherite"
   },
   "result": {
     "item": "minecraft:netherite_hoe"
