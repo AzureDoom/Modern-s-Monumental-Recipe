@@ -14,7 +14,7 @@
     "item": "mysticalagriculture:prudentium_shears"
   },
   "addition": {
-    "item": "forge:gems/tertium"
+    "item": "mysticalagriculture:tertium_gemstone"
   },
   "result": {
     "item": "mysticalagriculture:tertium_shears"
