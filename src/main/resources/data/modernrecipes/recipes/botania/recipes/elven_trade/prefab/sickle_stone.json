@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "prefab:sickle_stone"
+      "item": "prefab:item_sickle_stone"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "prefab:sickle_wood"
+      "item": "prefab:item_sickle_wood"
     },
     {
       "tag": "forge:stone"
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "prefab:sickle_stone"
+      "item": "prefab:item_sickle_stone"
     }
   ]
 }
