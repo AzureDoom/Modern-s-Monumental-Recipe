@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "prefab:sickle_iron"
+      "item": "prefab:item_sickle_iron"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "prefab:sickle_stone"
+      "item": "prefab:item_sickle_stone"
     },
     {
       "tag": "forge:ingots/iron"
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "prefab:sickle_iron"
+      "item": "prefab:item_sickle_iron"
     }
   ]
 }
