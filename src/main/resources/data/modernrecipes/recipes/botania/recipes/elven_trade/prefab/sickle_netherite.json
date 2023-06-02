@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "prefab:sickle_netherite"
+      "item": "prefab:item_sickle_netherite"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "prefab:sickle_diamond"
+      "item": "prefab:item_sickle_diamond"
     },
     {
       "tag": "forge:ingots/netherite"
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "prefab:sickle_netherite"
+      "item": "prefab:item_sickle_netherite"
     }
   ]
 }
