@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "prefab:sickle_diamond"
+      "item": "prefab:item_sickle_diamond"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "prefab:sickle_gold"
+      "item": "prefab:item_sickle_gold"
     },
     {
       "tag": "forge:gems/diamond"
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "prefab:sickle_diamond"
+      "item": "prefab:item_sickle_diamond"
     }
   ]
 }
