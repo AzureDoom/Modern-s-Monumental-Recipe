@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mysticalagriculture:tertium_axe"
+      "item": "mysticalagriculture:tertium_fishing_rod"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "mysticalagriculture:prudentium_axe"
+    "item": "mysticalagriculture:prudentium_fishing_rod"
   },
   "addition": {
     "item": "mysticalagriculture:tertium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:tertium_axe"
+    "item": "mysticalagriculture:tertium_fishing_rod"
   }
 }
