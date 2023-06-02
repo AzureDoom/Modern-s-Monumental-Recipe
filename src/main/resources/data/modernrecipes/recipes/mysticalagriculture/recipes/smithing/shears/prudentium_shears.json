@@ -14,7 +14,7 @@
     "item": "mysticalagriculture:inferium_shears"
   },
   "addition": {
-    "item": "forge:gems/prudentium"
+    "item": "mysticalagriculture:prudentium_gemstone"
   },
   "result": {
     "item": "mysticalagriculture:prudentium_shears"
