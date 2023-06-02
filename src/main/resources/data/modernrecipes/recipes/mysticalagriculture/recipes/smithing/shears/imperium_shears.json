@@ -14,7 +14,7 @@
     "item": "mysticalagriculture:tertium_shears"
   },
   "addition": {
-    "item": "forge:gems/imperium"
+    "item": "mysticalagriculture:imperium_gemstone"
   },
   "result": {
     "item": "mysticalagriculture:imperium_shears"
