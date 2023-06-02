@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:steel_axe"
+      "item": "immersiveengineering:axe_steel"
     }
   ],
   "type": "botania:elven_trade",
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "immersiveengineering:steel_axe"
+      "item": "immersiveengineering:axe_steel"
     }
   ]
 }
