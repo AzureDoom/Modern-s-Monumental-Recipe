@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:wooden_hoe"
+      "item": "minecraft:wooden_shovel"
     },
     {
       "tag": "botania:livingwood_logs"
