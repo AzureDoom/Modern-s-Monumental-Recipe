@@ -15,7 +15,7 @@
       "item": "minecraft:diamond_axe"
     },
     {
-      "tag": "forge:ingots/netherite"
+      "tag": "forge:storage_blocks/netherite"
     }
   ],
   "output": [

@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "minecraft:netherite_pickaxe"
+      "item": "mysticalagriculture:inferium_sword"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:diamond_pickaxe"
+      "item": "minecraft:diamond_sword"
     },
     {
-      "tag": "forge:storage_blocks/netherite"
+      "item": "mysticalagriculture:inferium_gemstone"
     }
   ],
   "output": [
     {
-      "item": "minecraft:netherite_pickaxe"
+      "item": "mysticalagriculture:inferium_sword"
     }
   ]
 }

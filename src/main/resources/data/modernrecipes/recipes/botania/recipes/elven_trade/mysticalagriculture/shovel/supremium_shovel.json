@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "minecraft:netherite_pickaxe"
+      "item": "mysticalagriculture:supremium_shovel"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:diamond_pickaxe"
+      "item": "mysticalagriculture:imperium_shovel"
     },
     {
-      "tag": "forge:storage_blocks/netherite"
+      "item": "mysticalagriculture:supremium_gemstone"
     }
   ],
   "output": [
     {
-      "item": "minecraft:netherite_pickaxe"
+      "item": "mysticalagriculture:supremium_shovel"
     }
   ]
 }

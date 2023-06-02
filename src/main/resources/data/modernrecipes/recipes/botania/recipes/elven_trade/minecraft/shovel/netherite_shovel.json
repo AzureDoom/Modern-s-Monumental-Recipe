@@ -15,7 +15,7 @@
       "item": "minecraft:diamond_shovel"
     },
     {
-      "tag": "forge:ingots/netherite"
+      "tag": "forge:storage_blocks/netherite"
     }
   ],
   "output": [

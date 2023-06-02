@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "minecraft:netherite_pickaxe"
+      "item": "mysticalagriculture:tertium_shovel"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:diamond_pickaxe"
+      "item": "mysticalagriculture:prudentium_shovel"
     },
     {
-      "tag": "forge:storage_blocks/netherite"
+      "item": "mysticalagriculture:tertium_gemstone"
     }
   ],
   "output": [
     {
-      "item": "minecraft:netherite_pickaxe"
+      "item": "mysticalagriculture:tertium_shovel"
     }
   ]
 }
