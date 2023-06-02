@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_shovel"
+    "item": "minecraft:wooden_shovel"
   },
   "addition": {
     "item": "blue_skies:lunar_planks"
