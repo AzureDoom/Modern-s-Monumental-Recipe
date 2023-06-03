@@ -13,7 +13,7 @@
         "item": "mysticalagriculture:inferium_gemstone"
     },
     "start_item": {
-        "item": "minecraft:diamond_hoe"
+        "item": "minecraft:diamond_axe"
     },
     "output": {
         "item": "mysticalagriculture:inferium_axe"
