@@ -3,3 +3,7 @@ v0.3
 - Added Botania Elven Trade Custom Tool/Armor System
 - Fixed Some Broken Recipes due to wrong tag
 - Added Some more tag support
+- Added Mystical Fishing Rods & Sickles to The Custom Tool System
+- Added Aquaculture Fishing Rods to The Custom Tool System
+- Added Prefab Sickles to The Custom Tool System
+- Added Mystical Scythe to The Custom Tool System
