@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:iron_chest"
+    "item": "minecraft:iron_chestplate"
   },
   "addition": {
     "tag": "forge:plates/steel"
