@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "naturesaura:sky_shoes"
+      "item": "naturesaura:sky_chest"
     }
   ],
   "type": "naturesaura:offering",
@@ -14,9 +14,9 @@
         "item": "naturesaura:sky_ingot"
     },
     "start_item": {
-        "item": "minecraft:diamond_boots"
+        "item": "minecraft:diamond_chestplate"
     },
     "output": {
-        "item": "naturesaura:sky_shoes"
+        "item": "naturesaura:sky_chest"
   }
 }
