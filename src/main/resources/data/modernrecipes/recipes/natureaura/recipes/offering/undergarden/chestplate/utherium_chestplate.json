@@ -14,7 +14,7 @@
         "tag": "forge:ingots/utherium"
     },
     "start_item": {
-        "item": "minecraft:diamond_chestplate"
+        "item": "minecraft:netherite_chestplate"
     },
     "output": {
         "item": "undergarden:utherium_chestplate"
