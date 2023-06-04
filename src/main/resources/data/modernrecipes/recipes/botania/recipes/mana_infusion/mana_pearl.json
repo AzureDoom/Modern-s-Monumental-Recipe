@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "gobber2:gobber2_ore_nether"
+      "item": "botania:mana_pearl"
     }
   ],
   "type": "botania:mana_infusion",
@@ -15,11 +15,11 @@
     "block": "botania:conjuration_catalyst"
   },
   "input": {
-    "item": "compressium:netherrack_6"
+    "item": "minecraft:chorus_flower"
   },
-  "mana": 2000,
+  "mana": 6000,
   "output": {
     "count": 2,
-    "item": "gobber2:gobber2_ore_nether"
+    "item": "botania:mana_pearl"
   }
 }

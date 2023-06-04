@@ -6,7 +6,11 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "gobber2:gobber2_ore_nether"
+      "item": "naturesaura:infused_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "tag": "forge:storage_blocks/compressed_iron"
     }
   ],
   "type": "botania:mana_infusion",
@@ -15,11 +19,11 @@
     "block": "botania:conjuration_catalyst"
   },
   "input": {
-    "item": "compressium:netherrack_6"
+    "tag": "forge:storage_blocks/compressed_iron"
   },
-  "mana": 2000,
+  "mana": 13500,
   "output": {
     "count": 2,
-    "item": "gobber2:gobber2_ore_nether"
+    "item": "naturesaura:infused_stone"
   }
 }
