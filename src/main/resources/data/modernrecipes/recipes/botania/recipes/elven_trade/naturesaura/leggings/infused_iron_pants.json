@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "naturesaura:infused_iron_leggings"
+      "item": "naturesaura:infused_iron_pants"
     }
   ],
   "type": "botania:elven_trade",
