@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mythicbotany:fire_ring"
+      "item": "mythicbotany:alfsteel_pick"
     }
   ],
   "type": "naturesaura:offering",
