@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "undergarden:netherite_chestplate"
+    "item": "minecraft:diamond_chestplate"
   },
   "addition": {
     "tag": "forge:ingots/utherium"
