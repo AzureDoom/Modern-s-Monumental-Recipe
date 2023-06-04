@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:steel_shovel"
+      "item": "immersiveengineering:shovel_steel"
     }
   ],
   "type": "minecraft:smithing",
