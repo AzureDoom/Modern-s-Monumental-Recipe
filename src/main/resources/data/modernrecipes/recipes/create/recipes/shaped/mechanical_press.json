@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "create:mechanical_press"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "modernrecipes:piston"
     }
   ],
   "type": "minecraft:crafting_shaped",
