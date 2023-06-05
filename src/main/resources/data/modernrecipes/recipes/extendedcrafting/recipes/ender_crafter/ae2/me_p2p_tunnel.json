@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:me_p2p_tunnel"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "kubejs:compressed_iron_plate"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "AAA",
+    "  A",
+    "  B"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:plates/enderium"
+    },
+    "B": {
+      "item": "kubejs:compressed_iron_plate"
+    },
+    "C": {
+      "item": "ae2:engineering_processor"
+    },
+    "D": {
+      "tag": "forge:gems/fluix"
+    }
+  },
+  "result": {
+    "item": "ae2:me_p2p_tunnel"
+  }
+}
