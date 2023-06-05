@@ -11,10 +11,6 @@
     {
       "type": "forge:item_exists",
       "item": "extendedcrafting:redstone_component"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "modernrecipes:eyes"
     }
   ],
   "type": "minecraft:crafting_shaped",
