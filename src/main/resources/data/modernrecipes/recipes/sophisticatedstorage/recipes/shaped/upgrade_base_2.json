@@ -15,14 +15,11 @@
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
-    "G": {
-      "tag": "forge:string"
-    },
     "E": {
-      "item": "kubejs:compressed_iron_plate"
+      "tag": "minecraft:planks"
     },
-    "W": {
-      "item": "material_elements:leather_sheet"
+    "G": {
+      "item": "kubejs:compressed_iron_plate"
     }
   },
   "pattern": [
