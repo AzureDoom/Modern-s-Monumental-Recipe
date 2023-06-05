@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolscontrol:ram_chip"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "QQQ",
+    "TST",
+    "QQQ"
+  ],
+  "key": {
+    "T": {
+      "tag": "forge:paper"
+    },
+    "Q": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "S": {
+      "item": "rftoolscontrol:card_base"
+    }
+  },
+  "result": {
+    "item": "rftoolscontrol:ram_chip"
+  }
+}
