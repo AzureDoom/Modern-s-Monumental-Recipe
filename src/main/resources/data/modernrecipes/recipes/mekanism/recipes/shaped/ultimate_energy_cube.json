@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "mekanism:ultimate_energy_cube"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:plates/diamond"
     }
   ],
   "type": "minecraft:crafting_shaped",
