@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "computercraft:cable"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:reinforced_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "AAA",
+    "BBB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "pneumaticcraft:reinforced_stone"
+    },
+    "B": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  },
+  "result": {
+    "item": "computercraft:cable",
+    "count": 3
+  }
+}
