@@ -1,7 +1,3 @@
-v0.4
+v0.5
 
-- Finished Adding Elven Trade Tool System, Might have bugs
-- Added Enigmaticlegacy Ender rod to forge:rods/gobber_rod_end
-- Added New Gobber2 Hammer Tool System Recipes
-- Added New Hexeri Mixing Recipes
-- Updated to Modrinth (https://modrinth.com/mod/moderns-monumental-recipe)
+- Fixed broken Mossy Block Tag
