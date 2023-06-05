@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:iron_hestplate"
+      "item": "minecraft:iron_chestplate"
     },
     {
       "tag": "forge:ingots/cloggrum"
