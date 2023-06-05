@@ -1,9 +1,7 @@
-v0.3
+v0.4
 
-- Added Botania Elven Trade Custom Tool/Armor System
-- Fixed Some Broken Recipes due to wrong tag
-- Added Some more tag support
-- Added Mystical Fishing Rods & Sickles to The Custom Tool System
-- Added Aquaculture Fishing Rods to The Custom Tool System
-- Added Prefab Sickles to The Custom Tool System
-- Added Mystical Scythe to The Custom Tool System
+- Finished Adding Elven Trade Tool System, Might have bugs
+- Added Enigmaticlegacy Ender rod to forge:rods/gobber_rod_end
+- Added New Gobber2 Hammer Tool System Recipes
+- Added New Hexeri Mixing Recipes
+- Updated to Modrinth (https://modrinth.com/mod/moderns-monumental-recipe)
