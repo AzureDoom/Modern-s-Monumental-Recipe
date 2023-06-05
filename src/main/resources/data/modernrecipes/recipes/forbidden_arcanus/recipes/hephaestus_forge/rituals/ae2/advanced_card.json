@@ -1,0 +1,30 @@
+{
+    "inputs": [
+        {
+            "tag": "forge:plates/diamond",
+            "slot": 0
+        },
+        {
+            "item": "kubejs:compressed_iron_plate",
+            "slot": 1
+        },
+        {
+            "item": "extendedcrafting:redstone_component",
+            "slot": 2
+        },
+        {
+            "item": "ae2:calculation_processor",
+            "slot": 3
+        }
+    ],
+    "hephaestus_forge_item": "minecraft:diamond",
+    "essences": {
+        "aureal": 82,
+        "blood": 1000,
+        "souls": 1
+    },
+    "result": {
+        "item": "ae2:advanced_card",
+        "count": 1
+    }
+}
