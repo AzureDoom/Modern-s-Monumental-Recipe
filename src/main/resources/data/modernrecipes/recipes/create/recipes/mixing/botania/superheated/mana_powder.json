@@ -19,10 +19,10 @@
       "item": "extendedcrafting:redstone_component"
     },
     {
-      "item": "forge:storage_blocks/glowstone"
+      "tag": "forge:storage_blocks/glowstone"
     },
     {
-      "item": "forge:storage_blocks/sugar_cane"
+      "tag": "forge:storage_blocks/sugar_cane"
     }
   ],
   "results": [
