@@ -7,14 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "minecraft:soul_torch"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "modernrecipes:chunks/coal"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "minecraft:soul_fire_base_blocks"
     }
   ],
   "type": "minecraft:crafting_shaped",
