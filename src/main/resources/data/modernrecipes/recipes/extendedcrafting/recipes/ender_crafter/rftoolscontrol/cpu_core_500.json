@@ -21,7 +21,7 @@
   ],
   "key": {
     "W": {
-      "item": "forge:nuggets/electrum"
+      "tag": "forge:nuggets/electrum"
     },
     "T": {
       "tag": "forge:paper"
