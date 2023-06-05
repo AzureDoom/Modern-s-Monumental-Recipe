@@ -3,7 +3,7 @@
     {
       "type": "forge:mod_loaded",
       "modid": "thermal"
-    },,
+    },
     {
       "type": "forge:item_exists",
       "item": "create:polished_rose_quartz"
