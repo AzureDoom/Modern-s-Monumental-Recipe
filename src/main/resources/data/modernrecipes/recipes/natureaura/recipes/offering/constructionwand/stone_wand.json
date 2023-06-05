@@ -11,10 +11,6 @@
     {
       "type": "forge:item_exists",
       "item": "notenoughwands:wand_core"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "quark:stone_tool_materials"
     }
   ],
   "type": "naturesaura:offering",
