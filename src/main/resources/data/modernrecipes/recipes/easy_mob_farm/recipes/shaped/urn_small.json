@@ -11,10 +11,6 @@
     {
       "type": "forge:item_exists",
       "item": "compressium:quartz_1"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "modernrecipes:tools/hammers"
     }
   ],
   "type": "minecraft:crafting_shaped",
