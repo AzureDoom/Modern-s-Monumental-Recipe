@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "barteringstation:bartering_station"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:ingots/deorum"
     }
   ],
   "type": "minecraft:crafting_shaped",

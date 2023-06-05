@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "aiotbotania:livingwood_pickaxe"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "botania:livingwood_logs"
     }
   ],
   "type": "minecraft:smithing",

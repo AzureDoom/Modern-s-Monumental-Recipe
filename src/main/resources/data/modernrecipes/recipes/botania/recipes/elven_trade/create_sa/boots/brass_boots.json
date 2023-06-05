@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "undergarden:cloggrum_leggings"
+      "item": "create_sa:brass_boots"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:iron_leggings"
+      "item": "minecraft:diamond_boots"
     },
     {
-      "tag": "forge:ingots/cloggrum"
+      "tag": "forge:ingots/brass"
     }
   ],
   "output": [
     {
-      "item": "undergarden:cloggrum_leggings"
+      "item": "create_sa:brass_boots"
     }
   ]
 }

@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "undergarden:cloggrum_leggings"
+      "item": "undergarden:cloggrum_boots"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:iron_leggings"
+      "item": "minecraft:iron_boots"
     },
     {
       "tag": "forge:ingots/cloggrum"
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "undergarden:cloggrum_leggings"
+      "item": "undergarden:cloggrum_boots"
     }
   ]
 }

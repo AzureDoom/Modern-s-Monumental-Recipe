@@ -14,7 +14,7 @@
         "tag": "forge:ingots/copper"
     },
     "start_item": {
-        "item": "minecraft:copper_hoe"
+        "item": "minecraft:iron_hoe"
     },
     "output": {
         "item": "create_sa:copper_hoe"

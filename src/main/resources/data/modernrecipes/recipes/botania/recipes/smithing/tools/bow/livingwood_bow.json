@@ -14,7 +14,7 @@
     "item": "botania:mana_string"
   },
   "addition": {
-    "item": "botanialivingwood_twig"
+    "item": "botania:livingwood_twig"
   },
   "result": {
     "item": "botania:livingwood_bow"

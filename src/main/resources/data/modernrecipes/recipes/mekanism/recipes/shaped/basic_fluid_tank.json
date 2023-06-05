@@ -10,10 +10,6 @@
     },
     {
       "type": "forge:item_exists",
-      "tag": "pneumaticcraft:fluid_tanks"
-    },
-    {
-      "type": "forge:item_exists",
       "item": "extendedcrafting:redstone_ingot"
     }
   ],

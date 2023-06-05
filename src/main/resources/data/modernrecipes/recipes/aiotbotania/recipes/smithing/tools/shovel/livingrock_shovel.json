@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "aiotbotania:livingrock_shovel"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "botania:livingrock"
     }
   ],
   "type": "minecraft:smithing",

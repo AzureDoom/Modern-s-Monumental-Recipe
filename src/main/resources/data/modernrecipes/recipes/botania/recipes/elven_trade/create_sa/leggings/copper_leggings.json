@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "undergarden:cloggrum_leggings"
+      "item": "create_sa:copper_leggings"
     }
   ],
   "type": "botania:elven_trade",
@@ -15,12 +15,12 @@
       "item": "minecraft:iron_leggings"
     },
     {
-      "tag": "forge:ingots/cloggrum"
+      "tag": "forge:ingots/copper"
     }
   ],
   "output": [
     {
-      "item": "undergarden:cloggrum_leggings"
+      "item": "create_sa:copper_leggings"
     }
   ]
 }

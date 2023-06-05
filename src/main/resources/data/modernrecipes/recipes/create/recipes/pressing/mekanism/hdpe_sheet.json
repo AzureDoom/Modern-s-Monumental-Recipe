@@ -10,7 +10,6 @@
     }
   ],
   "type": "create:pressing",
-  "heatRequirement": "heated",
   "ingredients": [
     {
       "item": "mekanism:hdpe_pellet"

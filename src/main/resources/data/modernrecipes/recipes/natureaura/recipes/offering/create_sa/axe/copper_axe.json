@@ -14,7 +14,7 @@
         "tag": "forge:ingots/copper"
     },
     "start_item": {
-        "item": "minecraft:copper_axe"
+        "item": "minecraft:iron_axe"
     },
     "output": {
         "item": "create_sa:copper_axe"

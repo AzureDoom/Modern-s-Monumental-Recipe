@@ -14,7 +14,7 @@
         "tag": "forge:ingots/copper"
     },
     "start_item": {
-        "item": "minecraft:copper_shovel"
+        "item": "minecraft:iron_shovel"
     },
     "output": {
         "item": "create_sa:copper_shovel"

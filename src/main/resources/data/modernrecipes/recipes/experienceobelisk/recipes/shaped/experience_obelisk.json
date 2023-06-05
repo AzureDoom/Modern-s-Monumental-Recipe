@@ -7,14 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "experienceobelisk:experience_obelisk"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:ingots/compressed_iron"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "chipped:obsidian"
     }
   ],
   "type": "minecraft:crafting_shaped",

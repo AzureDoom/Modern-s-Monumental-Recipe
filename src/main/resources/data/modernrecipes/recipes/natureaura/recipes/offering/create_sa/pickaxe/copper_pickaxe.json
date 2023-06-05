@@ -14,7 +14,7 @@
         "tag": "forge:ingots/copper"
     },
     "start_item": {
-        "item": "minecraft:copper_pickaxe"
+        "item": "minecraft:iron_pickaxe"
     },
     "output": {
         "item": "create_sa:copper_pickaxe"

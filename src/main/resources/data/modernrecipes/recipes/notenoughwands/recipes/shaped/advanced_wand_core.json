@@ -11,10 +11,6 @@
     {
       "type": "forge:item_exists",
       "item": "mysticalagriculture:ghast_essence"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:gems/mana_diamond"
     }
   ],
   "type": "minecraft:crafting_shaped",

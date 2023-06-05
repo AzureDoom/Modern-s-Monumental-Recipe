@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "lootbundles:loot_bundle"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:rope"
     }
   ],
   "type": "minecraft:crafting_shaped",

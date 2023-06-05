@@ -14,7 +14,7 @@
         "tag": "forge:ingots/copper"
     },
     "start_item": {
-        "item": "minecraft:copper_sword"
+        "item": "minecraft:iron_sword"
     },
     "output": {
         "item": "create_sa:copper_sword"

@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "createaddition:spool"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:treated_wood"
     }
   ],
   "type": "minecraft:crafting_shaped",

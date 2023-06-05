@@ -14,7 +14,7 @@
         "tag": "forge:ingots/copper"
     },
     "start_item": {
-        "item": "minecraft:copper_helmet"
+        "item": "minecraft:iron_helmet"
     },
     "output": {
         "item": "create_sa:copper_helmet"
