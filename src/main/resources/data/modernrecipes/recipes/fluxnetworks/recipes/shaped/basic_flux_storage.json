@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "fluxnetworks:basic_flux_storage"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "thermal:glass/hardened"
     }
   ],
   "type": "minecraft:crafting_shaped",
