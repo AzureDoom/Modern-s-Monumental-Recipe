@@ -17,7 +17,7 @@
         "item": "naturesaura:infused_stone"
     },
     "catalyst": {
-        "item": "naturesaura:overworld"
+        "item": "naturesaura:conversion_catalyst"
     },
     "aura": 7500,
     "time": 200
