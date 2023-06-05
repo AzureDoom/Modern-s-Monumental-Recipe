@@ -7,7 +7,7 @@
     {
       "type": "forge:item_exists",
       "item": "create:polished_rose_quartz"
-    }
+    },
     {
       "type": "forge:item_exists",
       "item": "immersiveengineering:insulating_glass"
