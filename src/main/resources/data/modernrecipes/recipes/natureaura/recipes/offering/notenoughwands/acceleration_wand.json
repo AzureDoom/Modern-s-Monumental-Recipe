@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "notenoughwands:acceleration_wand"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "modernrecipes:clocks"
     }
   ],
   "type": "naturesaura:offering",
