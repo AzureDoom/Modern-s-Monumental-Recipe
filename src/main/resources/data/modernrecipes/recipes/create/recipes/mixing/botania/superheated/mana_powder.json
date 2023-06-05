@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "extradisks:raw_withering_processor"
+      "item": "botania:mana_powder"
     }
   ],
   "type": "create:mixing",
