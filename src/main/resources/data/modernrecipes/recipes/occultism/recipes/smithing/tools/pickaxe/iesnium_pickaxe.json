@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "occultism:iesnium_pickaxe"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:ingots/iesnium"
     }
   ],
   "type": "minecraft:smithing",
