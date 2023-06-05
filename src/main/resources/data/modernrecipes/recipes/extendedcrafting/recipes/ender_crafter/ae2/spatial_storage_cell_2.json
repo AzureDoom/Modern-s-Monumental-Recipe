@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:item_storage_cell_1k"
+      "item": "ae2:spatial_storage_cell_2"
     },
     {
       "type": "forge:item_exists",
@@ -27,13 +27,13 @@
       "tag": "forge:ingots/compressed_iron"
     },
     "B": {
-      "item": "ae2:cell_component_1k"
+      "item": "ae2:spatial_cell_component_2"
     },
     "D": {
       "item": "extendedcrafting:redstone_component"
     }
   },
   "result": {
-    "item": "ae2:item_storage_cell_1k"
+    "item": "ae2:spatial_storage_cell_2"
   }
 }

@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:item_storage_cell_1k"
+      "item": "ae2:fluid_storage_cell_64k"
     },
     {
       "type": "forge:item_exists",
@@ -24,16 +24,16 @@
       "item": "ae2:quartz_glass"
     },
     "A": {
-      "tag": "forge:ingots/compressed_iron"
+      "tag": "forge:ingots/copper"
     },
     "B": {
-      "item": "ae2:cell_component_1k"
+      "item": "ae2:cell_component_64k"
     },
     "D": {
       "item": "extendedcrafting:redstone_component"
     }
   },
   "result": {
-    "item": "ae2:item_storage_cell_1k"
+    "item": "ae2:fluid_storage_cell_64k"
   }
 }
