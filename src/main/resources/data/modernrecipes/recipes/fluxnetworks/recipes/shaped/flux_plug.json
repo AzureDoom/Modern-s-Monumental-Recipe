@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "fluxnetworks:flux_plug"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "pneumaticcraft:plastic"
     }
   ],
   "type": "minecraft:crafting_shaped",
