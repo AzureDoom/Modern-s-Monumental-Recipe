@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "mekanism:osmium_compressor"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "modernrecipes:piston"
     }
   ],
   "type": "minecraft:crafting_shaped",
