@@ -17,7 +17,7 @@
   "powerCost": 500000,
   "inputCount": 10000,
   "ingredient": {
-    "item": "rftoolspower:fabulous_pool"
+    "item": "rftoolspower:dimensionalcell_advanced"
   },
   "catalyst": {
     "item": "extendedcrafting:the_ultimate_catalyst"
