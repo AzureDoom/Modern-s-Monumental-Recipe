@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "pneumaticcraft:small_tank"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "modernrecipes:tanks"
     }
   ],
   "type": "minecraft:crafting_shaped",
