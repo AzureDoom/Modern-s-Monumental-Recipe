@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "fluxnetworks:flux_configurator"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:ingots/obsidian"
     }
   ],
   "type": "minecraft:crafting_shaped",
