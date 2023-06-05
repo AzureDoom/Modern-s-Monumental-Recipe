@@ -13,7 +13,7 @@
   "heatRequirement": "superheated",
   "ingredients": [
     {
-      "item": "mysticalagriculture:insanium_essence"
+      "item": "mysticalagradditions:insanium_essence"
     },
     {
       "item": "mysticalagradditions:insanium_essence"
