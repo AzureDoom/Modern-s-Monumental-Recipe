@@ -15,9 +15,9 @@
   ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
-    "AAA",
-    "  A",
-    "  B"
+    "ABA",
+    "BCB",
+    "ABA"
   ],
   "key": {
     "A": {
