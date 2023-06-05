@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:wooden_spear"
+    "item": "minecolonies:spear"
   },
   "addition": {
     "item": "blue_skies:frostbright_planks"
