@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "refinedstorage:network_card"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:plastic"
     }
   ],
   "type": "minecraft:crafting_shaped",
