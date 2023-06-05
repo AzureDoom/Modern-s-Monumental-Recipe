@@ -14,7 +14,7 @@
         "tag": "forge:ingots/copper"
     },
     "start_item": {
-        "item": "minecraft:copper_leggings"
+        "item": "minecraft:iron_leggings"
     },
     "output": {
         "item": "create_sa:copper_leggings"
