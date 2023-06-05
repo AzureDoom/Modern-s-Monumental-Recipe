@@ -10,7 +10,6 @@
     }
   ],
   "type": "create:pressing",
-  "heatRequirement": "heated",
   "ingredients": [
     {
       "tag": "forge:ingots/compressed_iron"
