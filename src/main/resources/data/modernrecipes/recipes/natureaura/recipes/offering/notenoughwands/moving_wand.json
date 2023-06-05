@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "notenoughwands:moving_wand"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "modernrecipes:conveyors"
     }
   ],
   "type": "naturesaura:offering",
