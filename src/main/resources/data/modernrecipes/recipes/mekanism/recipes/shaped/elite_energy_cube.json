@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "mekanism:elite_energy_cube"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:plates/electrum"
     }
   ],
   "type": "minecraft:crafting_shaped",
