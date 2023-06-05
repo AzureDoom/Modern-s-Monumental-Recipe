@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "minecraft:torch"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "modernrecipes:chunks/coal"
     }
   ],
   "type": "minecraft:crafting_shaped",
