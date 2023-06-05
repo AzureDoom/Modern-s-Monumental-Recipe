@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "mekanism:atomic_disassembler"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:ingots/elementium"
     }
   ],
   "type": "minecraft:crafting_shaped",
