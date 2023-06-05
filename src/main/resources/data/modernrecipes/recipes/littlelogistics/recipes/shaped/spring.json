@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "littlelogistics:spring"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:nuggets/black_iron"
     }
   ],
   "type": "minecraft:crafting_shaped",
