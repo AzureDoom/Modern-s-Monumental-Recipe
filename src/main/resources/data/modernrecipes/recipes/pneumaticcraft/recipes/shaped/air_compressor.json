@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "pneumaticcraft:vortex_tube"
+      "item": "pneumaticcraft:air_compressor"
     }
   ],
   "type": "minecraft:crafting_shaped",
