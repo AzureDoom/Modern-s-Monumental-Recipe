@@ -6,38 +6,36 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:basic_card"
+      "item": "xnet:netcable_routing"
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "computercraft:cable"
     },
     {
       "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
+      "item": "extendedcrafting:redstone_ingot"
     }
   ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
-    "AB ",
-    "CDB",
-    "AB "
+    "AAA",
+    "BCB",
+    "AAA"
   ],
   "key": {
     "A": {
-      "tag": "forge:plates/electrum"
+      "tag": "thermal:rockwool"
     },
     "B": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "extendedcrafting:redstone_ingot"
     },
     "C": {
-      "item": "extendedcrafting:redstone_component"
-    },
-    "D": {
-      "item": "ae2:calculation_processor"
+      "item": "computercraft:cable"
     }
   },
   "result": {
-    "item": "ae2:basic_card"
+    "item": "xnet:netcable_routing",
+    "count": 16
   }
 }

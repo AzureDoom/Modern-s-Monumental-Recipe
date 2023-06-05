@@ -6,38 +6,38 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:advanced_card"
+      "item": "xnet:netcable_routing"
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "computercraft:cable"
     },
     {
       "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
+      "item": "extendedcrafting:redstone_ingot"
     }
   ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
-    "AB ",
-    "CDB",
-    "AB "
+    "ABA",
+    "CDC",
+    "ACA"
   ],
   "key": {
     "A": {
-      "tag": "forge:plates/diamond"
-    },
-    "B": {
       "item": "kubejs:compressed_iron_plate"
     },
+    "B": {
+      "item": "cyclic:wireless_transmitter"
+    },
     "C": {
-      "item": "extendedcrafting:redstone_component"
+      "tag": "modernrecipes:eyes"
     },
     "D": {
-      "item": "ae2:calculation_processor"
+      "item": "xnet:router"
     }
   },
   "result": {
-    "item": "ae2:advanced_card"
+    "item": "xnet:wireless_router"
   }
 }
