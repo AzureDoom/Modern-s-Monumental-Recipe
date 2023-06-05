@@ -24,7 +24,7 @@
   "pattern": [
     "III",
     "ITI",
-    "IFI",
+    "IFI"
   ],
   "result": {
     "item": "pneumaticcraft:air_compressor"
