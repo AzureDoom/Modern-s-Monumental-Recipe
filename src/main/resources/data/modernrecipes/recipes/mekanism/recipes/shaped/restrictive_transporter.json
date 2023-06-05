@@ -11,10 +11,6 @@
     {
       "type": "forge:item_exists",
       "item": "kubejs:compressed_iron_plate"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "chipped:iron_bars"
     }
   ],
   "type": "minecraft:crafting_shaped",
