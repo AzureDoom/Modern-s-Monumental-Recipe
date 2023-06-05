@@ -11,20 +11,27 @@
     {
       "type": "forge:item_exists",
       "item": "kubejs:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "material_elements:leather_sheet"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
-    "G": {
-      "item": "kubejs:compressed_iron_plate"
+    "W": {
+      "item": "material_elements:leather_sheet"
     },
     "E": {
-      "tag": "minecraft:planks"
+      "item": "kubejs:compressed_iron_plate"
+    },
+    "G": {
+      "tag": "forge:string"
     }
   },
   "pattern": [
     "GEG",
-    "EGE",
+    "EWE",
     "GEG"
   ],
   "result": {
