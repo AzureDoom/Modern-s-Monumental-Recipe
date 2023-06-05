@@ -7,14 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "ars_nouveau:enchanting_apparatus"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:gems/mana_diamond"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:ingots/deorum"
     }
   ],
   "type": "minecraft:crafting_shaped",
