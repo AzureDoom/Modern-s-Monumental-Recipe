@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "naturesaura:infused_stone"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:storage_blocks/compressed_iron"
     }
   ],
   "type": "botania:mana_infusion",
