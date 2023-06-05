@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "minecraft:chainmail_chestplate"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "modernrecipes:chains"
     }
   ],
   "type": "minecraft:smithing",
