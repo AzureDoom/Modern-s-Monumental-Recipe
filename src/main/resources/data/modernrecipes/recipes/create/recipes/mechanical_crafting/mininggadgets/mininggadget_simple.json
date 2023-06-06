@@ -20,7 +20,7 @@
       "tag": "forge:plates/diamond"
     },
     "Q": {
-      "item": "cyclic:laser"
+      "tag": "modernrecipes:lasers"
     },
     "E": {
       "tag": "forge:plates/iron"
