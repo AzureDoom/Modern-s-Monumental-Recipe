@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "minecraft:furnace",
+    "minecraft:blast_furnace",
     "ironfurnaces:allthemodium_furnace",
     "ironfurnaces:copper_furnace",
     "ironfurnaces:crystal_furnace",
