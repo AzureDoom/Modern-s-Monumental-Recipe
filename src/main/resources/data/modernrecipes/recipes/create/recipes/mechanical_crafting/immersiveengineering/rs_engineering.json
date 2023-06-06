@@ -13,7 +13,7 @@
   "acceptMirrored": false,
   "key": {
     "C": {
-      "tag": "forge:sheetmetals/iron"
+      "tag": "forge:storage_blocks/redstone_ingot"
     },
     "W": {
       "tag": "forge:plates/steel"
