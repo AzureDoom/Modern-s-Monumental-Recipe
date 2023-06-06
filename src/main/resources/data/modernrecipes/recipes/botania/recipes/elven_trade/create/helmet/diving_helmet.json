@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "mekanism:scube_tank"
+      "item": "mekanism:scuba_tank"
     },
     {
       "tag": "forge:ingots/copper"
