@@ -27,7 +27,7 @@
       "item": "extendedcrafting:redstone_component"
     },
     "C": {
-      "tag": "orge:plates/copper"
+      "tag": "forge:plates/copper"
     }
   },
   "pattern": [
