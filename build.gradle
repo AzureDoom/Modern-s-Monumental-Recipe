@@ -126,9 +126,26 @@ if (file('key.properties').exists()) {
             releaseType = "release"
             changelogType = 'text'
             changelog = file('changelog.txt')
-        	addGameVersion("1.19.2")
+            addGameVersion("1.19.2")
             addGameVersion("Forge")
             addGameVersion("Java 17")
         }
     }
+}
+
+if (file('key.properties').exists()) {
+	modrinth {
+		def modrinthProp = new Properties()
+		File secretPropsFile = file("key.properties")
+		modrinthProp.load(secretPropsFile.newInputStream())
+		
+		token = modrinthProp.getProperty('modrinthKey')
+		projectId = 'Ty4peQTy' 
+		versionNumber = project.mod_version 
+		versionName = 'Forge 1.19.2'
+		uploadFile = jar 
+		changelog = rootProject.file("changelog.txt").text
+		gameVersions = ['1.19.2']
+		loaders = ['forge']
+	}
 }
