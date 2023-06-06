@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:coil_mv"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "createaddition:spool"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "X": {
+      "item": "createaddition:spool"
+    },
+    "C": {
+      "item": "immersiveengineering:wirecoil_electrum"
+    }
+  },
+  "pattern": [
+    " CCC ",
+    " CXC ",
+    " CCC ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "immersiveengineering:coil_mv"
+  }
+}

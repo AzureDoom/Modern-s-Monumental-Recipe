@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:charging_station"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "X": {
+      "item": "immersiveengineering:circuit_board"
+    },
+    "C": {
+      "tag": "forge:sheetmetals/constantan"
+    },
+    "T": {
+      "item": "immersiveengineering:coil_hv"
+    },
+    "S": {
+      "tag": "forge:sheetmetals/steel"
+    }
+  },
+  "pattern": [
+    " STS ",
+    " WXW ",
+    " ACA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 2,
+    "item": "immersiveengineering:charging_station"
+  }
+}
