@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:charging_station"
+      "item": "immersiveengineering:thermoelectric_generator"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -26,14 +26,14 @@
     }
   },
   "pattern": [
-    " STS ",
-    " WXW ",
-    " ACA ",
+    " SSS ",
+    " CXC ",
+    " CTC ",
     "     ",
     "     "
   ],
   "result": {
-    "count": 2,
-    "item": "immersiveengineering:charging_station"
+    "count": 1,
+    "item": "immersiveengineering:thermoelectric_generator"
   }
 }
