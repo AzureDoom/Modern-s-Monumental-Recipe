@@ -11,10 +11,6 @@
     {
       "type": "forge:item_exists",
       "item": "extendedcrafting:redstone_catalyst"
-    },
-    {
-      "type": "forge:item_exists",
-      "tag": "forge:plastic"
     }
   ],
   "type": "minecraft:crafting_shaped",
