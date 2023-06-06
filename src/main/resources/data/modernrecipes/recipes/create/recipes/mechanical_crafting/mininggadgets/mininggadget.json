@@ -1,0 +1,53 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mininggadgets:mininggadget"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "createaddition:capacitor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:electron_tube"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "P": {
+      "tag": "forge:plates/diamond"
+    },
+    "B": {
+      "item": "mininggadgets:mininggadget_fancy"
+    },
+    "Q": {
+      "item": "mininggadgets:upgrade_empty"
+    },
+    "W": {
+      "item": "createaddition:capacitor"
+    },
+    "Z": {
+      "item": "create:electron_tube"
+    },
+    "E": {
+      "tag": "forge:plates/iron"
+    }
+  },
+  "pattern": [
+    " PWE ",
+    " QBZ ",
+    " PWE ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "mininggadgets:mininggadget"
+  }
+}

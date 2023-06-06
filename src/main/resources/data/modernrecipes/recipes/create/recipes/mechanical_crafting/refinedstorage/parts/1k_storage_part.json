@@ -1,0 +1,54 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:1k_storage_part"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:cell_component_1k"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_vibrant_glass"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "E": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "G": {
+      "item": "ae2:cell_component_1k"
+    },
+    "X": {
+      "item": "ae2:quartz_vibrant_glass"
+    },
+    "I": {
+      "tag": "forge:silicon"
+    },
+    "B": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    " IEI ",
+    " XGX ",
+    " IBI ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "refinedstorage:1k_storage_part"
+  }
+}
