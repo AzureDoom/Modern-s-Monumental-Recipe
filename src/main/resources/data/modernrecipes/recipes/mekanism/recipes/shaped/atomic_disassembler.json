@@ -25,9 +25,9 @@
     }
   },
   "pattern": [
-    "DBD",
-    "CAC",
-    "DBD"
+    "RER",
+    "RUR",
+    " S "
   ],
   "result": {
     "item": "mekanism:atomic_disassembler"
