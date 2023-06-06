@@ -1,0 +1,44 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsutility:matter_beamer"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:luminessence"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "z": {
+      "item": "extendedcrafting:luminessence"
+    },
+    "F": {
+      "item": "rftoolsbase:machine_frame"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  },
+  "pattern": [
+    " RzR ",
+    " zFz ",
+    " RzR ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolsutility:matter_beamer"
+  }
+}
