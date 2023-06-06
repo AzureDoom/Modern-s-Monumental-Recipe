@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mekanismgenerators:heat_generator"
+      "item": "mekanismgenerators:advanced_solar_generator"
     },
     {
       "type": "forge:item_exists",
@@ -16,31 +16,25 @@
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
-    "W": {
-      "tag": "forge:plates/osmium"
+    "P": {
+      "item": "mekanismgenerators:solar_generator"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
     },
     "I": {
       "item": "kubejs:compressed_iron_plate"
-    },
-    "C": {
-      "tag": "forge:plates/bronze"
-    },
-    "O": {
-      "tag": "forge:furnaces"
-    },
-    "F": {
-      "tag": "forge:circuits/basic"
     }
   },
   "pattern": [
+    " PAP ",
+    " PAP ",
     " III ",
-    " WOW ",
-    " CFC ",
     "     ",
     "     "
   ],
   "result": {
     "count": 1,
-    "item": "mekanismgenerators:heat_generator"
+    "item": "mekanismgenerators:advanced_solar_generator"
   }
 }
