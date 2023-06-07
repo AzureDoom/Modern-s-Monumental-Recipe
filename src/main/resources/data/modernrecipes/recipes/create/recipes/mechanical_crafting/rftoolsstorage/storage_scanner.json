@@ -6,30 +6,34 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "rftoolsstorage:modular_storage"
+      "item": "rftoolsstorage:storage_scanner"
     },
     {
       "type": "forge:item_exists",
       "item": "immersiveengineering:heavy_engineering"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:circuit_board"
     }
   ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
     "o": {
-      "tag": "forge:plates/steel"
+      "tag": "forge:gears/enderium"
     },
     "F": {
       "item": "immersiveengineering:heavy_engineering"
     },
     "g": {
-      "tag": "forge:gears/quartz"
+      "item": "immersiveengineering:electron_tube"
     },
     "T": {
       "tag": "forge:sheetmetals/steel"
     },
     "s": {
-      "item": "create:electron_tube"
+      "item": "immersiveengineering:circuit_board"
     }
   },
   "pattern": [
@@ -41,6 +45,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "rftoolsstorage:modular_storage"
+    "item": "rftoolsstorage:storage_scanner"
   }
 }

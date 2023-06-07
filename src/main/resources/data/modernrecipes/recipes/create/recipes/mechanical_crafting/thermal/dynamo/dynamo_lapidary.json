@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:dynamo_lapidary"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:circuit_board"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "C": {
+      "item": "thermal:rf_coil"
+    },
+    "I": {
+      "tag": "forge:plates/steel"
+    },
+    "G": {
+      "tag": "forge:gears/gold"
+    },
+    "X": {
+      "item": "immersiveengineering:circuit_board"
+    },
+    "Y": {
+      "tag": "forge:gears/lapis"
+    }
+  },
+  "pattern": [
+    "  C  ",
+    " IGI ",
+    " YXY ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "thermal:dynamo_lapidary"
+  }
+}
