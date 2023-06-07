@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "thermal:machine_bottler"
+      "item": "thermal:machine_refinery"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -16,16 +16,16 @@
       "item": "thermal:machine_frame"
     },
     "I": {
-      "tag": "forge:gears/copper"
+      "tag": "forge:gears/invar"
     },
     "P": {
       "item": "thermal:rf_coil"
     },
     "X": {
-      "tag": "pneumaticcraft:fluid_tanks"
+      "tag": "thermal:glass/hardened"
     },
     "Y": {
-      "tag": "thermal:glass/hardened"
+      "tag": "forge:plates/copper"
     }
   },
   "pattern": [
@@ -37,6 +37,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "thermal:machine_bottler"
+    "item": "thermal:machine_refinery"
   }
 }
