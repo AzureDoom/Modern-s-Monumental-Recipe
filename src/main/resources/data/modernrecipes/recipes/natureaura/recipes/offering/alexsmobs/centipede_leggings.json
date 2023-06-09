@@ -14,7 +14,7 @@
         "item": "alexsmobs:centipede_leg"
     },
     "start_item": {
-        "item": "minecraft:chainmail_chestplate"
+        "item": "minecraft:chainmail_leggings"
     },
     "output": {
         "item": "alexsmobs:centipede_leggings"
