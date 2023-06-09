@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_chest"
+      "item": "mutantmonsters:mutant_skeleton_chestplate"
     }
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:plates/steel"
+        "item": "mutantmonsters:mutant_skeleton_arms"
     },
     "start_item": {
-        "item": "minecraft:iron_chestplate"
+        "item": "mutantmonsters:rib_cage"
     },
     "output": {
-        "item": "immersiveengineering:armor_steel_chest"
+        "item": "mutantmonsters:mutant_skeleton_chestplate"
   }
 }

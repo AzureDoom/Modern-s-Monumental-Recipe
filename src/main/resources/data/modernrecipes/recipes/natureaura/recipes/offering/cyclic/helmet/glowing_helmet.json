@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_chest"
+      "item": "cyclic:glowing_helmet"
     }
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:plates/steel"
+        "tag": "forge:storage_blocks/glowstone"
     },
     "start_item": {
-        "item": "minecraft:iron_chestplate"
+        "item": "minecraft:chainmail_helmet"
     },
     "output": {
-        "item": "immersiveengineering:armor_steel_chest"
+        "item": "cyclic:glowing_helmet"
   }
 }

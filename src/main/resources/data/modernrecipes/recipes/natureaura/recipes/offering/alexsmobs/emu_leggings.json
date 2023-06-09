@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_chest"
+      "item": "alexsmobs:emu_leggings"
     }
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:plates/steel"
+        "item": "alexsmobs:kangaroo_hide"
     },
     "start_item": {
-        "item": "minecraft:iron_chestplate"
+        "item": "minecraft:chainmail_chestplate"
     },
     "output": {
-        "item": "immersiveengineering:armor_steel_chest"
+        "item": "alexsmobs:emu_leggings"
   }
 }

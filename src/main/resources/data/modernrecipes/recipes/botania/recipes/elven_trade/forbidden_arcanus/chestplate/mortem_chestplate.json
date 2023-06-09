@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "blue_skies:horizonite_chestplate"
+      "item": "forbidden_arcanus:mortem_chestplate"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:iron_chestplate"
+      "item": "minecraft:chainmail_chestplate"
     },
     {
-      "tag": "blue_skies:ingots/horizonite"
+      "item": "forbidden_arcanus:cloth"
     }
   ],
   "output": [
     {
-      "item": "blue_skies:horizonite_chestplate"
+      "item": "forbidden_arcanus:mortem_chestplate"
     }
   ]
 }

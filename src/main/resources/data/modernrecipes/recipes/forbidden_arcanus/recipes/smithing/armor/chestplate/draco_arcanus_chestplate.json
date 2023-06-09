@@ -2,11 +2,11 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "undergarden"
+      "modid": "forbidden_arcanus"
     },
     {
       "type": "forge:item_exists",
-      "item": "undergarden:utherium_chestplate"
+      "item": "forbidden_arcanus:draco_arcanus_chestplate"
     }
   ],
   "type": "minecraft:smithing",
@@ -14,9 +14,9 @@
     "item": "minecraft:netherite_chestplate"
   },
   "addition": {
-    "tag": "forge:ingots/utherium"
+    "tag": "forge:dragon_scales"
   },
   "result": {
-    "item": "undergarden:utherium_chestplate"
+    "item": "forbidden_arcanus:draco_arcanus_chestplate"
   }
 }

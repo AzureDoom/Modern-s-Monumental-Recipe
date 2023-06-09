@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_chest"
+      "item": "alexsmobs:centipede_leggings"
     }
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:plates/steel"
+        "item": "alexsmobs:centipede_leg"
     },
     "start_item": {
-        "item": "minecraft:iron_chestplate"
+        "item": "minecraft:chainmail_chestplate"
     },
     "output": {
-        "item": "immersiveengineering:armor_steel_chest"
+        "item": "alexsmobs:centipede_leggings"
   }
 }

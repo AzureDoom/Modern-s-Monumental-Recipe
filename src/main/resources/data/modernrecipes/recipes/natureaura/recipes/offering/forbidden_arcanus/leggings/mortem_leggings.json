@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_chest"
+      "item": "forbidden_arcanus:mortem_leggings"
     }
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:plates/steel"
+        "item": "forbidden_arcanus:cloth"
     },
     "start_item": {
-        "item": "minecraft:iron_chestplate"
+        "item": "minecraft:chainmail_leggings"
     },
     "output": {
-        "item": "immersiveengineering:armor_steel_chest"
+        "item": "forbidden_arcanus:mortem_leggings"
   }
 }

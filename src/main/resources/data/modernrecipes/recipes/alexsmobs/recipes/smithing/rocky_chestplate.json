@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "naturesaura"
+      "modid": "alexsmobs"
     },
     {
       "type": "forge:item_exists",
-      "item": "naturesaura:sky_chest"
+      "item": "alexsmobs:rocky_chestplate"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_chestplate"
+    "item": "minecraft:iron_chestplate"
   },
   "addition": {
-    "item": "naturesaura:sky_ingot"
+    "item": "alexsmobs:rocky_shell"
   },
   "result": {
-    "item": "naturesaura:sky_chest"
+    "item": "alexsmobs:rocky_chestplate"
   }
 }

@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "naturesaura"
+      "modid": "cyclic"
     },
     {
       "type": "forge:item_exists",
-      "item": "naturesaura:sky_chest"
+      "item": "cyclic:glowing_helmet"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_chestplate"
+    "item": "minecraft:chainmail_helmet"
   },
   "addition": {
-    "item": "naturesaura:sky_ingot"
+    "tag": "forge:storage_blocks/glowstone"
   },
   "result": {
-    "item": "naturesaura:sky_chest"
+    "item": "cyclic:glowing_helmet"
   }
 }

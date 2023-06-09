@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "blue_skies:horizonite_chestplate"
+      "item": "naturesaura:depth_pants"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:iron_chestplate"
+      "item": "minecraft:diamond_leggings"
     },
     {
-      "tag": "blue_skies:ingots/horizonite"
+      "item": "naturesaura:depth_ingot"
     }
   ],
   "output": [
     {
-      "item": "blue_skies:horizonite_chestplate"
+      "item": "naturesaura:depth_pants"
     }
   ]
 }

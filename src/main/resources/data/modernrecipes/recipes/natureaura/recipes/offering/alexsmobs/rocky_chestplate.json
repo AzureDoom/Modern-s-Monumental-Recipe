@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_chest"
+      "item": "alexsmobs:rocky_chestplate"
     }
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:plates/steel"
+        "item": "alexsmobs:rocky_shell"
     },
     "start_item": {
         "item": "minecraft:iron_chestplate"
     },
     "output": {
-        "item": "immersiveengineering:armor_steel_chest"
+        "item": "alexsmobs:rocky_chestplate"
   }
 }

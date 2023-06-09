@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "naturesaura"
+      "modid": "ad_astra"
     },
     {
       "type": "forge:item_exists",
-      "item": "naturesaura:sky_chest"
+      "item": "ad_astra:space_helmet"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_chestplate"
+    "item": "minecraft:chainmail_helmet"
   },
   "addition": {
-    "item": "naturesaura:sky_ingot"
+    "tag": "forge:glass_panes"
   },
   "result": {
-    "item": "naturesaura:sky_chest"
+    "item": "ad_astra:space_helmet"
   }
 }

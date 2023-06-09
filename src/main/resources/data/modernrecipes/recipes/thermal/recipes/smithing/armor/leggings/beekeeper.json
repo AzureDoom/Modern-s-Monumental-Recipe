@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "naturesaura"
+      "modid": "thermal"
     },
     {
       "type": "forge:item_exists",
-      "item": "naturesaura:sky_chest"
+      "item": "thermal:beekeeper_leggings"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_chestplate"
+    "item": "minecraft:leather_leggings"
   },
   "addition": {
-    "item": "naturesaura:sky_ingot"
+    "item": "thermal:beekeeper_fabric"
   },
   "result": {
-    "item": "naturesaura:sky_chest"
+    "item": "thermal:beekeeper_leggings"
   }
 }
