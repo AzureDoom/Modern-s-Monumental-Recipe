@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alexsmobs:centipede_leggings"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:chainmail_leggings"
+    },
+    {
+      "item": "alexsmobs:centipede_leg"
+    }
+  ],
+  "output": [
+    {
+      "item": "alexsmobs:centipede_leggings"
+    }
+  ]
+}
