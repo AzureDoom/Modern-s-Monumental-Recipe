@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alexsmobs:emu_leggings"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:chainmail_leggings"
+    },
+    {
+      "item": "alexsmobs:emu_leg"
+    }
+  ],
+  "output": [
+    {
+      "item": "alexsmobs:emu_leggings"
+    }
+  ]
+}
