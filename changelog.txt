@@ -2,3 +2,8 @@ v0.6
 
 - Fixed Broken Tool System Recipes
 - Added New Thermal Beekeeper Armor to Tool System
+- Added Ad Astra Space Helmet to Tool System
+- Added Slime Armor from Create SA to the Tool System
+- Added Mortem Armor from Forbidden and Arcanus to the Tool System
+- Mutant Skeleton Armor from Mutant Monsters to the Tool System
+- Added Alexs Mobs Armor to Tool System
