@@ -1,3 +1,4 @@
 v0.6
 
-- Fixed more stuff
+- Fixed Broken Tool System Recipes
+- Added New Thermal Beekeeper Armor to Tool System
