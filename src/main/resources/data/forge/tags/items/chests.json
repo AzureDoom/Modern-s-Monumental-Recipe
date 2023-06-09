@@ -10,6 +10,7 @@
         "ironchest:obsidian_chest",
         "ironchest:dirt_chest",
         "ae2:smooth_sky_stone_chest",
-        "mekanism:personal_chest"
+        "mekanism:personal_chest",
+        "securitycraft:keypad_chest"
     ]
 }
