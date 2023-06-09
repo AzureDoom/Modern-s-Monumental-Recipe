@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "naturesaura:sky_shoes"
+      "item": "naturesaura:sky_chest"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_boots"
+    "item": "minecraft:diamond_chestplate"
   },
   "addition": {
     "item": "naturesaura:sky_ingot"
   },
   "result": {
-    "item": "naturesaura:sky_shoes"
+    "item": "naturesaura:sky_chest"
   }
 }
