@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "botania"
+      "modid": "alexsmobs"
     },
     {
       "type": "forge:item_exists",
-      "item": "botania:terrasteel_boots"
+      "item": "alexsmobs:centipede_leggings"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_boots"
+    "item": "minecraft:iron_leggings"
   },
   "addition": {
-    "tag": "forge:ingots/terrasteel"
+    "item": "alexsmobs:centipede_leg"
   },
   "result": {
-    "item": "botania:terrasteel_boots"
+    "item": "alexsmobs:centipede_leggings"
   }
 }

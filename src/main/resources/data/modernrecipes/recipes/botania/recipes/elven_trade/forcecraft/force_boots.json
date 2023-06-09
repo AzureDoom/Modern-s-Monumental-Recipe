@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "create_sa:zinc_leggings"
+      "item": "forcecraft:force_boots"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:iron_leggings"
+      "item": "minecraft:diamond_boots"
     },
     {
-      "tag": "forge:ingots/zinc"
+      "tag": "forge:rods/force"
     }
   ],
   "output": [
     {
-      "item": "create_sa:zinc_leggings"
+      "item": "forcecraft:force_boots"
     }
   ]
 }

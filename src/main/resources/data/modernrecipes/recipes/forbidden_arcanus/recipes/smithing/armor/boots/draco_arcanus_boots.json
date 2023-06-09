@@ -2,11 +2,11 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "botania"
+      "modid": "forbidden_arcanus"
     },
     {
       "type": "forge:item_exists",
-      "item": "botania:terrasteel_boots"
+      "item": "forbidden_arcanus:draco_arcanus_boots"
     }
   ],
   "type": "minecraft:smithing",
@@ -14,9 +14,9 @@
     "item": "minecraft:netherite_boots"
   },
   "addition": {
-    "tag": "forge:ingots/terrasteel"
+    "tag": "forge:dragon_scales"
   },
   "result": {
-    "item": "botania:terrasteel_boots"
+    "item": "forbidden_arcanus:draco_arcanus_boots"
   }
 }

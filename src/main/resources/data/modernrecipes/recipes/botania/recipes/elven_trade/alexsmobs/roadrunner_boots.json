@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "create_sa:zinc_leggings"
+      "item": "alexsmobs:roadrunner_boots"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:iron_leggings"
+      "item": "minecraft:leather_boots"
     },
     {
-      "tag": "forge:ingots/zinc"
+      "item": "alexsmobs:roadrunner_feather"
     }
   ],
   "output": [
     {
-      "item": "create_sa:zinc_leggings"
+      "item": "alexsmobs:roadrunner_boots"
     }
   ]
 }

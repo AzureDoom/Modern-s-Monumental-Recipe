@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "create_sa:zinc_leggings"
+      "item": "alexsmobs:rocky_chestplate"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:iron_leggings"
+      "item": "minecraft:diamond_chestplate"
     },
     {
-      "tag": "forge:ingots/zinc"
+      "item": "alexsmobs:rocky_shell"
     }
   ],
   "output": [
     {
-      "item": "create_sa:zinc_leggings"
+      "item": "alexsmobs:rocky_chestplate"
     }
   ]
 }

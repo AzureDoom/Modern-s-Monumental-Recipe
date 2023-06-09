@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "botania"
+      "modid": "alexsmobs"
     },
     {
       "type": "forge:item_exists",
-      "item": "botania:terrasteel_boots"
+      "item": "alexsmobs:emu_leggings"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_boots"
+    "item": "minecraft:chainmail_chestplate"
   },
   "addition": {
-    "tag": "forge:ingots/terrasteel"
+    "item": "alexsmobs:kangaroo_hide"
   },
   "result": {
-    "item": "botania:terrasteel_boots"
+    "item": "alexsmobs:emu_leggings"
   }
 }

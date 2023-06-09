@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "botania"
+      "modid": "alexsmobs"
     },
     {
       "type": "forge:item_exists",
-      "item": "botania:terrasteel_boots"
+      "item": "alexsmobs:froststalker_helmet"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_boots"
+    "item": "minecraft:diamond_chestplate"
   },
   "addition": {
-    "tag": "forge:ingots/terrasteel"
+    "item": "alexsmobs:froststalker_horn"
   },
   "result": {
-    "item": "botania:terrasteel_boots"
+    "item": "alexsmobs:froststalker_helmet"
   }
 }
