@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:diving_boots"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:scuba_tank"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "pneumaticcraft:scuba_upgrade"
+  },
+  "addition": {
+    "tag": "forge:ingots/copper"
+  },
+  "result": {
+    "item": "create:diving_boots"
+  }
+}
