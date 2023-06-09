@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "blue_skies:horizonite_helmet"
+      "item": "blue_skies:horizonite_chestplate"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:iron_helmet"
+      "item": "minecraft:iron_chestplate"
     },
     {
       "tag": "blue_skies:ingots/horizonite"
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "blue_skies:horizonite_helmet"
+      "item": "blue_skies:horizonite_chestplate"
     }
   ]
 }
