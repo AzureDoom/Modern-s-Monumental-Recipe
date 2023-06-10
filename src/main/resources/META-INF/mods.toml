@@ -1,5 +1,5 @@
 modLoader="javafml" 
-loaderVersion="[43,)"
+loaderVersion="[46,)"
 license="All rights reserved"
 [[mods]] 
 modId="modernrecipes" 
@@ -12,12 +12,12 @@ This mod is the Core Mod used for all the Custom Recipes in Monumental Experienc
 [[dependencies.modernrecipes]]
     modId="forge" 
     mandatory=true 
-    versionRange="[43,)" 
+    versionRange="[46,)" 
     ordering="NONE"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.19.2,1.20)"
+    versionRange="[1.20,1.21)"
     ordering="NONE"
     side="BOTH"
