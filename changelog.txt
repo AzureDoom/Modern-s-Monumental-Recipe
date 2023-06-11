@@ -1,3 +1,6 @@
 v0.7
 
 - Updated Netherite Storage Block tag to include Chipped Netherite Blocks
+- Updated Coal Storage Block tag to include Chipped Coal Blocks
+- Added Securitycraft Chest to Chests Tag
+- Added Enhanced Redstone Component Compacting Recipe
