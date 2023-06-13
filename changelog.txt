@@ -1,3 +1,3 @@
 v0.9
 
-- Added Custom Loot Tables
+- Added Custom Loot Tables from Kubejs to mod
