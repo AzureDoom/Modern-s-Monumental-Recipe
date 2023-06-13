@@ -1,3 +1,3 @@
 v0.9
 
-- Added IronBows Mod Bows to Tool System
+- Added Custom Loot Tables
