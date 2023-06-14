@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "hexerei"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "hexerei:mixing_cauldron"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "securitycraft:reinforced_cauldron"
+    },
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "C": {
+      "item": "minecraft:soul_torch"
+    },
+    "D": {
+      "item": "securitycraft:reinforced_cauldron"
+    }
+  },
+  "pattern": [
+    "C C",
+    "ADA",
+    "AAA"
+  ],
+  "result": {
+    "item": "hexerei:mixing_cauldron"
+  }
+}
