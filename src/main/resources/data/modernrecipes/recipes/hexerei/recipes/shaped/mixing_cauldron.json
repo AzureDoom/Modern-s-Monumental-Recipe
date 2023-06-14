@@ -8,10 +8,6 @@
       "type": "forge:item_exists",
       "item": "hexerei:mixing_cauldron"
     },
-    {
-      "type": "forge:item_exists",
-      "item": "securitycraft:reinforced_cauldron"
-    },
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
