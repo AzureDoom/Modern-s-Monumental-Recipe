@@ -4,3 +4,5 @@ v0.9
 - Added Create Splashing Support to the mod for Custom Recipes
 - Added Create Filling Support to the mod for Custom Recipes
 - Added Missing Mods Pickaxes to forge:tools/pickaxes tag
+- Added Chipped Redstone Blocks to forge:storage_blocks/redstone tag
+- Added Chipped Sandstone to forge:sandstone Tag
