@@ -25,11 +25,8 @@
               "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "minecraft:leather"
-        }
-      ],
-      "rolls": 1.0
-    },
+          "name": "mysticalagriculture:cow_essence"
+        },
         {
           "type": "minecraft:item",
           "functions": [
