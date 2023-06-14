@@ -1,5 +1,5 @@
 v0.10
 
-- Added new way to get Leather sheets
+- Added new way to get Leather sheets via kill cows and such
 - Added New Mystical Alter recipe
 - Added New Custom entities Loot Drops
