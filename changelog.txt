@@ -1,3 +1,5 @@
 v0.9
 
-- Added Custom Loot Tables from Kubejs to this mod
+- Added Thermo Plant Support to the mod for custom recipes
+- Added Create Splashing Support to the mod for Custom Recipes
+- Added Create Filling Support to the mod for Custom Recipes
