@@ -3,3 +3,4 @@ v0.9
 - Added Thermo Plant Support to the mod for custom recipes
 - Added Create Splashing Support to the mod for Custom Recipes
 - Added Create Filling Support to the mod for Custom Recipes
+- Added Missing Mods Pickaxes to forge:tools/pickaxes tag
