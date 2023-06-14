@@ -22,7 +22,7 @@
       "item": "minecraft:soul_torch"
     },
     "D": {
-      "item": "securitycraft:reinforced_cauldron"
+      "item": "minecraft:cauldron"
     }
   },
   "pattern": [
