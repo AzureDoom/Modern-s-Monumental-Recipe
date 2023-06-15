@@ -1,3 +1,4 @@
 v0.1
 
 - Frist Build from GitHub for 1.20
+- Ported Vanilla Tools/Armor Custom Smithing Table Recipes over from 1.19.2
