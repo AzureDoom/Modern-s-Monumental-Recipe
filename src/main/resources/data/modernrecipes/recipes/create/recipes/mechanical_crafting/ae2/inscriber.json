@@ -21,7 +21,7 @@
   "acceptMirrored": false,
   "key": {
     "A": {
-      "tag": "#forge:plates/enderium"
+      "tag": "forge:plates/enderium"
     },
     "B": {
       "tag": "modernrecipes:piston"
