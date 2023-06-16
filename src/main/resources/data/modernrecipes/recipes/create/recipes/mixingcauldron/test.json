@@ -5,32 +5,32 @@
   },
   "ingredients": [
     {
-      "item": "minecraft:andesite"
+      "tag": "forge:plates/zinc"
     },
     {
-      "item": "minecraft:andesite"
+      "item": "forbidden_arcanus:corrupti_dust"
     },
     {
-      "tag": "forge:nuggets/zinc"
+      "tag": "forge:plates/zinc"
     },
     {
-      "tag": "forge:nuggets/zinc"
+      "tag": "botania:livingwood_logs"
     },
     {
-      "item": "minecraft:andesite"
+      "tag": "forge:plates/zinc"
     },
     {
-      "item": "minecraft:andesite"
+      "tag": "botania:livingwood_logs"
     },
     {
-      "item": "minecraft:andesite"
+      "tag": "forge:plates/zinc"
     },
     {
-      "item": "minecraft:andesite"
+      "item": "forbidden_arcanus:corrupti_dust"
     }
   ],
   "output": {
-    "item": "mysticalagriculture:infusion_altar"
+    "item": "create:andesite_alloy"
   },
   "liquidOutput": {
     "fluid": "minecraft:lava"
