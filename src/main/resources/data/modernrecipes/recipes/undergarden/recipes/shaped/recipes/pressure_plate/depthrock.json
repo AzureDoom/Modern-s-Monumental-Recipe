@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "undergarden"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "undergarden:depthrock_pressure_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "undergarden:depthrock"
+    },
+    "B": {
+      "tag": "forge:tools/hammers"
+    }
+  },
+  "pattern": [
+    " A ",
+    " A ",
+    " B "
+  ],
+  "result": {
+    "item": "undergarden:depthrock_pressure_plate"
+  }
+}
