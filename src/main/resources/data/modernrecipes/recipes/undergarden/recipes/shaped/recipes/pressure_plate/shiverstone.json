@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "undergarden:shiverstone"
+      "item": "undergarden:shiverstone_pressure_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -24,6 +24,6 @@
     " B "
   ],
   "result": {
-    "item": "undergarden:shiverstone"
+    "item": "undergarden:shiverstone_pressure_plate"
   }
 }
