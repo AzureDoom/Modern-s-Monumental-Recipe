@@ -1,6 +1,6 @@
 v0.11
 
-- Ported Custom Pressure Plate Recipes from Kubejs to This Mod
+- Ported Some Custom Pressure Plate Recipes from Kubejs to This Mod
 - Ported More Custom Tool Tags
 - Added Graveyard Custom Entities Loot Drops
 - Added Undergarden Custom Entities Loot Drops
