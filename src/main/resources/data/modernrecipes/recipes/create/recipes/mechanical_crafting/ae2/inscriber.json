@@ -33,7 +33,7 @@
       "item": "thermal:upgrade_augment_3"
     },
     "E": {
-      "item": "forge:gems/fluix"
+      "tag": "forge:gems/fluix"
     }
   },
   "pattern": [
