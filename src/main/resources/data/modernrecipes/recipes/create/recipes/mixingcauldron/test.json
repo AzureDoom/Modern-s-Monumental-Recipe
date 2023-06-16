@@ -8,10 +8,13 @@
       "item": "minecraft:andesite"
     },
     {
-      "item": "forbidden_arcanus:corrupti_dust"
+      "item": "minecraft:andesite"
     },
     {
-      "tag": "forge:ingots/obsidian"
+      "tag": "forge:nuggets/zinc"
+    },
+    {
+      "tag": "forge:nuggets/zinc"
     },
     {
       "item": "minecraft:andesite"
@@ -24,13 +27,10 @@
     },
     {
       "item": "minecraft:andesite"
-    },
-    {
-      "item": "forbidden_arcanus:corrupti_dust"
     }
   ],
   "output": {
-    "item": "create:andesite_alloy"
+    "item": "mysticalagriculture:infusion_altar"
   },
   "liquidOutput": {
     "fluid": "minecraft:lava"
