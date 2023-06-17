@@ -6,3 +6,8 @@ v0.11
 - Added Undergarden Custom Entities Loot Drops
 - Added takesapillage Custom Entities Loot Drops
 - Added Quark Custom Entities Loot Drops
+- Added Twilight forest mazestone to Ars Nouveau Break Blacklist
+- Added Ae2 Budding blocks to ars_nouveau:golem/buddding
+- Added Ae2 Quartz Cluster to ars_nouveau:golem/cluster
+- Added Immersiveengineering Machines to BuildingGadgets Blacklist
+- Ported Ae2 Inscriber Recipe from 1.16.5
