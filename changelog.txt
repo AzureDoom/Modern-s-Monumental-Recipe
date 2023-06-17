@@ -12,3 +12,6 @@ v0.11
 - Added Immersiveengineering Machines to BuildingGadgets Blacklist
 - Ported Ae2 Inscriber Recipe from 1.16.5
 - Added Missing Hexeri Pressure plate custom recipes
+- Added Securitycraft Pressure plate Custom Recipes
+- Updated Minecraft Dragon Immune Tag
+- Updated Witer Immune Tag
