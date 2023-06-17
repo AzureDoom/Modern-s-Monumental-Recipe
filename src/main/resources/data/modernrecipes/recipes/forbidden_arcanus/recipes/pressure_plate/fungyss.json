@@ -2,17 +2,17 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "extendedcrafting"
+      "modid": "forbidden_arcanus"
     },
     {
       "type": "forge:item_exists",
-      "item": "extendedcrafting:black_iron_slate"
+      "item": "forbidden_arcanus:fungyss_pressure_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "forge:ingots/black_iron"
+      "item": "forbidden_arcanus:fungyss_planks"
     },
     "B": {
       "tag": "forge:tools/hammers"
@@ -24,6 +24,6 @@
     " B "
   ],
   "result": {
-    "item": "extendedcrafting:black_iron_slate"
+    "item": "forbidden_arcanus:fungyss_pressure_plate"
   }
 }

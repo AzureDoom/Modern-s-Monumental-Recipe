@@ -2,17 +2,17 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "extendedcrafting"
+      "modid": "quark"
     },
     {
       "type": "forge:item_exists",
-      "item": "extendedcrafting:black_iron_slate"
+      "item": "quark:azalea_pressure_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "forge:ingots/black_iron"
+      "item": "quark:azalea_planks"
     },
     "B": {
       "tag": "forge:tools/hammers"
@@ -24,6 +24,6 @@
     " B "
   ],
   "result": {
-    "item": "extendedcrafting:black_iron_slate"
+    "item": "quark:azalea_pressure_plate"
   }
 }

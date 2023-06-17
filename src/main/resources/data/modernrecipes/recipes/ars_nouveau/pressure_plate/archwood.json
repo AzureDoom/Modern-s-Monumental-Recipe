@@ -2,17 +2,17 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "extendedcrafting"
+      "modid": "ars_nouveau"
     },
     {
       "type": "forge:item_exists",
-      "item": "extendedcrafting:black_iron_slate"
+      "item": "ars_nouveau:archwood_pressure_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "forge:ingots/black_iron"
+      "item": "ars_nouveau:archwood"
     },
     "B": {
       "tag": "forge:tools/hammers"
@@ -24,6 +24,6 @@
     " B "
   ],
   "result": {
-    "item": "extendedcrafting:black_iron_slate"
+    "item": "ars_nouveau:archwood_pressure_plate"
   }
 }
