@@ -1,0 +1,11 @@
+{
+  "type": "ad_astra:compressing",
+  "input": {
+    "tag": "forge:ingots/lead"
+  },
+  "output": {
+    "id": "alltheores:lead_plate",
+    "count": 1
+  },
+  "cookTime": 200
+}
