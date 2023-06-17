@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "securitycraft:reinforced_crimson_pressure_plate"
+      "item": "securitycraft:reinforced_mangrove_pressure_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "securitycraft:reinforced_crimson_planks"
+      "item": "securitycraft:reinforced_mangrove_planks"
     },
     "B": {
       "tag": "forge:tools/hammers"
@@ -24,6 +24,6 @@
     " B "
   ],
   "result": {
-    "item": "securitycraft:reinforced_crimson_pressure_plate"
+    "item": "securitycraft:reinforced_mangrove_pressure_plate"
   }
 }
