@@ -11,3 +11,4 @@ v0.11
 - Added Ae2 Quartz Cluster to ars_nouveau:golem/cluster
 - Added Immersiveengineering Machines to BuildingGadgets Blacklist
 - Ported Ae2 Inscriber Recipe from 1.16.5
+- Added Missing Hexeri Pressure plate custom recipes
