@@ -15,7 +15,7 @@
       "item": "create:andesite_alloy"
     },
     "B": {
-      "tag": "forge:gem/diamond"
+      "tag": "forge:gems/diamond"
     }
   },
   "pattern": [
