@@ -3,6 +3,7 @@ v0.12
 - Added Decorative blocks Brazier to Create Passive Boiler Heaters tag
 - Added IndustrialForegoing Mob Imprisonment Tool Blacklist
 - Added Pneumaticcraft Vacuum Trap Blacklist
+- Added Missing Plate recipes from Immersive Metalpress
 - Updated Immersive Drill Fuel Fuild Tag
 - Updated Create Bottomless Fluid Tag
 - Updated Occultism Humans Entity Tag
