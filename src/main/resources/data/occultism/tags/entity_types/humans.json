@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:villagers",
+    "minecraft:player",
+    "minecraft:wandering_trader"
+  ]
+}
