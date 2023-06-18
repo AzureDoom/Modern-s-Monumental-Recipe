@@ -1,17 +1,8 @@
-v0.11
+v0.12
 
-- Ported Custom Pressure Plate Recipes from 1.16.5
-- Ported More Custom Tool Tags
-- Added Graveyard Custom Entities Loot Drops
-- Added Undergarden Custom Entities Loot Drops
-- Added takesapillage Custom Entities Loot Drops
-- Added Quark Custom Entities Loot Drops
-- Added Twilight forest mazestone to Ars Nouveau Break Blacklist
-- Added Ae2 Budding blocks to ars_nouveau:golem/buddding
-- Added Ae2 Quartz Cluster to ars_nouveau:golem/cluster
-- Added Immersiveengineering Machines to BuildingGadgets Blacklist
-- Ported Ae2 Inscriber Recipe from 1.16.5
-- Added Missing Hexeri Pressure plate custom recipes
-- Added Securitycraft Pressure plate Custom Recipes
-- Updated Minecraft Dragon Immune Tag
-- Updated Witer Immune Tag
+- Added Decorative blocks Brazier to Create Passive Boiler Heaters tag
+- Added IndustrialForegoing Mob Imprisonment Tool Blacklist
+- Added Pneumaticcraft Vacuum Trap Blacklist
+- Updated Immersive Drill Fuel Fuild Tag
+- Updated Create Bottomless Fluid Tag
+- Updated Occultism Humans Entity Tag
