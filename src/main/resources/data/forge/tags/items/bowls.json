@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bowl",
+    "occultism:sacrificial_bowl",
+    "occultism:golden_sacrificial_bowl"
+  ]
+}
