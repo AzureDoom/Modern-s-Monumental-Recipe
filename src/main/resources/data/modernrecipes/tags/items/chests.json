@@ -1,6 +1,13 @@
 {
     "replace": false,
     "values": [
+        "#forge:chests/wooden",
+        "#pneumaticcraft:chests",
+        "tconstruct:tinkers_chest",
+        "tconstruct:part_chest",
+        "tconstruct:cast_chest",
+        "atum:limestone_chest",
+        "prefab:item_compressed_chest",
         "ironchest:iron_chest",
         "ironchest:gold_chest",
         "ironchest:diamond_chest",
