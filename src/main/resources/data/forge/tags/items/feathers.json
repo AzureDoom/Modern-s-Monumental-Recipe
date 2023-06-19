@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:feather",
+    "alexsmobs:roadrunner_feather",
+    "alexsmobs:emu_feather",
+    "xreliquary:angelic_feather",
+    "xreliquary:phoenix_down",
+    "iceandfire:stymphalian_bird_feather",
+    "iceandfire:amphithere_feather"
+  ]
+}
