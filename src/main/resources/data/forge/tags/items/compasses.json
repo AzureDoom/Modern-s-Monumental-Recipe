@@ -5,6 +5,7 @@
     "minecraft:recovery_compass",
     "ae2:meteorite_compass",
     "explorerscompass:explorerscompass",
-    "naturescompass:naturescompass"
+    "naturescompass:naturescompass",
+    "structurecompass:structure_compass"
   ]
 }
