@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:crafting_table",
+    "immersiveengineering:craftingtable",
+    "#blue_skies:crafting_tables",
+    "astralsorcery:altar_discovery"
+  ]
+}
