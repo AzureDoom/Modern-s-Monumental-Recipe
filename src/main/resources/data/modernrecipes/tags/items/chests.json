@@ -8,7 +8,9 @@
         "ironchest:crystal_chest",
         "ironchest:obsidian_chest",
         "ironchest:dirt_chest",
-        "ae2:smooth_sky_stone_chest",
+        "appliedenergistics:sky_stone_chest",
+        "appliedenergistics:chest",
+        "ars_nouveau:archwood_chest",
         "mekanism:personal_chest"
     ]
 }
