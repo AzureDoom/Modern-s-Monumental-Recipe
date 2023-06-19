@@ -4,6 +4,10 @@
     "minecraft:crafting_table",
     "immersiveengineering:craftingtable",
     "#blue_skies:crafting_tables",
-    "astralsorcery:altar_discovery"
+    "astralsorcery:altar_discovery",
+    "extendedcrafting:basic_table",
+    "extendedcrafting:advanced_table",
+    "extendedcrafting:elite_table",
+    "extendedcrafting:ultimate_table"
   ]
 }
