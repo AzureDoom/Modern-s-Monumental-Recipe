@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "appliedenergistics2:certus_quartz_hoe",
+    "appliedenergistics2:nether_quartz_hoe",
+    "appliedenergistics2:fluix_hoe",
+    "blue_skies:tools/hoes",
+    "naturesaura:infused_iron_hoe",
+    "naturesaura:sky_hoe",
+    "naturesaura:depth_hoe",
+    "aiotbotania:livingwood_hoe",
+    "aiotbotania:livingrock_hoe",
+    "aiotbotania:terra_hoe",
+    "aiotbotania:alfsteel_hoe",
+    "aquaculture:neptunium_hoe",
+    "cyclic:amethyst_hoe",
+    "cyclic:copper_hoe",
+    "cyclic:emerald_hoe",
+    "cyclic:crystal_hoe",
+    "cyclic:sandstone_hoe",
+    "cyclic:netherbrick_hoe",
+    "doom:argent_hoe",
+    "forbidden_arcanus:draco_arcanus_hoe",
+    "forbidden_arcanus:deorum_hoe",
+    "forbidden_arcanus:reinforced_deorum_hoe",
+    "gobber2:gobber2_hoe",
+    "gobber2:gobber2_hoe_nether",
+    "gobber2:gobber2_hoe_end"
+  ]
+}
