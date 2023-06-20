@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:furnace",
+    "#forge:furnaces/iron",
+    "#forge:furnaces/gold",
+    "#forge:furnaces/diamond",
+    "#forge:furnaces/emerald",
+    "#forge:furnaces/obsidian",
+    "#forge:furnaces/crystal",
+    "#forge:furnaces/netherite",
+    "#forge:furnaces/copper",
+    "#forge:furnaces/silver",
+    "#forge:furnaces/rainbow",
+    "ironfurnaces:item_spooky",
+    "ironfurnaces:item_xmas",
+    "jumbofurnace:jumbo_furnace",
+    "engineersdecor:small_lab_furnace",
+    "thermal:machine_furnace",
+    "mysticalagriculture:inferium_furnace",
+    "mysticalagriculture:prudentium_furnace",
+    "mysticalagriculture:tertium_furnace",
+    "mysticalagriculture:imperium_furnace",
+    "mysticalagriculture:supremium_furnace",
+    "atum:limestone_furnace"
+  ]
+}
