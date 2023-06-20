@@ -1,6 +1,9 @@
 {
     "replace": false,
     "values": [
+        "ironchest:silver_chest",
+        "prefab:item_compressed_chest",
+        "draconicevolution:draconium_chest",
         "ironchest:iron_chest",
         "ironchest:gold_chest",
         "ironchest:diamond_chest",
