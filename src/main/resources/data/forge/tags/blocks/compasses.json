@@ -2,7 +2,7 @@
   "replace": false,
   "values": [
     "minecraft:compass",
-    "appliedenergistics2:meteorite_compass",
+    "appliedenergistics2:sky_compass",
     "explorerscompass:explorerscompass",
     "naturescompass:naturescompass"
   ]
