@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-        "echochest:echo_chest",
         "ironchest:iron_chest",
         "ironchest:gold_chest",
         "ironchest:diamond_chest",
