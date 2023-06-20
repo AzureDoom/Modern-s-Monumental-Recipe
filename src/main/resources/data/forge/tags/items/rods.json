@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "gobber2:gobber_rod",
+    "gobber2:gobber_rod_nether",
+    "gobber2:gobber_rod_end",
+    "enigmaticlegacy:ender_rod",
+    "rftoolspower:blazing_rod",
+    "quark:iron_rod"
+  ]
+}
