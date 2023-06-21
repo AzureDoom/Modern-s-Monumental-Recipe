@@ -1,3 +1,3 @@
-v0.1
+v0.2
 
-- First Build for Github 1.16.5
+- Added Custom Entities Loot Drops
