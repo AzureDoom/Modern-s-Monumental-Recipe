@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#forge:hoe",
     "appliedenergistics2:certus_quartz_hoe",
     "appliedenergistics2:nether_quartz_hoe",
     "#blue_skies:tools/hoes",
