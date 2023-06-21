@@ -5,6 +5,12 @@
     "#blue_skies:tools/pickaxes",
     "aquaculture:neptunium_pickaxe",
     "botania:manasteel_pick",
-    "botania:elementium_pickaxe"
+    "botania:elementium_pickaxe",
+    "botania:glass_pickaxe",
+    "create_stuff_additions:brass_pickaxe",
+    "create_stuff_additions:zinc_pickaxe",
+    "create_stuff_additions:copper_pickaxe",
+    "create_stuff_additions:blazing_pickaxe",
+    "create_stuff_additions:rose_quartz_pickaxe"
   ]
 }
