@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bow",
+    "botania:livingwood_bow",
+    "botania:crystal_bow",
+    "gobber2:gobber2_bow",
+    "gobber2:gobber2_bow_nether",
+    "gobber2:gobber2_bow_end",
+    "mekanism:electric_bow",
+    "iceandfire:dragonbone_bow",
+    "atum:short_bow"
+  ]
+}
