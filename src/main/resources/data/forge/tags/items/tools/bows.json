@@ -9,6 +9,13 @@
     "gobber2:gobber2_bow_end",
     "mekanism:electric_bow",
     "iceandfire:dragonbone_bow",
-    "atum:short_bow"
+    "atum:short_bow",
+    "draconicevolution:wyvern_bow",
+    "draconicevolution:draconic_bow",
+    "draconicevolution:chaotic_bow",
+    "twilightforest:triple_bow",
+    "twilightforest:seeker_bow"
+    "twilightforest:ice_bow",
+    "twilightforest:ender_bow"
   ]
 }
