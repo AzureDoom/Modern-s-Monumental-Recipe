@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:sticky_piston"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_ingot"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    "P": {
+      "item": "immersiveengineering:concrete"
+    },
+    "T": {
+      "tag": "minecraft:planks"
+    },
+    "X": {
+      "tag": "forge:slimeballs"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "PXP",
+    "PRP"
+  ],
+  "result": {
+    "item": "minecraft:sticky_piston",
+    "count": 2
+  }
+}
