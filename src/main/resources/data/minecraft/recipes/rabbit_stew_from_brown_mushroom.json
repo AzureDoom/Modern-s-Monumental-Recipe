@@ -1,0 +1,111 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+         "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      }
+    ],
+    {
+      "tag": "forge:bowls"
+    }
+  ],
+  "result": {
+    "item": "minecraft:rabbit_stew"
+  }
+}
