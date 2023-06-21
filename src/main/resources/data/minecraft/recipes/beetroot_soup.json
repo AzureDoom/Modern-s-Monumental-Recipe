@@ -102,10 +102,10 @@
       }
     ],
     {
-      "item": "forge:bowls"
+      "tag": "forge:bowls"
     }
   ],
   "result": {
-    "item": "minecraft:mushroom_stew"
+    "item": "minecraft:beetroot_soup"
   }
 }
