@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "blue_skies:snowcap_mushroom",
+    "blue_skies:baneful_mushroom",
+    "naturesaura:aure_mushroom",
+    "undergarden:ink_mushroom"
+  ]
+}
