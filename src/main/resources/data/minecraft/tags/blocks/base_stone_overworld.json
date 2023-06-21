@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "graveyard:tg_tuff",
+    "quark:deepslate",
+    "graveyard:tg_deepslate"
+  ]
+}
