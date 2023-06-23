@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "bettershears2:obsidian_shears"
+      "item": "bettershears2:diamond_shears"
     },
     {
       "tag": "forge:storage_blocks/netherite"
