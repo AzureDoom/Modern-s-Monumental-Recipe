@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "torchmaster"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "torchmaster:feral_flare_lantern"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "tag": "forge:ingots/deorum"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "D": {
+      "tag": "forge:storage_blocks/compressed_glow_stone"
+    }
+  },
+  "pattern": [
+    " T ",
+    "GDG",
+    " T "
+  ],
+  "result": {
+    "item": "torchmaster:feral_flare_lantern"
+  }
+}

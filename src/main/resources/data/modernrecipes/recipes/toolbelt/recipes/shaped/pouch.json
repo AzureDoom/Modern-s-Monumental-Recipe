@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "material_elements:leather_sheet"
+      "item": "quark:bonded_leather"
     }
   ],
   "type": "minecraft:crafting_shaped",
