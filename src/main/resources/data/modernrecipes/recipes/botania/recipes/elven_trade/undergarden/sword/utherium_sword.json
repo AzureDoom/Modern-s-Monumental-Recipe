@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "undergarden:utherium_sword"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_sword"
+    },
+    {
+      "tag": "forge:ingots/utherium"
+    }
+  ],
+  "output": [
+    {
+      "item": "undergarden:utherium_sword"
+    }
+  ]
+}

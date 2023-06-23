@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modularrouters:breaker_module"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "tag": "forge:tools/pickaxe"
+    },
+    {
+      "item": "modularrouters:blank_module"
+    }
+  ],
+  "output": [
+    {
+      "item": "modularrouters:breaker_module"
+    }
+  ]
+}

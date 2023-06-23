@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:inferium_reprocessor"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:machine_frame"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    }
+  ],
+  "output": [
+    {
+      "item": "mysticalagriculture:inferium_reprocessor"
+    }
+  ]
+}

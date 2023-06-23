@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:tertium_reprocessor"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:prudentium_reprocessor"
+    },
+    {
+      "item": "mysticalagriculture:tertium_block"
+    }
+  ],
+  "output": [
+    {
+      "item": "mysticalagriculture:tertium_reprocessor"
+    }
+  ]
+}

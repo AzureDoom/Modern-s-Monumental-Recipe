@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create_sa:brass_leggings"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_leggings"
+    },
+    {
+      "tag": "forge:ingots/brass"
+    }
+  ],
+  "output": [
+    {
+      "item": "create_sa:brass_leggings"
+    }
+  ]
+}
