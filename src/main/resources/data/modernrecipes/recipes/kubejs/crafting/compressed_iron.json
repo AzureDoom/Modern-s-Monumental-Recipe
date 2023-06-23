@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "kubejs"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "kubejs:compressed_iron_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ha ",
+    "a  ",
+    "   "
+  ],
+  "key": {
+    "h": {
+      "tag": "forge:tools/hammers"
+    },
+    "a": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "result": {
+    "item": "kubejs:compressed_iron_plate"
+  }
+} 
