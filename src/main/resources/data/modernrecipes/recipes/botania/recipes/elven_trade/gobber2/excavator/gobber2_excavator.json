@@ -15,7 +15,7 @@
       "item": "minecraft:netherite_shovel"
     },
     {
-      "tag": "forge:rods/gobber_rod"
+      "item": "gobber2:gobber2_ingot"
     }
   ],
   "output": [

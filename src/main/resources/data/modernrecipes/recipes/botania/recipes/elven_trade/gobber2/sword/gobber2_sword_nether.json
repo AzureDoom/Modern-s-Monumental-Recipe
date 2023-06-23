@@ -15,7 +15,7 @@
       "item": "minecraft:netherite_sword"
     },
     {
-      "tag": "forge:ingots/gobber_nether"
+      "item": "gobber2:gobber2_ingot_nether"
     }
   ],
   "output": [

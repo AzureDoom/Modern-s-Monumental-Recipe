@@ -15,7 +15,7 @@
       "item": "minecraft:netherite_hoe"
     },
     {
-      "tag": "forge:ingots/gobber_end"
+      "item": "gobber2:gobber2_ingot_end"
     }
   ],
   "output": [
