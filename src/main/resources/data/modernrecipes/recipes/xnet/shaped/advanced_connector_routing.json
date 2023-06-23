@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "xnet"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "xnet:advanced_connector_routing"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "xnet:connector_routing"
+    },
+    "B": {
+      "tag": "modernrecipes:eyes"
+    },
+    "C": {
+      "tag": "forge:plates/diamond"
+    },
+    "D": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    "AB ",
+    "CD "
+  ],
+  "result": {
+    "item": "xnet:advanced_connector_routing"
+  }
+}
