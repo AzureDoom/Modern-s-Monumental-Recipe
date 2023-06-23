@@ -1,14 +1,14 @@
 {
 	"type":"createaddition:rolling",
 	"input": {
-      	"tag": "forge:ingots/lead"
+      	"tag": "forge:ingots/electrum"
 	},
 	"result": {
-		"item": "alltheores:lead_rod",
+		"item": "emendatusenigmatica:electrum_rod",
 		"count": 2
 	},
 	"conditions": [ {
 		"type": "forge:mod_loaded",
-		"modid": "alltheores"
+		"modid": "emendatusenigmatica"
     } ]
 }

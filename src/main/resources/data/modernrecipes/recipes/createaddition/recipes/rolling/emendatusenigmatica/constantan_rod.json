@@ -1,14 +1,14 @@
 {
 	"type":"createaddition:rolling",
 	"input": {
-      	"tag": "forge:ingots/signalum"
+      	"tag": "forge:ingots/constantan"
 	},
 	"result": {
-		"item": "alltheores:signalum_rod",
+		"item": "emendatusenigmatica:constantan_rod",
 		"count": 2
 	},
 	"conditions": [ {
 		"type": "forge:mod_loaded",
-		"modid": "alltheores"
+		"modid": "emendatusenigmatica"
     } ]
 }

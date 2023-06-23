@@ -1,14 +1,14 @@
 {
 	"type":"createaddition:rolling",
 	"input": {
-      	"tag": "forge:ingots/osmium"
+      	"tag": "forge:ingots/enderium"
 	},
 	"result": {
-		"item": "alltheores:osmium_rod",
+		"item": "emendatusenigmatica:enderium_rod",
 		"count": 2
 	},
 	"conditions": [ {
 		"type": "forge:mod_loaded",
-		"modid": "alltheores"
+		"modid": "emendatusenigmatica"
     } ]
 }

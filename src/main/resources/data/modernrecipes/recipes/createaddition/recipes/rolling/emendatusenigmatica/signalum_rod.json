@@ -1,14 +1,14 @@
 {
 	"type":"createaddition:rolling",
 	"input": {
-      	"tag": "forge:ingots/platinum"
+      	"tag": "forge:ingots/signalum"
 	},
 	"result": {
-		"item": "alltheores:platinum_rod",
+		"item": "emendatusenigmatica:signalum_rod",
 		"count": 2
 	},
 	"conditions": [ {
 		"type": "forge:mod_loaded",
-		"modid": "alltheores"
+		"modid": "emendatusenigmatica"
     } ]
 }

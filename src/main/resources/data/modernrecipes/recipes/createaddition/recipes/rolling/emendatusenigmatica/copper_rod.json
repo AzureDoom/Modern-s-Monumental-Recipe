@@ -1,14 +1,14 @@
 {
 	"type":"createaddition:rolling",
 	"input": {
-      	"tag": "forge:ingots/iridium"
+      	"tag": "forge:ingots/copper"
 	},
 	"result": {
-		"item": "alltheores:iridium_rod",
+		"item": "emendatusenigmatica:copper_rod",
 		"count": 2
 	},
 	"conditions": [ {
 		"type": "forge:mod_loaded",
-		"modid": "alltheores"
+		"modid": "emendatusenigmatica"
     } ]
 }

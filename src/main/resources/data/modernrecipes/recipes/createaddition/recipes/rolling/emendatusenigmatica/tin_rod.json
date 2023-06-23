@@ -1,14 +1,14 @@
 {
 	"type":"createaddition:rolling",
 	"input": {
-      	"tag": "forge:ingots/silver"
+      	"tag": "forge:ingots/tin"
 	},
 	"result": {
-		"item": "alltheores:silver_rod",
+		"item": "emendatusenigmatica:tin_rod",
 		"count": 2
 	},
 	"conditions": [ {
 		"type": "forge:mod_loaded",
-		"modid": "alltheores"
+		"modid": "emendatusenigmatica"
     } ]
 }
