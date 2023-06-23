@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:wireless_booster"
+      "item": "appliedenergistics2:wireless_booster"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -22,7 +22,7 @@
       "tag": "forge:nether_stars"
     },
     "c": {
-      "item": "ae2:wireless_booster"
+      "item": "appliedenergistics2:wireless_booster"
     },
     "d": {
       "tag": "forge:ingots/netherite"
