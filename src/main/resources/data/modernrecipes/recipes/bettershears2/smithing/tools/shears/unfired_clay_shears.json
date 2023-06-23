@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "material_elements:leather_shears"
+    "item": "minecraft:shears"
   },
   "addition": {
     "tag": "forge:leather"
