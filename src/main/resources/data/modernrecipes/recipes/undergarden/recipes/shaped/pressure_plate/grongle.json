@@ -2,17 +2,17 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "upgrade_aquatic"
+      "modid": "undergarden"
     },
     {
       "type": "forge:item_exists",
-      "item": "upgrade_aquatic:driftwood_pressure_plate"
+      "item": "undergarden:grongle_pressure_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "upgrade_aquatic:driftwood_planks"
+      "item": "undergarden:grongle_planks"
     },
     "B": {
       "tag": "forge:hammers"
@@ -24,6 +24,6 @@
     " B "
   ],
   "result": {
-    "item": "upgrade_aquatic:driftwood_pressure_plate"
+    "item": "undergarden:grongle_pressure_plate"
   }
 }
