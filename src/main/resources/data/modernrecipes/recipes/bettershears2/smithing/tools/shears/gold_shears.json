@@ -14,7 +14,7 @@
     "item": "minecraft:shears"
   },
   "addition": {
-    "tag": "minecraft:ingots/gold"
+    "tag": "forge:ingots/gold"
   },
   "result": {
     "item": "bettershears2:gold_shears"
