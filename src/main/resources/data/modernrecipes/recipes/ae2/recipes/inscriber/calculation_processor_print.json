@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "appliedenergistics2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:printed_calculation_processor"
+    }
+  ],
+  "type": "appliedenergistics2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "tag": "forge:silicon"
+    },
+    "middle": {
+      "tag": "forge:gems/certus_quartz"
+    },
+    "top": {
+      "item": "appliedenergistics2:calculation_processor_press"
+    }
+  },
+  "mode": "inscribe",
+  "result": {
+    "item": "appliedenergistics2:printed_calculation_processor"
+  }
+}

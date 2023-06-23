@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "appliedenergistics2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:certus_quartz_shovel"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_shovel"
+  },
+  "addition": {
+    "tag": "forge:gems/certus_quartz"
+  },
+  "result": {
+    "item": "appliedenergistics2:certus_quartz_shovel"
+  }
+}

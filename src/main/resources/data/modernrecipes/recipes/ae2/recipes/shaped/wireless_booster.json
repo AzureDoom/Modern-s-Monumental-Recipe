@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "appliedenergistics2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:wireless_booster"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:black_iron_ingot"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag": "forge:dusts/fluix"
+    },
+    "b": {
+      "tag": "forge:gems/certus_quartz"
+    },
+    "c": {
+      "tag": "forge:dusts/ender_pearl"
+    },
+    "d": {
+      "item": "extendedcrafting:black_iron_ingot"
+    }
+  },
+  "pattern": [
+    "abc",
+    "ddd"
+  ],
+  "result": {
+    "item": "appliedenergistics2:wireless_booster"
+  }
+}

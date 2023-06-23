@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "appliedenergistics2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:quartz_growth_accelerator"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "kubejs:compressed_iron_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "item": "kubejs:compressed_iron_plate"
+    },
+    "b": {
+      "item": "appliedenergistics2:fluix_glass_cable"
+    },
+    "c": {
+      "item": "appliedenergistics2:quartz_glass"
+    },
+    "d": {
+      "item": "appliedenergistics2:fluix_block"
+    }
+  },
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "result": {
+    "item": "appliedenergistics2:quartz_growth_accelerator"
+  }
+}

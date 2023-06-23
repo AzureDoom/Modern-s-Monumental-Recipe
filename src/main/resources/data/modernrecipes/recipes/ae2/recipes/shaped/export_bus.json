@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "appliedenergistics2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:export_bus"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "kubejs:compressed_iron_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "item": "kubejs:compressed_iron_plate"
+    },
+    "b": {
+      "item": "appliedenergistics2:formation_core"
+    },
+    "c": {
+      "tag": "modernrecipes:piston"
+    }
+  },
+  "pattern": [
+    "aba",
+    " c "
+  ],
+  "result": {
+    "item": "appliedenergistics2:export_bus"
+  }
+}

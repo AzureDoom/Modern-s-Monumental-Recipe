@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "appliedenergistics2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:logic_processor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "appliedenergistics2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "tag": "forge:silicon"
+    },
+    "middle": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "top": {
+      "item": "appliedenergistics2:printed_logic_processor"
+    }
+  },
+  "mode": "press",
+  "result": {
+    "item": "appliedenergistics2:logic_processor"
+  }
+}

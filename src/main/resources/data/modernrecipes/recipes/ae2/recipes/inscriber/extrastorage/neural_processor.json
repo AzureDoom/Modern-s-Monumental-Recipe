@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extrastorage"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extrastorage:neural_processor"
+    }
+  ],
+  "type": "appliedenergistics2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "tag": "forge:silicon"
+    },
+    "middle": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "top": {
+      "item": "extrastorage:raw_neural_processor"
+    }
+  },
+  "mode": "inscribe",
+  "result": {
+    "item": "extrastorage:neural_processor"
+  }
+}

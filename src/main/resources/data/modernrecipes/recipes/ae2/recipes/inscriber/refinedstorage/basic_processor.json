@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:basic_processor"
+    }
+  ],
+  "type": "appliedenergistics2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "tag": "forge:silicon"
+    },
+    "middle": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "top": {
+      "item": "refinedstorage:raw_basic_processor"
+    }
+  },
+  "mode": "inscribe",
+  "result": {
+    "item": "refinedstorage:basic_processor"
+  }
+}
