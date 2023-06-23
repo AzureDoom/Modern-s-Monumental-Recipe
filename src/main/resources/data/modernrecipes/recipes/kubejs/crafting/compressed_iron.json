@@ -17,7 +17,7 @@
   ],
   "key": {
     "h": {
-      "tag": "forge:tools/hammers"
+      "tag": "forge:hammers"
     },
     "a": {
       "tag": "forge:ingots/compressed_iron"
