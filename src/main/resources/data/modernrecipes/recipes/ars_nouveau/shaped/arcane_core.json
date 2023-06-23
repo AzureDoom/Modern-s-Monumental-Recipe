@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ars_nouveau"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ars_nouveau:arcane_core"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "y": {
+      "tag": "forge:ingots/arcane_gold"
+    },
+    "x": {
+      "item": "ars_nouveau:arcane_stone"
+    }
+  },
+  "pattern": [
+    "xxx",
+    "y y",
+    "xxx"
+  ],
+  "result": {
+    "item": "ars_nouveau:arcane_core"
+  }
+}
