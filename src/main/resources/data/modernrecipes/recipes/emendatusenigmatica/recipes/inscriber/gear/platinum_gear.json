@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "appliedenergistics2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "emendatusenigmatica:platinum_gear"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:press_gear_die"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:andesite_alloy"
+    }
+  ],
+  "type": "appliedenergistics2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "item": "create:andesite_alloy"
+    },
+    "middle": {
+      "item": "thermal:press_gear_die"
+    },
+    "top": {
+      "tag": "forge:ingots/platinum"
+    }
+  },
+  "mode": "press",
+  "result": {
+    "item": "emendatusenigmatica:platinum_gear"
+  }
+}
