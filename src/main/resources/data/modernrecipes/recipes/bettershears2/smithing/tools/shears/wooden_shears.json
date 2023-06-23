@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bettershears2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "bettershears2:wooden_shears"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "bettershears2:cobble_shears"
+  },
+  "addition": {
+    "tag": "minecraft:planks"
+  },
+  "result": {
+    "item": "bettershears2:wooden_shears"
+  }
+}
