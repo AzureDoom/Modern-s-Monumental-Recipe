@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:offering_table"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "astralsorcery:starmetal_ingot"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "astralsorcery:starmetal_ingot"
+    },
+    "B": {
+      "tag": "forge:stone"
+    },
+    "C": {
+      "item": "naturesaura:token_fear"
+    },
+    "D": {
+      "item": "naturesaura:token_sorrow"
+    },
+    "E": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "CBD",
+    "EEE"
+  ],
+  "result": {
+    "item": "naturesaura:offering_table"
+  }
+}
