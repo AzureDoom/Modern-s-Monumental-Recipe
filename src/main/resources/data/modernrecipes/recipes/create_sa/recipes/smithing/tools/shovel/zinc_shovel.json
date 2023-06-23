@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_stuff_additions"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create_stuff_additions:zinc_shovel"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_shovel"
+  },
+  "addition": {
+    "tag": "forge:ingots/zinc"
+  },
+  "result": {
+    "item": "create_stuff_additions:zinc_shovel"
+  }
+}
