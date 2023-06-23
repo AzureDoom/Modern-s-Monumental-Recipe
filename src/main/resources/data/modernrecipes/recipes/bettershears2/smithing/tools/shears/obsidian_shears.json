@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "bettershears2:cobble_shears"
+      "item": "bettershears2:obsidian_shears"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "bettershears2:clay_shears"
+    "item": "bettershears2:emerald_shears"
   },
   "addition": {
-    "tag": "forge:cobblestone"
+    "tag": "forge:obsidian"
   },
   "result": {
-    "item": "bettershears2:cobble_shears"
+    "item": "bettershears2:obsidian_shears"
   }
 }
