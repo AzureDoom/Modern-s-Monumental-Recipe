@@ -1,0 +1,14 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:gems/lapis"
+	},
+	"result": {
+		"item": "emendatusenigmatica:lapis_rod",
+		"count": 2
+	},
+	"conditions": [ {
+		"type": "forge:mod_loaded",
+		"modid": "emendatusenigmatica"
+    } ]
+}
