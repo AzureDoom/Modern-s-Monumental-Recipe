@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "T": {
-      "tag": "forge:ingots/deorum"
+      "tag": "forge:ingots/arcane_gold"
     },
     "G": {
       "tag": "forge:glass"
