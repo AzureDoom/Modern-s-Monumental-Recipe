@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "z": {
-      "item": "ars_nouveau:sourcestone"
+      "item": "ars_nouveau:arcane_stone"
     },
     "y": {
       "tag": "forge:gems/mana_diamond"
