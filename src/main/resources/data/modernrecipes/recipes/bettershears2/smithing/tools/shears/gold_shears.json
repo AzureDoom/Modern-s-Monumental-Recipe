@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bettershears2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "bettershears2:gold_shears"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:shears"
+  },
+  "addition": {
+    "tag": "minecraft:ingots/gold"
+  },
+  "result": {
+    "item": "bettershears2:gold_shears"
+  }
+}
