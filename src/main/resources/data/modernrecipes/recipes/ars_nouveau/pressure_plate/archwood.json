@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "ars_nouveau:archwood"
+      "tag": "forge:logs/archwood"
     },
     "B": {
       "tag": "forge:hammers"
