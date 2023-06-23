@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bettershears2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "bettershears2:emerald_shears"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "bettershears2:diamond_shears"
+  },
+  "addition": {
+    "tag": "forge:storage_blocks/emerald"
+  },
+  "result": {
+    "item": "bettershears2:emerald_shears"
+  }
+}
