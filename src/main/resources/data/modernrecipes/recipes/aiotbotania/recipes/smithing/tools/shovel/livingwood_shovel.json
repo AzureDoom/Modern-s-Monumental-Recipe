@@ -14,7 +14,7 @@
     "item": "minecraft:wooden_shovel"
   },
   "addition": {
-    "tag": "botania:livingwood_logs"
+    "tag": "botania:livingwood"
   },
   "result": {
     "item": "aiotbotania:livingwood_shovel"
