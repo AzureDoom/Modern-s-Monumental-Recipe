@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "toolbelt"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "toolbelt:belt"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "material_elements:leather_sheet"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "tag": "forge:string"
+    },
+    "G": {
+      "item": "quark:bonded_leather"
+    },
+    "S": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "WGW",
+    "G G",
+    "GSG"
+  ],
+  "result": {
+    "item": "toolbelt:belt"
+  }
+}
