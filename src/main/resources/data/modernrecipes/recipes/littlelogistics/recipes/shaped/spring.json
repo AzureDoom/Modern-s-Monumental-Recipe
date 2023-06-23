@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "S": {
-      "tag": "forge:nuggets/black_iron"
+      "item": "extendedcrafting:black_iron_nugget"
     },
     "E": {
       "tag": "forge:string"
