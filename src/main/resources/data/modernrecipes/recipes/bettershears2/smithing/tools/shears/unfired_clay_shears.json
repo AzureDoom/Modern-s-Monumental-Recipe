@@ -14,7 +14,7 @@
     "item": "minecraft:shears"
   },
   "addition": {
-    "tag": "forge:leather"
+    "item": "quark:bonded_leather"
   },
   "result": {
     "item": "bettershears2:unfired_clay_shears"
