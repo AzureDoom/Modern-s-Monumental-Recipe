@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "createchromaticreturn:glowing_ingot"
+      "item": "tconstruct:glow_ball"
     },
     {
       "item": "notenoughwands:wand_core"
