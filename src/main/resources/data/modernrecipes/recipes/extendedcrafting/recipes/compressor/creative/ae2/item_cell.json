@@ -10,14 +10,14 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "appliedenergistics2:item_storage_cell_256k"
+      "item": "ae2extras:256k_storage_cell"
     }
   ],
   "type": "extendedcrafting:compressor",
   "powerCost": 500000,
   "inputCount": 10000,
   "ingredient": {
-    "item": "appliedenergistics2:item_storage_cell_256k"
+    "item": "ae2extras:256k_storage_cell"
   },
   "catalyst": {
     "item": "extendedcrafting:the_ultimate_catalyst"
