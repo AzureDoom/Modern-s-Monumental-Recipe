@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:ultimate_table"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "extendedcrafting:elite_table"
+    },
+    "B": {
+      "tag": "forge:gems/emerald"
+    },
+    "C": {
+      "item": "extendedcrafting:ultimate_component"
+    },
+    "D": {
+      "item": "extendedcrafting:ultimate_catalyst"
+    }
+  },
+  "pattern": [
+    "CDC",
+    "BAB",
+    "CDC"
+  ],
+  "result": {
+    "item": "extendedcrafting:ultimate_table"
+  }
+}

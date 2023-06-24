@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:basic_table"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:plates/iron"
+    },
+    "B": {
+      "tag": "forge:workbenches"
+    },
+    "C": {
+      "item": "extendedcrafting:basic_component"
+    },
+    "D": {
+      "item": "extendedcrafting:basic_catalyst"
+    }
+  },
+  "pattern": [
+    "CDC",
+    "ABA",
+    "CDC"
+  ],
+  "result": {
+    "item": "extendedcrafting:basic_table"
+  }
+}
