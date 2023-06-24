@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:smooth_sky_stone_block"
+      "item": "appliedenergistics2:smooth_sky_stone_block"
     },
     {
       "type": "forge:item_exists",
@@ -38,7 +38,7 @@
       "tag": "forge:gems/silicon"
     },
     "B": {
-      "item": "ae2:smooth_sky_stone_block"
+      "item": "appliedenergistics2:smooth_sky_stone_block"
     },
     "C": {
       "item": "refinedstorage:advanced_processor"
