@@ -35,7 +35,7 @@
   ],
   "key": {
     "A": {
-      "tag": "forge:silicon"
+      "tag": "forge:gems/silicon"
     },
     "B": {
       "item": "ae2:smooth_sky_stone_block"
