@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolscontrol:cpu_core_2000"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsbase:dimensionalshard"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "QWQ",
+    "WSW",
+    "QWQ"
+  ],
+  "key": {
+    "W": {
+      "item": "rftoolsbase:dimensionalshard"
+    },
+    "Q": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "S": {
+      "item": "rftoolscontrol:cpu_core_1000"
+    }
+  },
+  "result": {
+    "item": "rftoolscontrol:cpu_core_2000"
+  }
+}

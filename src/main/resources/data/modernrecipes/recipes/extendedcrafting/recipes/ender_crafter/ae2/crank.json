@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:crank"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "AAA",
+    "  A",
+    "  B"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:rods/wooden"
+    },
+    "B": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:crank"
+  }
+}

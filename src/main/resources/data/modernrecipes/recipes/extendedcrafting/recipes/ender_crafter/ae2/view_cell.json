@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:view_cell"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "XDX",
+    "DBD",
+    "AAA"
+  ],
+  "key": {
+    "X": {
+      "item": "appliedenergistics2:quartz_glass"
+    },
+    "A": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "B": {
+      "tag": "forge:gems/certus_quartz"
+    },
+    "D": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:view_cell"
+  }
+}
