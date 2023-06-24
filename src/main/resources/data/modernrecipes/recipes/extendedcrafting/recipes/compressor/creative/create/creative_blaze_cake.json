@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:creative_blaze_cake"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:creative_blaze_cake"
+    }
+  ],
+  "type": "extendedcrafting:compressor",
+  "powerCost": 500000,
+  "inputCount": 10000,
+  "ingredient": {
+    "item": "create:blaze_cake"
+  },
+  "catalyst": {
+    "item": "extendedcrafting:the_ultimate_catalyst"
+  },
+  "result": {
+    "item": "create:creative_blaze_cake"
+  }
+}
