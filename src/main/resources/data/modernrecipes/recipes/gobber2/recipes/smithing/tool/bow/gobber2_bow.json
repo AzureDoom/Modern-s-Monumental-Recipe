@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_bow"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "forge:string"
+  },
+  "addition": {
+    "item": "gobber2:gobber2_ingot"
+  },
+  "result": {
+    "item": "gobber2:gobber2_bow"
+  }
+}
