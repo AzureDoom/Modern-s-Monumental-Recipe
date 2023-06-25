@@ -24,7 +24,7 @@
       "item": "bloodmagic:masterbloodorb"
     },
     "E": {
-      "item": "forge:ingots/obsidian"
+      "tag": "forge:ingots/obsidian"
     }
   },
   "output": [
