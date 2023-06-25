@@ -14,7 +14,7 @@
     "item": "minecraft:netherite_helmet"
   },
   "addition": {
-    "tag": "forge:ingots/deorum"
+    "tag": "forge:ingots/arcane_gold"
   },
   "result": {
     "item": "forbidden_arcanus:arcane_gold_helmet"
