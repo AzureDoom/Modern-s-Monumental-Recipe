@@ -1,0 +1,41 @@
+{
+  "type": "astralsorcery:altar",
+  "altar_type": 0,
+  "duration": 100,
+  "starlight": 200,
+  "pattern": [
+    "_____",
+    "_LLL_",
+    "_QPS_",
+    "_LLL_",
+    "_____"
+  ],
+  "key": {
+    "P": {
+      "tag": "botania:petals/white"
+    },
+    "Q": {
+      "tag": "astralsorcery:starmetal"
+    },
+    "L": {
+      "item": "botania:livingwood"
+    },
+    "S": {
+      "item": "astralsorcery:glass_lens"
+    }
+  },
+  "output": [
+    {
+      "item": "botania:mana_spreader",
+      "count": 1
+    }
+  ],
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:large_dust_swirl",
+    "astralsorcery:built_in_effect_attunement_sparkle"
+  ]
+}
