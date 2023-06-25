@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2extras:1m_fluid_cell_component"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "quark:white_rune"
+    },
+    "B": {
+      "item": "appliedenergistics2:quartz_glass"
+    },
+    "C": {
+      "item": "ae2extras:1m_cell_component"
+    },
+    "D": {
+      "item": "appliedenergistics2:calculation_processor"
+    }
+  },
+  "pattern": [
+    " ADA ",
+    " CBC ",
+    " ACA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2extras:1m_fluid_cell_component"
+  }
+}
