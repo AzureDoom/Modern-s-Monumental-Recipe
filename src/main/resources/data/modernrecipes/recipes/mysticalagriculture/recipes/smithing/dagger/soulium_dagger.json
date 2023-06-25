@@ -14,7 +14,7 @@
     "item": "minecraft:golden_sword"
   },
   "addition": {
-    "tag": "mysticalagriculture:soulium_gemstone"
+    "item": "mysticalagriculture:soulium_gemstone"
   },
   "result": {
     "item": "mysticalagriculture:soulium_dagger"
