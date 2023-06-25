@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:schematicannon"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "compressium:iron_1"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "C": {
+      "tag": "modernrecipes:cauldrons"
+    },
+    "S": {
+      "item": "minecraft:smooth_stone"
+    },
+    "I": {
+      "item": "compressium:iron_1"
+    }
+  },
+  "pattern": [
+    " C ",
+    "LDL",
+    "SIS"
+  ],
+  "result": {
+    "item": "create:schematicannon"
+  }
+}

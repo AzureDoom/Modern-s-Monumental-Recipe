@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:empty_blaze_burner"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:iron_bars"
+    },
+    "A": {
+      "tag": "forge:plates/iron"
+    },
+    "W": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "pattern": [
+    "A A",
+    "S S",
+    "WWW"
+  ],
+  "result": {
+    "item": "create:empty_blaze_burner"
+  }
+}
