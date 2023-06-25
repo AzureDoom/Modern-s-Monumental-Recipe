@@ -12,7 +12,7 @@
   ],
   "key": {
     "A": {
-      "item": "forge:gems/aquamarine"
+      "tag": "forge:gems/aquamarine"
     },
     "B": {
       "item": "botania:manasteel_pick"
