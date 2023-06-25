@@ -16,7 +16,7 @@
       "tag": "forge:rods/copper"
     },
     "C": {
-      "tag": "minecraft:terracotta"
+      "tag": "forge:terracotta"
     },
     "W": {
       "item": "immersiveengineering:wirecoil_copper"
