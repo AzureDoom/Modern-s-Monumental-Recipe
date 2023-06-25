@@ -1,0 +1,22 @@
+{
+  "type": "bloodmagic:arc",
+  "input": {
+    "item": "bloodmagic:soulgemlesser"
+  },
+    "tag": "forge:gems/psigem"
+  },
+    "item": "bloodmagic:infusedslate"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/reverter"
+  },
+  "inputFluid": {
+    "amount": 200,
+    "fluid": "minecraft:water"
+  }
+  ],
+  "output": {
+    "item": "bloodmagic:soulgemcommon"
+  },
+  "consumeingredient": false
+}
