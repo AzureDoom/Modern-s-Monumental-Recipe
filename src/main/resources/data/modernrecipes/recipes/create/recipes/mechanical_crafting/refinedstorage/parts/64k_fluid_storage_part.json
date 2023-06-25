@@ -14,11 +14,11 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:quartz_vibrant_glass"
+      "item": "appliedenergistics2:quartz_vibrant_glass"
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:fluid_storage_cell_1k"
+      "item": "appliedenergistics2:1k_fluid_storage_cell"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -31,13 +31,13 @@
       "item": "extendedcrafting:redstone_component"
     },
     "X": {
-      "item": "ae2:quartz_vibrant_glass"
+      "item": "appliedenergistics2:quartz_vibrant_glass"
     },
     "I": {
       "tag": "forge:silicon"
     },
     "G": {
-      "item": "ae2:fluid_storage_cell_1k"
+      "item": "appliedenergistics2:1k_fluid_storage_cell"
     }
   },
   "pattern": [
