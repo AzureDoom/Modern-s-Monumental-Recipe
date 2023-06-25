@@ -91,7 +91,7 @@
               "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "material_elements:leather_sheet"
+          "name": "quark:bounded_leather"
         }
       ],
       "rolls": 1
