@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:interface"
+      "item": "appliedenergistics2:interface"
     },
     {
       "type": "forge:item_exists",
@@ -20,13 +20,13 @@
       "item": "kubejs:compressed_iron_plate"
     },
     "B": {
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     },
     "C": {
-      "item": "ae2:formation_core"
+      "item": "appliedenergistics2:formation_core"
     },
     "D": {
-      "item": "ae2:annihilation_core"
+      "item": "appliedenergistics2:annihilation_core"
     }
   },
   "pattern": [
@@ -38,6 +38,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:interface"
+    "item": "appliedenergistics2:interface"
   }
 }
