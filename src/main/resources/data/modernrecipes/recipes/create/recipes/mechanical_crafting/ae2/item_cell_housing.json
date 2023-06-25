@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "appliedenergistics2:item_cell_housing"
+      "item": "appliedenergistics2:empty_storage_cell"
     },
     {
       "type": "forge:item_exists",
