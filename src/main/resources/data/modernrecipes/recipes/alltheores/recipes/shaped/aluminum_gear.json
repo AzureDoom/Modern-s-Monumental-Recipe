@@ -2,15 +2,15 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "alltheores"
+      "modid": "ae2"
     },
     {
       "type": "forge:item_exists",
-      "item": "alltheores:aluminum_gear"
+      "item": "ae2:blank_pattern"
     },
     {
       "type": "forge:item_exists",
-      "item": "create:andesite_alloy"
+      "item": "kubejs:compressed_iron_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",

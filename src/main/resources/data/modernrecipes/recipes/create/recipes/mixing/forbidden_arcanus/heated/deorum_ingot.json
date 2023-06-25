@@ -1,0 +1,45 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:deorum_ingot"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:mundabitur_dust"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    },
+    {
+      "tag": "forge:charcoal"
+    },
+    {
+      "tag": "forge:charcoal"
+    },
+    {
+      "tag": "forge:charcoal"
+    },
+    {
+      "item": "forbidden_arcanus:mundabitur_dust"
+    },
+    {
+      "tag": "forge:dusts/arcane_crystal"
+    },
+    {
+      "tag": "forge:charcoal"
+    }
+  ],
+  "results": [
+    {
+      "item": "forbidden_arcanus:deorum_ingot"
+    }
+  ]
+}

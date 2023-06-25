@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_fiber"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "thermal:glass/hardened"
+    },
+    {
+      "tag": "forge:dusts/certus_quartz"
+    },
+    {
+      "tag": "forge:dusts/quartz"
+    },
+    {
+      "item": "computercraft:cable"
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:quartz_fiber"
+    }
+  ]
+}

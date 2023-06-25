@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/nickel"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:constantan_ingot",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "heated"
+}
