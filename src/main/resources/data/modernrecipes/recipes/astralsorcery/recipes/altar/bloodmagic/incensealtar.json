@@ -1,0 +1,44 @@
+{
+  "type": "astralsorcery:altar",
+  "altar_type": 0,
+  "duration": 100,
+  "starlight": 700,
+  "pattern": [
+    "_____",
+    "_ABA_",
+    "_ADA_",
+    "_ECE_",
+    "_____"
+  ],
+  "key": {
+    "A": {
+      "item": "botania:livingrock"
+    },
+    "B": {
+      "item": "botania:incense_stick"
+    },
+    "C": {
+      "item": "botania:incense_stick"
+    },
+    "D": {
+      "item": "botania:ender_air_bottle"
+    },
+    "E": {
+      "item": "bloodmagic:blankrune"
+    }
+  },
+  "output": [
+    {
+      "item": "bloodmagic:incensealtar",
+      "count": 1
+    }
+  ],
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:large_dust_swirl",
+    "astralsorcery:built_in_effect_attunement_sparkle"
+  ]
+}
