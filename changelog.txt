@@ -1,14 +1,3 @@
-v0.12
+v0.13
 
-- Added Decorative blocks Brazier to Create Passive Boiler Heaters tag
-- Added IndustrialForegoing Mob Imprisonment Tool Blacklist
-- Added Pneumaticcraft Vacuum Trap Blacklist
-- Added Missing Plate recipes from Immersive Metalpress
-- Added Custom Immersiveengineering Entities loot drops
-- Added Custom tinyskeletons Entities Loot drops
-- Added Custom Nasty Entities Loot Drops
-- Added Custom Doom Entities Loot Drops
-- Updated Immersive Drill Fuel Fuild Tag
-- Updated Create Bottomless Fluid Tag
-- Updated Occultism Humans Entity Tag
-- Updated Immersivengineering Hero of the village loottable
+- fixed broken Better Animals Plus Lammergier loot table
