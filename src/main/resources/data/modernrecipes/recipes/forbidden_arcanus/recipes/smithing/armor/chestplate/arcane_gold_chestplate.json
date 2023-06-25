@@ -14,7 +14,7 @@
     "item": "minecraft:netherite_chestplate"
   },
   "addition": {
-    "tag": "forge:ingots/deorum"
+    "tag": "forge:ingots/arccane_gold"
   },
   "result": {
     "item": "forbidden_arcanus:arcane_gold_chestplate"
