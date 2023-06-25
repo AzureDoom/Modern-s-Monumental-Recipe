@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:4096k_fluid_storage_part"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "P": {
+      "item": "refinedstorage:advanced_processor"
+    },
+    "E": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "S": {
+      "item": "refinedstorage:1024k_fluid_storage_part"
+    },
+    "R": {
+      "tag": "modernrecipes:tanks"
+    }
+  },
+  "pattern": [
+    " PEP ",
+    " SRS ",
+    " PSP ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "refinedstorage:4096k_fluid_storage_part"
+  }
+}

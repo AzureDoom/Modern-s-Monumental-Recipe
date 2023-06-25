@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:paper"
+    }
+  ],
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/wood"
+    },
+    {
+      "tag": "forge:dusts/wood"
+    },
+    {
+      "tag": "forge:dusts/wood"
+    },
+    {
+      "tag": "forge:dusts/wood"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:paper",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolspower:power_core3"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:rf_coil"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "r": {
+      "item": "thermal:rf_coil"
+    },
+    "R": {
+      "tag": "forge:gears/compressed_iron"
+    },
+    "e": {
+      "tag": "forge:gems/emerald"
+    },
+    "s": {
+      "item": "rftoolsbase:dimensionalshard"
+    },
+    "d": {
+      "tag": "forge:plates/diamond"
+    }
+  },
+  "pattern": [
+    " sds ",
+    " rRr ",
+    " ses ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolspower:power_core3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:ender_component"
+    }
+  ],
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "extendedcrafting:black_iron_slate"
+    },
+    {
+      "item": "extendedcrafting:luminessence"
+    },
+    {
+      "item": "extendedcrafting:ender_ingot"
+    },
+    {
+      "item": "extendedcrafting:ender_ingot"
+    },
+    {
+      "item": "extendedcrafting:ender_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcrafting:ender_component"
+    }
+  ]
+}
