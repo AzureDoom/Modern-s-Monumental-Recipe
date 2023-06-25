@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "forge:planks/acacia"
+      "item": "minecraft:acacia_planks"
     },
     "B": {
       "tag": "forge:hammers"
