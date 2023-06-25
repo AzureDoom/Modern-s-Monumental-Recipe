@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values":[
+    "#monumental:gadgets_blacklist",
     "immersiveengineering:alloy_smelter",
     "immersiveengineering:arc_furnace",
     "immersiveengineering:assembler",
