@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "speedyhoppers"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "speedyhoppers:speedyhopper_mk2"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:plates/gold"
+    },
+    "S": {
+      "item": "speedyhoppers:speedyhopper_mk1"
+    }
+  },
+  "pattern": [
+    "A A",
+    "ASA",
+    " A "
+  ],
+  "result": {
+    "item": "speedyhoppers:speedyhopper_mk2"
+  }
+}
