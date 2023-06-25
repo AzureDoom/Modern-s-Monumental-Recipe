@@ -1,0 +1,44 @@
+{
+  "type": "astralsorcery:altar",
+  "altar_type": 0,
+  "duration": 400,
+  "starlight": 2800,
+  "pattern": [
+    "_____",
+    "_AAA_",
+    "_CDC_",
+    "_BXB_",
+    "_____"
+  ],
+  "key": {
+    "A": {
+      "item": "bloodmagic:stonetilepath"
+    },
+    "B": {
+      "item": "naturesaura:tainted_gold"
+    },
+    "C": {
+      "tag": "botania:livingwood"
+    },
+    "D": {
+      "item": "forbidden_arcanus:purifying_soap"
+    },
+    "X": {
+      "item": "bloodmagic:blankrune"
+    }
+  },
+  "output": [
+    {
+      "item": "bloodmagic:alchemytable",
+      "count": 1
+    }
+  ],
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:large_dust_swirl",
+    "astralsorcery:built_in_effect_attunement_sparkle"
+  ]
+}
