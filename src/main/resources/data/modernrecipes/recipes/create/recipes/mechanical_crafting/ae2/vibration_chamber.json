@@ -20,7 +20,7 @@
       "item": "kubejs:compressed_iron_plate"
     },
     "B": {
-      "tag": "forge:furnaces"
+      "tag": "forge:furnace"
     },
     "C": {
       "item": "appliedenergistics2:energy_acceptor"
