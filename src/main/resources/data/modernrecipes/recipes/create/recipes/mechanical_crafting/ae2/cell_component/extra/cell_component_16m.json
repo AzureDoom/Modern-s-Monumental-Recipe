@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2extras:1m_cell_component"
+      "item": "ae2extras:16m_cell_component"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -19,7 +19,7 @@
       "item": "appliedenergistics2:calculation_processor"
     },
     "C": {
-      "item": "ae2extras:256k_cell_component"
+      "item": "ae2extras:4m_cell_component"
     },
     "D": {
       "item": "appliedenergistics2:quartz_glass"
@@ -34,6 +34,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2extras:1m_cell_component"
+    "item": "ae2extras:16m_cell_component"
   }
 }
