@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:quartz_fiber"
+      "item": "appliedenergistics2:quartz_fiber"
     }
   ],
   "type": "create:mixing",
@@ -27,7 +27,7 @@
   ],
   "results": [
     {
-      "item": "ae2:quartz_fiber"
+      "item": "appliedenergistics2:quartz_fiber"
     }
   ]
 }
