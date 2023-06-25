@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2extras:1m_cell_component"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "appliedenergistics2:sky_dust"
+    },
+    "B": {
+      "item": "appliedenergistics2:calculation_processor"
+    },
+    "C": {
+      "item": "appliedenergistics2:256k_cell_component"
+    },
+    "D": {
+      "item": "appliedenergistics2:quartz_glass"
+    }
+  },
+  "pattern": [
+    " ABA ",
+    " CDC ",
+    " ACA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2extras:1m_cell_component"
+  }
+}
