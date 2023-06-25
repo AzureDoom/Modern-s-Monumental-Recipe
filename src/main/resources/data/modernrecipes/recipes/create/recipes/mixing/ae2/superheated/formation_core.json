@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:formation_core"
+      "item": "appliedenergistics2:formation_core"
     }
   ],
   "type": "create:mixing",
@@ -19,12 +19,12 @@
       "tag": "forge:dusts/fluix"
     },
     {
-      "item": "ae2:logic_processor"
+      "item": "appliedenergistics2:logic_processor"
     }
   ],
   "results": [
     {
-      "item": "ae2:formation_core"
+      "item": "appliedenergistics2:formation_core"
     }
   ]
 }
