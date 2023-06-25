@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "forge:planks/dark_oak"
+      "item": "minecraft:dark_oak_planks"
     },
     "B": {
       "tag": "forge:hammers"
