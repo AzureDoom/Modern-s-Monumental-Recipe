@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:cell_component_4k"
+      "item": "appliedenergistics2:4k_cell_component"
     },
     {
       "type": "forge:item_exists",
@@ -20,13 +20,13 @@
       "item": "extendedcrafting:redstone_component"
     },
     "B": {
-      "item": "ae2:calculation_processor"
+      "item": "appliedenergistics2:calculation_processor"
     },
     "C": {
-      "item": "ae2:cell_component_1k"
+      "item": "appliedenergistics2:1k_cell_component"
     },
     "D": {
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     }
   },
   "pattern": [
@@ -38,6 +38,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:cell_component_4k"
+    "item": "appliedenergistics2:4k_cell_component"
   }
 }
