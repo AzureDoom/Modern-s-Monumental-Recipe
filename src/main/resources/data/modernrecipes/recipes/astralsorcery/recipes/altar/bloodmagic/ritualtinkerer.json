@@ -1,0 +1,41 @@
+{
+  "type": "astralsorcery:altar",
+  "altar_type": 0,
+  "duration": 40,
+  "starlight": 100,
+  "pattern": [
+    "_____",
+    "_BA__",
+    "_AC__",
+    "___D_",
+    "_____"
+  ],
+  "key": {
+    "A": {
+      "item": "bloodmagic:demonslate"
+    },
+    "B": {
+      "item": "bloodmagic:masterbloodorb"
+    },
+    "C": {
+      "item": "psi:cad_assembly_psimetal"
+    },
+    "D": {
+      "item": "astralsorcery:infused_glass"
+    }
+  },
+  "output": [
+    {
+      "item": "bloodmagic:ritualtinkerer",
+      "count": 1
+    }
+  ],
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:large_dust_swirl",
+    "astralsorcery:built_in_effect_attunement_sparkle"
+  ]
+}
