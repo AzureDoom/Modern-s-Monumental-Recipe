@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:altar",
+  "input": {
+    "item": "quark:white_rune"
+  },
+  "output": {
+    "item": "bloodmagic:blankslate"
+  },
+  "upgradeLevel": 1,
+  "altarSyphon": 3000,
+  "consumptionRate": 5,
+  "drainRate": 5
+}
