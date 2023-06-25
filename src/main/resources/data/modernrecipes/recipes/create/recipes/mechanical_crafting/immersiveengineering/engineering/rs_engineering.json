@@ -7,13 +7,17 @@
     {
       "type": "forge:item_exists",
       "item": "immersiveengineering:rs_engineering"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_ingot_block"
     }
   ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
     "C": {
-      "tag": "forge:storage_blocks/redstone_ingot"
+      "item": "extendedcrafting:redstone_ingot_block"
     },
     "W": {
       "tag": "forge:plates/steel"
