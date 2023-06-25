@@ -16,7 +16,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "C": {
-      "tag": "forge:workbench"
+      "tag": "forge:workbenches"
     },
     "M": {
       "item": "rftoolsutility:crafter1"
