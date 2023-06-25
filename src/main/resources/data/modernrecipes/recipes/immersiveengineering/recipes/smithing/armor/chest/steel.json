@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:armor_steel_chest"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "addition": {
+    "tag": "forge:plates/steel"
+  },
+  "result": {
+    "item": "immersiveengineering:armor_steel_chest"
+  }
+}
