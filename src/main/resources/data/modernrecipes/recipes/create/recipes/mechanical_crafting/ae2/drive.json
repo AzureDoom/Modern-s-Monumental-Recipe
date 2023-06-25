@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:drive"
+      "item": "appliedenergistics2:drive"
     },
     {
       "type": "forge:item_exists",
@@ -20,10 +20,10 @@
       "item": "kubejs:compressed_iron_plate"
     },
     "B": {
-      "item": "ae2:engineering_processor"
+      "item": "appliedenergistics2:engineering_processor"
     },
     "C": {
-      "item": "ae2:fluix_glass_cable"
+      "item": "appliedenergistics2:fluix_glass_cable"
     }
   },
   "pattern": [
@@ -35,6 +35,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:drive"
+    "item": "appliedenergistics2:drive"
   }
 }
