@@ -23,7 +23,6 @@
     "immersiveengineering:squeezer",
     "immersiveengineering:tank",
     "xnet:facade",
-    "sophisticatedbackpacks",
-    "refinedstorage"
+    "sophisticatedbackpacks:backpack"
   ]
 }
