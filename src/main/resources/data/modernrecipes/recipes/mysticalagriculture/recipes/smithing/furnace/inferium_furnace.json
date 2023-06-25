@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "tag": "forge:furnaces"
+    "tag": "forge:furnace"
   },
   "addition": {
     "item": "mysticalagriculture:inferium_block"
