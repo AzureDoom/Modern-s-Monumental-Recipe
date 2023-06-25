@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:fluid_cell_housing"
+      "item": "appliedenergistics2:fluid_cell_housing"
     },
     {
       "type": "forge:item_exists",
@@ -21,7 +21,7 @@
   "acceptMirrored": false,
   "key": {
     "A": {
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     },
     "B": {
       "item": "extendedcrafting:redstone_component"
@@ -39,6 +39,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:fluid_cell_housing"
+    "item": "appliedenergistics2:fluid_cell_housing"
   }
 }

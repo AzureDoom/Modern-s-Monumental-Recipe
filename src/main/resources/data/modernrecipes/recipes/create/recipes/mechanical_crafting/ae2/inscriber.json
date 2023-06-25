@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:inscriber"
+      "item": "appliedenergistics2:inscriber"
     },
     {
       "type": "forge:item_exists",
@@ -45,6 +45,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:inscriber"
+    "item": "appliedenergistics2:inscriber"
   }
 }
