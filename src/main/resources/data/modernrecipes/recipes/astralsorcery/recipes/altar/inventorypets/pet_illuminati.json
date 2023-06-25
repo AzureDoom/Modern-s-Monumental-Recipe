@@ -1,0 +1,38 @@
+{
+  "type": "astralsorcery:altar",
+  "altar_type": 0,
+  "duration": 100,
+  "starlight": 250,
+  "pattern": [
+    "_____",
+    "_QQQ_",
+    "_QPQ_",
+    "_QLQ_",
+    "_____"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:gems/mana_diamond"
+    },
+    "Q": {
+      "item": "compressium:emerald_1"
+    },
+    "L": {
+      "tag": "forge:nether_stars"
+    }
+  },
+  "output": [
+    {
+      "item": "inventorypets:pet_illuminati",
+      "count": 1
+    }
+  ],
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:large_dust_swirl",
+    "astralsorcery:built_in_effect_attunement_sparkle"
+  ]
+}
