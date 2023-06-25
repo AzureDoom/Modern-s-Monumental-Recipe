@@ -1,0 +1,20 @@
+{
+  "type": "astralsorcery:block_transmutation",
+  "input": [
+    {
+      "block": "twilightforest:uncrafting_table",
+      "display": {
+        "item": "twilightforest:uncrafting_table",
+        "count": 1
+      }
+    }
+  ],
+  "output": {
+    "block": "astralsorcery:altar_discovery"
+  },
+  "display": {
+    "item": "astralsorcery:altar_discovery",
+    "count": 1
+  },
+  "starlight": 60
+}
