@@ -6,23 +6,23 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:64k_cell_component"
+      "item": "appliedenergistics2:64k_fluid_cell_component"
     }
   ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
     "A": {
-      "tag": "forge:ingots/refined_glowstone"
+      "item": "modularrouters:fluid_module_2"
     },
     "B": {
-      "item": "ae2:calculation_processor"
+      "item": "appliedenergistics2:calculation_processor"
     },
     "C": {
-      "item": "ae2:16k_cell_component"
+      "item": "appliedenergistics2:16k_fluid_cell_component"
     },
     "D": {
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     }
   },
   "pattern": [
@@ -34,6 +34,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:64k_cell_component"
+    "item": "ae2:64k_fluid_cell_component"
   }
 }
