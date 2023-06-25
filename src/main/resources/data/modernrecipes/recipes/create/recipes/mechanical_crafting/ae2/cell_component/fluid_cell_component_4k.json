@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:4k_fluid_cell_component"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modularrouters:fluid_module_2"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "modularrouters:fluid_module_2"
+    },
+    "B": {
+      "item": "appliedenergistics2:calculation_processor"
+    },
+    "C": {
+      "item": "appliedenergistics2:1k_fluid_cell_component"
+    },
+    "D": {
+      "item": "appliedenergistics2:quartz_glass"
+    }
+  },
+  "pattern": [
+    " ABA ",
+    " CDC ",
+    " ACA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "appliedenergistics2:4k_fluid_cell_component"
+  }
+}
