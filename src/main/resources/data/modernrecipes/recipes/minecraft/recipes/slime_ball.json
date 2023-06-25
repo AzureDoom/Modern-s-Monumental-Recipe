@@ -1,41 +1,36 @@
 {
   "type": "hexerei:mixingcauldron",
-  "liquid": {
-    "fluid": "minecraft:water"
-  },
+  "liquid": "water",
   "ingredients": [
     {
-      "item": "reliquary:slime_pearl"
+      "item": "xreliquary:slime_pearl"
     },
     {
-      "item": "reliquary:slime_pearl"
+      "item": "xreliquary:slime_pearl"
     },
     {
-      "item": "reliquary:slime_pearl"
+      "item": "xreliquary:slime_pearl"
     },
     {
-      "item": "reliquary:slime_pearl"
+      "item": "xreliquary:slime_pearl"
     },
     {
-      "item": "reliquary:slime_pearl"
+      "item": "xreliquary:slime_pearl"
     },
     {
-      "item": "reliquary:slime_pearl"
+      "item": "xreliquary:slime_pearl"
     },
     {
-      "item": "reliquary:slime_pearl"
+      "item": "xreliquary:slime_pearl"
     },
     {
-      "item": "reliquary:slime_pearl"
+      "item": "xreliquary:slime_pearl"
     }
   ],
   "output": {
     "item": "minecraft:slime_ball",
     "count": 6
   },
-  "liquidOutput": {
-    "fluid": "minecraft:water"
-  },
-  "fluidLevelsConsumed": 100,
-  "heatRequirement": "heated"
+  "liquidOutput": "water",
+  "fluidLevelsConsumed": 100
 }
