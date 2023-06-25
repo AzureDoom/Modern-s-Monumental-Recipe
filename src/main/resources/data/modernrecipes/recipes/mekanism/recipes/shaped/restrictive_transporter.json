@@ -19,7 +19,7 @@
       "item": "kubejs:compressed_iron_plate"
     },
     "B": {
-      "tag": "chipped:iron_bars"
+      "item": "minecraft:iron_bars"
     },
     "C": {
       "item": "mekanism:basic_logistical_transporter"
