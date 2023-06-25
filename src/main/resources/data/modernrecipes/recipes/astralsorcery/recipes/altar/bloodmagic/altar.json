@@ -1,0 +1,58 @@
+{
+  "type": "astralsorcery:altar",
+  "altar_type": 30,
+  "duration": 200,
+  "starlight": 1400,
+  "pattern": [
+    "A___A",
+    "_ESE_",
+    "_GFD_",
+    "_BCB_",
+    "A___A"
+  ],
+  "key": {
+    "A": {
+      "item": "botania:livingrock"
+    },
+    "B": {
+      "item": "naturesaura:tainted_gold"
+    },
+    "C": {
+      "item": "astralsorcery:starmetal"
+    },
+    "D": {
+      "tag": "botania:runes/envy"
+    },
+    "E": {
+      "tag": "forge:blood"
+    },
+    "F": {
+      "tag": "forge:furnace"
+    },
+    "G": {
+      "tag": "botania:runes/wrath"
+    },
+    "H": {
+      "type": "astralsorcery:crystal",
+      "hasToBeAttuned": false,
+      "hasToBeCelestial": false,
+      "canBeAttuned": true,
+      "canBeCelestialCrystal": true
+    }
+  },
+  "output": [
+    {
+      "item": "bloodmagic:altar",
+      "count": 1
+    }
+  ],
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
+  ]
+}
