@@ -1,8 +1,6 @@
 {
   "type": "hexerei:mixingcauldron",
-  "liquid": {
-    "fluid": "minecraft:lava"
-  },
+  "liquid": "lava",
   "ingredients": [
     {
       "tag": "forge:plates/zinc"
@@ -32,9 +30,6 @@
   "output": {
     "item": "create:andesite_alloy"
   },
-  "liquidOutput": {
-    "fluid": "minecraft:lava"
-  },
-  "fluidLevelsConsumed": 1500,
-  "heatRequirement": "heated"
+  "liquidOutput": "lava",
+  "fluidLevelsConsumed": 1500
 }
