@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:1k_storage_part"
+      "item": "appliedenergistics2:1k_storage_part"
     },
     {
       "type": "forge:item_exists",
@@ -27,7 +27,7 @@
       "item": "extendedcrafting:redstone_component"
     },
     "X": {
-      "item": "ae2:1k_storage_part"
+      "item": "appliedenergistics2:1k_storage_part"
     },
     "I": {
       "item": "refinedstorage:basic_processor"
