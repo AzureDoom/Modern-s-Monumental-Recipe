@@ -18,7 +18,7 @@
       "tag": "forge:bricks/nether"
     },
     "C": {
-      "tag": "forge:blocks/quartz"
+      "tag": "forge:storage_blocks/quartz"
     },
     "D": {
       "tag": "forge:gems/quartz"
