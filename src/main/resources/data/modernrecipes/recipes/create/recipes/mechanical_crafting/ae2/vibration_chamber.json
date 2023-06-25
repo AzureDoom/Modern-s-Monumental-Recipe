@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:vibration_chamber"
+      "item": "appliedenergistics2:vibration_chamber"
     },
     {
       "type": "forge:item_exists",
@@ -23,7 +23,7 @@
       "tag": "forge:furnaces"
     },
     "C": {
-      "item": "ae2:energy_acceptor"
+      "item": "appliedenergistics2:energy_acceptor"
     }
   },
   "pattern": [
@@ -35,6 +35,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:vibration_chamber"
+    "item": "appliedenergistics2:vibration_chamber"
   }
 }
