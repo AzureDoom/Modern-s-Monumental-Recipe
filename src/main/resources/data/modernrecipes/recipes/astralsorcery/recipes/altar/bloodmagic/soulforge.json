@@ -1,0 +1,41 @@
+{
+  "type": "astralsorcery:altar",
+  "altar_type": 0,
+  "duration": 100,
+  "starlight": 200,
+  "pattern": [
+    "_____",
+    "_D_D_",
+    "_CAC_",
+    "_CBC_",
+    "_____"
+  ],
+  "key": {
+    "A": {
+      "item": "bloodmagic:basemonstersoul"
+    },
+    "B": {
+      "item": "iceandfire:dragonforge_fire_core_disabled"
+    },
+    "C": {
+      "item": "bloodmagic:blankrune"
+    },
+    "D": {
+      "item": "forbidden_arcanus:purifying_soap"
+    }
+  },
+  "output": [
+    {
+      "item": "bloodmagic:soulforge",
+      "count": 1
+    }
+  ],
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:large_dust_swirl",
+    "astralsorcery:built_in_effect_attunement_sparkle"
+  ]
+}
