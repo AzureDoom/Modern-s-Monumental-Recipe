@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:energy_acceptor"
+      "item": "appliedenergistics2:energy_acceptor"
     },
     {
       "type": "forge:item_exists",
@@ -23,7 +23,7 @@
       "tag": "forge:gems/fluix"
     },
     "C": {
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     }
   },
   "pattern": [
@@ -35,6 +35,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:energy_acceptor"
+    "item": "appliedenergistics2:energy_acceptor"
   }
 }
