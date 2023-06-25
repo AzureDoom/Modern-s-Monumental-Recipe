@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "forbidden_arcanus:deorum_boots"
+      "item": "forbidden_arcanus:arcane_gold_chestplate"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:netherite_boots"
+    "item": "minecraft:netherite_chestplate"
   },
   "addition": {
     "tag": "forge:ingots/deorum"
   },
   "result": {
-    "item": "forbidden_arcanus:deorum_boots"
+    "item": "forbidden_arcanus:arcane_gold_chestplate"
   }
 }
