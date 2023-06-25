@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:basic_fluid_tank"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_ingot"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    "B": {
+      "tag": "forge:plates/iron"
+    },
+    "C": {
+      "tag": "pneumaticcraft:fluid_tanks"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "ACA",
+    "BAB"
+  ],
+  "result": {
+    "item": "mekanism:basic_fluid_tank"
+  }
+}

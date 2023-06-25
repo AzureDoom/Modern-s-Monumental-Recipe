@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:black_iron_ingot"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:quartz_enriched_iron"
+    }
+  ],
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "item": "extendedcrafting:black_iron_ingot",
+      "count": 1
+    },
+    {
+      "tag": "forge:silicon",
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "refinedstorage:quartz_enriched_iron",
+      "count": 2
+    }
+  ],
+  "energy": 4800
+}

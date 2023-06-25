@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:supercharged_coil"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:circuits/ultimate"
+    },
+    "B": {
+      "item": "mekanism:laser"
+    },
+    "C": {
+      "tag": "forge:plates/bronze"
+    },
+    "D": {
+      "item": "mekanism:pellet_polonium"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "ABA",
+    "DDD"
+  ],
+  "result": {
+    "item": "mekanism:supercharged_coil"
+  }
+}
