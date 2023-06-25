@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:spatial_cell_component_16"
+      "item": "appliedenergistics2:16_cubed_spatial_cell_component"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -16,10 +16,10 @@
       "tag": "forge:ingots/refined_glowstone"
     },
     "B": {
-      "item": "ae2:spatial_cell_component_2"
+      "item": "appliedenergistics2:spatial_cell_component_2"
     },
     "C": {
-      "item": "ae2:engineering_processor"
+      "item": "appliedenergistics2:engineering_processor"
     }
   },
   "pattern": [
@@ -31,6 +31,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:spatial_cell_component_16"
+    "item": "appliedenergistics2:16_cubed_spatial_cell_component"
   }
 }

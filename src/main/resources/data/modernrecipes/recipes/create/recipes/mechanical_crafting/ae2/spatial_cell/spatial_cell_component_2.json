@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:spatial_cell_component_2"
+      "item": "ae2:2_cubed_spatial_cell_component"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -31,6 +31,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:spatial_cell_component_2"
+    "item": "ae2:2_cubed_spatial_cell_component"
   }
 }

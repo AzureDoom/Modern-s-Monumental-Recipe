@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:charger"
+      "item": "appliedenergistics2:charger"
     },
     {
       "type": "forge:item_exists",
@@ -42,6 +42,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:charger"
+    "item": "appliedenergistics2:charger"
   }
 }
