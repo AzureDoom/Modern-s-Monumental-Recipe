@@ -25,7 +25,7 @@
   "acceptMirrored": false,
   "key": {
     "B": {
-      "tag": "forge:furnaces"
+      "tag": "forge:furnace"
     },
     "C": {
       "tag": "forge:ingots/obsidian"
