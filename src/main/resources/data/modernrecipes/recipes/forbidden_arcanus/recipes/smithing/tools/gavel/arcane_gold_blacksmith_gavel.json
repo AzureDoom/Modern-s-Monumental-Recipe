@@ -14,7 +14,7 @@
     "item": "forbidden_arcanus:diamond_blacksmith_gavel"
   },
   "addition": {
-    "tag": "forge:ingots/deorum"
+    "tag": "forge:ingots/arcane_gold"
   },
   "result": {
     "item": "forbidden_arcanus:arcane_gold_blacksmith_gavel"
