@@ -2,9 +2,9 @@
   "type": "astralsorcery:block_transmutation",
   "input": [
     {
-      "block": "twilightforest:uncrafting_table",
+      "block": "minecraft:crafting_table",
       "display": {
-        "item": "twilightforest:uncrafting_table",
+        "tag": "forge:workbenches",
         "count": 1
       }
     }
