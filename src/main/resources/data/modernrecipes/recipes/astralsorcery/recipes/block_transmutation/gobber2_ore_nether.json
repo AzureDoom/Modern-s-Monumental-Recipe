@@ -1,0 +1,20 @@
+{
+  "type": "astralsorcery:block_transmutation",
+  "input": [
+    {
+      "block": "compressium:netherrack_6",
+      "display": {
+        "item": "compressium:netherrack_6",
+        "count": 1
+      }
+    }
+  ],
+  "output": {
+    "block": "gobber2:gobber2_ore_nether"
+  },
+  "display": {
+    "item": "gobber2:gobber2_ore_nether",
+    "count": 1
+  },
+  "starlight": 2500.0
+}
