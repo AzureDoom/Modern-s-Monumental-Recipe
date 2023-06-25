@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:altar",
+  "input": {
+    "item": "forbidden_arcanus:arcane_crystal_block"
+  },
+  "output": {
+    "item": "naturesaura:infused_stone"
+  },
+  "upgradeLevel": 2,
+  "altarSyphon": 25000,
+  "consumptionRate": 5,
+  "drainRate": 1
+}
