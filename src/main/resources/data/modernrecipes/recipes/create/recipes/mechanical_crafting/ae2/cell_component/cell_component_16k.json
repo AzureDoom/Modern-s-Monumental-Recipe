@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:cell_component_16k"
+      "item": "ae2:16k_cell_component"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -19,7 +19,7 @@
       "item": "ae2:calculation_processor"
     },
     "C": {
-      "item": "ae2:cell_component_4k"
+      "item": "ae2:4k_cell_component"
     },
     "D": {
       "item": "ae2:quartz_glass"
@@ -34,6 +34,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:cell_component_16k"
+    "item": "ae2:16k_cell_component"
   }
 }
