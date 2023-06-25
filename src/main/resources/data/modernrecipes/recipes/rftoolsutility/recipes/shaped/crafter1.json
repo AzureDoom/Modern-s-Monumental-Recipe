@@ -20,7 +20,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "C": {
-      "tag": "forge:workbench"
+      "tag": "forge:workbenches"
     },
     "M": {
       "item": "immersiveengineering:heavy_engineering"
