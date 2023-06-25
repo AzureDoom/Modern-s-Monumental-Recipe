@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "modularrouters"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modularrouters:extruder_module_1"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "modularrouters:breaker_module"
+  },
+  "addition": {
+    "item": "modularrouters:blank_module"
+  },
+  "result": {
+    "item": "modularrouters:extruder_module_1"
+  }
+}
