@@ -2,7 +2,7 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "appliedenergistics2"
+      "modid": "ae2"
     },
     {
       "type": "forge:item_exists",
@@ -17,7 +17,7 @@
       "item": "create:andesite_alloy"
     }
   ],
-  "type": "appliedenergistics2:inscriber",
+  "type": "ae2:inscriber",
   "ingredients": {
     "bottom": {
       "item": "create:andesite_alloy"
