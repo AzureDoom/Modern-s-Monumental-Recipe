@@ -18,7 +18,7 @@
       "item": "naturesaura:tainted_gold"
     },
     "C": {
-      "item": "forge:gems/aquamarine"
+      "tag": "forge:gems/aquamarine"
     },
     "D": {
       "item": "astralsorcery:marble_raw"
