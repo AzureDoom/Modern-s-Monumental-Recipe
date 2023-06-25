@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "forge:ingots/black_iron"
+      "item": "extendedcrafting:black_iron_ingot"
     },
     "B": {
       "tag": "forge:hammers"
