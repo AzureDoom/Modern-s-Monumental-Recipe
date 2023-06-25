@@ -6,23 +6,23 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:cell_component_256k"
+      "item": "ae2extras:256k_cell_component"
     }
   ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
     "A": {
-      "item": "ae2:sky_dust"
+      "item": "appliedenergistics2:sky_dust"
     },
     "B": {
-      "item": "ae2:calculation_processor"
+      "item": "appliedenergistics2:calculation_processor"
     },
     "C": {
-      "item": "ae2:cell_component_64k"
+      "item": "appliedenergistics2:64k_cell_component"
     },
     "D": {
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     }
   },
   "pattern": [
@@ -34,6 +34,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:cell_component_256k"
+    "item": "ae2extras:256k_cell_component"
   }
 }
