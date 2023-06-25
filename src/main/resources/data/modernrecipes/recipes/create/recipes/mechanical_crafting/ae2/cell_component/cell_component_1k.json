@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:cell_component_1k"
+      "item": "appliedenergistics2:1k_cell_component"
     },
     {
       "type": "forge:item_exists",
@@ -23,7 +23,7 @@
       "tag": "forge:gems/certus_quartz"
     },
     "C": {
-      "item": "ae2:logic_processor"
+      "item": "appliedenergistics2:logic_processor"
     }
   },
   "pattern": [
@@ -35,6 +35,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "ae2:cell_component_1k"
+    "item": "appliedenergistics2:1k_cell_component"
   }
 }
