@@ -1,0 +1,20 @@
+{
+  "type": "astralsorcery:block_transmutation",
+  "input": [
+    {
+      "block": "forbidden_arcanus:arcane_crystal_block",
+      "display": {
+        "item": "forbidden_arcanus:arcane_crystal_block",
+        "count": 1
+      }
+    }
+  ],
+  "output": {
+    "block": "naturesaura:infused_stone"
+  },
+  "display": {
+    "item": "naturesaura:infused_stone",
+    "count": 1
+  },
+  "starlight": 2500.0
+}
