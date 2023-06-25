@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "forbidden_arcanus:deorum_blacksmith_gavel"
+      "item": "forbidden_arcanus:arcane_gold_blacksmith_gavel"
     }
   ],
   "type": "minecraft:smithing",
@@ -17,6 +17,6 @@
     "tag": "forge:ingots/deorum"
   },
   "result": {
-    "item": "forbidden_arcanus:deorum_blacksmith_gavel"
+    "item": "forbidden_arcanus:arcane_gold_blacksmith_gavel"
   }
 }
