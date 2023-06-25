@@ -1,3 +1,4 @@
 v0.13
 
 - fixed broken Better Animals Plus Lammergier loot table
+- Fixed Some More broken loot tables
