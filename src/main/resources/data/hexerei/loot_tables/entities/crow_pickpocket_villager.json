@@ -50,7 +50,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:apple",
+          "name": "mysticalagriculture:nature_essence",
           "conditions": [
             {
               "condition": "entity_properties",
@@ -78,7 +78,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:carrot",
+          "name": "mysticalagriculture:nature_essence",
           "conditions": [
             {
               "condition": "entity_properties",
@@ -92,7 +92,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:potato",
+          "name": "mysticalagriculture:nature_essence",
           "conditions": [
             {
               "condition": "entity_properties",
@@ -106,7 +106,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:wheat",
+          "name": "mysticalagriculture:nature_essence",
           "conditions": [
             {
               "condition": "entity_properties",
@@ -154,7 +154,7 @@
 
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather",
+          "name": "mysticalagriculture:cow_essence",
           "conditions": [
             {
               "condition": "entity_properties",
