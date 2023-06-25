@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     }
   ],
   "type": "create:mixing",
@@ -24,7 +24,7 @@
   ],
   "results": [
     {
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     }
   ]
 }
