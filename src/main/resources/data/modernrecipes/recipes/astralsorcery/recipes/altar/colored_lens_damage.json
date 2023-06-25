@@ -15,7 +15,7 @@
       "item": "botania:manaweave_cloth"
     },
     "B": {
-      "item": "forge:gems/aquamarine"
+      "tag": "forge:gems/aquamarine"
     },
     "C": {
       "tag": "forge:ingots/manasteel"
