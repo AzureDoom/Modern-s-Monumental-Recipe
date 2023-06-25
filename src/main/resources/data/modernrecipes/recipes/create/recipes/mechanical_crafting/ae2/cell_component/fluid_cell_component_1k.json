@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:1k_fluid_cell_component"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "modularrouters:fluid_module_2"
+    },
+    "C": {
+      "tag": "forge:gems/certus_quartz"
+    },
+    "D": {
+      "item": "appliedenergistics2:logic_processor"
+    }
+  },
+  "pattern": [
+    " ACA ",
+    " CDC ",
+    " ACA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "appliedenergistics2:1k_fluid_cell_component"
+  }
+}
