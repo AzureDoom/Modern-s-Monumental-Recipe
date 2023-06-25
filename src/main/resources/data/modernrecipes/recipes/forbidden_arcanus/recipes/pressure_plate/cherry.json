@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "forbidden_arcanus:cherry_planks"
+      "item": "forbidden_arcanus:cherrywood_planks"
     },
     "B": {
       "tag": "forge:hammers"
