@@ -1,0 +1,38 @@
+{
+  "type": "astralsorcery:altar",
+  "altar_type": 0,
+  "duration": 100,
+  "starlight": 700,
+  "pattern": [
+    "_____",
+    "__Q__",
+    "_QPQ_",
+    "_LLL_",
+    "_____"
+  ],
+  "key": {
+    "P": {
+      "item": "waystones:warp_stone"
+    },
+    "Q": {
+      "tag": "botania:livingrock"
+    },
+    "L": {
+      "tag": "forge:ingots/obsidian"
+    }
+  },
+  "output": [
+    {
+      "item": "waystones:waystone",
+      "count": 1
+    }
+  ],
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:large_dust_swirl",
+    "astralsorcery:built_in_effect_attunement_sparkle"
+  ]
+}
