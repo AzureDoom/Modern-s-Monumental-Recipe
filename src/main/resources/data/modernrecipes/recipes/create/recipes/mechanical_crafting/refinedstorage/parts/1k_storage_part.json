@@ -10,11 +10,11 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:cell_component_1k"
+      "item": "appliedenergistics2:1k_cell_component"
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:quartz_vibrant_glass"
+      "item": "appliedenergistics2:quartz_vibrant_glass"
     },
     {
       "type": "forge:item_exists",
@@ -28,10 +28,10 @@
       "item": "refinedstorage:quartz_enriched_iron"
     },
     "G": {
-      "item": "ae2:cell_component_1k"
+      "item": "appliedenergistics2:1k_cell_component"
     },
     "X": {
-      "item": "ae2:quartz_vibrant_glass"
+      "item": "appliedenergistics2:quartz_vibrant_glass"
     },
     "I": {
       "tag": "forge:silicon"
