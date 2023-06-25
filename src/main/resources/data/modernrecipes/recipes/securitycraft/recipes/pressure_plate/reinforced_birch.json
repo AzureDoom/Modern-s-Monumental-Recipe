@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "securitycraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "securitycraft:reinforced_birch_pressure_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "securitycraft:reinforced_birch_planks"
+    },
+    "B": {
+      "tag": "forge:tools/hammers"
+    }
+  },
+  "pattern": [
+    " A ",
+    " A ",
+    " B "
+  ],
+  "result": {
+    "item": "securitycraft:reinforced_birch_pressure_plate"
+  }
+}
