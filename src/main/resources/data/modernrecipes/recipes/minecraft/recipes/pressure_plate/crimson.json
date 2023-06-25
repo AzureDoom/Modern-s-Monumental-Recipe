@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "forge:planks/crimson"
+      "item": "minecraft:crimson_planks"
     },
     "B": {
       "tag": "forge:hammers"
