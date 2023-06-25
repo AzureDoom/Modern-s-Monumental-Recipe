@@ -1,0 +1,35 @@
+{
+  "type": "astralsorcery:altar",
+  "altar_type": 0,
+  "duration": 100,
+  "starlight": 700,
+  "pattern": [
+    "_____",
+    "_QQQ_",
+    "_QPQ_",
+    "_QLQ_",
+    "_____"
+  ],
+  "key": {
+    "A": {
+      "item": "mysticalagriculture:soulium_dust"
+    },
+    "B": {
+      "tag": "botania:livingrock"
+    }
+  },
+  "output": [
+    {
+      "item": "mysticalagriculture:tinkering_table",
+      "count": 1
+    }
+  ],
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:large_dust_swirl",
+    "astralsorcery:built_in_effect_attunement_sparkle"
+  ]
+}
