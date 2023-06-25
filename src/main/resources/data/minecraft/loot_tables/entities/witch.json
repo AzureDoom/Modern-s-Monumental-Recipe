@@ -71,7 +71,7 @@
               "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "minecraft:redstone"
+          "name": "mysticalagriculture:redstone_essence"
         },
         {
           "type": "minecraft:item",
