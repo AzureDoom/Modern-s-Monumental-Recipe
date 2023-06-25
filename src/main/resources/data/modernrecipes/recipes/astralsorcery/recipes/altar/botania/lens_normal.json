@@ -15,7 +15,7 @@
       "item": "astralsorcery:glass_lens"
     },
     "L": {
-      "item": "forge:ingots/manasteel"
+      "tag": "forge:ingots/manasteel"
     }
   },
   "output": [
