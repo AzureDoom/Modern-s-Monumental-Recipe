@@ -7,7 +7,7 @@
     "fluid": "minecraft:water"
   },
   "item_input": {
-    "tag": "minecraft:terracotta"
+    "tag": "forge:terracotta"
   },
   "item_output": {
     "count": 4,
