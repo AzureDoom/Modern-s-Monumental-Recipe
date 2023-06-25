@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:bronze_gear"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:press_gear_die"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:andesite_alloy"
+    }
+  ],
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "item": "create:andesite_alloy"
+    },
+    "middle": {
+      "item": "thermal:press_gear_die"
+    },
+    "top": {
+      "tag": "forge:ingots/bronze"
+    }
+  },
+  "mode": "press",
+  "result": {
+    "item": "alltheores:bronze_gear"
+  }
+}
