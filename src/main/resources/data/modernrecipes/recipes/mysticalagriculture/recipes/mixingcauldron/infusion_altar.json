@@ -1,8 +1,6 @@
 {
   "type": "hexerei:mixingcauldron",
-  "liquid": {
-    "fluid": "minecraft:lava"
-  },
+  "liquid": "lava",
   "ingredients": [
     {
       "tag": "forge:ingots/obsidian"
@@ -14,13 +12,13 @@
       "tag": "forge:ingots/obsidian"
     },
     {
-      "tag": "botania:livingwood_logs"
+      "tag": "botania:livingwood"
     },
     {
-      "tag": "botania:livingwood_logs"
+      "tag": "botania:livingwood"
     },
     {
-      "tag": "botania:livingwood_logs"
+      "tag": "botania:livingwood"
     },
     {
       "tag": "forge:ingots/obsidian"
@@ -32,9 +30,6 @@
   "output": {
     "item": "mysticalagriculture:infusion_altar"
   },
-  "liquidOutput": {
-    "fluid": "minecraft:lava"
-  },
-  "fluidLevelsConsumed": 1500,
-  "heatRequirement": "heated"
+  "liquidOutput": "lava",
+  "fluidLevelsConsumed": 1500
 }
