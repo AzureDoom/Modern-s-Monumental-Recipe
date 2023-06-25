@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:platinum_plate"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/platinum"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:platinum_plate"
+    }
+  ]
+}
