@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:shears",
+    "#forge:shears/cobble",
+    "#forge:shears/wooden",
+    "#forge:shears/gold",
+    "#forge:shears/flint",
+    "#forge:shears/lapis",
+    "#forge:shears/clay"
+  ]
+}
