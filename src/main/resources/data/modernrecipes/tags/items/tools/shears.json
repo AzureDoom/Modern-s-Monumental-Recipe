@@ -7,6 +7,15 @@
     "#forge:shears/gold",
     "#forge:shears/flint",
     "#forge:shears/lapis",
-    "#forge:shears/clay"
+    "#forge:shears/clay",
+    "#forge:shears/copper",
+    "#forge:shears/amethyst",
+    "#forge:shears/diamond",
+    "#forge:shears/emerald",
+    "#forge:shears/obsidian",
+    "#forge:shears/netherite",
+    "#forge:shears/warden",
+    "#forge:shears/star",
+    "forcecraft:force_shears",
   ]
 }
