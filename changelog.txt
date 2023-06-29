@@ -1,7 +1,3 @@
-v0.15
+v0.16
 
-- Added CreateDeco Iron sheet metal to forge:sheetmetals/iron
-- Fixed Broken Refined Storage 4k Recipe
-- Added Loot bundle Fragments to Forge:leather tag to make my life easier
-- fix some tool support
-- Updated compass tag
+- removed a broken tag
