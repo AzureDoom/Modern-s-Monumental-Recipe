@@ -14,7 +14,7 @@
     "item": "minecraft:chainmail_boots"
   },
   "addition": {
-    "tag": "forbidden_arcanus:cloth"
+    "items": "forbidden_arcanus:cloth"
   },
   "result": {
     "item": "forbidden_arcanus:mortem_boots"
