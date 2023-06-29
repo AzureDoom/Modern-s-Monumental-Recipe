@@ -14,7 +14,7 @@
     "item": "minecraft:chainmail_helmet"
   },
   "addition": {
-    "tag": "forbidden_arcanus:cloth"
+    "item": "forbidden_arcanus:cloth"
   },
   "result": {
     "item": "forbidden_arcanus:mortem_helmet"
