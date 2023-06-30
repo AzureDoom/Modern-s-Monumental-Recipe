@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ad_astra"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ad_astra:space_helmet"
+    }
+  ],
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "tag": "forge:glass_panes"
+  },
+  "base": {
+    "item": "minecraft:chainmail_helmet"
+  },
+  "addition": {
+    "tag": "forge:glass_panes"
+  },
+  "result": {
+    "item": "ad_astra:space_helmet",
+    "count": 1
+  }
+}
