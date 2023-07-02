@@ -30,7 +30,7 @@
     }
   ],
   "output": {
-    "item": "create:andesite_alloy"
+    "item": "extendedcrafting:luminessence"
   },
   "liquidOutput": {
     "fluid": "minecraft:lava"
