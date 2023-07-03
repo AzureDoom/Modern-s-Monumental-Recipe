@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cyclic:dead_pressure_plate"
+      "item": "cyclic:copper_pressure_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
