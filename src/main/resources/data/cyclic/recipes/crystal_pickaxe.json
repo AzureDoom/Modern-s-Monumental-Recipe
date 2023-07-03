@@ -1,20 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-	"ccc",    
-    " d ",
-    " d "
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:crystal_pickaxe"
+    }
   ],
-  "key": {
-  	"d": {
-  		"item":"minecraft:diamond"
-  	},
-  	"c": {
-  		"item":"cyclic:gem_obsidian"
-  	}
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "tag": "forge:gems/diamond"
   },
   "result": {
-    "item": "cyclic:crystal_pickaxe",
-    "count": 1
+    "item": "cyclic:crystal_pickaxe"
   }
 }
