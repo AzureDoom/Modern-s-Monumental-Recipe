@@ -9,7 +9,10 @@
       "item": "alexsmobs:crocodile_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "alexsmobs:crocodile_scute"
+  },
   "base": {
     "item": "minecraft:iron_chestplate"
   },
@@ -17,6 +20,7 @@
     "item": "alexsmobs:crocodile_scute"
   },
   "result": {
-    "item": "alexsmobs:crocodile_chestplate"
+    "item": "alexsmobs:crocodile_chestplate",
+    "count": 1
   }
 }
