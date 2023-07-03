@@ -1,20 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-	"c",    
-    "d",
-    "d"
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:crystal_shovel"
+    }
   ],
-  "key": {
-  	"d": {
-  		"item":"minecraft:diamond"
-  	},
-  	"c": {
-  		"item":"cyclic:gem_obsidian"
-  	}
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "addition": {
+    "tag": "forge:gems/diamond"
   },
   "result": {
-    "item": "cyclic:crystal_shovel",
-    "count": 1
+    "item": "cyclic:crystal_shovel"
   }
 }
