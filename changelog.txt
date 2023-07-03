@@ -2,3 +2,4 @@ v0.17
 
 - removed a broken tag
 - Fixed a broken recipe
+- Added Luminessence Custom Recipe
