@@ -1,20 +1,8 @@
 {
   "values": [
-    "ad_astra:hammer",
-    "framedblocks:framed_hammer",
-    "immersiveengineering:hammer",
-    "hexerei:warhammer",
-    "alltheores:copper_ore_hammer",
-    "alltheores:iron_ore_hammer",
-    "alltheores:bronze_ore_hammer",
-    "alltheores:invar_ore_hammer",
-    "alltheores:platinum_ore_hammer",
+    "#alltheores:ore_hammers",
+    "mutantmonsters:hulk_hammer",
     "doom:sentinelhammer",
-    "gobber2:gobber2_hammer",
-    "gobber2:gobber2_hammer_nether",
-    "gobber2:gobber2_hammer_end",
-    "mcwroofs:roofing_hammer",
-    "mcwwindows:hammer",
-    "mutantmonsters:hulk_hammer"
+    "ad_astra:hammer"
   ]
 }
