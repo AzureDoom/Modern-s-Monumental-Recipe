@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "minecraft:netherite_axe"
+      "item": "minecraft:netherite_pickaxe"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_axe"
+    "item": "minecraft:diamond_pickaxe"
   },
   "addition": {
-    "tag": "forge:storage_blocks/netherite"
+    "tag": "forge:ingots/netherite"
   },
   "result": {
-    "item": "minecraft:netherite_axe"
+    "item": "minecraft:netherite_pickaxe"
   }
 }
