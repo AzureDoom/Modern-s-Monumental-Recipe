@@ -2,7 +2,7 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "aquaculture"
+      "modid": "alexsmobs"
     },
     {
       "type": "forge:item_exists",
