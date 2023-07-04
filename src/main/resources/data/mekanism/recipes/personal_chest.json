@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:personal_chest"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_glass"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:chests/wooden"
+    },
+    "B": {
+      "tag": "forge:circuits/basic"
+    },
+    "C": {
+      "tag": "forge:ingots/steel"
+    },
+    "D": {
+      "item": "ae2:quartz_glass"
+    }
+  },
+  "pattern": [
+    "CDC",
+    "ABA",
+    "DDD"
+  ],
+  "result": {
+    "item": "mekanism:personal_chest"
+  }
+}
