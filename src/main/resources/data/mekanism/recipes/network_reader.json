@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:network_reader"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_glass"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "ae2:quartz_glass"
+    },
+    "B": {
+      "tag": "forge:plates/steel"
+    },
+    "C": {
+      "tag": "mekanism:alloys/infused"
+    },
+    "D": {
+      "item": "mekanism:energy_tablet"
+    }
+  },
+  "pattern": [
+    " A ",
+    "CDC",
+    " B "
+  ],
+  "result": {
+    "item": "mekanism:network_reader"
+  }
+}
