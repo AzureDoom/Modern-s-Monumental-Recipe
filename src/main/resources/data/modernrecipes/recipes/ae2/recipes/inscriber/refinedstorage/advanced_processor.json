@@ -2,11 +2,11 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "extrastorage"
+      "modid": "refinedstorage"
     },
     {
       "type": "forge:item_exists",
-      "item": "extrastorage:neural_processor"
+      "item": "refinedstorage:advanced_processor"
     }
   ],
   "type": "ae2:inscriber",
@@ -18,11 +18,11 @@
       "item": "extendedcrafting:redstone_component"
     },
     "top": {
-      "item": "extrastorage:raw_neural_processor"
+      "item": "refinedstorage:raw_advanced_processor"
     }
   },
   "mode": "inscribe",
   "result": {
-    "item": "extrastorage:neural_processor"
+    "item": "refinedstorage:advanced_processor"
   }
 }

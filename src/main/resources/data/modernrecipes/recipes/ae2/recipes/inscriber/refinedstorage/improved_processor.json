@@ -2,11 +2,11 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "extradisks"
+      "modid": "refinedstorage"
     },
     {
       "type": "forge:item_exists",
-      "item": "extradisks:withering_processor"
+      "item": "refinedstorage:improved_processor"
     }
   ],
   "type": "ae2:inscriber",
@@ -18,11 +18,11 @@
       "item": "extendedcrafting:redstone_component"
     },
     "top": {
-      "item": "extradisks:raw_withering_processor"
+      "item": "refinedstorage:raw_improved_processor"
     }
   },
   "mode": "inscribe",
   "result": {
-    "item": "extradisks:withering_processor"
+    "item": "refinedstorage:improved_processor"
   }
 }
