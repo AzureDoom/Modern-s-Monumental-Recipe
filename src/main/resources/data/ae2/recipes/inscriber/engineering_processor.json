@@ -1,0 +1,18 @@
+{
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "tag": "forge:silicon"
+    },
+    "middle": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "top": {
+      "item": "ae2:printed_engineering_processor"
+    }
+  },
+  "mode": "press",
+  "result": {
+    "item": "ae2:engineering_processor"
+  }
+}
