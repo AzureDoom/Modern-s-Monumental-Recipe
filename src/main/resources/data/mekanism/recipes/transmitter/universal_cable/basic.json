@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:basic_pressurized_tube"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "kubejs:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modularrouters:energy_distributor_module"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "kubejs:compressed_iron_plate"
+    },
+    "B": {
+      "item": "modularrouters:energy_distributor_module"
+    }
+  },
+  "pattern": [
+    "   ",
+    "ABA",
+    "   "
+  ],
+  "result": {
+    "item": "mekanism:basic_pressurized_tube",
+    "count": 4
+  }
+}
