@@ -1,15 +1,34 @@
 {
-  "type": "ae2:inscriber",
-  "ingredients": {
-    "middle": {
-      "item": "minecraft:iron_block"
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
     },
-    "top": {
+    {
+      "type": "forge:item_exists",
       "item": "ae2:calculation_processor_press"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsutility:timer"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "mysticalagriculture:certus_quartz_essence"
+    },
+    "C": {
+      "item": "rftoolsutility:timer"
     }
   },
-  "mode": "inscribe",
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
   "result": {
-    "item": ""
+    "count": 2,
+    "item": "ae2:calculation_processor_press"
   }
 }
