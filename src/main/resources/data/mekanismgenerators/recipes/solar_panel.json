@@ -2,11 +2,11 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "mekanism"
+      "modid": "mekanismgenerators"
     },
     {
       "type": "forge:item_exists",
-      "item": "mekanism:solar_panel"
+      "item": "mekanismgenerators:solar_panel"
     },
     {
       "type": "forge:item_exists",
@@ -38,6 +38,6 @@
     "OOO"
   ],
   "result": {
-    "item": "mekanism:solar_panel"
+    "item": "mekanismgenerators:solar_panel"
   }
 }

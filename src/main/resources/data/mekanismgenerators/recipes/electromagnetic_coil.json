@@ -2,11 +2,15 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "mekanism"
+      "modid": "mekanismgenerators"
     },
     {
       "type": "forge:item_exists",
-      "item": "mekanism:electromagnetic_coil"
+      "item": "mekanismgenerators:electromagnetic_coil"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "createaddition:tesla_coil"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -18,7 +22,7 @@
       "tag": "forge:plates/electrum"
     },
     "E": {
-      "item": "mekanism:energy_tablet"
+      "item": "createaddition:tesla_coil"
     }
   },
   "pattern": [
@@ -27,6 +31,6 @@
     "SIS"
   ],
   "result": {
-    "item": "mekanism:electromagnetic_coil"
+    "item": "mekanismgenerators:electromagnetic_coil"
   }
 }
