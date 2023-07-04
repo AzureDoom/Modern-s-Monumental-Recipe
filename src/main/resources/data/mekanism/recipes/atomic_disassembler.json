@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:atomic_disassembler"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "item": "mekanism:energy_tablet"
+    },
+    "R": {
+      "tag": "mekanism:alloys/reinforced"
+    },
+    "U": {
+      "tag": "forge:circuits/ultimate"
+    },
+    "S": {
+      "tag": "forge:ingots/elementium"
+    }
+  },
+  "pattern": [
+    "RER",
+    "RUR",
+    " S "
+  ],
+  "result": {
+    "item": "mekanism:atomic_disassembler"
+  }
+}
