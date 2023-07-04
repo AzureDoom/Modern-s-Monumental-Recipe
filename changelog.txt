@@ -1,3 +1,4 @@
 v0.18
 
-- Major changed, Moved some recipe location
+- Major changed, Moved some recipe location Part 1
+- Fixed Broken Sophisticated Storage Upgrade Recipe
