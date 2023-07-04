@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mekanism:ultimate_tier_installer"
+      "item": "mekanism:basic_pressurized_tube"
     },
     {
       "type": "forge:item_exists",
