@@ -168,7 +168,7 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "add": false,
+              "add": true,
               "count": {
                 "type": "minecraft:uniform",
                 "max": 1.0,
@@ -178,7 +178,7 @@
             }
           ],
           "name": "minecraft:smithing_table",
-          "weight": 5
+          "weight": 10
         },
         {
           "type": "minecraft:item",
