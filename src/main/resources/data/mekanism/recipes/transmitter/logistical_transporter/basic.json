@@ -23,7 +23,7 @@
       "item": "kubejs:compressed_iron_plate"
     },
     "C": {
-      "tag": "viescraftmachines:kit_framework"
+      "item": "viescraftmachines:kit_framework"
     },
     "B": {
       "tag": "forge:circuits/basic"
