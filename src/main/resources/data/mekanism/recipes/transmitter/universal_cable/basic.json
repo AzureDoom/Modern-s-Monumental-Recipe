@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mekanism:basic_pressurized_tube"
+      "item": "mekanism:basic_universal_cable"
     },
     {
       "type": "forge:item_exists",
@@ -32,7 +32,7 @@
     "   "
   ],
   "result": {
-    "item": "mekanism:basic_pressurized_tube",
+    "item": "mekanism:basic_universal_cable",
     "count": 4
   }
 }
