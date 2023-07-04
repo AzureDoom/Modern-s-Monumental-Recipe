@@ -14,7 +14,7 @@
     "item": "bettershears3:gold_shears"
   },
   "addition": {
-    "tag": "forge:storage_blocks/diamond"
+    "tag": "forge:gems/diamond"
   },
   "result": {
     "item": "bettershears3:diamond_shears"
