@@ -10,10 +10,6 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
-    },
-    {
-      "type": "forge:item_exists",
       "item": "material_elements:leather_sheet"
     }
   ],
@@ -23,7 +19,7 @@
       "item": "material_elements:leather_sheet"
     },
     "E": {
-      "item": "kubejs:compressed_iron_plate"
+      "tag": "forge:plates/steel"
     },
     "G": {
       "tag": "forge:string"
