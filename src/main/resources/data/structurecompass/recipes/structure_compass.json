@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "structurecompass"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "structurecompass:structure_compass"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:compass"
+  },
+  "addition": {
+    "item": "minecraft:carved_pumpkin"
+  },
+  "result": {
+    "item": "structurecompass:structure_compass"
+  }
+}
