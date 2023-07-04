@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanismgenerators"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanismgenerators:reactor_glass"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_glass"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "ae2:quartz_glass"
+    },
+    "I": {
+      "tag": "forge:ingots/lead"
+    },
+    "E": {
+      "item": "mekanism:enriched_iron"
+    }
+  },
+  "pattern": [
+    "SIS",
+    "IEI",
+    "SIS"
+  ],
+  "result": {
+    "item": "mekanismgenerators:reactor_glass",
+    "count": 2
+  }
+}
