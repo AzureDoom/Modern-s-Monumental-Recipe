@@ -6,10 +6,10 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "minecraft:iron_chestplate"
+    "item": "minecraft:iron_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "template": {
     "tag": "forge:ingots/iron"
   },
@@ -20,6 +20,7 @@
     "tag": "forge:ingots/iron"
   },
   "result": {
-    "item": "minecraft:iron_chestplate"
+    "item": "minecraft:iron_chestplate",
+    "count": 1
   }
 }
