@@ -9,7 +9,7 @@
       "item": "minecraft:golden_boots"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "template": {
     "tag": "forge:ingots/gold"
   },
@@ -20,6 +20,7 @@
     "tag": "forge:ingots/gold"
   },
   "result": {
-    "item": "minecraft:golden_boots"
+    "item": "minecraft:golden_boots",
+    "count": 1
   }
 }
