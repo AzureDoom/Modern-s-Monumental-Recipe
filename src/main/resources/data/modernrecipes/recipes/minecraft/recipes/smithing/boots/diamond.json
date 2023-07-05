@@ -6,10 +6,10 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "minecraft:golden_boots"
+      "item": "minecraft:diamond_boots"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "template": {
     "tag": "forge:gems/diamond"
   },
@@ -20,6 +20,7 @@
     "tag": "forge:gems/diamond"
   },
   "result": {
-    "item": "minecraft:diamond_boots"
+    "item": "aquaculture:diamond_boots",
+    "count": 1
   }
 }
