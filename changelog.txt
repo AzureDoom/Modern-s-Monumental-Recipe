@@ -1,3 +1,4 @@
 v0.20
 
-- Major changed, Moved some recipe location Part 3
+- Fixed some Broken Stuff
+- Marked as Release
