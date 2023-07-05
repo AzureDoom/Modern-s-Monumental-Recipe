@@ -9,7 +9,7 @@
       "item": "minecraft:diamond_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "template": {
     "tag": "forge:gems/diamond"
   },
@@ -20,6 +20,7 @@
     "tag": "forge:gems/diamond"
   },
   "result": {
-    "item": "minecraft:diamond_chestplate"
+    "item": "minecraft:diamond_chestplate",
+    "count": 1
   }
 }
