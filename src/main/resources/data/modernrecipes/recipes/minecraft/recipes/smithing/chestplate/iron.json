@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "minecraft:chainmail_chestplate"
+      "item": "minecraft:iron_chestplate"
     }
   ],
   "type": "minecraft:smithing",
