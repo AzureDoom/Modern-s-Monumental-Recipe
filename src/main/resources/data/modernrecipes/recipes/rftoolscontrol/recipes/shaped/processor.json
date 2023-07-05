@@ -1,0 +1,47 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rftoolscontrol"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolscontrol:processor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:polished_rose_quartz"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:heavy_engineering"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "M": {
+      "item": "rftoolscontrol:card_base"
+    },
+    "q": {
+      "item": "create:polished_rose_quartz"
+    },
+    "r": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "F": {
+      "item": "immersiveengineering:heavy_engineering"
+    }
+  },
+  "pattern": [
+    "rqr",
+    "MFM",
+    "rqr"
+  ],
+  "result": {
+    "item": "rftoolscontrol:processor"
+  }
+}

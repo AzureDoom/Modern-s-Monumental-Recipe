@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "notenoughwands"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:teleportation_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:enderman_essence"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:enderman_essence"
+  },
+  "addition": {
+    "item": "notenoughwands:wand_core"
+  },
+  "result": {
+    "item": "notenoughwands:teleportation_wand"
+  }
+}

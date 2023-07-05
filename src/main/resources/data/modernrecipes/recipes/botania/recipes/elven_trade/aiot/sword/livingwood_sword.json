@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aiotbotania:livingwood_sword"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_sword"
+    },
+    {
+      "tag": "botania:livingwood_logs"
+    }
+  ],
+  "output": [
+    {
+      "item": "aiotbotania:livingwood_sword"
+    }
+  ]
+}

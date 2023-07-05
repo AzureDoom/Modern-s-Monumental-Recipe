@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:hdpe_sheet"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "mekanism:hdpe_pellet"
+    }
+  ],
+  "results": [
+    {
+      "item": "mekanism:hdpe_sheet"
+    }
+  ]
+}

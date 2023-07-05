@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "torchmaster"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "torchmaster:dreadlamp"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "reliquary:lantern_of_paranoia"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "tag": "forge:obsidian"
+    },
+    "G": {
+      "tag": "forge:glass_panes"
+    },
+    "D": {
+      "item": "reliquary:lantern_of_paranoia"
+    },
+    "L": {
+      "tag": "forge:dyes/black"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "GDG",
+    "TLT"
+  ],
+  "result": {
+    "item": "torchmaster:dreadlamp"
+  }
+}

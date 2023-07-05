@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:the_ultimate_component"
+    }
+  ],
+  "type": "create:compacting",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "extendedcrafting:basic_component"
+    },
+    {
+      "item": "extendedcrafting:redstone_component"
+    },
+    {
+      "item": "extendedcrafting:ender_component"
+    },
+    {
+      "item": "extendedcrafting:enhanced_ender_component"
+    },
+    {
+      "item": "extendedcrafting:crystaltine_component"
+    },
+    {
+      "item": "extendedcrafting:ultimate_component"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcrafting:the_ultimate_component"
+    }
+  ]
+}

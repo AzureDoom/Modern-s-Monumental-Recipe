@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:swap_ring"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "forge:storage_blocks/clay"
+  },
+  "addition": {
+    "tag": "forge:ingots/manasteel"
+  },
+  "result": {
+    "item": "botania:swap_ring"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:swapping_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "sophisticatedbackpacks:tool_swapper_upgrade"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "sophisticatedbackpacks:tool_swapper_upgrade"
+    },
+    {
+      "item": "notenoughwands:wand_core"
+    }
+  ],
+  "output": [
+    {
+      "item": "notenoughwands:swapping_wand"
+    }
+  ]
+}

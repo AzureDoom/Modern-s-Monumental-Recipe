@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:ender_ingot"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/enderium"
+    },
+    {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcrafting:ender_ingot"
+    }
+  ]
+}

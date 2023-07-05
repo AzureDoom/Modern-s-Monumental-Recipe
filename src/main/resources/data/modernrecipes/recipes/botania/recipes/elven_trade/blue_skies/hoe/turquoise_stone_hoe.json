@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "blue_skies:turquoise_stone_hoe"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_hoe"
+    },
+    {
+      "item": "blue_skies:turquoise_cobblestone"
+    }
+  ],
+  "output": [
+    {
+      "item": "blue_skies:turquoise_stone_hoe"
+    }
+  ]
+}

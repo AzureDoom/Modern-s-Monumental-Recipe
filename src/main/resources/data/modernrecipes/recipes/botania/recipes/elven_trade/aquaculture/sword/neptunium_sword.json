@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aquaculture:neptunium_sword"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_sword"
+    },
+    {
+      "tag": "forge:ingots/neptunium"
+    }
+  ],
+  "output": [
+    {
+      "item": "aquaculture:neptunium_sword"
+    }
+  ]
+}

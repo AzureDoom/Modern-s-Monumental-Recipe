@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "notenoughwands"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:swapping_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "sophisticatedbackpacks:tool_swapper_upgrade"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "sophisticatedbackpacks:tool_swapper_upgrade"
+  },
+  "addition": {
+    "item": "notenoughwands:wand_core"
+  },
+  "result": {
+    "item": "notenoughwands:swapping_wand"
+  }
+}

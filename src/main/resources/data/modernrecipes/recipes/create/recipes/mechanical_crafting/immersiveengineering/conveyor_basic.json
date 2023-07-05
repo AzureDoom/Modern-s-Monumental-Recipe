@@ -1,0 +1,44 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:conveyor_basic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:belt_connector"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:electron_tube"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "X": {
+      "item": "create:belt_connector"
+    },
+    "C": {
+      "tag": "forge:sheetmetals/iron"
+    },
+    "T": {
+      "item": "immersiveengineering:electron_tube"
+    }
+  },
+  "pattern": [
+    "     ",
+    " XXX ",
+    " CTC ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 2,
+    "item": "immersiveengineering:conveyor_basic"
+  }
+}

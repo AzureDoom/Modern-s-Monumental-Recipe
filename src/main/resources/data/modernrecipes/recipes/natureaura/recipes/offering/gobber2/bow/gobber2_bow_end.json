@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_bow_end"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "gobber2:gobber2_rod_end"
+    },
+    "start_item": {
+        "tag": "forge:string"
+    },
+    "output": {
+        "item": "gobber2:gobber2_bow_end"
+  }
+}

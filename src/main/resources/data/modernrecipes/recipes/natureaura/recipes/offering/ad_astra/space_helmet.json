@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ad_astra:space_helmet"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:glass_panes"
+    },
+    "start_item": {
+        "item": "minecraft:chainmail_chestplate"
+    },
+    "output": {
+        "item": "ad_astra:space_helmet"
+  }
+}

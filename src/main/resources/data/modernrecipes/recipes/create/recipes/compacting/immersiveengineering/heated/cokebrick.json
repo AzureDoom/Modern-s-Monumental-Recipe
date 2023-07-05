@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:cokebrick"
+    }
+  ],
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:alloybrick"
+    },
+    {
+      "item": "immersiveengineering:alloybrick"
+    },
+    {
+      "item": "immersiveengineering:alloybrick"
+    },
+    {
+      "item": "immersiveengineering:alloybrick"
+    },
+    {
+      "tag": "forge:sandstone"
+    },
+    {
+      "tag": "forge:storage_blocks/concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:cokebrick",
+      "count": 2
+    }
+  ]
+}

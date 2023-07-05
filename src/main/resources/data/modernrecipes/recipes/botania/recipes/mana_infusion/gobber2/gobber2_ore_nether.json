@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_ore_nether"
+    }
+  ],
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:conjuration_catalyst"
+  },
+  "input": {
+    "item": "compressium:netherrack_6"
+  },
+  "mana": 2000,
+  "output": {
+    "count": 2,
+    "item": "gobber2:gobber2_ore_nether"
+  }
+}

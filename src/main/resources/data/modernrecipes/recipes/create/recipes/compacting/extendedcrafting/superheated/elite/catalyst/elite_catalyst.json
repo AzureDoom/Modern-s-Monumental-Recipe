@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:elite_catalyst"
+    }
+  ],
+  "type": "create:compacting",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "extendedcrafting:elite_component"
+    },
+    {
+      "item": "extendedcrafting:elite_component"
+    },
+    {
+      "item": "extendedcrafting:elite_component"
+    },
+    {
+      "item": "extendedcrafting:elite_component"
+    },
+    {
+      "item": "extendedcrafting:black_iron_ingot"
+    },
+    {
+      "item": "extendedcrafting:black_iron_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcrafting:elite_catalyst"
+    }
+  ]
+}

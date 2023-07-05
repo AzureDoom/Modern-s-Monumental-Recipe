@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:mechanical_press"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "tag": "forge:plates/iron"
+    },
+    "S": {
+      "item": "create:cogwheel"
+    },
+    "C": {
+      "item": "create:andesite_casing"
+    },
+    "I": {
+      "tag": "modernrecipes:piston"
+    },
+    "B": {
+      "item": "create:shaft"
+    }
+  },
+  "pattern": [
+    "WBW",
+    "SCS",
+    "WIW"
+  ],
+  "result": {
+    "item": "create:mechanical_press"
+  }
+}

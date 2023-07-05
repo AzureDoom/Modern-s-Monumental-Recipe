@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:upgrade_augment_3"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "thermal:enderium_glass"
+    },
+    "I": {
+      "tag": "forge:plates/electrum"
+    },
+    "R": {
+      "tag": "forge:gears/lumium"
+    },
+    "X": {
+      "item": "thermal:upgrade_augment_2"
+    }
+  },
+  "pattern": [
+    "IGI",
+    "RXR",
+    "IGI"
+  ],
+  "result": {
+    "item": "thermal:upgrade_augment_3"
+  }
+}

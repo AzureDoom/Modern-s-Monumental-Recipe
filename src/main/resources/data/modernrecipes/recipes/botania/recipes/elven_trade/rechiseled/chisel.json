@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rechiseled:chisel"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "chiselsandbits:chisel_stone"
+    },
+    {
+      "tag": "forge:rods/iron"
+    }
+  ],
+  "output": [
+    {
+      "item": "rechiseled:chisel"
+    }
+  ]
+}

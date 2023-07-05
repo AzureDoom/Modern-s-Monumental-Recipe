@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "notenoughwands"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:capturing_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "easy_mob_farm:catch_cage_small"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "easy_mob_farm:catch_cage_small"
+  },
+  "addition": {
+    "item": "notenoughwands:advanced_wand_core"
+  },
+  "result": {
+    "item": "notenoughwands:capturing_wand"
+  }
+}

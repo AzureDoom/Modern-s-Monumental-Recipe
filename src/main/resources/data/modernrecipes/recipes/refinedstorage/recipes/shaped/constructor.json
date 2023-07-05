@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:constructor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "C": {
+      "item": "refinedstorage:construction_core"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "M": {
+      "item": "refinedstorage:cable"
+    },
+    "I": {
+      "item": "refinedstorage:improved_processor"
+    }
+  },
+  "pattern": [
+    "ECE",
+    "RMR",
+    "EIE"
+  ],
+  "result": {
+    "item": "refinedstorage:constructor"
+  }
+}

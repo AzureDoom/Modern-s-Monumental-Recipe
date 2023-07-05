@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "prefab:item_sickle_iron"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/iron"
+    },
+    "start_item": {
+        "item": "prefab:item_sickle_stone"
+    },
+    "output": {
+        "item": "prefab:item_sickle_iron"
+  }
+}

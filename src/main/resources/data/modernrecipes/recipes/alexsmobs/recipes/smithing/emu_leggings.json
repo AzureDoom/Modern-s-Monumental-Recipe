@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alexsmobs:emu_leggings"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:chainmail_chestplate"
+  },
+  "addition": {
+    "item": "alexsmobs:kangaroo_hide"
+  },
+  "result": {
+    "item": "alexsmobs:emu_leggings"
+  }
+}

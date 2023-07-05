@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:prudentium_fishing_rod"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:inferium_fishing_rod"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_gemstone"
+    }
+  ],
+  "output": [
+    {
+      "item": "mysticalagriculture:prudentium_fishing_rod"
+    }
+  ]
+}

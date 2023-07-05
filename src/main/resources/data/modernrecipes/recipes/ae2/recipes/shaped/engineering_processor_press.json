@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:engineering_processor_press"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "mysticalagriculture:certus_quartz_essence"
+    },
+    "C": {
+      "tag": "forge:gems/mana_diamond"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 2,
+    "item": "ae2:engineering_processor_press"
+  }
+}

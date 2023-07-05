@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "blue_skies:aquite_sword"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_sword"
+    },
+    {
+      "tag": "blue_skies:gems/aquite"
+    }
+  ],
+  "output": [
+    {
+      "item": "blue_skies:aquite_sword"
+    }
+  ]
+}

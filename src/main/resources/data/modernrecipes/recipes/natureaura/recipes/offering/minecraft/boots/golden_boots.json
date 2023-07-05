@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:golden_boots"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/gold"
+    },
+    "start_item": {
+        "item": "minecraft:iron_boots"
+    },
+    "output": {
+        "item": "minecraft:golden_boots"
+  }
+}

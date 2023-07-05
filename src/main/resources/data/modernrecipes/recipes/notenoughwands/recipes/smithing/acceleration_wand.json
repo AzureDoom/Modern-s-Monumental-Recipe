@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "notenoughwands"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:acceleration_wand"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "modernrecipes:clocks"
+  },
+  "addition": {
+    "item": "notenoughwands:advanced_wand_core"
+  },
+  "result": {
+    "item": "notenoughwands:acceleration_wand"
+  }
+}

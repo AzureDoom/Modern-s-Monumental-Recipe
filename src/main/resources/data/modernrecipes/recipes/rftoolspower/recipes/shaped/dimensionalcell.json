@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rftoolspower"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolspower:dimensionalcell"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "tag": "forge:dusts/prismarine"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    "d": {
+      "tag": "forge:gears/diamond"
+    },
+    "e": {
+      "tag": "forge:gems/emerald"
+    },
+    "F": {
+      "item": "rftoolspower:dimensionalcell_simple"
+    }
+  },
+  "pattern": [
+    "RdR",
+    "PFP",
+    "ReR"
+  ],
+  "result": {
+    "item": "rftoolspower:dimensionalcell"
+  }
+}

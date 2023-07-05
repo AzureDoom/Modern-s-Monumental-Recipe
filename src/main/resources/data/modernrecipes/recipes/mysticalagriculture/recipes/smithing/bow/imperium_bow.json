@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mysticalagriculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:imperium_bow"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:tertium_bow"
+  },
+  "addition": {
+    "item": "mysticalagriculture:imperium_block"
+  },
+  "result": {
+    "item": "mysticalagriculture:imperium_bow"
+  }
+}

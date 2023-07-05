@@ -1,0 +1,41 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "minecraft:water"
+  },
+  "ingredients": [
+    {
+      "item": "forcecraft:pile_of_gunpowder"
+    },
+    {
+      "item": "forcecraft:pile_of_gunpowder"
+    },
+    {
+      "item": "forcecraft:pile_of_gunpowder"
+    },
+    {
+      "item": "forcecraft:pile_of_gunpowder"
+    },
+    {
+      "item": "forcecraft:pile_of_gunpowder"
+    },
+    {
+      "item": "forcecraft:pile_of_gunpowder"
+    },
+    {
+      "item": "forcecraft:pile_of_gunpowder"
+    },
+    {
+      "item": "forcecraft:pile_of_gunpowder"
+    }
+  ],
+  "output": {
+    "item": "minecraft:gunpowder",
+    "count": 6
+  },
+  "liquidOutput": {
+    "fluid": "minecraft:water"
+  },
+  "fluidLevelsConsumed": 100,
+  "heatRequirement": "heated"
+}

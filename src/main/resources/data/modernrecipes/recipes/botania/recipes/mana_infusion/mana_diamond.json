@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:mana_diamond"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "occultism:soul_gem"
+    }
+  ],
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:conjuration_catalyst"
+  },
+  "input": {
+    "item": "occultism:soul_gem"
+  },
+  "mana": 5000,
+  "output": {
+    "count": 2,
+    "item": "botania:mana_diamond"
+  }
+}

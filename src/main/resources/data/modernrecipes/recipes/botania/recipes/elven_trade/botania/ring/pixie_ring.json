@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:pixie_ring"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "botania:pixie_dust"
+    },
+    {
+      "tag": "forge:ingots/elementium"
+    }
+  ],
+  "output": [
+    {
+      "item": "botania:pixie_ring"
+    }
+  ]
+}

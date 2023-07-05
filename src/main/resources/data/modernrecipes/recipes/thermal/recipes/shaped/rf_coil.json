@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:rf_coil"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "X": {
+      "tag": "forge:gears/electrum"
+    },
+    "W": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "Q": {
+      "tag": "forge:rods/electrum"
+    }
+  },
+  "pattern": [
+    "WPQ",
+    "PXP",
+    "QPW"
+  ],
+  "result": {
+    "item": "thermal:rf_coil"
+  }
+}

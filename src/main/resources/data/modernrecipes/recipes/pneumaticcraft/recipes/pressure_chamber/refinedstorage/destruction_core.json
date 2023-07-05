@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:basic_processor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:destruction_core"
+    }
+  ],
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "item": "refinedstorage:basic_processor"
+    },
+    {
+      "tag": "forge:gems/quartz"
+    }
+  ],
+  "pressure": 4,
+  "results": [
+    {
+      "item": "refinedstorage:destruction_core",
+      "count": 1
+    }
+  ]
+}

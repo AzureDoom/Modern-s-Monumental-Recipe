@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:sky_chest"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_chestplate"
+    },
+    {
+      "item": "naturesaura:sky_ingot"
+    }
+  ],
+  "output": [
+    {
+      "item": "naturesaura:sky_chest"
+    }
+  ]
+}

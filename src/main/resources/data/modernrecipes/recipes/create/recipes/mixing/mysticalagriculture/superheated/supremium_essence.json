@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "matc:imperium_crystal"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "matc:imperium_crystal",
+      "data": 32767
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:supremium_essence",
+      "count": 2
+    }
+  ]
+}

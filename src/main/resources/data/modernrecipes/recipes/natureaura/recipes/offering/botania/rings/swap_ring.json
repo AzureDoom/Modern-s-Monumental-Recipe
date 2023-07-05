@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:swap_ring"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/manasteel"
+    },
+    "start_item": {
+        "tag": "forge:storage_blocks/clay"
+    },
+    "output": {
+        "item": "botania:swap_ring"
+  }
+}
