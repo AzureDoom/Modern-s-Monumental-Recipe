@@ -9,7 +9,7 @@
       "item": "minecraft:golden_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "template": {
     "tag": "forge:ingots/gold"
   },
@@ -20,6 +20,7 @@
     "tag": "forge:ingots/gold"
   },
   "result": {
-    "item": "minecraft:golden_chestplate"
+      "item": "minecraft:golden_chestplate",
+    "count": 1
   }
 }
