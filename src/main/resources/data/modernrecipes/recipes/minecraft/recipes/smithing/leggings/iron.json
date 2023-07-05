@@ -9,7 +9,7 @@
       "item": "minecraft:chainmail_leggings"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "template": {
     "tag": "forge:ingots/iron"
   },
@@ -20,6 +20,7 @@
     "tag": "forge:ingots/iron"
   },
   "result": {
-    "item": "minecraft:iron_leggings"
+    "item": "minecraft:iron_leggings",
+    "count": 1
   }
 }
