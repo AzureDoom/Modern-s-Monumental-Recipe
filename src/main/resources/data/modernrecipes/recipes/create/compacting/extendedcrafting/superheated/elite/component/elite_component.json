@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:elite_component"
+    }
+  ],
+  "type": "create:compacting",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "extendedcrafting:black_iron_slate"
+    },
+    {
+      "item": "extendedcrafting:luminessence"
+    },
+    {
+      "tag": "forge:gems/mana_diamond"
+    },
+    {
+      "tag": "forge:gems/mana_diamond"
+    },
+    {
+      "tag": "forge:gems/mana_diamond"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcrafting:elite_component"
+    }
+  ]
+}
