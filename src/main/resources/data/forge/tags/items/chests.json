@@ -11,7 +11,10 @@
         "ironchest:dirt_chest",
         "ae2:smooth_sky_stone_chest",
         "ae2:sky_stone_chest",
-        "mekanism:personal_chest",
+        "ad_astra:strophar_chest",
+        "ad_astra:aeronos_chest",
+        "enderchests:ender_chest",
+        //"mekanism:personal_chest",
         "securitycraft:keypad_chest"
     ]
 }
