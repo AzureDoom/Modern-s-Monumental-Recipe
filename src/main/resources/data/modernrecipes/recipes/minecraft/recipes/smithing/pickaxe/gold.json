@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-    "item": "minecraft:golden_pickaxe",
+      "item": "minecraft:golden_pickaxe"
     }
   ],
   "type": "minecraft:smithing_transform",
