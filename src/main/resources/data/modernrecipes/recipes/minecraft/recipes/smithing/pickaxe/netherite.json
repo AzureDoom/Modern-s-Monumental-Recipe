@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-    "item": "minecraft:netherite_pickaxe",
+    "item": "minecraft:netherite_pickaxe"
     }
   ],
   "type": "minecraft:smithing_transform",
