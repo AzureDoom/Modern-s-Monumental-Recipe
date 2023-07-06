@@ -20,7 +20,7 @@
     "tag": "forge:gems/diamond"
   },
   "result": {
-      "item": "minecraft:diamond_pickaxe",
+    "item": "minecraft:diamond_pickaxe",
     "count": 1
   }
 }
