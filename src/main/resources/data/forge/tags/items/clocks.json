@@ -1,0 +1,9 @@
+{
+  "values": [
+    //"botania:cosmetic_clock_eye"
+    "minecraft:clock",
+    "supplementaries:clock_block",
+    "cyclic:clock",
+    "create:cuckoo_clock"
+  ]
+}
