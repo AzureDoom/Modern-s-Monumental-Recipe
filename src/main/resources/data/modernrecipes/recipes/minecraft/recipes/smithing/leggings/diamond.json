@@ -2,14 +2,14 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "minecraft"
+      "modid": "aquaculture"
     },
     {
       "type": "forge:item_exists",
       "item": "minecraft:golden_leggings"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "template": {
     "tag": "forge:gems/diamond"
   },
@@ -20,6 +20,7 @@
     "tag": "forge:gems/diamond"
   },
   "result": {
-    "item": "minecraft:diamond_leggings"
+    "item": "minecraft:diamond_leggings",
+    "count": 1
   }
 }
