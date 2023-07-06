@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-    "item": "minecraft:bow",
+      "item": "minecraft:bow"
     }
   ],
   "type": "minecraft:smithing_transform",
