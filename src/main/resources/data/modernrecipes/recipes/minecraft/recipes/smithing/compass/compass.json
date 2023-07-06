@@ -15,7 +15,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "template": {
-    "tag": "forge:rods/wooden"
+    "item": "extendedcrafting:redstone_ingot"
   },
   "base": {
     "tag": "forge:ingots/iron"
