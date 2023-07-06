@@ -4,6 +4,8 @@
     "minecraft:piston",
     "create:mechanical_piston",
     "create:sticky_mechanical_piston",
-    "multipiston:multipistonblock"
+    "multipiston:multipistonblock",
+    "securitycraft:reinforced_piston",
+    "securitycraft:reinforced_sticky_piston"
   ]
 }
