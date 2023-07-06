@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-    "item": "minecraft:netherite_sword",
+    "item": "minecraft:netherite_sword"
     }
   ],
   "type": "minecraft:smithing_transform",
