@@ -9,7 +9,7 @@
       "item": "enderio:grains_of_infinity"
     },
     "I": {
-      "tag": "forge:ingots/compressed_iron"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   },
   "pattern": [
