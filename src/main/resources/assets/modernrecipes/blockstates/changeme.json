@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"modernrecipes": "doom:block/changeme"
+		}
+	}
+}
