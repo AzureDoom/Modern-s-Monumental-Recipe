@@ -8,3 +8,5 @@ v0.1
 - Ported Some Custom Loot Tables over from 1.19.2
 - Ported over Custom Pressure Plate Recipes for Minecraft
 - Ported over Custom Pressure Plate Recipes for Biomes O Plenty
+- Ported over Custom Create Compacting Recipes from 1.19.2
+- Ported over Custom Create Crushing Recipes from 1.19.2
