@@ -1,3 +1,5 @@
 v0.2
 
 - Added More Tag Stuff
+- Added Custom Compressed Iron Plate
+- Added Custom Tool Box, No Current recipe atm
