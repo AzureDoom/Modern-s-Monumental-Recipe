@@ -47,6 +47,7 @@ public class ModernRecipesMod {
 		 * This is just a simple item, allowing you to register it for use in your recipes. Doesn't do anything fancy, is just a simple item that exists.
 		 */
 		public static final RegistryObject<Item> COMPRESSED_IRON_PLATE = ITEMS.register("compressed_iron_plate", () -> new Item(new Item.Properties()));
+		public static final RegistryObject<Item> Tool_Toolbox = ITEMS.register("tool_toolbox", () -> new Item(new Item.Properties()));
 
 		/**
 		 * This is just a simple block item, allowing you to register it for use in your recipes. Doesn't do anything fancy, is just a simple item that exists.
@@ -60,7 +61,7 @@ public class ModernRecipesMod {
 		/**
 		 * This is just a simple block, allowing you to register it for use in your recipes. Doesn't do anything fancy, is just a simple block that exists.
 		 */
-		public static final RegistryObject<Block> EXAMPLE_BLOCK = BLOCKS.register("changeme", () -> new Block(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.5F).sound(SoundType.WOOD).ignitedByLava()));
+		public static final RegistryObject<Block> EXAMPLE_BLOCK = BLOCKS.register("notreadyyet", () -> new Block(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.5F).sound(SoundType.WOOD).ignitedByLava()));
 	}
 
 	public class ModTabs {
@@ -74,6 +75,7 @@ public class ModernRecipesMod {
 				// Sets the items in the tab, in the order that you register them here
 				.displayItems((enabledFeatures, entries) -> {
 					entries.accept(ModItems.COMPRESSED_IRON_PLATE.get());
+					entries.accept(ModItems.Tool_Toolbox.get());
 					entries.accept(ModItems.EXAMPLE_BLOCK_ITEM.get());
 				}).build());
 	}
