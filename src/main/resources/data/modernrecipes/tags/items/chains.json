@@ -26,6 +26,7 @@
     "additionallanterns:warped_chain",
     "additionallanterns:purpur_chain",
     "additionallanterns:bricks_chain",
-    "securitycraft:reinforced_chain"
+    "securitycraft:reinforced_chain",
+    "enderio:soul_chain"
   ]
 }
