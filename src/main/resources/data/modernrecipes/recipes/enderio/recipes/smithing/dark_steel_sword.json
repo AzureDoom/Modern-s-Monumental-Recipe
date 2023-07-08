@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-    "item": "enderio:dark_steel_sword",
+    "item": "enderio:dark_steel_sword"
     }
   ],
   "type": "minecraft:smithing_transform",
