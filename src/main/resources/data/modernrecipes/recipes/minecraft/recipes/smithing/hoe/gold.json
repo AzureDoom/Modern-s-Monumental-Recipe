@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-    "item": "minecraft:golden_hoe",
+      "item": "minecraft:golden_hoe"
     }
   ],
   "type": "minecraft:smithing_transform",
