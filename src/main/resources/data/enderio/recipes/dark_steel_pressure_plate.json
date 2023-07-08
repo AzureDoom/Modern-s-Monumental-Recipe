@@ -10,6 +10,7 @@
     }
   ],
   "type": "minecraft:crafting_shaped",
+  "category": "building",
   "key": {
     "A": {
       "item": "enderio:dark_steel_ingot"
@@ -25,5 +26,6 @@
   ],
   "result": {
     "item": "enderio:dark_steel_pressure_plate"
-  }
+  },
+  "show_notification": true
 }
