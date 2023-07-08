@@ -10,6 +10,9 @@
     }
   ],
   "type": "minecraft:smithing",
+  "template": {
+    "item": "material_elements:leather_sheet"
+  },
   "base": {
     "item": "minecraft:shears"
   },
