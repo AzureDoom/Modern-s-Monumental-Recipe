@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "rechiseled:glowstone_bricks",
+    "rechiseled:glowstone_crushed",
+    "rechiseled:glowstone_large_tiles",
+    "rechiseled:glowstone_small_tiles",
+    "rechiseled:glowstone_smooth",
+    "rechiseled:glowstone_tiles",
+    "#chipped:glowstone"
+  ]
+}
