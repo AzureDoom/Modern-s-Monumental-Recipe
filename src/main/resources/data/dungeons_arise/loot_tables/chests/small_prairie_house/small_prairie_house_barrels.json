@@ -39,7 +39,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:smithing_table"
+          "name": "minecraft:smithing_table"
         },
         {
           "type": "minecraft:item",
