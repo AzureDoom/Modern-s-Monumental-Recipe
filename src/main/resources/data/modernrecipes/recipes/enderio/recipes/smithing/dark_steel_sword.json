@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "template": {
-    "item": "enderio:dark_steel_ingot"
+    "item": "modernrecipes:part_mold_sword"
   },
   "base": {
     "item": "minecraft:diamond_sword"
