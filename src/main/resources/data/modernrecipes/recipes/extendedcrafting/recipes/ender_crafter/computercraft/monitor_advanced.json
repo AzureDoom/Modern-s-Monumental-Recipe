@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "computercraft:monitor_advanced"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:plates/gold"
+    },
+    "B": {
+      "item": "computercraft:monitor_normal"
+    }
+  },
+  "result": {
+    "item": "computercraft:monitor_advanced",
+    "count": 2
+  }
+}
