@@ -1,0 +1,58 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extradisks:advanced_storage_housing"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_vibrant_glass"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:improved_processor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:advanced_processor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:storage_housing"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "GEG",
+    "EWE",
+    "IAI"
+  ],
+  "key": {
+    "G": {
+      "item": "ae2:quartz_vibrant_glass"
+    },
+    "E": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "I": {
+      "item": "refinedstorage:improved_processor"
+    },
+    "A": {
+      "item": "refinedstorage:advanced_processor"
+    },
+    "W": {
+      "item": "refinedstorage:storage_housing"
+    }
+  },
+  "result": {
+    "item": "extradisks:advanced_storage_housing"
+  }
+}
