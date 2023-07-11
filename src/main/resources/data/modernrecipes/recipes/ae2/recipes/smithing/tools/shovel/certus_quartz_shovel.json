@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "template": {
-    "tag": "forge:gems/certus_quartz"
+    "item": "modernrecipes:part_mold_shovel"
   },
   "base": {
     "item": "minecraft:iron_shovel"
