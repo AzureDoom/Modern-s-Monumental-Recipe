@@ -1,0 +1,17 @@
+{
+  "modId": "modernrecipes",
+  "silent": true,
+  "group": {
+    "name": "Modern Recipes Molds",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "modernrecipes:part_mold"
+    },
+    "defaultCategory": "farmingforblockheads:misc"
+  },
+  "customEntries": [
+    {
+      "output": "modernrecipes:part_mold_axe"
+    }
+  ]
+}
