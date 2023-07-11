@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "template": {
-    "tag": "forge:ingots/neptunium"
+    "item": "modernrecipes:part_mold_sword"
   },
   "base": {
     "item": "minecraft:netherite_sword"
