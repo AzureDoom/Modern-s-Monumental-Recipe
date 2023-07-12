@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "template": {
-    "tag": "forge:ingots/netherite"
+    "item": "modernrecipes:part_mold_axe"
   },
   "base": {
     "item": "minecraft:diamond_axe"
