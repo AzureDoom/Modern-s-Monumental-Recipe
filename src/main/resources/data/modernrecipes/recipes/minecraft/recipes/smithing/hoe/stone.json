@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "template": {
-    "tag": "forge:stone"
+    "item": "modernrecipes:part_mold_hoe"
   },
   "base": {
     "item": "minecraft:wooden_hoe"
