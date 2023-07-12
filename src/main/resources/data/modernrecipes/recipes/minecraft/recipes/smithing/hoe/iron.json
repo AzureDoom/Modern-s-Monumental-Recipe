@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "template": {
-    "tag": "forge:ingots/iron"
+    "item": "modernrecipes:part_mold_hoe"
   },
   "base": {
     "item": "minecraft:stone_hoe"
