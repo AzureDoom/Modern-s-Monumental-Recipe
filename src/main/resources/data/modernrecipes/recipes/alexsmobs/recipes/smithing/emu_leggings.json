@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "alexsmobs:neptunium_boots"
+      "item": "alexsmobs:emu_leggings"
     }
   ],
   "type": "minecraft:smithing_transform",
