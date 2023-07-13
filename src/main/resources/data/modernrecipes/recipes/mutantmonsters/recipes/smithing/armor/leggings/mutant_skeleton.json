@@ -2,14 +2,17 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "minecraft"
+      "modid": "mutantmonsters"
     },
     {
       "type": "forge:item_exists",
       "item": "mutantmonsters:mutant_skeleton_leggings"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "mutantmonsters:mutant_skeleton_limb"
+  },
   "base": {
     "item": "mutantmonsters:mutant_skeleton_pelvis"
   },
@@ -17,6 +20,7 @@
     "item": "mutantmonsters:mutant_skeleton_limb"
   },
   "result": {
-    "item": "mutantmonsters:mutant_skeleton_leggings"
+    "item": "mutantmonsters:mutant_skeleton_leggings",
+    "count": 1
   }
 }
