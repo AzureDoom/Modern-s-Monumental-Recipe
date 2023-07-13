@@ -61,6 +61,7 @@ public class ModernRecipesMod {
 		public static final RegistryObject<Item> Part_Mold_Shovel_2 = ITEMS.register("part_mold_shovel_2", () -> new Item(new Item.Properties()));
 		public static final RegistryObject<Item> Part_Mold_Sickle = ITEMS.register("part_mold_sickle", () -> new Item(new Item.Properties()));
 		public static final RegistryObject<Item> Part_Mold_Sword = ITEMS.register("part_mold_sword", () -> new Item(new Item.Properties()));
+		public static final RegistryObject<Item> Part_Plate_Small_Wood = ITEMS.register("part_plate_small_wood", () -> new Item(new Item.Properties()));
 
 		/**
 		 * This is just a simple block item, allowing you to register it for use in your recipes. Doesn't do anything fancy, is just a simple item that exists.
@@ -99,6 +100,7 @@ public class ModernRecipesMod {
 				.icon(() -> new ItemStack(ModItems.Part_Mold_Shovel_2.get()))
 				.icon(() -> new ItemStack(ModItems.Part_Mold_Sickle.get()))
 				.icon(() -> new ItemStack(ModItems.Part_Mold_Sword.get()))
+				.icon(() -> new ItemStack(ModItems.Part_Plate_Small_Wood.get()))
 				// Sets the items in the tab, in the order that you register them here
 				.displayItems((enabledFeatures, entries) -> {
 					entries.accept(ModItems.COMPRESSED_IRON_PLATE.get());
@@ -116,6 +118,7 @@ public class ModernRecipesMod {
 					entries.accept(ModItems.Part_Mold_Shovel_2.get());
 					entries.accept(ModItems.Part_Mold_Sickle.get());
 					entries.accept(ModItems.Part_Mold_Sword.get());
+					entries.accept(ModItems.Part_Plate_Small_Wood.get());
 					entries.accept(ModItems.EXAMPLE_BLOCK_ITEM.get());
 				}).build());
 	}
