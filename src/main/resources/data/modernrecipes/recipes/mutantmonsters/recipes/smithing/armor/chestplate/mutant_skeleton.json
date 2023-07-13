@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mutantmonsters:mutant_skeleton_chestplate",
+      "item": "mutantmonsters:mutant_skeleton_chestplate"
     }
   ],
   "type": "minecraft:smithing_transform",
