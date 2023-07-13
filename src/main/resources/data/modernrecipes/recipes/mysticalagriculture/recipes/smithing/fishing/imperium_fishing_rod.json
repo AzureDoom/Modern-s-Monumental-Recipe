@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mysticalagriculture:inferium_fishing_rod"
+      "item": "mysticalagriculture:imperium_fishing_rod",
     }
   ],
   "type": "minecraft:smithing_transform",
