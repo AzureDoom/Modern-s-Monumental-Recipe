@@ -14,7 +14,7 @@
     "item": "mysticalagriculture:inferium_gemstone"
   },
   "base": {
-    "item": "mysticalagriculture:inferium_gemstone"
+    "item": "minecraft:fishing_rod"
   },
   "addition": {
     "item": "mysticalagriculture:inferium_gemstone"
