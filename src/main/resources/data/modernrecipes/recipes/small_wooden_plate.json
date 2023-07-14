@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "modernrecipes"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:part_plate_small_wood"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ha ",
+    "a  ",
+    "   "
+  ],
+  "key": {
+    "h": {
+      "tag": "forge:tools/hammers"
+    },
+    "a": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "modernrecipes:part_plate_small_wood"
+  }
+} 
