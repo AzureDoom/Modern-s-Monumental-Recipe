@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -19,7 +19,7 @@
       "item": "ae2:annihilation_core"
     },
     "b": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "c": {
       "tag": "modernrecipes:piston"
