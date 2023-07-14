@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     {
       "type": "forge:item_exists",
@@ -21,7 +21,7 @@
   "acceptMirrored": false,
   "key": {
     "A": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "B": {
       "item": "ae2:quartz_glass"
