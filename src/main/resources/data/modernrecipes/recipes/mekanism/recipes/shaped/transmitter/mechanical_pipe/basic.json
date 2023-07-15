@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     {
       "type": "forge:item_exists",
@@ -20,7 +20,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "C": {
       "item": "immersiveengineering:component_steel"
