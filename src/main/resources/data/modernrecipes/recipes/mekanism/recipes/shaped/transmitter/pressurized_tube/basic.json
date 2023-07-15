@@ -14,7 +14,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -23,7 +23,7 @@
       "item": "ae2:quartz_glass"
     },
     "B": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "C": {
       "item": "mekanism:basic_mechanical_pipe"
