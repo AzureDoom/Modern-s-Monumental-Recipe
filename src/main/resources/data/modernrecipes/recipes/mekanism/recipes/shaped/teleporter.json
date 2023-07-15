@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -22,7 +22,7 @@
       "tag": "forge:circuits/basic"
     },
     "C": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "D": {
       "item": "mekanism:steel_casing"
