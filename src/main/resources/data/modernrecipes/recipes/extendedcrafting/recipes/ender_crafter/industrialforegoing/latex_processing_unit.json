@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     {
       "type": "forge:item_exists",
@@ -29,7 +29,7 @@
   ],
   "key": {
     "A": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "B": {
       "item": "thermal:rf_coil"
