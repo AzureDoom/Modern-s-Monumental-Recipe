@@ -1,6 +1,1 @@
-v0.23
-
-- Moved some Loot Tables over to Mod from KubeJS
-- Added Small Wooden Plate
-- Added Compressed Iron Plate Recipes
-- Added ToolBox, No current Recipes
+v0.24
