@@ -1,1 +1,2 @@
 v0.24
+- Added More Custom Loot Tables
