@@ -225,7 +225,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "mysticalagriculture:chicken_essence",
+          "name": "mysticalagriculture:chicken_essence"
         },
         {
           "type": "minecraft:item",
@@ -334,7 +334,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "mysticalagriculture:squid_essence",
+          "name": "mysticalagriculture:squid_essence"
         },
         {
           "type": "minecraft:item",
