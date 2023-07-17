@@ -113,7 +113,7 @@
           "type": "minecraft:tag",
           "weight": 5,
           "name": "totw_modded:gliders",
-          "expand": false
+          "expand": true
         }
       ]
     }
