@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     {
       "type": "forge:item_exists",
@@ -27,7 +27,7 @@
       "item": "extendedcrafting:redstone_component"
     },
     "C": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   },
   "pattern": [
