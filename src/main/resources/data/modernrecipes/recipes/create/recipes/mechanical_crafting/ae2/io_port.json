@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -26,7 +26,7 @@
       "item": "appliedenergistics2:fluix_glass_cable"
     },
     "D": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "E": {
       "item": "appliedenergistics2:logic_processor"
