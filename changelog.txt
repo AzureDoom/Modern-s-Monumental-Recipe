@@ -1,8 +1,3 @@
-v0.2
+v0.3
 
-- Added Custom Entities Loot Drops
-- Added Custom Spawner Blacklist for some mods
-- Added Custom Ae2 Recipes Back in, Currently Matches that of what's on 1.19.2
-- Added Custom Smithing Table
-- Added Custom Pressure Plate Recipes back in and to match that of what's on 1.19.2
-- Added Back in All Custom Recipes
+-
