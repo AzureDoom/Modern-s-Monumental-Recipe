@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:fluid_interface"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "B": {
+      "tag": "pneumaticcraft:fluid_tanks"
+    },
+    "C": {
+      "item": "appliedenergistics2:annihilation_core"
+    },
+    "D": {
+      "item": "appliedenergistics2:formation_core"
+    }
+  },
+  "pattern": [
+    " ABA ",
+    " C D ",
+    " ABA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "appliedenergistics2:fluid_interface"
+  }
+}
