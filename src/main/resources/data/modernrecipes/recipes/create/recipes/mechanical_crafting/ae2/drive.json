@@ -10,14 +10,14 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
     "A": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "B": {
       "item": "appliedenergistics2:engineering_processor"
