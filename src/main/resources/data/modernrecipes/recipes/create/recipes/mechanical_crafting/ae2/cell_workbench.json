@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "'modernrecipes:compressed_iron_plate'"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -23,7 +23,7 @@
       "item": "appliedenergistics2:calculation_processor"
     },
     "C": {
-      "item": "'modernrecipes:compressed_iron_plate'"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "D": {
       "tag": "forge:chests"
