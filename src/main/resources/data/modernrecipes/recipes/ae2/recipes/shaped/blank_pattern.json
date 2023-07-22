@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -25,7 +25,7 @@
       "tag": "forge:gems/certus_quartz"
     },
     "D": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   },
   "pattern": [
