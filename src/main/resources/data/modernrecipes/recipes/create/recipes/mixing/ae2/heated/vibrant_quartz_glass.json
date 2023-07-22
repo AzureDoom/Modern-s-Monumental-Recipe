@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "appliedenergistics2:vibrant_quartz_glass"
+      "item": "appliedenergistics2:quartz_vibrant_glass"
     }
   ],
   "type": "create:mixing",
@@ -21,7 +21,7 @@
   ],
   "results": [
     {
-      "item": "appliedenergistics2:vibrant_quartz_glass"
+      "item": "appliedenergistics2:quartz_vibrant_glass"
     }
   ]
 }
