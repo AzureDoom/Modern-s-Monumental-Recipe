@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -20,7 +20,7 @@
       "tag": "forge:plates/osmium"
     },
     "I": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "C": {
       "tag": "forge:plates/bronze"
