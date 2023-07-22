@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:processor_binding"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:hemp_fiber"
+    },
+    {
+      "item": "immersiveengineering:hemp_fiber"
+    },
+    {
+      "item": "bloodmagic:reagentbinding"
+    },
+    {
+      "item": "industrialforegoing:pink_slime_ingot"
+    },
+    {
+      "item": "industrialforegoing:pink_slime_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "refinedstorage:processor_binding"
+    }
+  ]
+}
