@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersivepetroleum:gas_generator"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "P": {
+      "tag": "forge:plates/iron"
+    },
+    "G": {
+      "item": "immersiveengineering:generator"
+    },
+    "C": {
+      "item": "immersiveengineering:capacitor_lv"
+    }
+  },
+  "pattern": [
+    " PPP ",
+    " PGC ",
+    " PPP ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "immersivepetroleum:gas_generator"
+  }
+}
