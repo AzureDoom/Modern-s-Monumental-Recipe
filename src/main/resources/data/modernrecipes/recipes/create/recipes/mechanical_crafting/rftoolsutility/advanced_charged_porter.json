@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsutility:advanced_charged_porter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "M": {
+      "item": "rftoolsutility:charged_porter"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    "d": {
+      "tag": "forge:plates/diamond"
+    }
+  },
+  "pattern": [
+    " RdR ",
+    " dMd ",
+    " RdR ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolsutility:advanced_charged_porter"
+  }
+}
