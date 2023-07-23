@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:fluid_formation_plane"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "EEE",
+    "DDD",
+    "CBC"
+  ],
+  "key": {
+    "B": {
+      "item": "appliedenergistics2:formation_core"
+    },
+    "C": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "D": {
+      "tag": "modernrecipes:tanks"
+    },
+    "E": {
+      "tag": "forge:gems/fluix"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:fluid_formation_plane"
+  }
+}
