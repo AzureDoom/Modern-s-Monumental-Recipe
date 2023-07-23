@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:fluid_annihilation_plane"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "EEE",
+    "DDD",
+    "CBC"
+  ],
+  "key": {
+    "B": {
+      "item": "appliedenergistics2:annihilation_core"
+    },
+    "C": {
+      "item": "forge:plates/enderium"
+    },
+    "D": {
+      "tag": "forge:dyes/green"
+    },
+    "E": {
+      "tag": "forge:gems/fluix"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:fluid_annihilation_plane"
+  }
+}
