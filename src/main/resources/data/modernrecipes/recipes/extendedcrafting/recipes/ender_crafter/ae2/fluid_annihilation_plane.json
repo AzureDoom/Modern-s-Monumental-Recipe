@@ -20,7 +20,7 @@
       "item": "appliedenergistics2:annihilation_core"
     },
     "C": {
-      "item": "forge:plates/enderium"
+      "tag": "forge:plates/enderium"
     },
     "D": {
       "tag": "forge:dyes/green"
