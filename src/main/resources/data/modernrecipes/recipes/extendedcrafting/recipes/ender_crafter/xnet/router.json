@@ -18,7 +18,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "extendedcrafting:shaped_ender_crafter",
@@ -41,7 +41,7 @@
       "item": "rftoolsbase:machine_frame"
     },
     "E": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "F": {
       "tag": "modernrecipes:eyes"
