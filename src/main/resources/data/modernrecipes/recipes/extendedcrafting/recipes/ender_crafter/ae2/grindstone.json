@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:grindstone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "appliedenergistics2:wooden_gear"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "ABA",
+    "DAD",
+    "CDC"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:stone"
+    },
+    "B": {
+      "item": "appliedenergistics2:wooden_gear"
+    },
+    "C": {
+      "tag": "forge:cobblestone"
+    },
+    "D": {
+      "tag": "forge:gems/quartz"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:grindstone"
+  }
+}
