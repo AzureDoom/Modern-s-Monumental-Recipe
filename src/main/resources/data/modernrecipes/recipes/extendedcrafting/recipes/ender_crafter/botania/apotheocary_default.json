@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "botania:apotheocary_default"
+      "item": "botania:apothecary_default"
     }
   ],
   "type": "extendedcrafting:shaped_ender_crafter",
@@ -27,6 +27,6 @@
     }
   },
   "result": {
-    "item": "botania:apotheocary_default"
+    "item": "botania:apothecary_default"
   }
 }
