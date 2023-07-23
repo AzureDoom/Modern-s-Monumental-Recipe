@@ -1,3 +1,4 @@
 v0.3
 
--
+- Added Missing Recipes
+- Added Custom Loot Tables
