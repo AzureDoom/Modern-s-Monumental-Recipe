@@ -1,2 +1,2 @@
-v0.24
-- Added More Custom Loot Tables
+v0.25
+- Added/Fix some recipes
