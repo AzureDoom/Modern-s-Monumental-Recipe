@@ -127,38 +127,6 @@
               "add": false
             }
           ],
-          "name": "minecraft:raw_gold"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 10,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 15.0,
-                "max": 25.0
-              },
-              "add": false
-            }
-          ],
-          "name": "minecraft:raw_iron"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 10,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 15.0,
-                "max": 25.0
-              },
-              "add": false
-            }
-          ],
           "name": "mysticalagriculture:redstone_essence"
         },
         {
@@ -183,22 +151,6 @@
       "rolls": 1.0,
       "bonus_rolls": 1.0,
       "entries": [
-        {
-          "type": "minecraft:item",
-          "weight": 10,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 10.0,
-                "max": 15.0
-              },
-              "add": false
-            }
-          ],
-          "name": "minecraft:azalea_leaves"
-        },
         {
           "type": "minecraft:item",
           "weight": 10,

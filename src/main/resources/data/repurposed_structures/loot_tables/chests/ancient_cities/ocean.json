@@ -31,11 +31,6 @@
           ]
         },
         {
-          "name": "minecraft:music_disc_otherside",
-          "type": "minecraft:item",
-          "weight": 2
-        },
-        {
           "type": "minecraft:item",
           "name": "minecraft:potion",
           "weight": 3,

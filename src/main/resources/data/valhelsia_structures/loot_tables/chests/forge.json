@@ -186,34 +186,6 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 15,
-          "name": "minecraft:raw_copper",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 3,
-                "max": 12
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 13,
-          "name": "minecraft:raw_iron",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 3,
-                "max": 12
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "weight": 12,
           "name": "mysticalagriculture:copper_essence",
           "functions": [

@@ -21,7 +21,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "blue_skies:aquite"
+          "name": "blue_skies:aquite_gem"
         },
         {
           "type": "minecraft:item",

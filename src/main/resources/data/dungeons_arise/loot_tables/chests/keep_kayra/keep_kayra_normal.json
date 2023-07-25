@@ -224,19 +224,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:azalea_leaves",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 2,
-                "max": 3
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:blue_orchid",
           "functions": [
             {

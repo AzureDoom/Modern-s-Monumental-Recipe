@@ -12,8 +12,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 5.0,
-                "max": 18.0,
+                "min": 5,
+                "max": 18,
                 "type": "minecraft:uniform"
               }
             },
@@ -31,8 +31,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 5.0,
-                "max": 15.0,
+                "min": 5,
+                "max": 15,
                 "type": "minecraft:uniform"
               }
             },
@@ -73,8 +73,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 6.0,
-                "max": 17.0,
+                "min": 6,
+                "max": 17,
                 "type": "minecraft:uniform"
               }
             }
@@ -148,406 +148,390 @@
           ]
         },
         {
-          "name": "minecraft:amethyst_shard",
-          "type": "minecraft:item",
-          "weight": 2,
-          "functions": [
+          "rolls": 2,
+          "bonus_rolls": 1,
+          "entries": [
             {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 1.0,
-                "max": 4.0
-              },
-              "add": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "rolls": 2,
-      "bonus_rolls": 1.0,
-      "entries": [
-        {
-          "type": "minecraft:empty",
-          "weight": 2
-        },
-        {
-          "name": "minecraft:redstone_block",
-          "type": "minecraft:item",
-          "weight": 2
-        },
-        {
-          "name": "minecraft:iron_block",
-          "type": "minecraft:item",
-          "weight": 2
-        },
-        {
-          "name": "mysticalagriculture:redstone_essence",
-          "type": "minecraft:item",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 5.0,
-                "max": 19.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "mysticalagriculture:iron_essence",
-          "type": "minecraft:item",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1.0,
-                "max": 6.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "mysticalagriculture:obsidian_essence",
-          "type": "minecraft:item",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1.0,
-                "max": 5.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "minecraft:iron_sword",
-          "type": "minecraft:item",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "minecraft:set_damage",
-              "damage": {
-                "min": 0.1,
-                "max": 0.9
-              }
+              "type": "minecraft:empty",
+              "weight": 2
             },
             {
-              "function": "minecraft:enchant_randomly"
-            }
-          ]
-        },
-        {
-          "name": "minecraft:iron_sword",
-          "type": "minecraft:item",
-          "weight": 1
-        },
-        {
-          "name": "minecraft:stone_sword",
-          "type": "minecraft:item",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "minecraft:set_damage",
-              "damage": {
-                "min": 0.1,
-                "max": 0.9
-              }
+              "name": "minecraft:redstone_block",
+              "type": "minecraft:item",
+              "weight": 2
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "name": "minecraft:iron_block",
+              "type": "minecraft:item",
+              "weight": 2
+            },
+            {
+              "name": "mysticalagriculture:redstone_essence",
+              "type": "minecraft:item",
+              "weight": 2,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 5,
+                    "max": 19,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "mysticalagriculture:iron_essence",
+              "type": "minecraft:item",
+              "weight": 2,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 6,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "mysticalagriculture:obsidian_essence",
+              "type": "minecraft:item",
+              "weight": 2,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 5,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "minecraft:iron_sword",
+              "type": "minecraft:item",
+              "weight": 2,
+              "functions": [
+                {
+                  "function": "minecraft:set_damage",
+                  "damage": {
+                    "min": 0.1,
+                    "max": 0.9
+                  }
+                },
+                {
+                  "function": "minecraft:enchant_randomly"
+                }
+              ]
+            },
+            {
+              "name": "minecraft:iron_sword",
+              "type": "minecraft:item",
+              "weight": 1
+            },
+            {
+              "name": "minecraft:stone_sword",
+              "type": "minecraft:item",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_damage",
+                  "damage": {
+                    "min": 0.1,
+                    "max": 0.9
+                  }
+                },
+                {
+                  "function": "minecraft:enchant_randomly"
+                }
+              ]
+            },
+            {
+              "name": "minecraft:golden_boots",
+              "type": "minecraft:item",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:enchant_randomly",
+                  "enchantments": [
+                    "minecraft:projectile_protection"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "minecraft:iron_axe",
+              "type": "minecraft:item",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:enchant_randomly"
+                }
+              ]
+            },
+            {
+              "name": "minecraft:bow",
+              "type": "minecraft:item",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "name": "minecraft:iron_chestplate",
+              "type": "minecraft:item",
+              "weight": 1
+            },
+            {
+              "name": "minecraft:iron_helmet",
+              "type": "minecraft:item",
+              "weight": 1
+            },
+            {
+              "name": "minecraft:iron_leggings",
+              "type": "minecraft:item",
+              "weight": 1
+            },
+            {
+              "name": "minecraft:iron_boots",
+              "type": "minecraft:item",
+              "weight": 1
             }
           ]
         },
         {
-          "name": "minecraft:golden_boots",
-          "type": "minecraft:item",
-          "weight": 1,
-          "functions": [
+          "rolls": {
+            "min": 4,
+            "max": 5,
+            "type": "minecraft:uniform"
+          },
+          "entries": [
             {
-              "function": "minecraft:enchant_randomly",
-              "enchantments": [
-                "minecraft:projectile_protection"
+              "name": "minecraft:deepslate_redstone_ore",
+              "type": "minecraft:item",
+              "weight": 3,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 5,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "mysticalagriculture:slime_essence",
+              "type": "minecraft:item",
+              "weight": 3,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 6,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "minecraft:tipped_arrow",
+              "type": "minecraft:item",
+              "weight": 2,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 7,
+                    "max": 12,
+                    "type": "minecraft:uniform"
+                  }
+                },
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{Potion:\"minecraft:harming\"}"
+                }
+              ]
+            },
+            {
+              "name": "minecraft:arrow",
+              "type": "minecraft:item",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 5,
+                    "max": 15,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "minecraft:chain",
+              "type": "minecraft:item",
+              "weight": 2,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 10,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "minecraft:bone_block",
+              "type": "minecraft:item",
+              "weight": 2,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 3,
+                    "max": 6,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "minecraft:iron_nugget",
+              "type": "minecraft:item",
+              "weight": 2,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 8,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "mysticalagriculture:obsidian_essence",
+              "type": "minecraft:item",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 4,
+                    "max": 6,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "mysticalagriculture:redstone_essence",
+              "type": "minecraft:item",
+              "weight": 2,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 7,
+                    "max": 20,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "mysticalagriculture:spider_essence",
+              "type": "minecraft:item",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 4,
+                    "max": 6,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "mysticalagriculture:skeleton_essence",
+              "type": "minecraft:item",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 4,
+                    "max": 6,
+                    "type": "minecraft:uniform"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "mysticalagriculture:zombie_essence",
+              "type": "minecraft:item",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 3,
+                    "max": 7,
+                    "type": "minecraft:uniform"
+                  }
+                }
               ]
             }
           ]
         },
         {
-          "name": "minecraft:iron_axe",
-          "type": "minecraft:item",
-          "weight": 1,
-          "functions": [
+          "rolls": 1,
+          "entries": [
             {
-              "function": "minecraft:enchant_randomly"
+              "type": "minecraft:loot_table",
+              "name": "repurposed_structures:chests/lucky_pool"
             }
           ]
         },
         {
-          "name": "minecraft:bow",
-          "type": "minecraft:item",
-          "weight": 1,
-          "functions": [
+          "rolls": 0,
+          "bonus_rolls": 1,
+          "entries": [
             {
-              "function": "minecraft:set_count",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "name": "minecraft:iron_chestplate",
-          "type": "minecraft:item",
-          "weight": 1
-        },
-        {
-          "name": "minecraft:iron_helmet",
-          "type": "minecraft:item",
-          "weight": 1
-        },
-        {
-          "name": "minecraft:iron_leggings",
-          "type": "minecraft:item",
-          "weight": 1
-        },
-        {
-          "name": "minecraft:iron_boots",
-          "type": "minecraft:item",
-          "weight": 1
-        }
-      ]
-    },
-    {
-      "rolls": {
-        "min": 4.0,
-        "max": 5.0,
-        "type": "minecraft:uniform"
-      },
-      "entries": [
-        {
-          "name": "minecraft:deepslate_redstone_ore",
-          "type": "minecraft:item",
-          "weight": 3,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1.0,
-                "max": 5.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "mysticalagriculture:slime_essence",
-          "type": "minecraft:item",
-          "weight": 3,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 2.0,
-                "max": 6.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "minecraft:tipped_arrow",
-          "type": "minecraft:item",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 7.0,
-                "max": 12.0,
-                "type": "minecraft:uniform"
-              }
+              "type": "minecraft:empty",
+              "weight": 130
             },
             {
-              "function": "minecraft:set_nbt",
-              "tag": "{Potion:\"minecraft:harming\"}"
-            }
-          ]
-        },
-        {
-          "name": "minecraft:arrow",
-          "type": "minecraft:item",
-          "weight": 1,
-          "functions": [
+              "name": "minecraft:black_banner",
+              "type": "minecraft:item",
+              "weight": 30,
+              "functions": [
+                {
+                  "function": "set_nbt",
+                  "tag": "{BlockEntityTag:{Patterns:[{Pattern:cr,Color:0},{Pattern:cr,Color:15},{Pattern:cbo,Color:0},{Pattern:cbo,Color:15},{Pattern:bo,Color:0},{Pattern:bo,Color:0},{Pattern:mr,Color:8},{Pattern:mr,Color:8},{Pattern:mr,Color:15},{Pattern:bo,Color:15},{Pattern:mc,Color:7},{Pattern:mc,Color:15}]}}"
+                }
+              ]
+            },
             {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 5.0,
-                "max": 15.0,
-                "type": "minecraft:uniform"
-              }
+              "name": "minecraft:skeleton_skull",
+              "type": "minecraft:item",
+              "weight": 8
             }
           ]
-        },
-        {
-          "name": "minecraft:chain",
-          "type": "minecraft:item",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 2.0,
-                "max": 10.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "minecraft:bone_block",
-          "type": "minecraft:item",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 3.0,
-                "max": 6.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "minecraft:iron_nugget",
-          "type": "minecraft:item",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 2.0,
-                "max": 8.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "mysticalagriculture:obsidian_essence",
-          "type": "minecraft:item",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 4.0,
-                "max": 6.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "mysticalagriculture:redstone_essence",
-          "type": "minecraft:item",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 7.0,
-                "max": 20.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "mysticalagriculture:spider_essence",
-          "type": "minecraft:item",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 4.0,
-                "max": 6.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "mysticalagriculture:skeleton_essence",
-          "type": "minecraft:item",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 4.0,
-                "max": 6.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        },
-        {
-          "name": "mysticalagriculture:zombie_essence",
-          "type": "minecraft:item",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 3.0,
-                "max": 7.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "repurposed_structures:chests/lucky_pool"
-        }
-      ]
-    },
-    {
-      "rolls": 0,
-      "bonus_rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:empty",
-          "weight": 130
-        },
-        {
-          "name": "minecraft:black_banner",
-          "type": "minecraft:item",
-          "weight": 30,
-          "functions": [
-            {
-              "function":"set_nbt",
-              "tag":"{BlockEntityTag:{Patterns:[{Pattern:cr,Color:0},{Pattern:cr,Color:15},{Pattern:cbo,Color:0},{Pattern:cbo,Color:15},{Pattern:bo,Color:0},{Pattern:bo,Color:0},{Pattern:mr,Color:8},{Pattern:mr,Color:8},{Pattern:mr,Color:15},{Pattern:bo,Color:15},{Pattern:mc,Color:7},{Pattern:mc,Color:15}]}}"
-            }
-          ]
-        },
-        {
-          "name": "minecraft:skeleton_skull",
-          "type": "minecraft:item",
-          "weight": 8
         }
       ]
     }

@@ -629,7 +629,7 @@
           ]
         },
         {
-          "name": "material_elements:leather_sheet",
+          "name": "quark:bonded_leather",
           "type": "minecraft:item",
           "weight": 1,
           "functions": [

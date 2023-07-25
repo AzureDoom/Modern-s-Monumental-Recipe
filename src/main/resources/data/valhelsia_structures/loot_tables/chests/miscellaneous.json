@@ -24,20 +24,6 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 20,
-          "name": "minecraft:moss_block",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 2,
-                "max": 4
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "weight": 17,
           "name": "minecraft:gravel",
           "functions": [

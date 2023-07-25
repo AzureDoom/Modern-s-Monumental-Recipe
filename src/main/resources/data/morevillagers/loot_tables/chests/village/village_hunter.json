@@ -56,7 +56,7 @@
         {
           "type": "minecraft:item",
           "weight": 6,
-          "name": "material_elements:leather_sheet",
+          "name": "quark:bounded_leather",
           "functions": [
             {
               "function": "minecraft:set_count",

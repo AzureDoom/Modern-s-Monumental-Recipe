@@ -16,16 +16,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:azalea_leaves",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 2
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:rose_bush",
           "functions": [
             {

@@ -17,7 +17,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "material_elements:leather_sheet"
+          "name": "quark:bonded_leather"
         },
         {
           "type": "minecraft:item",

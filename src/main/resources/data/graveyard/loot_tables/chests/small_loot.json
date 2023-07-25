@@ -128,11 +128,6 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 20,
-          "name": "minecraft:moss_block"
-        },
-        {
-          "type": "minecraft:item",
           "weight": 10,
           "name": "minecraft:glow_berries"
         },
