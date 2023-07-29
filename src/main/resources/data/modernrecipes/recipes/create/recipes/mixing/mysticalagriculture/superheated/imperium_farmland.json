@@ -19,7 +19,7 @@
       "tag": "forge:tools/hoes"
     },
     {
-      "tag": "forge:dirt"
+      "item": "mysticalagriculture:tertium_farmland"
     }
   ],
   "results": [
