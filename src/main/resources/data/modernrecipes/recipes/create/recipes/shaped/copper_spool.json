@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:copper_spool"
+      "item": "createaddition:copper_spool"
     },
     {
       "type": "forge:item_exists",
