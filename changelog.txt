@@ -1,3 +1,2 @@
-v0.27
-- Fixed some loot tables being broken
-- Fixed Some Broken/ Missing Recipes
+v0.28
+- added a few new recipes
