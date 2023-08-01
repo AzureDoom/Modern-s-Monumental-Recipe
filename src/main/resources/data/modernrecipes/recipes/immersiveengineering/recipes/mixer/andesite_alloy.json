@@ -1,0 +1,32 @@
+{
+  "type": "immersiveengineering:mixer",
+  "energy": 3200,
+  "fluid": {
+    "amount": 500,
+    "tag": "minecraft:lava"
+  },
+  "inputs": [
+    {
+      "base_ingredient": {
+        "item": "minecraft:andesite"
+      },
+      "count": 4
+    },
+    {
+      "tag": "forge:plates/zinc"
+    },
+    {
+      "tag": "forge:plates/zinc"
+    },
+    {
+      "tag": "forge:plates/zinc"
+    },
+    {
+      "tag": "forge:plates/zinc"
+    }
+  ],
+  "result": {
+    "amount": 500,
+    "item": "create:andesite_alloy"
+  }
+}
