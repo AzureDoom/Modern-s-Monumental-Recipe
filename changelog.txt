@@ -1,2 +1,2 @@
-v0.28
-- added a few new recipes
+v0.30
+- fixed a few broken recipes
