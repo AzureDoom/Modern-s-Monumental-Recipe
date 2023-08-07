@@ -1,2 +1,2 @@
-v0.30
-- fixed a few broken recipes
+v0.31
+- Added the Ability to find Mana Pearls within loot chest Treasure from Heavenly Challenger, Illager Forts, and Bandit Toweers
