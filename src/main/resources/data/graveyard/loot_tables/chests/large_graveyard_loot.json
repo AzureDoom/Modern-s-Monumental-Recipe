@@ -148,6 +148,11 @@
         {
           "type": "minecraft:item",
           "weight": 10,
+          "name": "botania:mana_pearl"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
           "name": "graveyard:incarnated_evil_music_disc"
         },
         {
