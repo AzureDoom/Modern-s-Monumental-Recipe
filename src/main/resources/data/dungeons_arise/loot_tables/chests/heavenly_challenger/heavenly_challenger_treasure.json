@@ -56,7 +56,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 2,
+          "weight": 8,
           "name": "botania:mana_pearl",
           "functions": [
             {
