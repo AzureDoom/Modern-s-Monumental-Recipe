@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "undergarden:cloggrum_hoe"
+      "item": "undergarden:cloggrum_battleaxe"
     }
   ],
   "type": "naturesaura:offering",
@@ -14,9 +14,9 @@
         "tag": "forge:ingots/cloggrum"
     },
     "start_item": {
-        "item": "minecraft:stone_hoe"
+        "item": "fancy_battleaxes:iron_battleaxe"
     },
     "output": {
-        "item": "undergarden:cloggrum_hoe"
+        "item": "undergarden:cloggrum_battleaxe"
   }
 }
