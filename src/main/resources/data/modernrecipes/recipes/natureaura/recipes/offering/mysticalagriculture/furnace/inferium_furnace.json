@@ -13,7 +13,7 @@
         "item": "mysticalagriculture:inferium_block"
     },
     "start_item": {
-        "tag": "forge:furnace"
+        "tag": "forge:furnaces"
     },
     "output": {
         "item": "mysticalagriculture:inferium_furnace"
