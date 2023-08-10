@@ -22,6 +22,17 @@
     "biomesoplenty:dead_boat",
     "biomesoplenty:magic_boat",
     "biomesoplenty:umbran_boat",
-    "biomesoplenty:hellbark_boat"
+    "biomesoplenty:hellbark_boat",
+    "environmental:willow_boat",
+    "environmental:wisteria_boat",
+    "environmental:cherry_boat",
+    "forbidden_arcanus:cherry_boat",
+    "forbidden_arcanus:aurum_boat",
+    "forbidden_arcanus:edelwood_boat",
+    "undergarden:smogstem_boat",
+    "undergarden:wigglewood_boat",
+    "undergarden:grongle_boat",
+    "upgrade_aquatic:driftwood_boat",
+    "upgrade_aquatic:river_boat"
   ]
 }
