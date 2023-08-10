@@ -6,6 +6,22 @@
     "minecraft:jungle_boat",
     "minecraft:acacia_boat",
     "minecraft:dark_oak_boat",
-    "minecraft:mangrove_boat"
+    "minecraft:mangrove_boat",
+    "quark:blossom_boat",
+    "quark:azalea_boat",
+    "quark:ancient_boat",
+    "hexerei:willow_boat",
+    "hexerei:mahogany_boat",
+    "biomesoplenty:fir_boat",
+    "biomesoplenty:redwood_boat",
+    "biomesoplenty:cherry_boat",
+    "biomesoplenty:mahogany_boat",
+    "biomesoplenty:jacaranda_boat",
+    "biomesoplenty:palm_boat",
+    "biomesoplenty:willow_boat",
+    "biomesoplenty:dead_boat",
+    "biomesoplenty:magic_boat",
+    "biomesoplenty:umbran_boat",
+    "biomesoplenty:hellbark_boat"
   ]
 }
