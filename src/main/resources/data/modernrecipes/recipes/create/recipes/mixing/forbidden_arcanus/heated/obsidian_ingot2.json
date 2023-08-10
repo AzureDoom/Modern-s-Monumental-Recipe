@@ -13,7 +13,7 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "tag": "forbidden_arcanus:obsidian_with_iron"
+      "item": "forbidden_arcanus:obsidian_with_iron"
     },
     {
       "item": "create:andesite_alloy"
