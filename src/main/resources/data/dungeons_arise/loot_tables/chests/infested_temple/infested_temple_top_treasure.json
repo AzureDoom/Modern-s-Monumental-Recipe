@@ -97,6 +97,19 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "botania:mana_pearl",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "mysticalagriculture:iron_essence",
           "functions": [
             {

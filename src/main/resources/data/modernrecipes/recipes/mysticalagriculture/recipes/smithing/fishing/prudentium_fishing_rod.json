@@ -9,10 +9,7 @@
       "item": "mysticalagriculture:prudentium_fishing_rod"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "mysticalagriculture:prudentium_gemstone"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "mysticalagriculture:inferium_fishing_rod"
   },
@@ -20,7 +17,6 @@
     "item": "mysticalagriculture:prudentium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:prudentium_fishing_rod",
-    "count": 1
+    "item": "mysticalagriculture:prudentium_fishing_rod"
   }
 }

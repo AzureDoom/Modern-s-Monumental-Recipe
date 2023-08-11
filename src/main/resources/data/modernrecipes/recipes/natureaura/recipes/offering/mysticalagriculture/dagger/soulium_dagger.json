@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:soulium_dagger"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "mysticalagriculture:soulium_gemstone"
+    },
+    "start_item": {
+        "item": "minecraft:golden_sword"
+    },
+    "output": {
+        "item": "mysticalagriculture:soulium_dagger"
+  }
+}

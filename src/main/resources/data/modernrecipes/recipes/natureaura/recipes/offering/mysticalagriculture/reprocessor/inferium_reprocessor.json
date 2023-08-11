@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:inferium_reprocessor"
+    }  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "mysticalagriculture:inferium_block"
+    },
+    "start_item": {
+        "tag": "forge:furnaces"
+    },
+    "output": {
+        "item": "mysticalagriculture:inferium_reprocessor"
+  }
+}

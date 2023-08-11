@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ad_astra:space_helmet"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:chainmail_helmet"
+    },
+    {
+      "tag": "forge:glass_panes"
+    }
+  ],
+  "output": [
+    {
+      "item": "ad_astra:space_helmet"
+    }
+  ]
+}

@@ -6,13 +6,10 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mysticalagriculture:tertium_axe"
+      "item": "mysticalagriculture:imperium_axe"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_axe"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "mysticalagriculture:tertium_axe"
   },
@@ -20,7 +17,6 @@
     "item": "mysticalagriculture:imperium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:imperium_axe",
-    "count": 1
+    "item": "mysticalagriculture:imperium_axe"
   }
 }

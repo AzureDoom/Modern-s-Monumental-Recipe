@@ -9,10 +9,7 @@
       "item": "ae2:nether_quartz_axe"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_axe"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:iron_axe"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:gems/quartz"
   },
   "result": {
-    "item": "ae2:nether_quartz_axe",
-    "count": 1
+    "item": "ae2:nether_quartz_axe"
   }
 }

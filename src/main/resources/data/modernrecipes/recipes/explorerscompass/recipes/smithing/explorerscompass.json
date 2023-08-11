@@ -9,10 +9,7 @@
       "item": "explorerscompass:explorerscompass"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:cracked_stone_bricks"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:compass"
   },
@@ -20,7 +17,6 @@
     "item": "minecraft:cracked_stone_bricks"
   },
   "result": {
-    "item": "explorerscompass:explorerscompass",
-    "count": 1
+    "item": "explorerscompass:explorerscompass"
   }
 }

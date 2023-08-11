@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mythicbotany"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mythicbotany:mana_ring_greatest"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:mana_ring_greater"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "botania:mana_ring_greater"
+  },
+  "addition": {
+    "item": "mythicbotany:alfsteel_ingot"
+  },
+  "result": {
+    "item": "mythicbotany:mana_ring_greatest"
+  }
+}

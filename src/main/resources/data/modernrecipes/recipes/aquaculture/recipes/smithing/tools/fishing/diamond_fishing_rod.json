@@ -9,10 +9,7 @@
       "item": "aquaculture:diamond_fishing_rod"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "tag": "forge:gems/diamond"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "aquaculture:gold_fishing_rod"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:gems/diamond"
   },
   "result": {
-    "item": "aquaculture:diamond_fishing_rod",
-    "count": 1
+    "item": "aquaculture:diamond_fishing_rod"
   }
 }

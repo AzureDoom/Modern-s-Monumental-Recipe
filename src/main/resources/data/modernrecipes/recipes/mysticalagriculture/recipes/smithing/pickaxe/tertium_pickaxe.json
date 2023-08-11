@@ -9,10 +9,7 @@
       "item": "mysticalagriculture:tertium_pickaxe"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_pickaxe"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "mysticalagriculture:prudentium_pickaxe"
   },
@@ -20,7 +17,6 @@
     "item": "mysticalagriculture:tertium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:tertium_pickaxe",
-    "count": 1
+    "item": "mysticalagriculture:tertium_pickaxe"
   }
 }

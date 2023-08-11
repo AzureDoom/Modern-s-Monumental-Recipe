@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:beekeeper_chestplate"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:leather_chestplate"
+    },
+    {
+      "item": "thermal:beekeeper_fabric"
+    }
+  ],
+  "output": [
+    {
+      "item": "thermal:beekeeper_chestplate"
+    }
+  ]
+}

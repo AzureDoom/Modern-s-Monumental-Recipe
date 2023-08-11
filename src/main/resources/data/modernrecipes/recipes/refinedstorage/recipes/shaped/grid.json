@@ -1,0 +1,45 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:grid"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:semi_dark_monitor"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "refinedstorage:improved_processor"
+    },
+    "C": {
+      "item": "refinedstorage:construction_core"
+    },
+    "G": {
+      "item": "ae2:semi_dark_monitor"
+    },
+    "E": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "M": {
+      "item": "refinedstorage:machine_casing"
+    },
+    "D": {
+      "item": "refinedstorage:destruction_core"
+    }
+  },
+  "pattern": [
+    "PCG",
+    "EMG",
+    "PDG"
+  ],
+  "result": {
+    "item": "refinedstorage:grid"
+  }
+}

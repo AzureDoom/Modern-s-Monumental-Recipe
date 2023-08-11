@@ -9,10 +9,7 @@
       "item": "ironbows:iron_bow"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "tag": "forge:ingots/iron"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:bow"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:ingots/iron"
   },
   "result": {
-    "item": "ironbows:iron_bow",
-    "count": 1
+    "item": "ironbows:iron_bow"
   }
 }

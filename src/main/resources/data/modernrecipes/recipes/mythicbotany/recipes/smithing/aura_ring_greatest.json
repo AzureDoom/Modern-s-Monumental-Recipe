@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mythicbotany"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mythicbotany:aura_ring_greatest"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:aura_ring_greater"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "botania:aura_ring_greater"
+  },
+  "addition": {
+    "item": "mythicbotany:alfsteel_ingot"
+  },
+  "result": {
+    "item": "mythicbotany:aura_ring_greatest"
+  }
+}

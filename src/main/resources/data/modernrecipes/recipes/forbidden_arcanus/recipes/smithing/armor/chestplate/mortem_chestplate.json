@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:mortem_chestplate"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:chainmail_chestplate"
+  },
+  "addition": {
+    "item": "forbidden_arcanus:cloth"
+  },
+  "result": {
+    "item": "forbidden_arcanus:mortem_chestplate"
+  }
+}

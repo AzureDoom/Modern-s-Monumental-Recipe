@@ -9,10 +9,7 @@
       "item": "aquaculture:neptunium_sword"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_sword"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:netherite_sword"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:ingots/neptunium"
   },
   "result": {
-    "item": "aquaculture:neptunium_sword",
-    "count": 1
+    "item": "aquaculture:neptunium_sword"
   }
 }

@@ -1,11 +1,11 @@
 {
   "values": [
-    //"mekanism:basic_fluid_tank",
-    //"mekanism:advanced_fluid_tank",
-    //"mekanism:elite_fluid_tank",
-    //"mekanism:ultimate_fluid_tank",
     "ae2:sky_stone_tank",
     "create:fluid_tank",
+    "mekanism:basic_fluid_tank",
+    "mekanism:advanced_fluid_tank",
+    "mekanism:elite_fluid_tank",
+    "mekanism:ultimate_fluid_tank",
     "#pneumaticcraft:fluid_tanks",
     "rftoolscontrol:tank",
     "rftoolsutility:tank"

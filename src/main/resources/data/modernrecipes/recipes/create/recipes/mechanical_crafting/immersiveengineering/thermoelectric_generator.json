@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:thermoelectric_generator"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "X": {
+      "item": "immersiveengineering:circuit_board"
+    },
+    "C": {
+      "tag": "forge:sheetmetals/constantan"
+    },
+    "T": {
+      "item": "immersiveengineering:coil_hv"
+    },
+    "S": {
+      "tag": "forge:sheetmetals/steel"
+    }
+  },
+  "pattern": [
+    " SSS ",
+    " CXC ",
+    " CTC ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "immersiveengineering:thermoelectric_generator"
+  }
+}

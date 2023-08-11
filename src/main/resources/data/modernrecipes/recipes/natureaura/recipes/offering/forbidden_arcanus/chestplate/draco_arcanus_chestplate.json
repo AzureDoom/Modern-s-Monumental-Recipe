@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:draco_arcanus_chestplate"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:dragon_scales"
+    },
+    "start_item": {
+        "item": "minecraft:netherite_chestplate"
+    },
+    "output": {
+        "item": "forbidden_arcanus:draco_arcanus_chestplate"
+  }
+}

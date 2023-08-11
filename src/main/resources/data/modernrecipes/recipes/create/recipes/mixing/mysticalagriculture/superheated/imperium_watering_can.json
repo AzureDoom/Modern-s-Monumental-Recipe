@@ -1,0 +1,48 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:imperium_watering_can"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:mystical_fertilizer"
+    },
+    {
+      "item": "mysticalagriculture:mystical_fertilizer"
+    },
+    {
+      "item": "mysticalagriculture:mystical_fertilizer"
+    },
+    {
+      "item": "mysticalagriculture:mystical_fertilizer"
+    },
+    {
+      "item": "mysticalagriculture:imperium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:imperium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:imperium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:imperium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:tertium_watering_can"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:imperium_watering_can"
+    }
+  ]
+}

@@ -9,10 +9,7 @@
       "item": "mysticalagriculture:inferium_hoe"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_hoe"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:diamond_hoe"
   },
@@ -20,7 +17,6 @@
     "item": "mysticalagriculture:inferium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:inferium_hoe",
-    "count": 1
+    "item": "mysticalagriculture:inferium_hoe"
   }
 }

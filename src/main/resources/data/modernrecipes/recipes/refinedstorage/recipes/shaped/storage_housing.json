@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:storage_housing"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_vibrant_glass"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:item_cell_housing"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "ae2:quartz_vibrant_glass"
+    },
+    "R": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "S": {
+      "item": "ae2:item_cell_housing"
+    }
+  },
+  "pattern": [
+    "GRG",
+    "RSR",
+    "GRG"
+  ],
+  "result": {
+    "item": "refinedstorage:storage_housing"
+  }
+}

@@ -9,10 +9,7 @@
       "item": "ironbows:netherite_bow"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "tag": "forge:ingots/netherite"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:bow"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:ingots/netherite"
   },
   "result": {
-    "item": "ironbows:netherite_bow",
-    "count": 1
+    "item": "ironbows:netherite_bow"
   }
 }

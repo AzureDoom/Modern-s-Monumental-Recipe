@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aiotbotania:livingrock_pickaxe"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_pickaxe"
+    },
+    {
+      "item": "botania:livingrock"
+    }
+  ],
+  "output": [
+    {
+      "item": "aiotbotania:livingrock_pickaxe"
+    }
+  ]
+}

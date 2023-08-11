@@ -9,10 +9,7 @@
       "item": "alexsmobs:emu_leggings"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "alexsmobs:kangaroo_hide"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:chainmail_chestplate"
   },
@@ -20,7 +17,6 @@
     "item": "alexsmobs:kangaroo_hide"
   },
   "result": {
-    "item": "alexsmobs:emu_leggings",
-    "count": 1
+    "item": "alexsmobs:emu_leggings"
   }
 }

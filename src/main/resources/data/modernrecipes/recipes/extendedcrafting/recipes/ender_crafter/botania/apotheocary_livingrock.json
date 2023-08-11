@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:apothecary_livingrock"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "CQC",
+    " D ",
+    "CCC"
+  ],
+  "key": {
+    "Q": {
+      "tag": "botania:petals"
+    },
+    "C": {
+      "item": "botania:livingrock"
+    },
+    "D": {
+      "item": "botania:apothecary_default"
+    }
+  },
+  "result": {
+    "item": "botania:apothecary_livingrock"
+  }
+}

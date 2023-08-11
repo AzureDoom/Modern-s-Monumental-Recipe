@@ -1,0 +1,53 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:luminessence"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ars_nouveau:glyph_lightning"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:glowstone_mushroom_spores"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "thermal:glowstone_mushroom_spores"
+    },
+    {
+      "item": "ars_nouveau:glyph_lightning"
+    },
+    {
+      "item": "thermal:glowstone_mushroom_spores"
+    },
+    {
+      "item": "ars_nouveau:glyph_lightning"
+    },
+    {
+      "item": "thermal:glowstone_mushroom_spores"
+    },
+    {
+      "item": "ars_nouveau:glyph_lightning"
+    },
+    {
+      "item": "thermal:glowstone_mushroom_spores"
+    },
+    {
+      "item": "ars_nouveau:glyph_lightning"
+    }
+  ],
+  "results": [
+    {
+    "item": "extendedcrafting:luminessence"
+    }
+  ]
+}

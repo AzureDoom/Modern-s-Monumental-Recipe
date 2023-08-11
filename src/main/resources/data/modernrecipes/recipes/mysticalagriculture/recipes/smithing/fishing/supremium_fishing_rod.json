@@ -9,10 +9,7 @@
       "item": "mysticalagriculture:supremium_fishing_rod"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "mysticalagriculture:supremium_gemstone"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "mysticalagriculture:imperium_fishing_rod"
   },
@@ -20,7 +17,6 @@
     "item": "mysticalagriculture:supremium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:supremium_fishing_rod",
-    "count": 1
+    "item": "mysticalagriculture:supremium_fishing_rod"
   }
 }

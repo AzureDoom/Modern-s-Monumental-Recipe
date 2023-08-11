@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:large_cogwheel"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "modernrecipes:part_plate_small_wood"
+    },
+    "C": {
+      "item": "create:andesite_alloy"
+    },
+    "D": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "pattern": [
+    "SDS",
+    "DCD",
+    "SDS"
+  ],
+  "result": {
+    "item": "create:large_cogwheel",
+    "count": 2
+  }
+}

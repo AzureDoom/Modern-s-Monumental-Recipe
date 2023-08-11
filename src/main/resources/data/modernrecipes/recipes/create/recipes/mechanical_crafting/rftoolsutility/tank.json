@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsutility:tank"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:insulating_glass"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "b": {
+      "tag": "forge:buckets/empty"
+    },
+    "F": {
+      "tag": "pneumaticcraft:fluid_tanks"
+    },
+    "G": {
+      "item": "immersiveengineering:insulating_glass"
+    },
+    "i": {
+      "tag": "forge:plates/steel"
+    }
+  },
+  "pattern": [
+    " GGG ",
+    " bFb ",
+    " iii ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolsutility:tank"
+  }
+}

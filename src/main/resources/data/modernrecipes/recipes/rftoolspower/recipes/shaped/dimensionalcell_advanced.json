@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rftoolspower"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolspower:dimensionalcell_advanced"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "K": {
+      "item": "rftoolspower:dimensionalcell"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    "d": {
+      "item": "rftoolsbase:infused_diamond"
+    }
+  },
+  "pattern": [
+    "RdR",
+    "dKd",
+    "RdR"
+  ],
+  "result": {
+    "item": "rftoolspower:dimensionalcell_advanced"
+  }
+}

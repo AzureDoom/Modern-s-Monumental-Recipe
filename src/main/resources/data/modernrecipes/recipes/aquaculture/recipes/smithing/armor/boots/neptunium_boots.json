@@ -9,10 +9,7 @@
       "item": "aquaculture:neptunium_boots"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "tag": "forge:ingots/neptunium"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:netherite_boots"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:ingots/neptunium"
   },
   "result": {
-    "item": "aquaculture:neptunium_boots",
-    "count": 1
+    "item": "aquaculture:neptunium_boots"
   }
 }

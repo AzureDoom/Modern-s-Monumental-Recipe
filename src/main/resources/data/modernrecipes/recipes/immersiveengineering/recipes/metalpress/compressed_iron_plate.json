@@ -1,0 +1,1 @@
+{"type":"immersiveengineering:metal_press","energy":2400,"input":{"base_ingredient":{"tag":"forge:ingots/compressed_iron"},"count":1},"mold":"immersiveengineering:mold_plate","result":{"item":"modernrecipes:compressed_iron_plate"}}

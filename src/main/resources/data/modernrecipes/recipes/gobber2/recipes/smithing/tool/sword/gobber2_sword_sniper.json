@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_sword_sniper"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gobber2:gobber2_sword_end"
+  },
+  "addition": {
+    "item": "gobber2:gobber2_staff_sniper"
+  },
+  "result": {
+    "item": "gobber2:gobber2_sword_sniper"
+  }
+}

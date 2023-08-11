@@ -9,10 +9,7 @@
       "item": "aquaculture:neptunium_axe"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_axe"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:netherite_axe"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:ingots/neptunium"
   },
   "result": {
-    "item": "aquaculture:neptunium_axe",
-    "count": 1
+    "item": "aquaculture:neptunium_axe"
   }
 }

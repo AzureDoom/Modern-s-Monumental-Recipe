@@ -1,0 +1,29 @@
+{
+  "values": [
+    "minecraft:barrier",
+    "minecraft:bedrock",
+    "minecraft:end_portal",
+    "minecraft:end_portal_frame",
+    "minecraft:end_gateway",
+    "minecraft:command_block",
+    "minecraft:repeating_command_block",
+    "minecraft:chain_command_block",
+    "minecraft:structure_block",
+    "minecraft:jigsaw",
+    "minecraft:moving_piston",
+    "minecraft:light",
+    "minecraft:reinforced_deepslate",
+    "occultism:chalk_glyph_white",
+    "occultism:chalk_glyph_gold",
+    "occultism:chalk_glyph_purple",
+    "occultism:chalk_glyph_red",
+    "minecraft:skeleton_skull",
+    "minecraft:wither_skeleton_skull",
+    "occultism:spirit_attuned_crystal",
+    "occultism:sacrificial_bowl",
+    "occultism:golden_sacrificial_bowl",
+    "decorative_blocks:soul_brazier",
+    "naturesaura:gold_powder",
+    "#minecraft:candles"
+  ]
+}

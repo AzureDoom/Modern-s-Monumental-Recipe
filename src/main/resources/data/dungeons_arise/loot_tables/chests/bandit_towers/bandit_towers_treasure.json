@@ -193,6 +193,20 @@
         {
           "type": "minecraft:item",
           "weight": 8,
+          "name": "botania:mana_pearl",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
           "name": "minecraft:blaze_powder",
           "functions": [
             {

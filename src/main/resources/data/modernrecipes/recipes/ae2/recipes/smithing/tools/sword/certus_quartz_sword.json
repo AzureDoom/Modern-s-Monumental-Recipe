@@ -9,10 +9,7 @@
       "item": "ae2:certus_quartz_sword"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_sword"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:iron_sword"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:gems/certus_quartz"
   },
   "result": {
-    "item": "ae2:certus_quartz_sword",
-    "count": 1
+    "item": "ae2:certus_quartz_sword"
   }
 }

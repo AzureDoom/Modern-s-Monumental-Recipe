@@ -2,17 +2,14 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "mutantmonsters"
+      "modid": "minecraft"
     },
     {
       "type": "forge:item_exists",
       "item": "mutantmonsters:mutant_skeleton_chestplate"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "mutantmonsters:mutant_skeleton_rib_cage"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "mutantmonsters:mutant_skeleton_arms"
   },
@@ -20,7 +17,6 @@
     "item": "mutantmonsters:mutant_skeleton_rib_cage"
   },
   "result": {
-    "item": "mutantmonsters:mutant_skeleton_chestplate",
-    "count": 1
+    "item": "mutantmonsters:mutant_skeleton_chestplate"
   }
 }

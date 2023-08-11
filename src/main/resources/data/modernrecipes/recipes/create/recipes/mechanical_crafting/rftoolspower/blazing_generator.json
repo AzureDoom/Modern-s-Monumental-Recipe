@@ -1,0 +1,50 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolspower:blazing_generator"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:printed_circuit_board"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "p": {
+      "item": "rftoolsbase:machine_frame"
+    },
+    "q": {
+      "item": "rftoolspower:blazing_rod"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    "a": {
+      "item": "pneumaticcraft:printed_circuit_board"
+    },
+    "s": {
+      "item": "rftoolsbase:infused_enderpearl"
+    }
+  },
+  "pattern": [
+    " qsq ",
+    " rpr ",
+    " qaq ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolspower:blazing_generator"
+  }
+}

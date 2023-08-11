@@ -9,10 +9,7 @@
       "item": "mysticalagriculture:inferium_fishing_rod"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "mysticalagriculture:inferium_gemstone"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:fishing_rod"
   },
@@ -20,7 +17,6 @@
     "item": "mysticalagriculture:inferium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:inferium_fishing_rod",
-    "count": 1
+    "item": "mysticalagriculture:inferium_fishing_rod"
   }
 }

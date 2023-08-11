@@ -9,10 +9,7 @@
       "item": "mysticalagriculture:imperium_furnace"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "mysticalagriculture:imperium_block"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "mysticalagriculture:tertium_furnace"
   },
@@ -20,7 +17,6 @@
     "item": "mysticalagriculture:imperium_block"
   },
   "result": {
-    "item": "mysticalagriculture:imperium_furnace",
-    "count": 1
+    "item": "mysticalagriculture:imperium_furnace"
   }
 }

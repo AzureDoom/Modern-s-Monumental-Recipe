@@ -9,10 +9,7 @@
       "item": "mysticalagriculture:supremium_pickaxe"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_pickaxe"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "mysticalagriculture:imperium_pickaxe"
   },
@@ -20,7 +17,6 @@
     "item": "mysticalagriculture:supremium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:supremium_pickaxe",
-    "count": 1
+    "item": "mysticalagriculture:supremium_pickaxe"
   }
 }

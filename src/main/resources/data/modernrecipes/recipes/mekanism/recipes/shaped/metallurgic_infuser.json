@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:metallurgic_infuser"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "B": {
+      "tag": "forge:gears/osmium"
+    },
+    "C": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "D": {
+      "tag": "forge:furnaces"
+    },
+    "E": {
+      "item": "mekanism:steel_casing"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CEC",
+    "ADA"
+  ],
+  "result": {
+    "item": "mekanism:metallurgic_infuser"
+  }
+}

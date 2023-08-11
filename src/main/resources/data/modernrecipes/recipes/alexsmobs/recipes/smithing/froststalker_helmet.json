@@ -9,10 +9,7 @@
       "item": "alexsmobs:froststalker_helmet"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "alexsmobs:froststalker_horn"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:diamond_chestplate"
   },
@@ -20,7 +17,6 @@
     "item": "alexsmobs:froststalker_horn"
   },
   "result": {
-    "item": "alexsmobs:froststalker_helmet",
-    "count": 1
+    "item": "alexsmobs:froststalker_helmet"
   }
 }

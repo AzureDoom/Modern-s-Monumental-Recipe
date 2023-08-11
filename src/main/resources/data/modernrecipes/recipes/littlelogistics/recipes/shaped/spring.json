@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "littlelogistics"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "littlelogistics:spring"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "tag": "forge:nuggets/black_iron"
+    },
+    "E": {
+      "tag": "forge:string"
+    }
+  },
+  "pattern": [
+    "   ",
+    "ESE",
+    "SES"
+  ],
+  "result": {
+    "item": "littlelogistics:spring",
+    "count": 2
+  }
+}

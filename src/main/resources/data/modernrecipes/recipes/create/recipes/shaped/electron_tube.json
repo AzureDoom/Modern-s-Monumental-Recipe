@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:electron_tube"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:insulating_glass"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "tag": "forge:plates/iron"
+    },
+    "A": {
+      "tag": "forge:gears/iron"
+    },
+    "N": {
+      "item": "immersiveengineering:insulating_glass"
+    },
+    "X": {
+      "item": "create:pulse_repeater"
+    },
+    "C": {
+      "item": "create:polished_rose_quartz"
+    }
+  },
+  "pattern": [
+    "NCN",
+    "XXX",
+    "LAL"
+  ],
+  "result": {
+    "item": "create:electron_tube"
+  }
+}

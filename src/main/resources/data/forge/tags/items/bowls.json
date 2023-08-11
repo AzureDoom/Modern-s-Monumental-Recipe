@@ -3,8 +3,6 @@
   "values": [
     "minecraft:bowl",
     "occultism:sacrificial_bowl",
-    "occultism:golden_sacrificial_bowl",
-    "easy_mob_farm:fishing_bowl",
-    "doggytalents:food_bowl"
+    "occultism:golden_sacrificial_bowl"
   ]
 }

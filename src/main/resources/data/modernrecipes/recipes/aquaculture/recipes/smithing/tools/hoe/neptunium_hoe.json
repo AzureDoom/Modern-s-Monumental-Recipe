@@ -9,10 +9,7 @@
       "item": "aquaculture:neptunium_hoe"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_hoe"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:netherite_hoe"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:ingots/neptunium"
   },
   "result": {
-    "item": "aquaculture:neptunium_hoe",
-    "count": 1
+    "item": "aquaculture:neptunium_hoe"
   }
 }

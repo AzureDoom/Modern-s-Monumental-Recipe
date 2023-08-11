@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_excavator_nether"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:rods/gobber_rod_nether"
+    },
+    "start_item": {
+        "item": "minecraft:netherite_shovel"
+    },
+    "output": {
+        "item": "gobber2:gobber2_excavator_nether"
+  }
+}

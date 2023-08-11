@@ -9,10 +9,7 @@
       "item": "alexsmobs:centipede_leggings"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "alexsmobs:centipede_leg"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:iron_leggings"
   },
@@ -20,7 +17,6 @@
     "item": "alexsmobs:centipede_leg"
   },
   "result": {
-    "item": "alexsmobs:centipede_leggings",
-    "count": 1
+    "item": "alexsmobs:centipede_leggings"
   }
 }

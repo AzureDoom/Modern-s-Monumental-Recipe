@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "buildinggadgets:construction_block_powder"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/lapis"
+    },
+    {
+      "tag": "forge:sand"
+    },
+    {
+      "tag": "forge:clay"
+    }
+  ],
+  "results": [
+    {
+      "item": "buildinggadgets:construction_block_powder"
+    }
+  ]
+}

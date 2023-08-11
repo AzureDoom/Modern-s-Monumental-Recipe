@@ -1,0 +1,57 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "xnet:controller"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:coil_mv"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:printed_circuit_board"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "ICI",
+    "rFr",
+    "jgj"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:sheetmetals/steel"
+    },
+    "C": {
+      "item": "immersiveengineering:coil_mv"
+    },
+    "g": {
+      "item": "pneumaticcraft:printed_circuit_board"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "F": {
+      "item": "rftoolsbase:machine_frame"
+    },
+    "j": {
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  },
+  "result": {
+    "item": "xnet:controller"
+  }
+}

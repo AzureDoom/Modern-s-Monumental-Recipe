@@ -9,10 +9,7 @@
       "item": "mysticalagriculture:supremium_furnace"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "mysticalagriculture:supremium_block"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "mysticalagriculture:imperium_furnace"
   },
@@ -20,7 +17,6 @@
     "item": "mysticalagriculture:supremium_block"
   },
   "result": {
-    "item": "mysticalagriculture:supremium_furnace",
-    "count": 1
+    "item": "mysticalagriculture:supremium_furnace"
   }
 }

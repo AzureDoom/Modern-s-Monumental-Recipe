@@ -9,10 +9,7 @@
       "item": "structurecompass:structure_compass"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:carved_pumpkin"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:compass"
   },
@@ -20,7 +17,6 @@
     "item": "minecraft:carved_pumpkin"
   },
   "result": {
-    "item": "structurecompass:structure_compass",
-    "count": 1
+    "item": "structurecompass:structure_compass"
   }
 }

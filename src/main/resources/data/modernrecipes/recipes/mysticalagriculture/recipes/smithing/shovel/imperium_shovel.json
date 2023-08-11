@@ -9,10 +9,7 @@
       "item": "mysticalagriculture:imperium_shovel"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_shovel"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "mysticalagriculture:tertium_shovel"
   },
@@ -20,7 +17,6 @@
     "item": "mysticalagriculture:imperium_gemstone"
   },
   "result": {
-    "item": "mysticalagriculture:imperium_shovel",
-    "count": 1
+    "item": "mysticalagriculture:imperium_shovel"
   }
 }
