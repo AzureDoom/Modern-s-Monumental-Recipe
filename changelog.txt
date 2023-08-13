@@ -1,4 +1,2 @@
-v0.33
-- fixed Broken MineColonies Ship Recipe, due to missing Tag
-- Fixed a Broken Loot Table File
-- Fixed Broken Recipes using old Compressed Plate and not new one
+v0.34
+- fixed Broken Recipes
