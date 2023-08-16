@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:eternal_stella"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_globette_end"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    " A ",
+    "ACA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "forbidden_arcanus:xpetrified_orb"
+    },
+    "C": {
+      "item": "gobber2:gobber2_globette_end"
+    }
+  },
+  "result": {
+    "item": "forbidden_arcanus:eternal_stella"
+  }
+}
