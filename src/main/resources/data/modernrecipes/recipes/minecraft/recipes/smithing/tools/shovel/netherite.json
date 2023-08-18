@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_shovel"
+    "item": "create_weaponry:diamond_shovel_head"
   },
   "addition": {
     "tag": "forge:storage_blocks/netherite"
