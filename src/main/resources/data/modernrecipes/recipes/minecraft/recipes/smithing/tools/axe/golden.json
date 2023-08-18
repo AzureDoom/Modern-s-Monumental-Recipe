@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:iron_axe"
+    "item": "create_weaponry:iron_axe_head"
   },
   "addition": {
     "tag": "forge:ingots/gold"
