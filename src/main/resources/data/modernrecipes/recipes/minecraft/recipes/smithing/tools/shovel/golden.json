@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:iron_shovel"
+    "item": "create_weaponry:iron_shovel_head"
   },
   "addition": {
     "tag": "forge:ingots/gold"
