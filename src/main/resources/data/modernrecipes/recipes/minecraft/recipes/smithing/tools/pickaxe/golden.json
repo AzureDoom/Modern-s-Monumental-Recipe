@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:iron_pickaxe"
+    "item": "create_weaponry:iron_pickaxe_head"
   },
   "addition": {
     "tag": "forge:ingots/gold"
