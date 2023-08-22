@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:feather",
+    "alexsmobs:roadrunner_feather",
+    "alexsmobs:emu_feather",
+    "reliquary:angelic_feather",
+    "reliquary:phoenix_down"
+  ]
+}

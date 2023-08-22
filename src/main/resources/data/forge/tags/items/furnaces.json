@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:furnace",
+    "minecraft:blast_furnace",
+    "ironfurnaces:allthemodium_furnace",
+    "ironfurnaces:copper_furnace",
+    "ironfurnaces:crystal_furnace",
+    "ironfurnaces:diamond_furnace",
+    "ironfurnaces:emerald_furnace",
+    "ironfurnaces:gold_furnace",
+    "ironfurnaces:iron_furnace",
+    "ironfurnaces:netherite_furnace",
+    "ironfurnaces:obsidian_furnace",
+    "ironfurnaces:million_furnace",
+    "ironfurnaces:silver_furnace",
+    "ironfurnaces:unobtainium_furnace",
+    "ironfurnaces:vibranium_furnace",
+    "jumbofurnace:jumbo_furnace",
+    "quark:deepslate_furnace",
+    "quark:blackstone_furnace",
+    "engineersdecor:small_lab_furnace",
+    "thermal:machine_furnace",
+    "mysticalagriculture:inferium_furnace",
+    "mysticalagriculture:prudentium_furnace",
+    "mysticalagriculture:tertium_furnace",
+    "mysticalagriculture:imperium_furnace",
+    "mysticalagriculture:supremium_furnace",
+    "mysticalagriculture:awakened_supremium_furnace",
+    "#forcecraft:force_furnace",
+    "nethersdelight:blackstone_furnace"
+  ]
+}

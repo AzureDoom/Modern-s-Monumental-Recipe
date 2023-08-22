@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:red_nether_bricks",
+    "rechiseled:red_nether_bricks_beams",
+    "rechiseled:red_nether_bricks_chiseled_squares",
+    "rechiseled:red_nether_bricks_diagonal_bricks",
+    "rechiseled:red_nether_bricks_large_bricks",
+    "rechiseled:red_nether_bricks_large_tiles",
+    "rechiseled:red_nether_bricks_rotated_bricks",
+    "rechiseled:red_nether_bricks_small_tiles",
+    "rechiseled:red_nether_bricks_smooth",
+    "rechiseled:red_nether_bricks_squares",
+    "rechiseled:red_nether_bricks_tiles",
+    "#chipped:red_nether_bricks"
+  ]
+}
