@@ -26,7 +26,7 @@
       "item": "mysticalagriculture:supremium_essence"
     },
     {
-      "item": "forbidden_arcanus:corrupti_dust"
+      "tag": "forge:storage_blocks/supremium_essence"
     }
   ],
   "output": {
