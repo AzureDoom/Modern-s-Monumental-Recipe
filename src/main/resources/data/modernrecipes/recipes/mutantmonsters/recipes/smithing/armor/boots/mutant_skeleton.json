@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mutantmonsters"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mutantmonsters:mutant_skeleton_boots"
+    }
+  ],
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "mutantmonsters:mutant_skeleton_limb"
+  },
+  "base": {
+    "item": "minecraft:leather_boots"
+  },
+  "addition": {
+    "item": "mutantmonsters:mutant_skeleton_limb"
+  },
+  "result": {
+    "item": "mutantmonsters:mutant_skeleton_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:nether_quartz_pickaxe"
+    }
+  ],
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "modernrecipes:part_mold_pickaxe"
+  },
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "tag": "forge:gems/quartz"
+  },
+  "result": {
+    "item": "ae2:nether_quartz_pickaxe",
+    "count": 1
+  }
+}
