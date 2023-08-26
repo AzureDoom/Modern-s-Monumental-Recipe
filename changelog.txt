@@ -1,2 +1,2 @@
-v0.36
-- added another Missing Recipe
+v0.37
+- Fixed more broken Loot Tables
