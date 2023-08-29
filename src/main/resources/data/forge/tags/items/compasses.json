@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "#minecraft:compasses",
     "minecraft:compass",
     "minecraft:recovery_compass",
     "ae2:meteorite_compass",
