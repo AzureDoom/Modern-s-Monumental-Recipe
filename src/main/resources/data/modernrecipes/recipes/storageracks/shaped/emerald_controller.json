@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "storageracks:gold_controller"
+      "item": "storageracks:emerald_controller"
     }
   ],
   "type": "minecraft:crafting_shaped",
