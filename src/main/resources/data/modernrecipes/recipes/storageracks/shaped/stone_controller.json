@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "storageracks:stone_controller",
+      "item": "storageracks:stone_controller"
     }
   ],
   "type": "minecraft:crafting_shaped",
