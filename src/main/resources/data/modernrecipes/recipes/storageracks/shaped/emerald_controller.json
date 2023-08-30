@@ -15,7 +15,7 @@
       "item": "storageracks:gold_controller"
     },
     "L": {
-      "tag": "forge:gems/emerald"
+      "item": "minecraft:emerald"
     }
   },
   "pattern": [
