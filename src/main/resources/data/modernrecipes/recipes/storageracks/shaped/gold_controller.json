@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "storageracks:iron_controller",
+      "item": "storageracks:iron_controller"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "X": {
-      "item": "storageracks:iron_controller",
+      "item": "storageracks:iron_controller"
     },
     "L": {
       "tag": "forge:plates/gold"
