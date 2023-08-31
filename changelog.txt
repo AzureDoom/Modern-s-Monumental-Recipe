@@ -1,3 +1,2 @@
-v0.39
-- Added Storagerack recipe
+v0.40
 - Fixed a few more Broken loot tables
