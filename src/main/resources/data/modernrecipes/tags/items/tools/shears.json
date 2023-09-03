@@ -1,5 +1,9 @@
 {
   "values": [
-    "minecraft:shears"
+    "minecraft:shears",
+    "aiotbotania:livingwood_shears",
+    "aiotbotania:livingrock_shears",
+    "bettershears3:unfired_clay_shears",
+    "#forge:shears/cobble"
   ]
 }
