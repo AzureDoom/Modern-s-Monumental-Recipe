@@ -1,2 +1,2 @@
-v0.40
-- Fixed a few more Broken loot tables
+v0.41
+- Updated to reflect new changes in Modpack
