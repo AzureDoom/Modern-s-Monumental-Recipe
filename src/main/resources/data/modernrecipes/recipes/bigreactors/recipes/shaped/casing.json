@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "forge:ingots/graphite"
+      "item": "bigreactors:graphite_ingot"
     },
     "B": {
       "item": "mekanism:steel_casing:"
