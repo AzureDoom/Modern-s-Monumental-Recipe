@@ -7,6 +7,10 @@
     {
       "type": "forge:item_exists",
       "item": "thermal:emerald_gear"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:andesite_alloy"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -21,7 +25,7 @@
   "pattern": [
     " P ",
     "PXP",
-    " P"
+    " P "
   ],
   "result": {
     "item": "thermal:emerald_gear"
