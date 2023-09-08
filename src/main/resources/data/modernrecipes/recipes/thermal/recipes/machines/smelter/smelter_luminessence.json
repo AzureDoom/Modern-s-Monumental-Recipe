@@ -18,15 +18,23 @@
     {
       "value": [
         {
-          "item": "thermal:glowstone:mushroom_spores"
+          "item": "thermal:glowstone_mushroom_spores"
+        },
+        {
+          "item": "thermal:glowstone_mushroom_spores"
         }
       ],
       "count": 4
     },
     {
       "value": [
-    {
-      "item": "ars_nouveau:glyph_lightning",
+        {
+          "item": "ars_nouveau:glyph_lightning"
+        },
+        {
+          "item": "ars_nouveau:glyph_lightning"
+        }
+      ],
       "count": 4
     }
   ],
@@ -37,4 +45,4 @@
     }
   ],
   "energy": 12000
-}]}
+}
