@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "minecraft:alternative",
+      "terms": [
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:entities/blaze"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:entities/guardian"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:entities/glow_squid"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:entities/ghast"
+        }
+      ]
+    }
+  ],
+  "type": "lootbundles:loot_bundle",
+  "probability": 0.1,
+  "maxCount": 1
+}
