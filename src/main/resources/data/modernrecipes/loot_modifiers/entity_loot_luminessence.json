@@ -26,6 +26,6 @@
     }
   ],
   "type": "extendedcrafting:luminessence",
-  "probability": 0.2,
+  "probability": 0.4,
   "maxCount": 1
 }
