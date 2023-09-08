@@ -25,7 +25,7 @@
       ]
     }
   ],
-  "type": "lootbundles:loot_bundle",
-  "probability": 0.1,
+  "type": "extendedcrafting:luminessence",
+  "probability": 0.2,
   "maxCount": 1
 }
