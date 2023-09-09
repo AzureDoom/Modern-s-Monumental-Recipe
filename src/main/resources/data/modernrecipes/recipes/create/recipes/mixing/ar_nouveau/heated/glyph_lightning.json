@@ -1,0 +1,53 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ars_nouveau:glyph_lightning"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ars_nouveau:air_essence"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "ars_nouveau:air_essence"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "ars_nouveau:air_essence"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "ars_nouveau:air_essence"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "ars_nouveau:air_essence"
+    }
+  ],
+  "results": [
+    {
+    "item": "ars_nouveau:glyph_lightning"
+    }
+  ]
+}
