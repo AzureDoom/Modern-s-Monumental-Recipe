@@ -22,7 +22,7 @@
       "item": "thermal:rf_coil"
     },
     "X": {
-      "tag": "forge:furnace"
+      "tag": "forge:furnaces"
     },
     "Y": {
       "tag": "forge:sand"
