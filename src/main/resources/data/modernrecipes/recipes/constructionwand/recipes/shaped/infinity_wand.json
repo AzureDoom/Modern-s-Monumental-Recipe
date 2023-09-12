@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "constructionwand:diamond_wand"
+      "item": "constructionwand:diamond_wand"
     },
     "B": {
       "item": "naturesaura:ancient_stick"
