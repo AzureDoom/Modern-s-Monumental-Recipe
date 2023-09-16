@@ -14,7 +14,7 @@
     "item": "minecraft:iron_chestplate"
   },
   "addition": {
-    "item": "kubejs:compressed_iron_plate"
+    "item": "modernrecipes:compressed_iron_plate"
   },
   "result": {
     "item": "pneumaticcraft:compressed_iron_chestplate"
