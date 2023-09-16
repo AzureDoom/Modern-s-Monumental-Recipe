@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "thermal:press",
@@ -21,7 +21,7 @@
   ],
   "result": [
     {
-      "item": "kubejs:compressed_iron_plate",
+      "item": "modernrecipes:compressed_iron_plate",
       "count": 2
     }
   ],
