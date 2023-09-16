@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:chainmail_boots"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "modernrecipes:chains"
+    },
+    "start_item": {
+        "item": "minecraft:leather_boots"
+    },
+    "output": {
+        "item": "minecraft:chainmail_boots"
+  }
+}

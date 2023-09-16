@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "constructionwand:infinity_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:advanced_wand_core"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "notenoughwands:advanced_wand_core"
+    },
+    "start_item": {
+        "item": "constructionwand:diamond_wand"
+    },
+    "output": {
+        "item": "constructionwand:infinity_wand"
+  }
+}

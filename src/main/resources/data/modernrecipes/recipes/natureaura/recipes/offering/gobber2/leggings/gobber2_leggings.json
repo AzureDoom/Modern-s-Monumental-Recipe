@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_leggings"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/gobber"
+    },
+    "start_item": {
+        "item": "minecraft:netherite_leggings"
+    },
+    "output": {
+        "item": "gobber2:gobber2_leggings"
+  }
+}

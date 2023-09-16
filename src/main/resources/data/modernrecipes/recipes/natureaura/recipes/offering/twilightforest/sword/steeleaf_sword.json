@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "twilightforest:steeleaf_sword"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/steeleaf"
+    },
+    "start_item": {
+        "item": "minecraft:diamond_sword"
+    },
+    "output": {
+        "item": "twilightforest:steeleaf_sword"
+  }
+}
