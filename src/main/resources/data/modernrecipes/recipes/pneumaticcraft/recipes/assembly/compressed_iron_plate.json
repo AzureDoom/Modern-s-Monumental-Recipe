@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     }
   ],
   "type": "pneumaticcraft:assembly_laser",
@@ -18,6 +18,6 @@
   "program": "laser",
   "result": {
     "count": 1,
-    "item": "kubejs:compressed_iron_plate"
+    "item": "modernrecipes:compressed_iron_plate"
   }
 }
