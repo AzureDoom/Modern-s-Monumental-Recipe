@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "create_stuff_additions:copper_hoe"
+      "item": "create_sa:copper_hoe"
     }
   ],
   "type": "botania:elven_trade",
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "create_stuff_additions:copper_hoe"
+      "item": "create_sa:copper_hoe"
     }
   ]
 }

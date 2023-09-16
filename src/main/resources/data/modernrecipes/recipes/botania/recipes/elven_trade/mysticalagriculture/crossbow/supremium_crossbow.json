@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "bettershears2:gold_shears"
+      "item": "mysticalagriculture:supremium_crossbow"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:shears"
+      "item": "mysticalagriculture:imperium_crossbow"
     },
     {
-      "tag": "forge:ingots/gold"
+      "item": "mysticalagriculture:supremium_block"
     }
   ],
   "output": [
     {
-      "item": "bettershears2:gold_shears"
+      "item": "mysticalagriculture:supremium_crossbow"
     }
   ]
 }

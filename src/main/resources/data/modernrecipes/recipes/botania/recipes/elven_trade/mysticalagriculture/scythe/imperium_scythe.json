@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "bettershears2:unfired_clay_shears"
+      "item": "mysticalagriculture:imperium_scythe"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:shears"
+      "item": "mysticalagriculture:tertium_scythe"
     },
     {
-      "item": "quark:bonded_leather"
+      "item": "mysticalagriculture:imperium_gemstone"
     }
   ],
   "output": [
     {
-      "item": "bettershears2:unfired_clay_shears"
+      "item": "mysticalagriculture:imperium_scythe"
     }
   ]
 }

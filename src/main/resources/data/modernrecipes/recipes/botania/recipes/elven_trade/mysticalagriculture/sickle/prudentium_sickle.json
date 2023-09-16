@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "bettershears2:clay_shears"
+      "item": "mysticalagriculture:prudentium_sickle"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "bettershears2:unfired_clay_shears"
+      "item": "mysticalagriculture:inferium_sickle"
     },
     {
-      "tag": "forge:storage_blocks/clay"
+      "item": "mysticalagriculture:prudentium_gemstone"
     }
   ],
   "output": [
     {
-      "item": "bettershears2:clay_shears"
+      "item": "mysticalagriculture:prudentium_sickle"
     }
   ]
 }

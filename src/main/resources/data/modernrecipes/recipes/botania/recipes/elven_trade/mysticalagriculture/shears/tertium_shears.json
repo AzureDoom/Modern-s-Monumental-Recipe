@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "bettershears2:obsidian_shears"
+      "item": "mysticalagriculture:tertium_shears"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "bettershears2:emerald_shears"
+      "item": "mysticalagriculture:prudentium_shears"
     },
     {
-      "tag": "forge:obsidian"
+      "item": "mysticalagriculture:tertium_gemstone"
     }
   ],
   "output": [
     {
-      "item": "bettershears2:obsidian_shears"
+      "item": "mysticalagriculture:tertium_shears"
     }
   ]
 }

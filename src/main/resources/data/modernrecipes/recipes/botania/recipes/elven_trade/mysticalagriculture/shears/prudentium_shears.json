@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "bettershears2:netherite_shears"
+      "item": "mysticalagriculture:prudentium_shears"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "bettershears2:diamond_shears"
+      "item": "mysticalagriculture:inferium_shears"
     },
     {
-      "tag": "forge:storage_blocks/netherite"
+      "item": "mysticalagriculture:prudentium_gemstone"
     }
   ],
   "output": [
     {
-      "item": "bettershears2:netherite_shears"
+      "item": "mysticalagriculture:prudentium_shears"
     }
   ]
 }

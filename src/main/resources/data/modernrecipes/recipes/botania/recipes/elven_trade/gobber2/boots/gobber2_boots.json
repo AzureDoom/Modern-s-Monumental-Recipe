@@ -15,7 +15,7 @@
       "item": "minecraft:netherite_boots"
     },
     {
-      "item": "gobber2:gobber2_ingot"
+      "tag": "forge:ingots/gobber"
     }
   ],
   "output": [

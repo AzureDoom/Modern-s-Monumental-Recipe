@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "bettershears2:wooden_shears"
+      "item": "forcecraft:force_boots"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:shears"
+      "item": "minecraft:diamond_boots"
     },
     {
-      "tag": "minecraft:planks"
+      "tag": "forge:rods/force"
     }
   ],
   "output": [
     {
-      "item": "bettershears2:wooden_shears"
+      "item": "forcecraft:force_boots"
     }
   ]
 }

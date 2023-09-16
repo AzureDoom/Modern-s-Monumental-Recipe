@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "bettershears2:diamond_shears"
+      "item": "mysticalagriculture:imperium_sickle"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "bettershears2:gold_shears"
+      "item": "mysticalagriculture:tertium_sickle"
     },
     {
-      "tag": "forge:storage_blocks/diamond"
+      "item": "mysticalagriculture:imperium_gemstone"
     }
   ],
   "output": [
     {
-      "item": "bettershears2:diamond_shears"
+      "item": "mysticalagriculture:imperium_sickle"
     }
   ]
 }

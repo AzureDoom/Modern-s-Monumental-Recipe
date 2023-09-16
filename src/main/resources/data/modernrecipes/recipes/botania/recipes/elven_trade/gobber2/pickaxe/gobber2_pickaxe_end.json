@@ -15,7 +15,7 @@
       "item": "minecraft:netherite_pickaxe"
     },
     {
-      "item": "gobber2:gobber2_ingot_end"
+      "tag": "forge:ingots/gobber_end"
     }
   ],
   "output": [

@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "tag": "forge:tools/pickaxes"
+      "tag": "forge:tools/pickaxe"
     },
     {
       "item": "modularrouters:blank_module"

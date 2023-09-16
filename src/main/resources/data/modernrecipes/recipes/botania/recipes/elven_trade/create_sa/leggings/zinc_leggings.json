@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "create_stuff_additions:zinc_leggings"
+      "item": "create_sa:zinc_leggings"
     }
   ],
   "type": "botania:elven_trade",
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "create_stuff_additions:zinc_leggings"
+      "item": "create_sa:zinc_leggings"
     }
   ]
 }

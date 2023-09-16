@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "xreliquary:shears_of_winter"
+      "item": "reliquary:shears_of_winter"
     }
   ],
   "type": "botania:elven_trade",
@@ -15,12 +15,12 @@
       "item": "minecraft:shears"
     },
     {
-      "item": "xreliquary:frozen_core"
+      "item": "reliquary:frozen_core"
     }
   ],
   "output": [
     {
-      "item": "xreliquary:shears_of_winter"
+      "item": "reliquary:shears_of_winter"
     }
   ]
 }

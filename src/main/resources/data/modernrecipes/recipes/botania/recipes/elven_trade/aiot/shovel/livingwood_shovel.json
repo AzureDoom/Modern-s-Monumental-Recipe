@@ -15,7 +15,7 @@
       "item": "minecraft:wooden_shovel"
     },
     {
-      "tag": "botania:livingwood"
+      "tag": "botania:livingwood_logs"
     }
   ],
   "output": [

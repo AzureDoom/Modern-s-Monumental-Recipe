@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "appliedenergistics2:nether_quartz_wrench"
+      "item": "ae2:nether_quartz_wrench"
     },
     {
       "type": "forge:item_exists",

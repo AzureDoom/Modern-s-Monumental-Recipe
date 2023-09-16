@@ -15,7 +15,7 @@
       "item": "hexerei:warhammer"
     },
     {
-      "item": "gobber2:gobber2_ingot_end"
+      "tag": "forge:ingots/gobber_end"
     }
   ],
   "output": [

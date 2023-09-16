@@ -6,21 +6,21 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "bettershears2:emerald_shears"
+      "item": "cyclic:amethyst_hoe"
     }
   ],
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "bettershears2:diamond_shears"
+      "item": "minecraft:iron_hoe"
     },
     {
-      "tag": "forge:storage_blocks/emerald"
+      "tag": "forge:gems/amethyst"
     }
   ],
   "output": [
     {
-      "item": "bettershears2:emerald_shears"
+      "item": "cyclic:amethyst_hoe"
     }
   ]
 }
