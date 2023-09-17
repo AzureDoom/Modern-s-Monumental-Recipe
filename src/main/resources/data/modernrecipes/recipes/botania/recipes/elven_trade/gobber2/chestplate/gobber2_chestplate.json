@@ -15,7 +15,7 @@
       "item": "minecraft:netherite_chestplate"
     },
     {
-      "tag": "forge:ingots/gobber"
+      "item": "gobber2:gobber2_ingot"
     }
   ],
   "output": [
