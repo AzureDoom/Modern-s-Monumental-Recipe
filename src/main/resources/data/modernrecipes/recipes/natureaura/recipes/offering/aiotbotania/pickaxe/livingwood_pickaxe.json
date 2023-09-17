@@ -11,7 +11,7 @@
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "botania:livingwood_logs"
+        "tag": "botania:livingwood"
     },
     "start_item": {
         "item": "minecraft:wooden_pickaxe"
