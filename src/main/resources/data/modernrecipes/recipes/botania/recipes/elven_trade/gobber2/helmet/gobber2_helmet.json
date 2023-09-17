@@ -15,7 +15,7 @@
       "item": "minecraft:netherite_helmet"
     },
     {
-      "tag": "forge:ingots/gobber"
+      "item": "gobber2:gobber2_ingot"
     }
   ],
   "output": [
