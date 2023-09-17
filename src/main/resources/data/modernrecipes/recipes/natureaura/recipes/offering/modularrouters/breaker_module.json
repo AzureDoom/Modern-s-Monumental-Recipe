@@ -14,7 +14,7 @@
         "item": "modularrouters:blank_module"
     },
     "start_item": {
-        "tag": "forge:tools/pickaxe"
+        "tag": "forge:pickaxes"
     },
     "output": {
         "item": "modularrouters:breaker_module"
