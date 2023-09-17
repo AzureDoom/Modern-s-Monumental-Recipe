@@ -11,7 +11,7 @@
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:ingots/gobber_end"
+        "item": "gobber2:gobber2_ingot_end"
     },
     "start_item": {
         "item": "hexerei:warhammer"
