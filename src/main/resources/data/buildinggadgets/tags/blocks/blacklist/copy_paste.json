@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values":[
-    "#monumental:gadgets_blacklist",
     "immersiveengineering:alloy_smelter",
     "immersiveengineering:arc_furnace",
     "immersiveengineering:assembler",
@@ -22,7 +21,6 @@
     "immersiveengineering:silo",
     "immersiveengineering:squeezer",
     "immersiveengineering:tank",
-    "xnet:facade",
-    "sophisticatedbackpacks:backpack"
+    "xnet:facade"
   ]
 }
