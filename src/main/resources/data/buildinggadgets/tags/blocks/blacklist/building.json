@@ -2,12 +2,12 @@
   "replace": false,
   "values": [
     "#buildinggadgets:blacklist/generic",
-    "#monumental:gadgets_blacklist",
     "immersiveengineering:alloy_smelter",
     "immersiveengineering:arc_furnace",
     "immersiveengineering:assembler",
     "immersiveengineering:auto_workbench",
     "immersiveengineering:bottling_machine",
+    "immersiveengineering:bucket_wheel",
     "immersiveengineering:coke_oven",
     "immersiveengineering:blast_furnace",
     "immersiveengineering:crusher",
@@ -23,7 +23,6 @@
     "immersiveengineering:silo",
     "immersiveengineering:squeezer",
     "immersiveengineering:tank",
-    "xnet:facade",
-    "sophisticatedbackpacks:backpack"
+    "xnet:facade"
   ]
 }
