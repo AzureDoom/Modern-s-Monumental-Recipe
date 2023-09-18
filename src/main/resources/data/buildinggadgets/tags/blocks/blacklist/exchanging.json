@@ -25,7 +25,6 @@
     "immersiveengineering:silo",
     "immersiveengineering:squeezer",
     "immersiveengineering:tank",
-    "xnet:facade",
-    "sophisticatedbackpacks:backpack"
+    "xnet:facade"
   ]
 }
