@@ -35,7 +35,7 @@
       "item": "industrialforegoing:pink_slime_ingot"
     }
   ],
-  "pressure": 4,
+  "pressure": 4.0,
   "results": [
     {
       "item": "refinedstorage:processor_binding",
