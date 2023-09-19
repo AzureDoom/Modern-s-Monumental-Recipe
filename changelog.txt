@@ -1,2 +1,2 @@
-v0.41
+v0.42
 - Updated to reflect new changes in Modpack
