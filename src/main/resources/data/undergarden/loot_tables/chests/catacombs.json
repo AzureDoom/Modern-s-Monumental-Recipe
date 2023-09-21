@@ -90,6 +90,21 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "undergarden:regalium_crystal"
+        },
+        {
+          "type": "minecraft:item",
           "weight": 10,
           "functions": [
             {

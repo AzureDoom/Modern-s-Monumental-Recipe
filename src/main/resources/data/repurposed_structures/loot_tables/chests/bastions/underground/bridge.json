@@ -93,6 +93,37 @@
           ]
         },
         {
+          "name": "minecraft:amethyst_shard",
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "name": "minecraft:deepslate_redstone_ore",
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8.0,
+                "max": 12.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
           "name": "mysticalagriculture:obsidian_essence",
           "type": "minecraft:item",
           "weight": 1,
@@ -253,7 +284,7 @@
           ]
         },
         {
-          "name": "quark:bounded_leather",
+          "name": "material_elements:leather_sheet",
           "type": "minecraft:item",
           "weight": 1,
           "functions": [

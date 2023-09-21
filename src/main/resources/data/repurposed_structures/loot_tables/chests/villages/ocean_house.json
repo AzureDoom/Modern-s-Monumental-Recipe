@@ -33,6 +33,11 @@
           "weight": 4
         },
         {
+          "name": "minecraft:glow_ink_sac",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
           "name": "minecraft:oak_chest_boat",
           "type": "minecraft:item",
           "weight": 1

@@ -2,7 +2,6 @@
   "replace": false,
   "values": [
     "#buildinggadgets:blacklist/generic",
-    "#monumental:gadgets_blacklist",
     "minecraft:torch",
     "minecraft:wall_torch",
     "immersiveengineering:alloy_smelter",

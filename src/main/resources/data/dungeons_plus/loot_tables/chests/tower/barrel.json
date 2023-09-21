@@ -32,6 +32,16 @@
           "type": "minecraft:item",
           "functions": [
             {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:water"
+            }
+          ],
+          "name": "minecraft:potion"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
