@@ -5,7 +5,7 @@
     "tag": "forge:storage_blocks/compressed_iron"
   },
   "output": {
-    "item": "astralsorcery:infused_iron",
+    "item": "naturesaura:infused_iron",
     "count": 1
   },
   "consumptionChance": 0.3,
