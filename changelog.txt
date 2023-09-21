@@ -1,2 +1,2 @@
-v0.42
-- Updated to reflect new changes in Modpack
+v0.43
+- Updated to Forge 43.3.0
