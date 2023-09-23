@@ -10,11 +10,11 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:quartz_vibrant_glass"
+      "item": "appliedenergistics2:quartz_vibrant_glass"
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:fluix_glass_cable"
+      "item": "appliedenergistics2:fluix_glass_cable"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -23,10 +23,10 @@
       "item": "refinedstorage:quartz_enriched_iron"
     },
     "G": {
-      "item": "ae2:quartz_vibrant_glass"
+      "item": "appliedenergistics2:quartz_vibrant_glass"
     },
     "R": {
-      "item": "ae2:fluix_glass_cable"
+      "item": "appliedenergistics2:fluix_glass_cable"
     }
   },
   "pattern": [
