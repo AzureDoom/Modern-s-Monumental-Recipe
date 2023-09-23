@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:smooth_sky_stone_block"
+      "item": "appliedenergistics2:smooth_sky_stone_block"
     },
     {
       "type": "forge:item_exists",
@@ -20,7 +20,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "E": {
-      "item": "ae2:smooth_sky_stone_block"
+      "item": "appliedenergistics2:smooth_sky_stone_block"
     },
     "S": {
       "item": "refinedstorage:quartz_enriched_iron_block"
