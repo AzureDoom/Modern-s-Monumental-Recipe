@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     {
       "type": "forge:item_exists",
@@ -23,7 +23,7 @@
       "tag": "forge:string"
     },
     "E": {
-      "item": "kubejs:compressed_iron_plate"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "W": {
       "item": "quark:bonded_leather"
