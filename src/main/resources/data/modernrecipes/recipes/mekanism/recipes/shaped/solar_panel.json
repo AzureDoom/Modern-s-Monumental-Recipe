@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     },
     {
       "type": "forge:item_exists",
@@ -20,7 +20,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "G": {
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     },
     "O": {
       "tag": "forge:plates/osmium"
