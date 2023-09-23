@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:quartz_vibrant_glass"
+      "item": "appliedenergistics2:quartz_vibrant_glass"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -25,7 +25,7 @@
       "tag": "pneumaticcraft:fluid_tanks"
     },
     "D": {
-      "item": "ae2:quartz_vibrant_glass"
+      "item": "appliedenergistics2:quartz_vibrant_glass"
     }
   },
   "pattern": [
