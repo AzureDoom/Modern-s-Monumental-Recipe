@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -25,7 +25,7 @@
       "tag": "forge:ingots/steel"
     },
     "D": {
-      "item": "ae2:quartz_glass"
+      "item": "appliedenergistics2:quartz_glass"
     }
   },
   "pattern": [
