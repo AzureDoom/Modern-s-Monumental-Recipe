@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:basic_logistical_transporter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "viescraftmachines:kit_framework"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "C": {
+      "item": "viescraftmachines:kit_framework"
+    },
+    "B": {
+      "tag": "forge:circuits/basic"
+    }
+  },
+  "pattern": [
+    "ACA",
+    " B "
+  ],
+  "result": {
+    "count": 4,
+    "item": "mekanism:basic_logistical_transporter"
+  }
+}
