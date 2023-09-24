@@ -11,10 +11,6 @@
     {
       "type": "forge:item_exists",
       "item": "modernrecipes:compressed_iron_plate"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "viescraftmachines:kit_framework"
     }
   ],
   "type": "minecraft:crafting_shaped",
