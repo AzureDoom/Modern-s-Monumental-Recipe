@@ -7,10 +7,6 @@
     {
       "type": "forge:item_exists",
       "item": "mekanism:rotary_condensentrator"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:quartz_glass"
     }
   ],
   "type": "minecraft:crafting_shaped",
