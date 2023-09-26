@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_block"
+      "item": "extendedcrafting:redstone_ingot_block"
     }
   ],
   "type": "minecraft:crafting_shaped",
