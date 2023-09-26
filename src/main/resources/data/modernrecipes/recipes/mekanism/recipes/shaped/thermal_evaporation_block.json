@@ -16,13 +16,13 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "extendedcrafting:redstone_block"
+      "item": "extendedcrafting:redstone_ingot_block"
     },
     "B": {
       "tag": "forge:plates/iron"
     },
     "C": {
-      "tag": "pneumaticcraft:fluid_tanks"
+      "tag": "modernrecipes:tanks"
     }
   },
   "pattern": [
