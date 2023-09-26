@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:module_base"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "modularrouters:blank_module"
+    },
+    "B": {
+      "tag": "forge:plates/bronze"
+    },
+    "C": {
+      "item": "mekanism:hdpe_sheet"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "ACA",
+    "BAB"
+  ],
+  "result": {
+    "item": "mekanism:module_base"
+  }
+}
