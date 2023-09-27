@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "xnet"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "xnet:connector_routing"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_electrum"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "thermal:rockwool"
+    },
+    "B": {
+      "item": "immersiveengineering:wirecoil_electrum"
+    },
+    "C": {
+      "item": "xnet:netcable_routing"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "BCB",
+    "AAA"
+  ],
+  "result": {
+    "item": "xnet:connector_routing"
+  }
+}
