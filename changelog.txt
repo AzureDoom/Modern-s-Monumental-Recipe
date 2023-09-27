@@ -1,2 +1,2 @@
 v0.47
-- Updated to fix a recipe hopefully
+- Updated to fix broken/missing connector_routing
