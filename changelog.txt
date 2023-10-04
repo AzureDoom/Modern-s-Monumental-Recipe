@@ -1,2 +1,2 @@
-v0.48
+v0.49
 - Added a lazy way to fix a broken smelting recipe
