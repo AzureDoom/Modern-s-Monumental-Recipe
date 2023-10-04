@@ -1,2 +1,2 @@
 v0.48
-- Updated to fix broken/missing connector_routing
+- Added a lazy way to fix a broken smelting recipe
