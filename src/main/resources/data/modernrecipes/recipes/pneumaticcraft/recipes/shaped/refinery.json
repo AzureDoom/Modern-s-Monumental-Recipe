@@ -21,7 +21,7 @@
       "item": "thermal:upgrade_augment_2"
     },
     "X": {
-      "tag": "extendedcrafting:redstone_component"
+      "item": "extendedcrafting:redstone_component"
     }
   },
   "pattern": [
