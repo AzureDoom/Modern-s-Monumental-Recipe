@@ -1,2 +1,2 @@
-v0.51
--Fixed more Recipe issues, Meh
+v0.52
+-Added Custom Mosterplus Recipes
