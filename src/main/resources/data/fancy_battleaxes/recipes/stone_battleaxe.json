@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MSM",
+		"MSM",
+		" S "
+	],
+	"key": {
+		"S": {
+			"item": "modernrecipes:stone_rod"
+		},
+		"M": {
+			"item": "minecraft:cobblestone"
+		}
+	},
+	"result": {
+		"item": "fancy_battleaxes:stone_battleaxe"
+	}
+}

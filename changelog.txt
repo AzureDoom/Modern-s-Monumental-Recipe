@@ -1,2 +1,3 @@
-v0.54
-- Bump Forge Version
+v0.55
+- Added Stone Rod
+- Bump Version
