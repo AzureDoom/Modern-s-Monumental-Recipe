@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ad_astra:glacian_plating_pressure_plate"
+      "item": "ad_astra:glacian_pressure_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
