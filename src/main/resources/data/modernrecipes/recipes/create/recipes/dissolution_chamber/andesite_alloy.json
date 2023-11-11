@@ -28,7 +28,7 @@
   ],
   "inputFluid": "{Amount:500,FluidName:\"industrialforegoing:pink_slime\"}",
   "output": {
-    "count": 1,
+    "count": 2,
     "item": "create:andesite_alloy"
   },
   "processingTime": 300
