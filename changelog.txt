@@ -1,3 +1,3 @@
-v0.55
-- Added Wireless charger custom recipes
-- Bump Version
+v0.57
+- Added new rods
+- Added new Recipes

@@ -50,6 +50,12 @@ public class ModernRecipesMod {
 		public static final RegistryObject<Item> TOOL_TOOLBOX = ITEMS.register("tool_toolbox", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
 		public static final RegistryObject<Item> PART_PLATE_SMALL_WOOD = ITEMS.register("part_plate_small_wood", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
 		public static final RegistryObject<Item> Stone_Rod = ITEMS.register("stone_rod", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
+		public static final RegistryObject<Item> Acacia_Rod = ITEMS.register("acacia_rod", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
+		public static final RegistryObject<Item> Birch_Rod = ITEMS.register("birch_rod", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
+		public static final RegistryObject<Item> Dark_Oak_Rod = ITEMS.register("dark_oak_rod", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
+		public static final RegistryObject<Item> Jungle_Rod = ITEMS.register("jungle_rod", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
+		public static final RegistryObject<Item> Oak_Rod = ITEMS.register("oak_rod", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
+		public static final RegistryObject<Item> Spruce_Rod = ITEMS.register("spruce_rod", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
 
 		/**
 		 * This is just a simple block item, allowing you to register it for use in your recipes. Doesn't do anything fancy, is just a simple item that exists.
