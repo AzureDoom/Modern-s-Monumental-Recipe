@@ -4,6 +4,12 @@
 	"item.modernrecipes.tool_toolbox": "Tool Toolbox",
 	"item.modernrecipes.part_plate_small_wood": "Small Wooden Plate",
 	"item.modernrecipes.stone_rod": "Stone Rod",
+	"item.modernrecipes.acacia_rod": "Acacia Rod",
+	"item.modernrecipes.birch_rod": "Birch Rod",
+	"item.modernrecipes.dark_oak_rod": "Dark Oak Rod",
+	"item.modernrecipes.jungle_rod": "Jungle Rod",
+	"item.modernrecipes.oak_rod": "Oak Rod",
+	"item.modernrecipes.spruce_rod": "Spruce Rod",
 	"item.modernrecipes.workbench": "workbench",
 	"itemGroup.modernrecipes.items": "Modern Recipes"
 }
