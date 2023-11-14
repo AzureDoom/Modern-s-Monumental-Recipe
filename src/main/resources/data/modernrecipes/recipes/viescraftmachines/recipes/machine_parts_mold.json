@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#C#",
+    "XMX"
+  ],
+  "key": {
+    "X": {
+      "item": "viescraftmachines:xegonite_shard",
+      "count": 1
+    },
+    "#": {
+      "tag": "minecraft:coals",
+      "count": 1
+    },
+    "C": {
+      "item": "modernrecipes:clay_plate",
+      "count": 1
+    },
+    "M": {
+      "tag": "minecraft:planks",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:machine_parts_mold",
+    "count": 1
+  }
+}
