@@ -56,6 +56,7 @@ public class ModernRecipesMod {
 		public static final RegistryObject<Item> Jungle_Rod = ITEMS.register("jungle_rod", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
 		public static final RegistryObject<Item> Oak_Rod = ITEMS.register("oak_rod", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
 		public static final RegistryObject<Item> Spruce_Rod = ITEMS.register("spruce_rod", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
+		public static final RegistryObject<Item> Clay_Plate = ITEMS.register("clay_plate", () -> new Item(new Item.Properties().tab(ModernRecipesMod.ITEMS_TAB)));
 
 		/**
 		 * This is just a simple block item, allowing you to register it for use in your recipes. Doesn't do anything fancy, is just a simple item that exists.
