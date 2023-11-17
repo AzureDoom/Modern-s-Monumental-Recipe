@@ -1,3 +1,2 @@
-v0.57
-- Added new rods
+v0.59
 - Added new Recipes
