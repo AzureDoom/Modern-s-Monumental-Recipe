@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "A": {
+      "item": "compressium:cobblestone_1"
+    }
+  },
+  "pattern": [
+    "A#A",
+    "# #",
+    "A#A"
+  ],
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}
