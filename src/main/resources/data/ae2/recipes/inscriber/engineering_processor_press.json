@@ -1,0 +1,18 @@
+{
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "item": "mysticalagriculture:certus_quartz_essence"
+    },
+    "middle": {
+      "tag": "forge:gems/mana_diamond"
+    },
+    "top": {
+      "item": "mysticalagriculture:certus_quartz_essence"
+    }
+  },
+  "mode": "inscribe",
+  "result": {
+    "item": "ae2:engineering_processor_press"
+  }
+}
