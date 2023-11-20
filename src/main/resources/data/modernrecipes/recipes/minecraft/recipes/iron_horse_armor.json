@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:plates/iron"
+    },
+    "B": {
+      "item": "minecraft:saddle"
+    },
+    "C": {
+      "tag": "forge:rope"
+    }
+  },
+  "pattern": [
+    "  A",
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "item": "minecraft:iron_horse_armor"
+  }
+}

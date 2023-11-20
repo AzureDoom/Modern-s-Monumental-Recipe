@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:torch"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "item": "minecraft:trapped_chest"
+  }
+}

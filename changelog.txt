@@ -1,2 +1,2 @@
-v0.59
-- Added new Recipes
+v0.60
+- Recipe Refactor, Just updates/improvements

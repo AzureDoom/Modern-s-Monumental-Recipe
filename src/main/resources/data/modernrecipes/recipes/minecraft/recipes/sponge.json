@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boat",
+  "key": {
+    "X": {
+      "tag": "forge:buckets"
+    },
+    "A": {
+      "tag": "forge:dyes/yellow"
+    },
+    "#": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "XAX",
+    "#X#"
+  ],
+  "result": {
+    "item": "minecraft:sponge"
+  }
+}

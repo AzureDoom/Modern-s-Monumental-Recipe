@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:diamond_horse_armor"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:golden_horse_armor"
+  },
+  "addition": {
+    "tag": "forge:gems/diamond"
+  },
+  "result": {
+    "item": "minecraft:diamond_horse_armor"
+  }
+}

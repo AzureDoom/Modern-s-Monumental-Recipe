@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "tag": "forge:storage_blocks/glowstone"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "pattern": [
+    " R ",
+    "RGR",
+    " R "
+  ],
+  "result": {
+    "item": "minecraft:redstone_lamp"
+  }
+}

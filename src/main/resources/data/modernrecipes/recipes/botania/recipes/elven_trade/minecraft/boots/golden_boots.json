@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:iron_leggings"
+      "item": "minecraft:iron_boots"
     },
     {
       "tag": "forge:ingots/gold"
@@ -20,7 +20,7 @@
   ],
   "output": [
     {
-      "item": "minecraft:golden_leggings"
+      "item": "minecraft:golden_boots"
     }
   ]
 }
