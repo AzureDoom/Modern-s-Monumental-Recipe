@@ -27,6 +27,7 @@
     "ab "
   ],
   "result": {
-    "item": "ae2:formation_plane"
+    "item": "ae2:formation_plane",
+    "count": 2
   }
 }

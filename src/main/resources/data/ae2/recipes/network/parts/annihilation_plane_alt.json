@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag": "forge:gems/fluix"
+    },
+    "b": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "c": {
+      "item": "ae2:annihilation_core"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "bcb"
+  ],
+  "result": {
+    "item": "ae2:annihilation_plane",
+    "count": 2
+  }
+}
