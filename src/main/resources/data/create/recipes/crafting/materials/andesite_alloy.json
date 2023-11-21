@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:andesite"
+    },
+    "B": {
+      "tag": "forge:plates/zinc"
+    },
+    "C": {
+      "tag": "forge:tools/hammer"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "ACA",
+    "BAB"
+  ],
+  "result": {
+    "item": "create:andesite_alloy"
+  }
+}
