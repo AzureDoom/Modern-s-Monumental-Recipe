@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "undergarden:forgotten_shovel"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "undergarden:cloggrum_shovel"
+    },
+    {
+      "tag": "forge:ingots/forgotten_metal"
+    }
+  ],
+  "output": [
+    {
+      "item": "undergarden:forgotten_shovel"
+    }
+  ]
+}
