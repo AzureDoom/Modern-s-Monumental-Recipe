@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:condenser"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "B": {
+      "tag": "forge:glass"
+    },
+    "C": {
+      "item": "mysticalagriculture:fluix_essence"
+    }
+  },
+  "pattern": [
+    " aba ",
+    " bcb ",
+    " aba ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2:condenser"
+  }
+}

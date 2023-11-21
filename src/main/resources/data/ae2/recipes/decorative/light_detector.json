@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag": "ae2:all_nether_quartz"
+    },
+    "b": {
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  },
+  "pattern": [
+    "ab"
+  ],
+  "result": {
+    "item": "ae2:light_detector"
+  }
+}

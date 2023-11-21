@@ -5,10 +5,10 @@
       "item": "mysticalagriculture:certus_quartz_essence"
     },
     "middle": {
-      "tag": "forge:ingots/electrum"
+      "item": "mysticalagriculture:silicon_essence"
     },
     "top": {
-      "item": "mysticalagriculture:silicon_essence"
+      "item": "mysticalagriculture:certus_quartz_essence"
     }
   },
   "mode": "inscribe",
