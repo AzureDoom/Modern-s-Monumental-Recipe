@@ -1,16 +1,19 @@
 {
   "type": "create:mixing",
+  "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "minecraft:andesite"
+      "item": "minecraft:andesite",
+      "count": 4
     },
     {
-      "tag": "forge:nuggets/iron"
+      "tag": "forge:plates/zinc"
     }
   ],
   "results": [
     {
-      "item": "create:andesite_alloy"
+      "item": "create:andesite_alloy",
+      "count": 2
     }
   ]
 }

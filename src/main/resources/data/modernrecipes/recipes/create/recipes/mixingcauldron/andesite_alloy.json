@@ -30,7 +30,8 @@
     }
   ],
   "output": {
-    "item": "create:andesite_alloy"
+    "item": "create:andesite_alloy",
+    "count": 2
   },
   "liquidOutput": {
     "fluid": "minecraft:lava"
