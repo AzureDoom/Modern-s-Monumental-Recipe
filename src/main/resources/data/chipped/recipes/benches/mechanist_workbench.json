@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "P__",
+    "STS"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "P": {
+      "tag": "modernrecipes:piston"
+    },
+    "_": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "S": {
+      "tag": "minecraft:logs"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "chipped:tinkering_table"
+  }
+}
