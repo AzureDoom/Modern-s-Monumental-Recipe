@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "blue_skies:bluebright_pressure_plate"
+      "item": "blue_skies:cherrye_pressure_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "blue_skies:bluebright_planks"
+      "item": "blue_skies:cherry_planks"
     },
     "B": {
       "tag": "forge:tools/hammers"
@@ -24,6 +24,6 @@
     " B "
   ],
   "result": {
-    "item": "blue_skies:bluebright_pressure_plate"
+    "item": "blue_skies:cherrye_pressure_plate"
   }
 }
