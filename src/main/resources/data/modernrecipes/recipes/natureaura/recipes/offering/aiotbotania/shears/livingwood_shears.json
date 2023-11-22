@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "aiotbotania:elementium_shears"
+      "item": "aiotbotania:livingwood_shears"
     }
   ],
   "type": "naturesaura:offering",
