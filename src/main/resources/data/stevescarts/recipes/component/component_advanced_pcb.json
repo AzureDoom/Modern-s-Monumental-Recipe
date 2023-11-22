@@ -1,21 +1,35 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#X#",
-    "PXP",
-    "#X#"
-  ],
-  "key": {
-    "X": {
-      "item": "minecraft:iron_ingot"
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "stevescarts"
     },
-    "P": {
+    {
+      "type": "forge:item_exists",
+      "item": "stevescarts:component_advanced_pcb"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
       "item": "stevescarts:component_simple_pcb"
     },
-    "#": {
-      "item": "minecraft:redstone"
+    "E": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "S": {
+      "item": "extendedcrafting:redstone_component"
     }
   },
+  "pattern": [
+    "SGS",
+    "GEG",
+    "SGS"
+  ],
   "result": {
     "item": "stevescarts:component_advanced_pcb"
   }
