@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_leggings_dragon"
+    }
+  ],
+  "type": "naturesaura:offering",
+  "input": {
+    "item": "gobber2:dragon_star"
+  },
+  "start_item": {
+    "item": "gobber2:gobber2_leggings_end"
+  },
+  "output": {
+    "item": "gobber2:gobber2_leggings_dragon"
+  }
+}

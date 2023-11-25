@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_chestplate_dragon"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "gobber2:gobber2_chestplate_end"
+    },
+    {
+      "item": "gobber2:dragon_elytra"
+    }
+  ],
+  "output": [
+    {
+      "item": "gobber2:gobber2_chestplate_dragon"
+    }
+  ]
+}

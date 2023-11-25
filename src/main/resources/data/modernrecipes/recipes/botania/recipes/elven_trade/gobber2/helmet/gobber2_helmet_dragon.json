@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_helmet_dragon"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "gobber2:gobber2_helmet_end"
+    },
+    {
+      "item": "gobber2:dragon_star"
+    }
+  ],
+  "output": [
+    {
+      "item": "gobber2:gobber2_helmet_dragon"
+    }
+  ]
+}
