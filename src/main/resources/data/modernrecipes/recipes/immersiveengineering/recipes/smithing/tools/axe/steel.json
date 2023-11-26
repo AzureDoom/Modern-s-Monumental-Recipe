@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:axe_steel"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_axe"
+  },
+  "addition": {
+    "tag": "forge:ingots/steel"
+  },
+  "result": {
+    "item": "immersiveengineering:axe_steel"
+  }
+}

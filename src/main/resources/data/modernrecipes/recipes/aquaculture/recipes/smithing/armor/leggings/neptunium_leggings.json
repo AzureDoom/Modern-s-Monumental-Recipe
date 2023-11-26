@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aquaculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aquaculture:neptunium_leggings"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "addition": {
+    "tag": "forge:ingots/neptunium"
+  },
+  "result": {
+    "item": "aquaculture:neptunium_leggings"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "reliquary:shears_of_winter"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:shears"
+    },
+    {
+      "item": "reliquary:frozen_core"
+    }
+  ],
+  "output": [
+    {
+      "item": "reliquary:shears_of_winter"
+    }
+  ]
+}

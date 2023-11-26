@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ironcoals:emerald_coal"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:gems/emerald"
+    },
+    {
+      "item": "ironcoals:diamond_coal"
+    }
+  ],
+  "results": [
+    {
+      "item": "ironcoals:emerald_coal",
+      "count": 2
+    }
+  ]
+}

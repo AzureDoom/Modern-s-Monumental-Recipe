@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:soulium_gemstone"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:soulium_dust"
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust"
+    },
+    {
+      "item": "mysticalagriculture:prosperity_gemstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:soulium_gemstone"
+    }
+  ]
+}

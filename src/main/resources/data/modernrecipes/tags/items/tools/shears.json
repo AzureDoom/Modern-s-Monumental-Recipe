@@ -1,0 +1,33 @@
+{
+  "values": [
+    "minecraft:shears",
+    "aiotbotania:livingwood_shears",
+    "aiotbotania:livingrock_shears",
+    "bettershears3:unfired_clay_shears",
+    "#forge:shears/cobble",
+    "#forge:shears/wooden",
+    "#forge:shears/gold",
+    "#forge:shears/flint",
+    "#forge:shears/lapis",
+    "#forge:shears/clay",
+    "#forge:shears/copper",
+    "#forge:shears/amethyst",
+    "#forge:shears/diamond",
+    "#forge:shears/emerald",
+    "#forge:shears/obsidian",
+    "#forge:shears/netherite",
+    "#forge:shears/warden",
+    "#forge:shears/star",
+    "blue_skies:ventium_shears",
+    "botania:manasteel_shears",
+    "botania:elementium_shears",
+    "cyclic:shears_obsidian",
+    "forcecraft:force_shears",
+    "material_elements:leather_shears",
+    "mysticalagriculture:inferium_shears",
+    "mysticalagriculture:prudentium_shears",
+    "mysticalagriculture:tertium_shears",
+    "mysticalagriculture:imperium_shears",
+    "mysticalagriculture:tertium_shears"
+  ]
+}

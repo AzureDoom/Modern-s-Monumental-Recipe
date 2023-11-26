@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "prefab"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "prefab:item_sickle_netherite"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "prefab:item_sickle_diamond"
+  },
+  "addition": {
+    "tag": "forge:ingots/netherite"
+  },
+  "result": {
+    "item": "prefab:item_sickle_netherite"
+  }
+}

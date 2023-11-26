@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mysticalagriculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:prudentium_sword"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:inferium_sword"
+  },
+  "addition": {
+    "item": "mysticalagriculture:prudentium_gemstone"
+  },
+  "result": {
+    "item": "mysticalagriculture:prudentium_sword"
+  }
+}

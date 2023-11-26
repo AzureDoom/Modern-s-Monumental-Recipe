@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cbc",
+    "bab",
+    "cbc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "tag": "forge:storage_blocks/cobblestone"
+    },
+    "a": {
+      "item": "modernrecipes:clay_plate"
+    }
+  },
+  "result": {
+    "item": "cyclic:battery_clay",
+    "count": 1
+  }
+}

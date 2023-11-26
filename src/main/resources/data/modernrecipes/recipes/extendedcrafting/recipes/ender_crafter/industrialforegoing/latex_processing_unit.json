@@ -1,0 +1,50 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "industrialforegoing:latex_processing_unit"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:rf_coil"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:plastic"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "B": {
+      "item": "thermal:rf_coil"
+    },
+    "C": {
+      "item": "pneumaticcraft:plastic"
+    },
+    "D": {
+      "tag": "industrialforegoing:machine_frame/pity"
+    },
+    "E": {
+      "tag": "forge:furnaces"
+    }
+  },
+  "result": {
+    "item": "industrialforegoing:latex_processing_unit"
+  }
+}

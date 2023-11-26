@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:obsidian_glass"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:insulating_glass"
+    },
+    {
+      "item": "create:polished_rose_quartz"
+    },
+    {
+      "tag": "forge:ingots/obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:obsidian_glass",
+      "count": 2
+    }
+  ]
+}

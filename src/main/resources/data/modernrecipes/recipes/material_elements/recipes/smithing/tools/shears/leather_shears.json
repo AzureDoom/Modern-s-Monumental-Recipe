@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "material_elements"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "material_elements:leather_shears"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:shears"
+  },
+  "addition": {
+    "item": "material_elements:leather_sheet"
+  },
+  "result": {
+    "item": "material_elements:leather_shears"
+  }
+}

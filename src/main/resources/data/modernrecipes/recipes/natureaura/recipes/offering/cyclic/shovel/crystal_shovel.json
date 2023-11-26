@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:crystal_shovel"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:gems/diamond"
+    },
+    "start_item": {
+        "item": "minecraft:netherite_shovel"
+    },
+    "output": {
+        "item": "cyclic:crystal_shovel"
+  }
+}

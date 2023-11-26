@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanismgenerators:heat_generator"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "W": {
+      "tag": "forge:plates/osmium"
+    },
+    "I": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "C": {
+      "tag": "forge:plates/bronze"
+    },
+    "O": {
+      "tag": "forge:furnaces"
+    },
+    "F": {
+      "tag": "forge:circuits/basic"
+    }
+  },
+  "pattern": [
+    " III ",
+    " WOW ",
+    " CFC ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "mekanismgenerators:heat_generator"
+  }
+}

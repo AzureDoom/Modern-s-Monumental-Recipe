@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "doom:painter_doom_chestplate"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "doom:doom_chestplate"
+  },
+  "addition": {
+    "tag": "forge:dyes/brown"
+  },
+  "result": {
+    "item": "doom:painter_doom_chestplate"
+  }
+}

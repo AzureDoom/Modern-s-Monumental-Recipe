@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:configurator"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:lapis_lazuli_essence"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "mekanism:energy_tablet"
+    },
+    "B": {
+      "tag": "mekanism:alloys/infused"
+    },
+    "C": {
+      "item": "mysticalagriculture:lapis_lazuli_essence"
+    },
+    "D": {
+      "tag": "forge:rods/steel"
+    }
+  },
+  "pattern": [
+    " BC",
+    " AB",
+    "D  "
+  ],
+  "result": {
+    "item": "mekanism:configurator"
+  }
+}

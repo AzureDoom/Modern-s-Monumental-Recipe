@@ -1,0 +1,24 @@
+{
+  "type": "immersiveengineering:blueprint",
+  "category": "components",
+  "inputs": [
+    {
+      "base_ingredient": {
+        "item": "immersiveengineering:wirecoil_redstone"
+      },
+      "count": 1
+    },
+    {
+      "tag": "forge:dusts/ender_pearl"
+    },
+    {
+      "tag": "forge:gems/emerald"
+    },
+    {
+      "item": "rftoolscontrol:network_card"
+    }
+  ],
+  "result": {
+    "item": "rftoolscontrol:advanced_network_card"
+  }
+}

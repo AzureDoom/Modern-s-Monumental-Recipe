@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mysticalagriculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:supremium_fishing_rod"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:imperium_fishing_rod"
+  },
+  "addition": {
+    "item": "mysticalagriculture:supremium_gemstone"
+  },
+  "result": {
+    "item": "mysticalagriculture:supremium_fishing_rod"
+  }
+}

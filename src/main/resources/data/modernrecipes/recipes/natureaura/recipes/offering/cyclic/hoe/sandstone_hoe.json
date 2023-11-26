@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:sandstone_hoe"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:sandstone"
+    },
+    "start_item": {
+        "item": "minecraft:stone_hoe"
+    },
+    "output": {
+        "item": "cyclic:sandstone_hoe"
+  }
+}

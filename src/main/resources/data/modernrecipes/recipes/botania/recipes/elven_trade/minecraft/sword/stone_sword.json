@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:stone_sword"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_sword"
+    },
+    {
+      "tag": "forge:stone"
+    }
+  ],
+  "output": [
+    {
+      "item": "minecraft:stone_sword"
+    }
+  ]
+}

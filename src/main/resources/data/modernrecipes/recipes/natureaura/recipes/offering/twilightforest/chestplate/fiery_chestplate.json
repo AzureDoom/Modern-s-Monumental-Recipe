@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "twilightforest:fiery_chestplate"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/fiery"
+    },
+    "start_item": {
+        "item": "minecraft:netherite_chestplate"
+    },
+    "output": {
+        "item": "twilightforest:fiery_chestplate"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "reliquary:zombie_heart",
+    "reliquary:nebulous_heart",
+    "forcecraft:recovery_heart"
+  ]
+}

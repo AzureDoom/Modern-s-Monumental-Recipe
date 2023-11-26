@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aquaculture:neptunium_bow"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "tag": "forge:string"
+    },
+    {
+      "tag": "forge:ingots/neptunium"
+    }
+  ],
+  "output": [
+    {
+      "item": "aquaculture:neptunium_bow"
+    }
+  ]
+}

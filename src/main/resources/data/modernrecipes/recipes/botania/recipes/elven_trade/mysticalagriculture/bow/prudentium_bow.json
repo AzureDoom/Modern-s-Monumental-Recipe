@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:prudentium_bow"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:inferium_bow"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_block"
+    }
+  ],
+  "output": [
+    {
+      "item": "mysticalagriculture:prudentium_bow"
+    }
+  ]
+}

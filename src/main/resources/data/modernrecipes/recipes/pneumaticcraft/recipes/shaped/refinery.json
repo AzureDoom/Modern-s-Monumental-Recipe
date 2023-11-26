@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:refinery"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "T": {
+      "tag": "forge:tanks/ender"
+    },
+    "A": {
+      "item": "thermal:upgrade_augment_2"
+    },
+    "X": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    "SXS",
+    "XTX",
+    "SAS"
+  ],
+  "result": {
+    "item": "pneumaticcraft:refinery"
+  }
+}

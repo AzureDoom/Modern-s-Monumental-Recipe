@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "bettershears3:emerald_shears"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "bettershears3:diamond_shears"
+    },
+    {
+      "tag": "forge:storage_blocks/emerald"
+    }
+  ],
+  "output": [
+    {
+      "item": "bettershears3:emerald_shears"
+    }
+  ]
+}

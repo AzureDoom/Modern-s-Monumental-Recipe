@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanismgenerators:advanced_solar_generator"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "P": {
+      "item": "mekanismgenerators:solar_generator"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    },
+    "I": {
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  },
+  "pattern": [
+    " PAP ",
+    " PAP ",
+    " III ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "mekanismgenerators:advanced_solar_generator"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_vibrant_glass"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/refined_glowstone"
+    },
+    {
+      "item": "ae2:quartz_glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:quartz_vibrant_glass"
+    }
+  ]
+}

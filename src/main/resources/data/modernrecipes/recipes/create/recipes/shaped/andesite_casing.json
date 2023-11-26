@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:andesite_casing"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "supplementaries:timber_frame"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "create:layered_andesite"
+    },
+    "C": {
+      "item": "create:andesite_alloy"
+    },
+    "S": {
+      "item": "supplementaries:timber_frame"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "CSC",
+    "AAA"
+  ],
+  "result": {
+    "item": "create:andesite_casing",
+    "count": 4
+  }
+}

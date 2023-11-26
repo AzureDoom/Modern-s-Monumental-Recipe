@@ -1,0 +1,47 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:dynamo"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:electron_tube"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:printed_circuit_board"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "X": {
+      "item": "create:electron_tube"
+    },
+    "T": {
+      "item": "pneumaticcraft:printed_circuit_board"
+    },
+    "C": {
+      "tag": "forge:sheetmetals/iron"
+    },
+    "S": {
+      "item": "immersiveengineering:coil_lv"
+    }
+  },
+  "pattern": [
+    " CTC ",
+    " XSX ",
+    " CCC ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "immersiveengineering:dynamo"
+  }
+}

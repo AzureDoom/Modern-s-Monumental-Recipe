@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:apothecary_default"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "AQA",
+    " C ",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "pneumaticcraft:reinforced_stone_slab"
+    },
+    "Q": {
+      "item": "botania:white_petal"
+    },
+    "C": {
+      "item": "pneumaticcraft:reinforced_stone"
+    }
+  },
+  "result": {
+    "item": "botania:apothecary_default"
+  }
+}

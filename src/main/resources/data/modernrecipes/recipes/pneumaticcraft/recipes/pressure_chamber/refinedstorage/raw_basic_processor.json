@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:black_iron_ingot"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:processor_binding"
+    }
+  ],
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "item": "extendedcrafting:black_iron_ingot"
+    },
+    {
+      "tag": "forge:silicon"
+    },
+    {
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    {
+      "item": "refinedstorage:processor_binding"
+    }
+  ],
+  "pressure": 4,
+  "results": [
+    {
+      "item": "refinedstorage:raw_basic_processor",
+      "count": 2
+    }
+  ]
+}

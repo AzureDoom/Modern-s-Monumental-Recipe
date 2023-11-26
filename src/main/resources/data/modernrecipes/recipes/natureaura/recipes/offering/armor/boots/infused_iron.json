@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:infused_iron_shoes"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "naturesaura:infused_iron"
+    },
+    "start_item": {
+        "item": "minecraft:iron_boots"
+    },
+    "output": {
+        "item": "naturesaura:infused_iron_shoes"
+  }
+}

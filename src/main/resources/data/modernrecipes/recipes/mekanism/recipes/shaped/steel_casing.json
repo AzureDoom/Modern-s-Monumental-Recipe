@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:steel_casing"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:black_iron_slate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "extendedcrafting:black_iron_slate"
+    },
+    "B": {
+      "tag": "forge:gears/osmium"
+    },
+    "C": {
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  },
+  "pattern": [
+    "CAC",
+    "ABA",
+    "CAC"
+  ],
+  "result": {
+    "item": "mekanism:steel_casing"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "values": [
+    "chiselsandbits:chisel_stone",
+    "chiselsandbits:chisel_iron",
+    "chiselsandbits:chisel_gold",
+    "chiselsandbits:chisel_diamond",
+    "chiselsandbits:chisel_netherite",
+    "rechiseled:chisel"
+  ]
+}

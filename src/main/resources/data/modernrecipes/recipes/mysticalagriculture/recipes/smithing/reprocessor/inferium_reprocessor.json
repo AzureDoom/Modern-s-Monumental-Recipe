@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mysticalagriculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:inferium_reprocessor"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:machine_frame"
+  },
+  "addition": {
+    "item": "mysticalagriculture:inferium_block"
+  },
+  "result": {
+    "item": "mysticalagriculture:inferium_reprocessor"
+  }
+}

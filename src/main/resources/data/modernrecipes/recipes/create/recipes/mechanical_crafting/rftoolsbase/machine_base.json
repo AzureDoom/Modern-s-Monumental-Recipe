@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsbase:machine_base"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "p": {
+      "tag": "forge:gears/electrum"
+    },
+    "q": {
+      "tag": "pneumaticcraft:reinforced_stone"
+    },
+    "r": {
+      "tag": "forge:plates/electrum"
+    }
+  },
+  "pattern": [
+    " qqq ",
+    " rpr ",
+    " qqq ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolsbase:machine_base"
+  }
+}

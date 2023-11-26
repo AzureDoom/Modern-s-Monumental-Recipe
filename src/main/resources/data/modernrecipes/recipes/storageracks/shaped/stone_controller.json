@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "storageracks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "domum_ornamentum:paper_extra"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "storageracks:stone_controller"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "domum_ornamentum:paper_extra"
+    },
+    "L": {
+      "item": "minecraft:stone_slab"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "LXL",
+    "LLL"
+  ],
+  "result": {
+    "item": "storageracks:stone_controller",
+    "count": 1
+  }
+}

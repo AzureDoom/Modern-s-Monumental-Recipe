@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bucket",
+    "blue_skies:ventium_bucket",
+    "naturesaura:color_changer"
+  ]
+}

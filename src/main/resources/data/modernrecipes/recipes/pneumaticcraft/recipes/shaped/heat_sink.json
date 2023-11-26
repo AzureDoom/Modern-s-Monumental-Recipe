@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:heat_sink"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:toolupgrade_railgun_capacitors"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "immersiveengineering:toolupgrade_railgun_capacitors"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "G": {
+      "tag": "forge:gears/electrum"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "IGI"
+  ],
+  "result": {
+    "item": "pneumaticcraft:heat_sink"
+  }
+}

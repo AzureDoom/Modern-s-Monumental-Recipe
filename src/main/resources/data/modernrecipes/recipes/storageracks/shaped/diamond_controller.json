@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "storageracks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "storageracks:diamond_controller"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "storageracks:emerald_controller"
+    },
+    "L": {
+      "tag": "forge:plates/diamond"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "LXL",
+    "LLL"
+  ],
+  "result": {
+    "item": "storageracks:diamond_controller",
+    "count": 1
+  }
+}

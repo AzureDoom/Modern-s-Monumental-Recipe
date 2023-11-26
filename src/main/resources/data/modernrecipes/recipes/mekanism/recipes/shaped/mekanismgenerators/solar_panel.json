@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanismgenerators"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanismgenerators:solar_panel"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_glass"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_ingot"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "ae2:quartz_glass"
+    },
+    "O": {
+      "tag": "forge:plates/osmium"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "RAR",
+    "OOO"
+  ],
+  "result": {
+    "item": "mekanismgenerators:solar_panel"
+  }
+}

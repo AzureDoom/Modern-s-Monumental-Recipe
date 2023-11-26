@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:depth_pants"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_leggings"
+    },
+    {
+      "item": "naturesaura:depth_ingot"
+    }
+  ],
+  "output": [
+    {
+      "item": "naturesaura:depth_pants"
+    }
+  ]
+}

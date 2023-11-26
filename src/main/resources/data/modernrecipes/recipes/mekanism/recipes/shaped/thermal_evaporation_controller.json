@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:thermal_evaporation_controller"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_vibrant_glass"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "mekanism:thermal_evaporation_block"
+    },
+    "B": {
+      "tag": "forge:circuits/advanced"
+    },
+    "C": {
+      "tag": "pneumaticcraft:fluid_tanks"
+    },
+    "D": {
+      "item": "ae2:quartz_vibrant_glass"
+    }
+  },
+  "pattern": [
+    "BDB",
+    "ACA",
+    "AAA"
+  ],
+  "result": {
+    "item": "mekanism:thermal_evaporation_controller"
+  }
+}

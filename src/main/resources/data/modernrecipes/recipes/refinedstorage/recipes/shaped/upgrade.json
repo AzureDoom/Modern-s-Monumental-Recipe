@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:upgrade"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_vibrant_glass"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "G": {
+      "item": "ae2:quartz_vibrant_glass"
+    },
+    "P": {
+      "item": "refinedstorage:improved_processor"
+    }
+  },
+  "pattern": [
+    "EGE",
+    "EPE",
+    "EGE"
+  ],
+  "result": {
+    "item": "refinedstorage:upgrade"
+  }
+}

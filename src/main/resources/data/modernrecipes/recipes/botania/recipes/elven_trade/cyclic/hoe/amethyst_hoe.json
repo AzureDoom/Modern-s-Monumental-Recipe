@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:amethyst_hoe"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_hoe"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    }
+  ],
+  "output": [
+    {
+      "item": "cyclic:amethyst_hoe"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:netherite_hoe"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_hoe"
+    },
+    {
+      "tag": "forge:ingots/netherite"
+    }
+  ],
+  "output": [
+    {
+      "item": "minecraft:netherite_hoe"
+    }
+  ]
+}

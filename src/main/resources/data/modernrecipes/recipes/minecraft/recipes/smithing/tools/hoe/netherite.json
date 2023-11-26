@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:netherite_hoe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "create_weaponry:diamond_hoe_head"
+  },
+  "addition": {
+    "tag": "forge:storage_blocks/netherite"
+  },
+  "result": {
+    "item": "minecraft:netherite_hoe"
+  }
+}

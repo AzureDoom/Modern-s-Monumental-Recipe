@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:crystaltine_component"
+    }
+  ],
+  "type": "create:compacting",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "extendedcrafting:black_iron_slate"
+    },
+    {
+      "item": "extendedcrafting:luminessence"
+    },
+    {
+      "item": "extendedcrafting:crystaltine_ingot"
+    },
+    {
+      "item": "extendedcrafting:crystaltine_ingot"
+    },
+    {
+      "item": "extendedcrafting:crystaltine_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcrafting:crystaltine_component"
+    }
+  ]
+}
