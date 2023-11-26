@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "forcecraft:force_legs"
+      "item": "forcecraft:force_helmet"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:chainmail_leggings"
+    "item": "minecraft:diamond_helmet"
   },
   "addition": {
-    "item": "forcecraft:force_stick"
+    "tag": "forge:rods/force"
   },
   "result": {
-    "item": "forcecraft:force_legs"
+    "item": "forcecraft:force_helmet"
   }
 }

@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "forcecraft:force_helmet"
+      "item": "forcecraft:force_shears"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_helmet"
+    "item": "minecraft:shears"
   },
   "addition": {
-    "item": "forcecraft:force_stick"
+    "tag": "forge:rods/force"
   },
   "result": {
-    "item": "forcecraft:force_helmet"
+    "item": "forcecraft:force_shears"
   }
 }

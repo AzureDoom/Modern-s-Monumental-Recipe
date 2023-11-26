@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "forcecraft:force_chest"
+      "item": "forcecraft:force_shovel"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:iron_chestplate"
+    "item": "minecraft:stone_shovel"
   },
   "addition": {
-    "item": "forcecraft:force_stick"
+    "tag": "forge:rods/force"
   },
   "result": {
-    "item": "forcecraft:force_chest"
+    "item": "forcecraft:force_shovel"
   }
 }

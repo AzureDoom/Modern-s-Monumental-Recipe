@@ -18,7 +18,7 @@
     "item": "immersiveengineering:toolupgrade_shield_magnet"
   },
   "addition": {
-    "item": "forcecraft:force_ingot"
+    "tag": "forge:rods/force"
   },
   "result": {
     "item": "forcecraft:magnet_glove"

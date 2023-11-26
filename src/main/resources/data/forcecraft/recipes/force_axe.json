@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forcecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forcecraft:force_axe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "addition": {
+    "tag": "forge:rods/force"
+  },
+  "result": {
+    "item": "forcecraft:force_axe"
+  }
+}

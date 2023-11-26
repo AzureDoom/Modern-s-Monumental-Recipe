@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "forcecraft:force_bow"
+      "item": "forcecraft:force_sword"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:bow"
+    "item": "minecraft:diamond_sword"
   },
   "addition": {
-    "item": "forcecraft:force_stick"
+    "tag": "forge:rods/force"
   },
   "result": {
-    "item": "forcecraft:force_bow"
+    "item": "forcecraft:force_sword"
   }
 }
