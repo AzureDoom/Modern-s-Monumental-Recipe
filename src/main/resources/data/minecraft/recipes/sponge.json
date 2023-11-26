@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:buckets"
+    },
+    "B": {
+      "tag": "forge:dyes/yellow"
+    },
+    "C": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "CAC",
+    "ABA",
+    "CAC"
+  ],
+  "result": {
+    "item": "minecraft:sponge"
+  }
+}
