@@ -5,7 +5,7 @@
       "tag": "minecraft:stone_crafting_materials"
     },
     "R": {
-      "item": "minecraft:redstone"
+      "tag": "forge:dusts/redstone"
     }
   },
   "pattern": [
