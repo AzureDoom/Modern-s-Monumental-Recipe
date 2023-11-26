@@ -5,7 +5,7 @@
       "tag": "minecraft:stone_crafting_materials"
     },
     "Q": {
-      "item": "forge:gems/quartz"
+      "tag": "forge:gems/quartz"
     },
     "R": {
       "tag": "forge:dusts/redstone"
