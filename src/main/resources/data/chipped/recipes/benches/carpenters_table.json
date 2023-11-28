@@ -16,7 +16,7 @@
       "tag": "minecraft:logs"
     },
     "b": {
-      "item": "minecraft:wooden_axe"
+      "tag": "forge:tools/axe"
     },
     "c": {
       "tag": "minecraft:planks"
