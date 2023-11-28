@@ -1,35 +1,23 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "charginggadgets"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "charginggadgets:charging_station"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "material_elements:leather_sheet"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "pneumaticcraft:charging_station"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
-    "A": {
-      "item": "material_elements:leather_sheet"
+    "d": {
+      "item": "mysticalagriculture:lapis_lazuli_essence"
     },
-    "B": {
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "l": {
       "item": "pneumaticcraft:charging_station"
+    },
+    "r": {
+      "tag": "forge:dusts/redstone"
     }
   },
   "pattern": [
-    "AAA",
-    "ABA",
-    "AAA"
+    "iri",
+    "drd",
+    "ili"
   ],
   "result": {
     "item": "charginggadgets:charging_station"
