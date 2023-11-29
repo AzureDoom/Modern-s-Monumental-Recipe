@@ -1,4 +1,22 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:alloybrick"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:printed_circuit_board"
+    }
+  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
@@ -21,9 +39,7 @@
   "pattern": [
     " qsq ",
     " rpr ",
-    " qaq ",
-    "     ",
-    "     "
+    " qaq "
   ],
   "result": {
     "item": "rftoolsbuilder:builder",
