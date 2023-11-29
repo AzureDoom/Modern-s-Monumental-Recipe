@@ -11,10 +11,10 @@
   ],
   "type": "naturesaura:offering",
     "input": {
-        "item": "minecraft:iron_chestplate"
+        "item": "forcecraft:force_stick"
     },
     "start_item": {
-        "item": "minecraft:bow"
+        "item": "minecraft:iron_chestplate"
     },
     "output": {
         "item": "forcecraft:force_chest"
