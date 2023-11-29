@@ -11,7 +11,7 @@
   ],
   "type": "naturesaura:offering",
     "input": {
-        "item": "forcecraft:iron_chestplate"
+        "item": "minecraft:iron_chestplate"
     },
     "start_item": {
         "item": "minecraft:bow"
