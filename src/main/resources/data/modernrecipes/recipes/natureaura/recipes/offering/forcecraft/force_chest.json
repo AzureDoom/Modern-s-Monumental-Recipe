@@ -6,17 +6,17 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "forcecraft:force_bow"
+      "item": "forcecraft:force_chest"
     }
   ],
   "type": "naturesaura:offering",
     "input": {
-        "item": "forcecraft:force_stick"
+        "item": "forcecraft:iron_chestplate"
     },
     "start_item": {
         "item": "minecraft:bow"
     },
     "output": {
-        "item": "forcecraft:force_bow"
+        "item": "forcecraft:force_chest"
   }
 }
