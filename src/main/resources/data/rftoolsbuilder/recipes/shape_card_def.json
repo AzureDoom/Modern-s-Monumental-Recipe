@@ -22,7 +22,7 @@
       "tag": "forge:ingots/compressed_iron"
     },
     "p": {
-      "item": "minecraft:paper"
+      "tag": "forge:paper"
     },
     "r": {
       "item": "extendedcrafting:redstone_component"
