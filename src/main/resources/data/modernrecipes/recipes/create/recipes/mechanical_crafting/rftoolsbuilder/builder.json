@@ -23,6 +23,10 @@
     }
   },
   "result": {
+<<<<<<< HEAD:src/main/resources/data/rftoolsbuilder/recipes/builder.json
+=======
+    "count": 1,
+>>>>>>> parent of 43007af2 (testing):src/main/resources/data/modernrecipes/recipes/create/recipes/mechanical_crafting/rftoolsbuilder/builder.json
     "item": "rftoolsbuilder:builder"
   }
 }
