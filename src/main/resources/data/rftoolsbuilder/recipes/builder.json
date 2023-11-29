@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "rftoolsbuilder:builder"
-    }
-  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
@@ -37,6 +27,6 @@
   ],
   "result": {
     "item": "rftoolsbuilder:builder",
-    "count": 1,
+    "count": 1
   }
 }
