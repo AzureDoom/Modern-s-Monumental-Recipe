@@ -12,7 +12,7 @@
   ],
   "key": {
     "N": {
-      "tag": "forge:ingots/iron"
+      "tag": "forge:ingots/compressed_iron"
     },
 	"G": {
       "item": "apotheosis:gem_dust"
