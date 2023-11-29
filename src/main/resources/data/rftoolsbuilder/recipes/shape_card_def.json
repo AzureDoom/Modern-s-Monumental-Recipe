@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "B": {
-      "item": "minecraft:bricks"
+      "item": "pneumaticcraft:reinforced_bricks"
     },
     "i": {
       "tag": "forge:ingots/compressed_iron"
     },
     "p": {
-      "item": "minecraft:paper"
+      "tag": "forge:paper"
     },
     "r": {
       "item": "extendedcrafting:redstone_component"
