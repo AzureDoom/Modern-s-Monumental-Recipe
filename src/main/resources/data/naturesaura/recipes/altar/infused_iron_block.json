@@ -1,0 +1,11 @@
+{
+    "type": "naturesaura:altar",
+    "input": {
+        "tag": "forge:storage_blocks/compressed_iron"
+    },
+    "output": {
+        "item": "naturesaura:infused_iron_block"
+    },
+    "aura": 135000,
+    "time": 700
+}
