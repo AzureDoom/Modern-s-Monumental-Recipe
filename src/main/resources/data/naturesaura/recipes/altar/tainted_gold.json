@@ -1,0 +1,11 @@
+{
+    "type": "naturesaura:altar",
+    "input": {
+        "tag": "forge:plates/gold"
+    },
+    "output": {
+        "item": "naturesaura:tainted_gold"
+    },
+    "aura": 3000,
+    "time": 300
+}
