@@ -11,7 +11,7 @@
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:ingots/gold"
+        "item": "minecraft:gold_ingot"
     },
     "start_item": {
         "item": "minecraft:iron_pickaxe"
