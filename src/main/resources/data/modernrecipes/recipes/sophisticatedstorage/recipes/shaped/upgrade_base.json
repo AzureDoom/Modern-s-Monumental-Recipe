@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "sophisticatedbackpacks:upgrade_base"
+      "item": "sophisticatedstorage:upgrade_base"
     },
     {
       "type": "forge:item_exists",
@@ -35,6 +35,6 @@
     "GEG"
   ],
   "result": {
-    "item": "sophisticatedbackpacks:upgrade_base"
+    "item": "sophisticatedstorage:upgrade_base"
   }
 }
