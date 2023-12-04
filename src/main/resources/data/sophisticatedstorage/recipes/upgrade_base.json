@@ -1,28 +1,40 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
-      "type": "sophisticatedcore:item_enabled",
-      "itemRegistryName": "sophisticatedstorage:upgrade_base"
+      "type": "forge:mod_loaded",
+      "modid": "sophisticatedbackpacks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "sophisticatedbackpacks:upgrade_base"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "material_elements:leather_sheet"
     }
   ],
+  "type": "minecraft:crafting_shaped",
   "key": {
-    "I": {
-      "tag": "forge:plates/steel"
-    },
-    "P": {
+    "G": {
       "tag": "minecraft:planks"
+    },
+    "E": {
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "W": {
       "item": "material_elements:leather_sheet"
     }
   },
   "pattern": [
-    "PIP",
-    "IWI",
-    "PIP"
+    "GEG",
+    "EWE",
+    "GEG"
   ],
   "result": {
-    "item": "sophisticatedstorage:upgrade_base"
+    "item": "sophisticatedbackpacks:upgrade_base"
   }
 }
