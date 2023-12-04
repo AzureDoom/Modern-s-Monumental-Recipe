@@ -15,7 +15,7 @@
   ],
   "type": "naturesaura:offering",
     "input": {
-        "tag": "forge:gems/quartz"
+        "item": "minecraft:quartz"
     },
     "start_item": {
         "item": "framedblocks:framed_wrench"
