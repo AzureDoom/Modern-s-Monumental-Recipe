@@ -23,7 +23,7 @@
       "tag": "minecraft:planks"
     },
     "E": {
-      "item": "modernrecipes:compressed_iron_plate"
+      "tag": "forge:plates/steel"
     },
     "W": {
       "item": "material_elements:leather_sheet"
