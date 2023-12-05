@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:refinery_output"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:insulating_glass"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "pneumaticcraft:reinforced_stone_slab"
+    },
+    "G": {
+      "item": "immersiveengineering:insulating_glass"
+    },
+    "D": {
+      "tag": "forge:gears/diamond"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "GDG",
+    "SSS"
+  ],
+  "result": {
+    "item": "pneumaticcraft:refinery_output"
+  }
+}
