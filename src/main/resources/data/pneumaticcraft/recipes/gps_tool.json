@@ -10,10 +10,6 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "create:andesite_alloy"
-    },
-    {
-      "type": "forge:item_exists",
       "item": "immersiveengineering:insulating_glass"
     },
     {
