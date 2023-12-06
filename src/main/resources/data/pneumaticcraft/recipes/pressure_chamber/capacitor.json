@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "createaddition:capacitor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_electrum"
+    }
+  ],
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "createaddition:capacitor"
+    },
+    {
+      "item": "immersiveengineering:wirecoil_electrum"
+    },
+    {
+      "tag": "forge:slimeballs"
+    }
+  ],
+  "pressure": 4,
+  "results": [
+    {
+      "item": "pneumaticcraft:capacitor",
+      "count": 1
+    }
+  ]
+}
