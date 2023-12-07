@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "S S",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:cobblestone"
+    },
+    "S": {
+      "item": "compressium:cobblestone_1"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}
