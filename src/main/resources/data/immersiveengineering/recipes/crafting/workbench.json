@@ -18,7 +18,7 @@
       "tag": "forge:plates/iron"
     },
     "I": {
-      "item": "immersiveengineering:craftingtable"
+      "tag": "forge:workbench"
     },
     "C": {
       "tag": "forge:sheetmetals/steel"
