@@ -4,14 +4,14 @@
     "A": {
       "item": "compressium:cobblestone_1"
     },
-    "#": {
+    "S": {
       "tag": "minecraft:stone_crafting_materials"
     }
   },
   "pattern": [
-    "A#A",
-    "# #",
-    "A#A"
+    "ASA",
+    "S S",
+    "ASA"
   ],
   "result": {
     "item": "minecraft:furnace"
