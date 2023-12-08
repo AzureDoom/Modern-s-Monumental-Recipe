@@ -25,7 +25,7 @@
       "tag": "forge:buckets/water"
     },
     "D": {
-      "tag": "forge:buckets/water"
+      "tag": "forge:buckets/lava"
     }
   },
   "pattern": [
