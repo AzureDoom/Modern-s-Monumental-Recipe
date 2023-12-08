@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mekanism:electromagnetic_coil"
+      "item": "mekanismgenerators:electromagnetic_coil"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -27,6 +27,6 @@
     "SIS"
   ],
   "result": {
-    "item": "mekanism:electromagnetic_coil"
+    "item": "mekanismgenerators:electromagnetic_coil"
   }
 }
