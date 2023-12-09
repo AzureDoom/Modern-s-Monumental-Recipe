@@ -1,27 +1,17 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "barteringstation"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "barteringstation:bartering_station"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
-    "G": {
-      "tag": "forge:ingots/deorum"
-    },
-    "E": {
+    "#": {
       "tag": "minecraft:planks"
+    },
+    "@": {
+      "tag": "forge:ingots/deorum"
     }
   },
   "pattern": [
-    "GG ",
-    "EE ",
-    "EE "
+    "@@",
+    "##",
+    "##"
   ],
   "result": {
     "item": "barteringstation:bartering_station"
