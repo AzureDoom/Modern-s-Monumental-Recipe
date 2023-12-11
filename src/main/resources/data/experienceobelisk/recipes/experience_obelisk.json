@@ -15,13 +15,13 @@
       "tag": "forge:ingots/compressed_iron"
     },
     "B": {
-      "item": "minecraft:glass_bottle"
+      "item": "experienceobelisk:cognitive_amalgam"
     },
     "C": {
-      "tag": "forge:gems/emerald"
+      "item": "experienceobelisk:cognitive_crystal"
     },
     "D": {
-      "tag": "chipped:obsidian"
+      "item": "experienceobelisk:astute_assembly"
     }
   },
   "pattern": [
