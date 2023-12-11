@@ -16,7 +16,7 @@
       "item": "botania:livingrock"
     },
     "G": {
-      "tag": "forge:ingots/gold"
+      "item": "naturesaura:tainted_gold"
     }
   },
   "result": {
