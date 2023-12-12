@@ -8,7 +8,7 @@
   
   "key": {
     "X": {
-      "tags": "forge:rods/wooden"
+      "tag": "forge:rods/wooden"
     },
     "S": {
       "tag": "forge:ingots/copper"
