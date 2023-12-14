@@ -1,29 +1,19 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:andesite_alloy"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
       "item": "minecraft:andesite"
     },
+    "B": {
+      "tag": "forge:hammers"
+    },
     "C": {
       "tag": "forge:plates/zinc"
-    },
-    "S": {
-      "tag": "forge:hammers"
     }
   },
   "pattern": [
     "ACA",
-    "CSC",
+    "CBC",
     "ACA"
   ],
   "result": {
