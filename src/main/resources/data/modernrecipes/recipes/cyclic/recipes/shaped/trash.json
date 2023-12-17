@@ -10,7 +10,7 @@
       "tag": "forge:nuggets/iron"
     },
     "s": {
-      "tag": "forge:plates/iron"
+      "item": "modernrecipes:compressed_iron_plate"
     },
     "c": {
       "item": "storagedrawers:void_upgrade"
