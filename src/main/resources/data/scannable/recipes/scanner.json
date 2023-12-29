@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "graveyard:dark_iron_bars"
+    },
+    "g": {
+      "tag": "forge:plates/gold"
+    },
+    "i": {
+      "tag": "forge:plates/iron"
+    },
+    "q": {
+      "tag": "forge:gems/quartz"
+    },
+    "r": {
+      "item": "mysticalagriculture:redstone_essence"
+    }
+  },
+  "pattern": [
+    "i i",
+    "brb",
+    "gqg"
+  ],
+  "result": {
+    "item": "scannable:scanner"
+  }
+}

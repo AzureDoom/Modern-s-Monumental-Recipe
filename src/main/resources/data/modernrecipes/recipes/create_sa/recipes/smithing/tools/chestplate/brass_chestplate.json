@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_sa"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create_sa:brass_chestplate"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "addition": {
+    "tag": "forge:ingots/brass"
+  },
+  "result": {
+    "item": "create_sa:brass_chestplate"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:blank_pattern"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "ae2:quartz_glass"
+    },
+    "B": {
+      "tag": "forge:ingots/refined_glowstone"
+    },
+    "C": {
+      "tag": "forge:gems/certus_quartz"
+    },
+    "D": {
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "BCB",
+    "DDD"
+  ],
+  "result": {
+    "count": 2,
+    "item": "ae2:blank_pattern"
+  }
+}

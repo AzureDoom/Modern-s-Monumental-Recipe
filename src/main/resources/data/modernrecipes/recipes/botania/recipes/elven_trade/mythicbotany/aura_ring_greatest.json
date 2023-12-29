@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mythicbotany:aura_ring_greatest"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "botania:aura_ring_greater"
+    },
+    {
+      "item": "mythicbotany:alfsteel_ingot"
+    }
+  ],
+  "output": [
+    {
+      "item": "mythicbotany:aura_ring_greatest"
+    }
+  ]
+}

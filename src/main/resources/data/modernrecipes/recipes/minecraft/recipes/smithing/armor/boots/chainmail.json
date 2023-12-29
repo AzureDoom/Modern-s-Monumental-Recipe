@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:chainmail_boots"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:leather_boots"
+  },
+  "addition": {
+    "tag": "modernrecipes:chains"
+  },
+  "result": {
+    "item": "minecraft:chainmail_boots"
+  }
+}

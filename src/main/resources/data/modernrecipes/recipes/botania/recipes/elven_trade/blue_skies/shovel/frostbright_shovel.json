@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "blue_skies:frostbright_shovel"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_shovel"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    }
+  ],
+  "output": [
+    {
+      "item": "blue_skies:frostbright_shovel"
+    }
+  ]
+}

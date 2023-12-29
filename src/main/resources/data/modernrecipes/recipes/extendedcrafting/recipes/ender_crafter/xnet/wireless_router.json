@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "xnet:netcable_routing"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "computercraft:cable"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_ingot"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "B": {
+      "item": "cyclic:wireless_transmitter"
+    },
+    "C": {
+      "tag": "modernrecipes:eyes"
+    },
+    "D": {
+      "item": "xnet:router"
+    }
+  },
+  "result": {
+    "item": "xnet:wireless_router"
+  }
+}

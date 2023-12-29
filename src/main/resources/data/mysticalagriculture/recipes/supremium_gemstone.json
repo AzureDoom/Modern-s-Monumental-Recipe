@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:supremium_gemstone"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:imperium_gemstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:supremium_gemstone"
+    }
+  ]
+}

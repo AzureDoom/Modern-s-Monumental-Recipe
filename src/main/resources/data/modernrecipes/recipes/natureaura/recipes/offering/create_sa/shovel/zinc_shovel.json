@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create_sa:zinc_shovel"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/zinc"
+    },
+    "start_item": {
+        "item": "minecraft:iron_shovel"
+    },
+    "output": {
+        "item": "create_sa:zinc_shovel"
+  }
+}

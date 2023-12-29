@@ -1,0 +1,11 @@
+{
+  "type": "ad_astra:compressing",
+  "input": {
+    "tag": "forge:ingots/copper"
+  },
+  "output": {
+    "id": "alltheores:copper_plate",
+    "count": 1
+  },
+  "cookTime": 200
+}

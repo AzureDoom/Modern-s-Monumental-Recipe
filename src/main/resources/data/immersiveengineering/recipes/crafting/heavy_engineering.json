@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:heavy_engineering"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:component_iron"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "X": {
+      "tag": "forge:sheetmetals/steel"
+    },
+    "A": {
+      "tag": "forge:gears/electrum"
+    },
+    "T": {
+      "item": "immersiveengineering:component_iron"
+    }
+  },
+  "pattern": [
+    " XTX ",
+    " TAT ",
+    " XTX ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "immersiveengineering:heavy_engineering"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:machine_insolator"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "engineersdecor:small_freezer"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "C": {
+      "item": "thermal:machine_frame"
+    },
+    "I": {
+      "tag": "forge:gears/lumium"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "engineersdecor:small_freezer"
+    },
+    "Y": {
+      "tag": "thermal:glass/hardened"
+    },
+    "S": {
+      "item": "cyclic:terra_preta"
+    }
+  },
+  "pattern": [
+    " SXS ",
+    " YCY ",
+    " IPI ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "thermal:machine_insolator"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:basic_chemical_tank"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "B": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "A A",
+    "BAB"
+  ],
+  "result": {
+    "item": "mekanism:basic_chemical_tank"
+  }
+}

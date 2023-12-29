@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mysticalagriculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:inferium_sickle"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "prefab:item_sickle_wood"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "prefab:item_sickle_wood"
+  },
+  "addition": {
+    "item": "mysticalagriculture:inferium_gemstone"
+  },
+  "result": {
+    "item": "mysticalagriculture:inferium_sickle"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "material_elements:leather_shears"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "material_elements:leather_sheet"
+    },
+    "start_item": {
+        "item": "minecraft:shears"
+    },
+    "output": {
+        "item": "material_elements:leather_shears"
+  }
+}

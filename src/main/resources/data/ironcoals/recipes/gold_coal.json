@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ironcoals:gold_coal"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/gold"
+    },
+    {
+      "item": "ironcoals:iron_coal"
+    }
+  ],
+  "results": [
+    {
+      "item": "ironcoals:gold_coal",
+      "count": 2
+    }
+  ]
+}

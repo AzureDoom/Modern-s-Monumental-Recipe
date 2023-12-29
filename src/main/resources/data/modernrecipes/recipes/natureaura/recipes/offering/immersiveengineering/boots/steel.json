@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:armor_steel_feet"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:plates/steel"
+    },
+    "start_item": {
+        "item": "minecraft:iron_boots"
+    },
+    "output": {
+        "item": "immersiveengineering:armor_steel_feet"
+  }
+}

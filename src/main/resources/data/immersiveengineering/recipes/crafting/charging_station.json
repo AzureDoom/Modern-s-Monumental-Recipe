@@ -1,0 +1,45 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:charging_station"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "X": {
+      "item": "create:electron_tube"
+    },
+    "T": {
+      "item": "immersiveengineering:connector_lv"
+    },
+    "S": {
+      "tag": "forge:plates/iron"
+    },
+    "W": {
+      "item": "immersiveengineering:insulating_glass"
+    },
+    "A": {
+      "tag": "forge:treated_wood"
+    },
+    "C": {
+      "item": "immersiveengineering:coil_lv"
+    }
+  },
+  "pattern": [
+    " STS ",
+    " WXW ",
+    " ACA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 2,
+    "item": "immersiveengineering:charging_station"
+  }
+}

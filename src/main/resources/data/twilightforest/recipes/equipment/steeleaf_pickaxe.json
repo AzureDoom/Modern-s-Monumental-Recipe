@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "twilightforest:steeleaf_pickaxe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "tag": "forge:ingots/steeleaf"
+  },
+  "result": {
+    "item": "twilightforest:steeleaf_pickaxe"
+  }
+}

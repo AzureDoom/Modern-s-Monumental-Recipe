@@ -1,0 +1,44 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "computercraft:computer_normal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:reinforced_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:insulating_glass"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:circuit_board"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "pneumaticcraft:reinforced_stone"
+    },
+    "B": {
+      "item": "immersiveengineering:insulating_glass"
+    },
+    "C": {
+      "item": "immersiveengineering:circuit_board"
+    }
+  },
+  "result": {
+    "item": "computercraft:computer_normal"
+  }
+}

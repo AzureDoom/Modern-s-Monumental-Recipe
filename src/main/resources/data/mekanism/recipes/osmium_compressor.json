@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:osmium_compressor"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "tag": "modernrecipes:piston"
+    },
+    "C": {
+      "tag": "forge:circuits/advanced"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    },
+    "X": {
+      "item": "mekanism:steel_casing"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "BXB",
+    "ACA"
+  ],
+  "result": {
+    "item": "mekanism:osmium_compressor"
+  }
+}

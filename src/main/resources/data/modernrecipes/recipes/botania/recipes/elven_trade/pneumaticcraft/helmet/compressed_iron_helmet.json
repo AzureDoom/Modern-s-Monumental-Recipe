@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:compressed_iron_helmet"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_helmet"
+    },
+    {
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "output": [
+    {
+      "item": "pneumaticcraft:compressed_iron_helmet"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:imperium_ingot"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:tertium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:imperium_ingot"
+    }
+  ]
+}

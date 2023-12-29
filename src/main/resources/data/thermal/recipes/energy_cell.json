@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:energy_cell"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "thermal:energy_cell_frame"
+    },
+    "I": {
+      "tag": "forge:sheetmetals/steel"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "R": {
+      "item": "thermal:cured_rubber"
+    },
+    "X": {
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  },
+  "pattern": [
+    "RXR",
+    "ICI",
+    "RPR"
+  ],
+  "result": {
+    "item": "thermal:energy_cell"
+  }
+}

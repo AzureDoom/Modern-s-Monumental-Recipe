@@ -1,0 +1,53 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "xnet:router"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:electron_tube"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:fences/steel"
+    },
+    "B": {
+      "item": "immersiveengineering:electron_tube"
+    },
+    "C": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "D": {
+      "item": "rftoolsbase:machine_frame"
+    },
+    "E": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "F": {
+      "tag": "modernrecipes:eyes"
+    }
+  },
+  "result": {
+    "item": "xnet:router"
+  }
+}

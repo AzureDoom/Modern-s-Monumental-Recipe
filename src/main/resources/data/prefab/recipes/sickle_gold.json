@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "prefab"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "prefab:item_sickle_gold"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "prefab:item_sickle_iron"
+  },
+  "addition": {
+    "tag": "forge:ingots/gold"
+  },
+  "result": {
+    "item": "prefab:item_sickle_gold"
+  }
+}

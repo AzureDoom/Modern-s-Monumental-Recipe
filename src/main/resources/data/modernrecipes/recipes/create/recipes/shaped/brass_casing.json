@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:brass_casing"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "supplementaries:timber_frame"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "createdeco:brass_sheet_metal"
+    },
+    "C": {
+      "tag": "forge:plates/brass"
+    },
+    "S": {
+      "item": "supplementaries:timber_frame"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "CSC",
+    "AAA"
+  ],
+  "result": {
+    "item": "create:brass_casing",
+    "count": 4
+  }
+}

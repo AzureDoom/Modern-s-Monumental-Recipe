@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:aura_ring"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "tag": "forge:ingots/manasteel"
+    }
+  ],
+  "output": [
+    {
+      "item": "botania:aura_ring"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:reinforced_deorum_sword"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "addition": {
+    "item": "forbidden_arcanus:edelwood_stick"
+  },
+  "result": {
+    "item": "forbidden_arcanus:reinforced_deorum_sword"
+  }
+}

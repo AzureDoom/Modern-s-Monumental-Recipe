@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mysticalagriculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:tertium_hoe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:prudentium_hoe"
+  },
+  "addition": {
+    "item": "mysticalagriculture:tertium_gemstone"
+  },
+  "result": {
+    "item": "mysticalagriculture:tertium_hoe"
+  }
+}

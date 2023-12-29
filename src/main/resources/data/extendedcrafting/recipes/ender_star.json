@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "ESE",
+    " E "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "E": {
+      "item": "greater_eye:greater_eye_end"
+    }
+  },
+  "result": {
+    "item": "extendedcrafting:ender_star"
+  }
+}

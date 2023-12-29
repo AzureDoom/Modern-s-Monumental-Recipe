@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:superheating_element"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:plates/bronze"
+    },
+    "B": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "C": {
+      "item": "mekanism:steel_casing"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "ACA",
+    "BAB"
+  ],
+  "result": {
+    "item": "mekanism:superheating_element"
+  }
+}

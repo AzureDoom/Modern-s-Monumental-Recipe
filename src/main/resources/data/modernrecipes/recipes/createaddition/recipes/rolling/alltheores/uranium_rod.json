@@ -1,0 +1,14 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:ingots/uranium"
+	},
+	"result": {
+		"item": "alltheores:uranium_rod",
+		"count": 2
+	},
+	"conditions": [ {
+		"type": "forge:mod_loaded",
+		"modid": "alltheores"
+    } ]
+}

@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    }
+  ],
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "minecraft:lava"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:silicon"
+    },
+    {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    {
+      "tag": "forge:silicon"
+    },
+    {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    {
+      "tag": "forge:silicon"
+    },
+    {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    {
+      "tag": "forge:silicon"
+    },
+    {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  ],
+  "output": {
+    "item": "naturesaura:infused_iron"
+  },
+  "liquidOutput": {
+    "fluid": "minecraft:lava"
+  },
+  "fluidLevelsConsumed": 2000,
+  "heatRequirement": "heated"
+}

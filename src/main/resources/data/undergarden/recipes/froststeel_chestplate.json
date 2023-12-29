@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "undergarden"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "undergarden:froststeel_chestplate"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "addition": {
+    "tag": "forge:ingots/froststeel"
+  },
+  "result": {
+    "item": "undergarden:froststeel_chestplate"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "twilightforest:fiery_boots"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_boots"
+  },
+  "addition": {
+    "tag": "forge:ingots/fiery"
+  },
+  "result": {
+    "item": "twilightforest:fiery_boots"
+  }
+}

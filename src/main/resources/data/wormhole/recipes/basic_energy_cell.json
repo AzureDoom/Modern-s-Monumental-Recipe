@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "wormhole"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "wormhole:basic_energy_cell"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolspower:power_core1"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:redstone_essence"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "E": {
+      "item": "rftoolspower:power_core1"
+    },
+    "S": {
+      "item": "mysticalagriculture:redstone_essence"
+    }
+  },
+  "pattern": [
+    "GSG",
+    "SES",
+    "GSG"
+  ],
+  "result": {
+    "item": "wormhole:basic_energy_cell"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:diving_helmet"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "mekanism:scuba_tank"
+    },
+    {
+      "tag": "forge:ingots/copper"
+    }
+  ],
+  "output": [
+    {
+      "item": "create:diving_helmet"
+    }
+  ]
+}

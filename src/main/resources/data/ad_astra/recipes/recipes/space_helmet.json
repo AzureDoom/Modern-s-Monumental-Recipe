@@ -9,10 +9,7 @@
       "item": "ad_astra:space_helmet"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "tag": "forge:glass_panes"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:chainmail_helmet"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:glass_panes"
   },
   "result": {
-    "item": "ad_astra:space_helmet",
-    "count": 1
+    "item": "ad_astra:space_helmet"
   }
 }

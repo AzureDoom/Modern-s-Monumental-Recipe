@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolscontrol:network_card"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "QSQ",
+    "TWT",
+    "QQQ"
+  ],
+  "key": {
+    "W": {
+      "item": "rftoolscontrol:card_base"
+    },
+    "T": {
+      "tag": "forge:nuggets/electrum"
+    },
+    "Q": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "S": {
+      "tag": "forge:ender_pearls"
+    }
+  },
+  "result": {
+    "item": "rftoolscontrol:network_card"
+  }
+}

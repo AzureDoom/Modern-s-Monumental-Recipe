@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "constructionwand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "constructionwand:infinity_wand"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "constructionwand:diamond_wand"
+    },
+    "B": {
+      "item": "naturesaura:ancient_stick"
+    },
+    "C": {
+      "item": "naturesaura:ancient_stick"
+    }
+  },
+  "pattern": [
+    " A ",
+    " B ",
+    " C "
+  ],
+  "result": {
+    "item": "constructionwand:infinity_wand"
+  }
+}

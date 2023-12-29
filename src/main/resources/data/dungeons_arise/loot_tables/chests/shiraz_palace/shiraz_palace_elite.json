@@ -157,7 +157,7 @@
         {
           "type": "minecraft:item",
           "weight": 15,
-          "name": "minecraft:enderman_essence",
+          "name": "mysticalagriculture:enderman_essence",
           "functions": [
             {
               "function": "minecraft:set_count",

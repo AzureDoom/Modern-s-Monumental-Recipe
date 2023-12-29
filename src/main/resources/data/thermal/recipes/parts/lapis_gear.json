@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:lapis_gear"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:andesite_alloy"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "tag": "forge:gems/lapis"
+    },
+    "X": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "pattern": [
+    " P ",
+    "PXP",
+    " P "
+  ],
+  "result": {
+    "item": "thermal:lapis_gear"
+  }
+}

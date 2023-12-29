@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aiotbotania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aiotbotania:terra_shovel"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "addition": {
+    "tag": "forge:ingots/terrasteel"
+  },
+  "result": {
+    "item": "aiotbotania:terra_shovel"
+  }
+}

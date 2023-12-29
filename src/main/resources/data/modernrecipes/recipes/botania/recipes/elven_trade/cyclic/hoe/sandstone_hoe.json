@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:sandstone_hoe"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_hoe"
+    },
+    {
+      "tag": "forge:sandstone"
+    }
+  ],
+  "output": [
+    {
+      "item": "cyclic:sandstone_hoe"
+    }
+  ]
+}

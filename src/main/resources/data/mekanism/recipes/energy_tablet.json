@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:energy_tablet"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "B": {
+      "tag": "forge:gears/electrum"
+    },
+    "C": {
+      "tag": "mekanism:alloys/infused"
+    },
+    "D": {
+      "item": "thermal:rf_coil"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "result": {
+    "item": "mekanism:energy_tablet"
+  }
+}

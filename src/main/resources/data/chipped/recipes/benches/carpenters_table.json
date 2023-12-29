@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  y",
+    "axa",
+    "bca"
+  ],
+  "key": {
+    "x": {
+      "tag": "forge:workbench"
+    },
+    "y": {
+      "tag": "forge:ingots/iron"
+    },
+    "a": {
+      "tag": "minecraft:logs"
+    },
+    "b": {
+      "tag": "forge:tools/axe"
+    },
+    "c": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "chipped:carpenters_table"
+  }
+}

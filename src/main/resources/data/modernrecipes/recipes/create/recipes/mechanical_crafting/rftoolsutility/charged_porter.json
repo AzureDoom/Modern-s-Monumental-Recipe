@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsutility:charged_porter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "O": {
+      "tag": "modernrecipes:eyes"
+    },
+    "I": {
+      "tag": "forge:plates/steel"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  },
+  "pattern": [
+    " IOI ",
+    " ORO ",
+    "  O  ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolsutility:charged_porter"
+  }
+}

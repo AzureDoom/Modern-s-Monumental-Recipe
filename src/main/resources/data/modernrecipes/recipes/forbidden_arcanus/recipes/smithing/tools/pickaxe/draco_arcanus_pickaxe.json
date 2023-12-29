@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:draco_arcanus_pickaxe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "tag": "forge:dragon_scales"
+  },
+  "result": {
+    "item": "forbidden_arcanus:draco_arcanus_pickaxe"
+  }
+}

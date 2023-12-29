@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:soulium_dagger"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_sword"
+    },
+    {
+      "item": "mysticalagriculture:soulium_gemstone"
+    }
+  ],
+  "output": [
+    {
+      "item": "mysticalagriculture:soulium_dagger"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_excavator_nether"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "addition": {
+    "tag": "forge:rods/gobber_rod_nether"
+  },
+  "result": {
+    "item": "gobber2:gobber2_excavator_nether"
+  }
+}

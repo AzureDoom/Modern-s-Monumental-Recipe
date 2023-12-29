@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:laser_amplifier"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:assembly_program_laser"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "pneumaticcraft:assembly_program_laser"
+    },
+    "B": {
+      "item": "mekanism:steel_casing"
+    },
+    "C": {
+      "tag": "mekanism:alloys/reinforced"
+    },
+    "D": {
+      "item": "mekanism:energy_tablet"
+    }
+  },
+  "pattern": [
+    "CD ",
+    "CBA",
+    "CD "
+  ],
+  "result": {
+    "item": "mekanism:laser"
+  }
+}

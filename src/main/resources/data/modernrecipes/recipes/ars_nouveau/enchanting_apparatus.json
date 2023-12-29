@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ars_nouveau"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ars_nouveau:enchanting_apparatus"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "z": {
+      "item": "ars_nouveau:sourcestone"
+    },
+    "y": {
+      "tag": "forge:gems/mana_diamond"
+    },
+    "x": {
+      "tag": "forge:ingots/deorum"
+    }
+  },
+  "pattern": [
+    "xyx",
+    "x x",
+    "zzz"
+  ],
+  "result": {
+    "item": "ars_nouveau:enchanting_apparatus"
+  }
+}

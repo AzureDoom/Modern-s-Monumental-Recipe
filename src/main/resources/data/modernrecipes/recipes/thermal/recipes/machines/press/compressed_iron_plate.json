@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/compressed_iron",
+      "count": 4
+    },
+    {
+      "item": "thermal:press_packing_2x2_die"
+    }
+  ],
+  "result": [
+    {
+      "item": "modernrecipes:compressed_iron_plate",
+      "count": 2
+    }
+  ],
+  "energy": 2400
+}

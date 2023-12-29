@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:elite_tier_installer"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "mekanism:advanced_tier_installer"
+    },
+    "B": {
+      "tag": "forge:circuits/elite"
+    },
+    "C": {
+      "tag": "forge:gears/electrum"
+    },
+    "D": {
+      "tag": "mekanism:alloys/reinforced"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "CAC",
+    "DBD"
+  ],
+  "result": {
+    "item": "mekanism:elite_tier_installer"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:vortex_tube"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "T": {
+      "item": "pneumaticcraft:pressure_tube"
+    },
+    "G": {
+      "tag": "forge:plates/gold"
+    },
+    "S": {
+      "item": "pneumaticcraft:compressed_iron_gear"
+    }
+  },
+  "pattern": [
+    "ITI",
+    "GSG",
+    "ITI"
+  ],
+  "result": {
+    "item": "pneumaticcraft:vortex_tube",
+    "count": 2
+  }
+}

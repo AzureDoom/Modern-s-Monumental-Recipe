@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:spatial_io_port"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "tag": "thermal:glass/hardened"
+    },
+    "B": {
+      "item": "ae2:fluix_glass_cable"
+    },
+    "C": {
+      "item": "ae2:io_port"
+    },
+    "D": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "E": {
+      "item": "ae2:engineering_processor"
+    }
+  },
+  "pattern": [
+    " AAA ",
+    " BCB ",
+    " DED ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2:spatial_io_port"
+  }
+}

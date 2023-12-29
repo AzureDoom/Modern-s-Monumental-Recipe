@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mythicbotany:alfsteel_leggings"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "mythicbotany:alfsteel_ingot"
+    },
+    "start_item": {
+        "item": "botania:terrasteel_leggings"
+    },
+    "output": {
+        "item": "mythicbotany:alfsteel_leggings"
+  }
+}

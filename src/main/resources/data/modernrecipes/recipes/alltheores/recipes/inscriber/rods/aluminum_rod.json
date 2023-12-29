@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:aluminum_rod"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:mold_rod"
+    }
+  ],
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "middle": {
+      "item": "immersiveengineering:mold_rod"
+    },
+    "top": {
+      "tag": "forge:ingots/aluminum"
+    }
+  },
+  "mode": "press",
+  "result": {
+    "item": "alltheores:aluminum_rod"
+  }
+}

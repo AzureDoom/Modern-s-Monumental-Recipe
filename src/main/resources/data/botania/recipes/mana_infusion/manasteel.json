@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:infused_iron"
+    }
+  ],
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:conjuration_catalyst"
+  },
+  "input": {
+    "item": "naturesaura:infused_iron"
+  },
+  "mana": 3000,
+  "output": {
+    "count": 2,
+    "item": "botania:manasteel_ingot"
+  }
+}

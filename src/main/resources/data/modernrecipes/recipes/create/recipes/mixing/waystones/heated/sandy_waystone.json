@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "waystones:sandy_waystone"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "waystones:warp_stone"
+    },
+    {
+      "tag": "forge:sandstone"
+    },
+    {
+      "tag": "forge:ingots/obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "waystones:sandy_waystone"
+    }
+  ]
+}

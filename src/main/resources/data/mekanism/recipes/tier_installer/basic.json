@@ -1,0 +1,47 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:basic_tier_installer"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:compressed_iron_gear"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:smooth_sky_stone_block"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "ae2:smooth_sky_stone_block"
+    },
+    "B": {
+      "tag": "forge:circuits/basic"
+    },
+    "C": {
+      "item": "pneumaticcraft:compressed_iron_gear"
+    },
+    "D": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "CAC",
+    "DBD"
+  ],
+  "result": {
+    "item": "mekanism:basic_tier_installer"
+  }
+}

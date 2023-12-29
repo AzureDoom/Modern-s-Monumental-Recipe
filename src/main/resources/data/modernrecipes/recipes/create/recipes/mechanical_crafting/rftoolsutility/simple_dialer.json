@@ -1,0 +1,51 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsutility:simple_dialer"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "rftoolsbase:machine_frame"
+    },
+    "T": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "Y": {
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  },
+  "pattern": [
+    " rYr ",
+    " TAT ",
+    " rYr ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolsutility:simple_dialer"
+  }
+}

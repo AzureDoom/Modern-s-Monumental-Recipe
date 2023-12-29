@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:manasteel_chestplate"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "addition": {
+    "tag": "forge:ingots/manasteel"
+  },
+  "result": {
+    "item": "botania:manasteel_chestplate"
+  }
+}

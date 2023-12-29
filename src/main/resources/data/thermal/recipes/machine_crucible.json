@@ -1,0 +1,49 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:machine_crucible"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:blaze_burner"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "C": {
+      "item": "thermal:machine_frame"
+    },
+    "I": {
+      "tag": "forge:gears/invar"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "create:blaze_burner"
+    },
+    "Y": {
+      "tag": "forge:bricks/nether"
+    },
+    "S": {
+      "tag": "thermal:glass/hardened"
+    }
+  },
+  "pattern": [
+    " SXS ",
+    " YPY ",
+    " ICI ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "thermal:machine_crucible"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:capturing_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "easy_mob_farm:catch_cage_small"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "notenoughwands:advanced_wand_core"
+    },
+    "start_item": {
+        "item": "easy_mob_farm:catch_cage_small"
+    },
+    "output": {
+        "item": "notenoughwands:capturing_wand"
+  }
+}

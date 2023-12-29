@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:supremium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    }
+  ]
+}

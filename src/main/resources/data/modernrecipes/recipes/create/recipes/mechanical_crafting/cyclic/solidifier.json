@@ -1,0 +1,54 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:solidifier"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:basin"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "createaddition:capacitor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:insulating_glass"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "B": {
+      "item": "create:basin"
+    },
+    "C": {
+      "tag": "forge:ingots/obsidian"
+    },
+    "P": {
+      "tag": "forge:gems/lapis"
+    },
+    "W": {
+      "item": "createaddition:capacitor"
+    },
+    "X": {
+      "item": "immersiveengineering:insulating_glass"
+    }
+  },
+  "pattern": [
+    " CPC ",
+    " XBX ",
+    " CWC ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "cyclic:solidifier"
+  }
+}

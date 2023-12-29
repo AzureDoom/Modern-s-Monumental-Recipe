@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "chiselsandbits"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "chiselsandbits:chisel_gold"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "chiselsandbits:chisel_iron"
+  },
+  "addition": {
+    "tag": "forge:ingots/gold"
+  },
+  "result": {
+    "item": "chiselsandbits:chisel_gold"
+  }
+}

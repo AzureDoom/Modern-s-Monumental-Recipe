@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "undergarden"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "undergarden:cloggrum_boots"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_boots"
+  },
+  "addition": {
+    "tag": "forge:ingots/cloggrum"
+  },
+  "result": {
+    "item": "undergarden:cloggrum_boots"
+  }
+}

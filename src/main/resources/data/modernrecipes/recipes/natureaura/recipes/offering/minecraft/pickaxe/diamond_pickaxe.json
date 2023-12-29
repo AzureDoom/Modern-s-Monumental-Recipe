@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:diamond_pickaxe"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:gems/diamond"
+    },
+    "start_item": {
+        "item": "minecraft:golden_pickaxe"
+    },
+    "output": {
+        "item": "minecraft:diamond_pickaxe"
+  }
+}

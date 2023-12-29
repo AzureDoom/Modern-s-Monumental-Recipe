@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:quartz_enriched_iron"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:silicon"
+    },
+    {
+      "tag": "forge:silicon"
+    },
+    {
+      "item": "extendedcrafting:black_iron_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "refinedstorage:quartz_enriched_iron",
+      "count": 2
+    }
+  ]
+}

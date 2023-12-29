@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "upgrade_aquatic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "upgrade_aquatic:driftwood_pressure_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "upgrade_aquatic:driftwood_planks"
+    },
+    "B": {
+      "tag": "forge:tools/hammers"
+    }
+  },
+  "pattern": [
+    " A ",
+    " A ",
+    " B "
+  ],
+  "result": {
+    "item": "upgrade_aquatic:driftwood_pressure_plate"
+  }
+}

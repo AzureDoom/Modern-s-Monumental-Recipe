@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aquaculture:neptunium_sword"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/neptunium"
+    },
+    "start_item": {
+        "item": "minecraft:netherite_sword"
+    },
+    "output": {
+        "item": "aquaculture:neptunium_sword"
+  }
+}

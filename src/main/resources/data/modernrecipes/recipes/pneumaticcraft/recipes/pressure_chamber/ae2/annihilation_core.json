@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:annihilation_core"
+    }
+  ],
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "tag": "forge:gems/quartz"
+    },
+    {
+      "tag": "forge:dusts/fluix"
+    },
+    {
+      "item": "ae2:logic_processor"
+    }
+  ],
+  "pressure": 4,
+  "results": [
+    {
+      "item": "ae2:annihilation_core",
+      "count": 2
+    }
+  ]
+}

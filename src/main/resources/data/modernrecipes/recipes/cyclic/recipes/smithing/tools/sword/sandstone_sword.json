@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:sandstone_sword"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:stone_sword"
+  },
+  "addition": {
+    "tag": "forge:sandstone"
+  },
+  "result": {
+    "item": "cyclic:sandstone_sword"
+  }
+}

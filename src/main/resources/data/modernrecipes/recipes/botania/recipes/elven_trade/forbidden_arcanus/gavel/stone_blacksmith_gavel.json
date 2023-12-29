@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:stone_blacksmith_gavel"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:wooden_blacksmith_gavel"
+    },
+    {
+      "tag": "minecraft:stone_tool_materials"
+    }
+  ],
+  "output": [
+    {
+      "item": "forbidden_arcanus:stone_blacksmith_gavel"
+    }
+  ]
+}

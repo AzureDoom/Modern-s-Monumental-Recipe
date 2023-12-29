@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/refined_glowstone"
+    },
+    "B": {
+      "tag": "forge:plates/gold"
+    },
+    "C": {
+      "item": "wirelesschargers:basic_wireless_player_charger"
+    },
+    "D": {
+      "item": "ars_nouveau:blaze_fiber"
+    },
+    "E": {
+      "tag": "forge:storage_blocks/redstone_ingot"
+    }
+  },
+  "result": {
+    "item": "wirelesschargers:advanced_wireless_player_charger"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:chemical_injection_chamber"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:plates/electrum"
+    },
+    "B": {
+      "tag": "forge:circuits/elite"
+    },
+    "C": {
+      "tag": "mekanism:alloys/reinforced"
+    },
+    "D": {
+      "item": "mekanism:purification_chamber"
+    }
+  },
+  "pattern": [
+    "CBC",
+    "ADA",
+    "CBC"
+  ],
+  "result": {
+    "item": "mekanism:chemical_injection_chamber"
+  }
+}

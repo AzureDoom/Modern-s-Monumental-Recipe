@@ -1,0 +1,44 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:alloybrick"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "compressium:sand_2"
+    }
+  ],
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:sandstone"
+    },
+    {
+      "tag": "forge:sandstone"
+    },
+    {
+      "tag": "forge:sandstone"
+    },
+    {
+      "tag": "forge:sandstone"
+    },
+    {
+      "item": "compressium:sand_2"
+    },
+    {
+      "tag": "engineersdecor:brick_blocks"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:alloybrick",
+      "count": 2
+    }
+  ]
+}

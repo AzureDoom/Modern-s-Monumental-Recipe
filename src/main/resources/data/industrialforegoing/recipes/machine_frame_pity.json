@@ -1,0 +1,44 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "industrialforegoing:machine_frame_pity"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:redstone_servo"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "tag": "forge:treated_wood"
+    },
+    "B": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "C": {
+      "item": "thermal:redstone_servo"
+    }
+  },
+  "pattern": [
+    " ABA ",
+    " BCB ",
+    " ABA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "industrialforegoing:machine_frame_pity"
+  }
+}

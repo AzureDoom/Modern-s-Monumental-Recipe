@@ -1,0 +1,50 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:molecular_assembler"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:mechanical_crafter"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "B": {
+      "item": "ae2:quartz_glass"
+    },
+    "C": {
+      "item": "ae2:annihilation_core"
+    },
+    "D": {
+      "item": "create:mechanical_crafter"
+    },
+    "E": {
+      "item": "ae2:formation_core"
+    }
+  },
+  "pattern": [
+    " ABA ",
+    " CDE ",
+    " ABA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2:molecular_assembler"
+  }
+}

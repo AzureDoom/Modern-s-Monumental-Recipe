@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:watermill"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "X": {
+      "tag": "forge:rods/steel"
+    },
+    "C": {
+      "item": "immersiveengineering:waterwheel_segment"
+    }
+  },
+  "pattern": [
+    "  C  ",
+    " CXC ",
+    "  C  ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "immersiveengineering:watermill"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aquaculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aquaculture:iron_fishing_rod"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:fishing_rod"
+  },
+  "addition": {
+    "tag": "forge:ingots/iron"
+  },
+  "result": {
+    "item": "aquaculture:iron_fishing_rod"
+  }
+}

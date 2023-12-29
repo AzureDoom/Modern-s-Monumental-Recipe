@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:zinc_gear"
+    }
+  ],
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/zinc",
+      "count": 4
+    },
+    {
+      "item": "thermal:press_gear_die"
+    }
+  ],
+  "result": [
+    {
+      "item": "alltheores:zinc_gear",
+      "count": 1
+    }
+  ],
+  "energy": 2400
+}

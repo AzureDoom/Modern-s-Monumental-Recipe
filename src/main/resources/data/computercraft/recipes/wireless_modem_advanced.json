@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "computercraft:wired_modem"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:reinforced_stone"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "pneumaticcraft:reinforced_stone"
+    },
+    "B": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  },
+  "result": {
+    "item": "computercraft:wireless_modem_advanced"
+  }
+}

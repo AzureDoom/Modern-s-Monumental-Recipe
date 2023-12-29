@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "undergarden:cloggrum_leggings"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/cloggrum"
+    },
+    "start_item": {
+        "item": "minecraft:iron_leggings"
+    },
+    "output": {
+        "item": "undergarden:cloggrum_leggings"
+  }
+}

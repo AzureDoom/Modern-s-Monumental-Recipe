@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:mining_ring"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/manasteel"
+    },
+    "start_item": {
+        "item": "botania:rune_earth"
+    },
+    "output": {
+        "item": "botania:mining_ring"
+  }
+}

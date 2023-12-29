@@ -9,10 +9,7 @@
       "item": "ae2:nether_quartz_hoe"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_hoe"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:iron_hoe"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:gems/quartz"
   },
   "result": {
-    "item": "ae2:nether_quartz_hoe",
-    "count": 1
+    "item": "ae2:nether_quartz_hoe"
   }
 }

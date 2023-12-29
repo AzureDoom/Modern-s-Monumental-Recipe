@@ -1,0 +1,35 @@
+{
+  "type": "industrialforegoing:dissolution_chamber",
+  "input": [
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "tag": "forge:plates/zinc"
+    },
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "tag": "forge:plates/zinc"
+    },
+    {
+      "tag": "forge:plates/zinc"
+    },
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "tag": "forge:plates/zinc"
+    },
+    {
+      "item": "minecraft:andesite"
+    }
+  ],
+  "inputFluid": "{Amount:500,FluidName:\"industrialforegoing:pink_slime\"}",
+  "output": {
+    "count": 2,
+    "item": "create:andesite_alloy"
+  },
+  "processingTime": 300
+}

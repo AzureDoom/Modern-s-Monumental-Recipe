@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:mana_ring_greater"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "botania:mana_ring"
+  },
+  "addition": {
+    "tag": "forge:ingots/terrasteel"
+  },
+  "result": {
+    "item": "botania:mana_ring_greater"
+  }
+}

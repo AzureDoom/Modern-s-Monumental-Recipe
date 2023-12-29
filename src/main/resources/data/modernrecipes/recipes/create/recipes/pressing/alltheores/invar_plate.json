@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:invar_plate"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/invar"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:invar_plate"
+    }
+  ]
+}

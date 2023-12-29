@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "yxy",
+    "aca"
+  ],
+  "key": {
+    "x": {
+      "tag": "forge:workbench"
+    },
+    "y": {
+      "tag": "forge:ingots/iron"
+    },
+    "a": {
+      "tag": "minecraft:logs"
+    },
+    "c": {
+      "item": "modernrecipes:clay_plate"
+    },
+    "#": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "chipped:mason_table"
+  }
+}

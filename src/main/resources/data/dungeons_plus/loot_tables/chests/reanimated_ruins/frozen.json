@@ -80,7 +80,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "mysticalagriculture:chicken_essence",
+          "name": "mysticalagriculture:chicken_essence"
         },
         {
           "type": "minecraft:item",
@@ -95,7 +95,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "mysticalagriculture:spider_essence",
+          "name": "mysticalagriculture:spider_essence"
         },
         {
           "type": "minecraft:tag",

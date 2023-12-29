@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "twilightforest:fiery_pickaxe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "tag": "forge:ingots/fiery"
+  },
+  "result": {
+    "item": "twilightforest:fiery_pickaxe"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:mining_ring"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "botania:rune_earth"
+  },
+  "addition": {
+    "tag": "forge:ingots/manasteel"
+  },
+  "result": {
+    "item": "botania:mining_ring"
+  }
+}

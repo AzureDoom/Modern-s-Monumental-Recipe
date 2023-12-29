@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:diamond_helmet"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_helmet"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "output": [
+    {
+      "item": "minecraft:diamond_helmet"
+    }
+  ]
+}

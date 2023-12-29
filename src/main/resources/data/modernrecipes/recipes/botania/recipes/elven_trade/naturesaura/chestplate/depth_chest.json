@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:depth_chest"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_chestplate"
+    },
+    {
+      "item": "naturesaura:depth_ingot"
+    }
+  ],
+  "output": [
+    {
+      "item": "naturesaura:depth_chest"
+    }
+  ]
+}

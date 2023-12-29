@@ -1,0 +1,54 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:melter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:electron_tube"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "createaddition:capacitor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:insulating_glass"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "B": {
+      "tag": "forge:furnaces"
+    },
+    "C": {
+      "tag": "forge:ingots/obsidian"
+    },
+    "P": {
+      "item": "create:electron_tube"
+    },
+    "W": {
+      "item": "createaddition:capacitor"
+    },
+    "X": {
+      "item": "immersiveengineering:insulating_glass"
+    }
+  },
+  "pattern": [
+    " CPC ",
+    " XBX ",
+    " CWC ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "cyclic:melter"
+  }
+}

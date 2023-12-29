@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "blue_skies:pyrope_sword"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "tag": "blue_skies:gems/pyrope"
+    }
+  ],
+  "output": [
+    {
+      "item": "blue_skies:pyrope_sword"
+    }
+  ]
+}

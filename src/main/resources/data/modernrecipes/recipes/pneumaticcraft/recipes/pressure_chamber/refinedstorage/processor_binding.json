@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:hemp_fiber"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:spell_cloth"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "industrialforegoing:pink_slime_ingot"
+    }
+  ],
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "type": "pneumaticcraft:stacked_item",
+      "count": 2,
+      "item": "immersiveengineering:hemp_fiber"
+    },
+    {
+      "item": "botania:spell_cloth"
+    },
+    {
+      "type": "pneumaticcraft:stacked_item",
+      "count": 2,
+      "item": "industrialforegoing:pink_slime_ingot"
+    }
+  ],
+  "pressure": 4.0,
+  "results": [
+    {
+      "item": "refinedstorage:processor_binding"
+    }
+  ]
+}

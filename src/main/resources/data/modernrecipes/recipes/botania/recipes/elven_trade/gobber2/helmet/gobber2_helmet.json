@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_helmet"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_helmet"
+    },
+    {
+      "tag": "forge:ingots/gobber"
+    }
+  ],
+  "output": [
+    {
+      "item": "gobber2:gobber2_helmet"
+    }
+  ]
+}

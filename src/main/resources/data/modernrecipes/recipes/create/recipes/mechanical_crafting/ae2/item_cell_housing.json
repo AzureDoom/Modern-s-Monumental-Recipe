@@ -1,0 +1,44 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:item_cell_housing"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "ae2:quartz_glass"
+    },
+    "B": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "C": {
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  },
+  "pattern": [
+    " ABA ",
+    " B B ",
+    " CCC ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2:item_cell_housing"
+  }
+}

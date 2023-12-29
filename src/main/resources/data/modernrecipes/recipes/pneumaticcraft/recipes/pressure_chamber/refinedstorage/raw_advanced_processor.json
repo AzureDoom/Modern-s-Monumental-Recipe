@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:raw_advanced_processor"
+    }
+  ],
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "tag": "forge:gears/diamond"
+    },
+    {
+      "tag": "forge:silicon"
+    },
+    {
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    {
+      "item": "refinedstorage:processor_binding"
+    }
+  ],
+  "pressure": 4,
+  "results": [
+    {
+      "item": "refinedstorage:raw_advanced_processor",
+      "count": 2
+    }
+  ]
+}

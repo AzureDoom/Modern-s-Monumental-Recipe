@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:compressed_iron_leggings"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_leggings"
+  },
+  "addition": {
+    "item": "modernrecipes:compressed_iron_plate"
+  },
+  "result": {
+    "item": "pneumaticcraft:compressed_iron_leggings"
+  }
+}

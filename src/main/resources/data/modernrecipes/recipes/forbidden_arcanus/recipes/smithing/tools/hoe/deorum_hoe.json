@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:deorum_hoe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "addition": {
+    "tag": "forge:ingots/deorum"
+  },
+  "result": {
+    "item": "forbidden_arcanus:deorum_hoe"
+  }
+}

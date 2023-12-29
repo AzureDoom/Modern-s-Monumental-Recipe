@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:deorum_leggings"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/deorum"
+    },
+    "start_item": {
+        "item": "minecraft:netherite_leggings"
+    },
+    "output": {
+        "item": "forbidden_arcanus:deorum_leggings"
+  }
+}

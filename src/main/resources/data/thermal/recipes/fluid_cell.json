@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:fluid_cell"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "thermal:energy_cell_frame"
+    },
+    "I": {
+      "tag": "forge:sheetmetals/steel"
+    },
+    "P": {
+      "item": "thermal:redstone_servo"
+    },
+    "R": {
+      "item": "thermal:cured_rubber"
+    },
+    "X": {
+      "tag": "thermal:glass/hardened"
+    }
+  },
+  "pattern": [
+    "RXR",
+    "ICI",
+    "RPR"
+  ],
+  "result": {
+    "item": "thermal:fluid_cell"
+  }
+}

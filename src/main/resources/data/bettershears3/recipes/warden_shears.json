@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bettershears3"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "bettershears3:warden_shears"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "bettershears3:netherite_shears"
+  },
+  "addition": {
+    "item": "bettershears3:warden_heart"
+  },
+  "result": {
+    "item": "bettershears3:warden_shears"
+  }
+}

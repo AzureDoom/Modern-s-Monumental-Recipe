@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:diamond_shovel"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "create_weaponry:golden_shovel_head"
+  },
+  "addition": {
+    "tag": "forge:gems/diamond"
+  },
+  "result": {
+    "item": "minecraft:diamond_shovel"
+  }
+}

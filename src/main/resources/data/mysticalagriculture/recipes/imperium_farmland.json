@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:imperium_farmland"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "tag": "forge:tools/hoes"
+    },
+    {
+      "item": "mysticalagriculture:tertium_farmland"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:imperium_farmland",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pneumaticcraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "pneumaticcraft:assembly_laser",
+  "input": {
+    "type": "pneumaticcraft:stacked_item",
+    "count": 1,
+    "tag": "forge:ingots/compressed_iron"
+  },
+  "program": "laser",
+  "result": {
+    "count": 1,
+    "item": "modernrecipes:compressed_iron_plate"
+  }
+}

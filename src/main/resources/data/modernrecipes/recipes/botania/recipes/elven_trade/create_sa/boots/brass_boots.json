@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create_sa:brass_boots"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_boots"
+    },
+    {
+      "tag": "forge:ingots/brass"
+    }
+  ],
+  "output": [
+    {
+      "item": "create_sa:brass_boots"
+    }
+  ]
+}

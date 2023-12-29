@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:infused_stone"
+    }
+  ],
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:conjuration_catalyst"
+  },
+  "input": {
+    "tag": "forge:storage_blocks/compressed_iron"
+  },
+  "mana": 13500,
+  "output": {
+    "count": 2,
+    "item": "naturesaura:infused_stone"
+  }
+}

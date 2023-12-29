@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:iron_hoe"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_hoe"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "output": [
+    {
+      "item": "minecraft:iron_hoe"
+    }
+  ]
+}

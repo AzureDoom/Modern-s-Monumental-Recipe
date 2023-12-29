@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "blue_skies:horizonite_hoe"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "blue_skies:ingots/horizonite"
+    },
+    "start_item": {
+        "item": "minecraft:iron_hoe"
+    },
+    "output": {
+        "item": "blue_skies:horizonite_hoe"
+  }
+}

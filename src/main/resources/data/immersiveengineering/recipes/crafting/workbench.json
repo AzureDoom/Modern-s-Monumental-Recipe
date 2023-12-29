@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:workbench"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "item": "immersiveengineering:slab_treated_wood_packaged"
+    },
+    "S": {
+      "tag": "forge:plates/iron"
+    },
+    "I": {
+      "tag": "forge:workbench"
+    },
+    "C": {
+      "tag": "forge:sheetmetals/steel"
+    },
+    "E": {
+      "item": "immersiveengineering:treated_fence"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "SCS",
+    "EIE"
+  ],
+  "result": {
+    "item": "immersiveengineering:workbench"
+  }
+}

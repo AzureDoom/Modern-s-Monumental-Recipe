@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanismgenerators:bio_generator"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    },
+    "I": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "C": {
+      "tag": "forge:circuits/basic"
+    },
+    "B": {
+      "tag": "forge:fuels/bio"
+    }
+  },
+  "pattern": [
+    "RAR",
+    "BCB",
+    "IAI"
+  ],
+  "result": {
+    "item": "mekanismgenerators:bio_generator"
+  }
+}

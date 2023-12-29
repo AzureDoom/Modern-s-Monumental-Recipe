@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "prefab:item_sickle_diamond"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:gems/diamond"
+    },
+    "start_item": {
+        "item": "prefab:item_sickle_gold"
+    },
+    "output": {
+        "item": "prefab:item_sickle_diamond"
+  }
+}

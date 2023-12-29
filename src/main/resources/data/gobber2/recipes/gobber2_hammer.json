@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_hammer"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "hexerei:warhammer"
+  },
+  "addition": {
+    "tag": "forge:ingots/gobber"
+  },
+  "result": {
+    "item": "gobber2:gobber2_hammer"
+  }
+}

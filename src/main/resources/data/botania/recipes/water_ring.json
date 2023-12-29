@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:water_ring"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:heart_of_the_sea"
+  },
+  "addition": {
+    "tag": "forge:ingots/manasteel"
+  },
+  "result": {
+    "item": "botania:water_ring"
+  }
+}

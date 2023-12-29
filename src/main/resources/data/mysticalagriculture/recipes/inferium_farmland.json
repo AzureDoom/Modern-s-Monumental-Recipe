@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:inferium_farmland"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "tag": "forge:tools/hoes"
+    },
+    {
+      "tag": "forge:dirt"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:inferium_farmland",
+      "count": 2
+    }
+  ]
+}

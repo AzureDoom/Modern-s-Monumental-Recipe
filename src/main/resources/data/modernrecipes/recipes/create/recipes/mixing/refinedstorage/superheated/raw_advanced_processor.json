@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:raw_advanced_processor"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "tag": "forge:gears/diamond"
+    },
+    {
+      "tag": "forge:silicon"
+    },
+    {
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    {
+      "item": "refinedstorage:processor_binding"
+    }
+  ],
+  "results": [
+    {
+      "item": "refinedstorage:raw_advanced_processor"
+    }
+  ]
+}

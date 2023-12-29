@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:dynamo_magmatic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:circuit_board"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "C": {
+      "item": "thermal:rf_coil"
+    },
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "X": {
+      "item": "immersiveengineering:circuit_board"
+    },
+    "Y": {
+      "tag": "forge:gears/invar"
+    }
+  },
+  "pattern": [
+    "  C  ",
+    " IYI ",
+    " YXY ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "thermal:dynamo_magmatic"
+  }
+}

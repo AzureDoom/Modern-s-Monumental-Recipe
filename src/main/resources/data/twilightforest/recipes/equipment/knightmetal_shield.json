@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "twilightforest:knightmetal_shield"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "forge:ingots/knightmetal"
+  },
+  "addition": {
+    "tag": "twilightforest:towerwood"
+  },
+  "result": {
+    "item": "twilightforest:knightmetal_shield"
+  }
+}

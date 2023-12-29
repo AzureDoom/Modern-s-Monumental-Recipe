@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:infused_iron_shoes"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_boots"
+  },
+  "addition": {
+    "item": "naturesaura:infused_iron"
+  },
+  "result": {
+    "item": "naturesaura:infused_iron_shoes"
+  }
+}

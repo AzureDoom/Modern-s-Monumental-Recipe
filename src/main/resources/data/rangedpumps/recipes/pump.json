@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rangedpumps"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rangedpumps:pump"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:fluid_pump"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "O": {
+      "tag": "forge:plates/steel"
+    },
+    "P": {
+      "tag": "forge:tools/pickaxes"
+    },
+    "L": {
+      "tag": "forge:ingots/obsidian"
+    },
+    "D": {
+      "item": "immersiveengineering:fluid_pump"
+    }
+  },
+  "pattern": [
+    "OPO",
+    "LDL",
+    "OPO"
+  ],
+  "result": {
+    "item": "rangedpumps:pump"
+  }
+}

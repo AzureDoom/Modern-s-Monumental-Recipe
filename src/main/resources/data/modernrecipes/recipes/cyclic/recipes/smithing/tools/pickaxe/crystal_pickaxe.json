@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:crystal_pickaxe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "tag": "forge:gems/diamond"
+  },
+  "result": {
+    "item": "cyclic:crystal_pickaxe"
+  }
+}

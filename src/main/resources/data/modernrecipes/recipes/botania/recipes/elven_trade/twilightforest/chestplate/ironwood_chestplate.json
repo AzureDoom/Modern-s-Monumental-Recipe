@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "twilightforest:ironwood_chestplate"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_chestplate"
+    },
+    {
+      "tag": "forge:ingots/ironwood"
+    }
+  ],
+  "output": [
+    {
+      "item": "twilightforest:ironwood_chestplate"
+    }
+  ]
+}

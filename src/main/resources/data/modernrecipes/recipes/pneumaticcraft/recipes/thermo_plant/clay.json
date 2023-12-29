@@ -1,0 +1,19 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "exothermic": false,
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "amount": 10,
+    "fluid": "minecraft:water"
+  },
+  "item_input": {
+    "tag": "minecraft:terracotta"
+  },
+  "item_output": {
+    "count": 4,
+    "item": "minecraft:clay"
+  },
+  "temperature": {
+    "min_temp": 373
+  }
+}

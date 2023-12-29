@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mysticalagriculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:supremium_boots"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:imperium_boots"
+  },
+  "addition": {
+    "item": "mysticalagriculture:supremium_gemstone"
+  },
+  "result": {
+    "item": "mysticalagriculture:supremium_boots"
+  }
+}

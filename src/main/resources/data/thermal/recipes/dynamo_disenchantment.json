@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:dynamo_lapidary"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "C": {
+      "item": "thermal:rf_coil"
+    },
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "G": {
+      "tag": "forge:gears/silver"
+    },
+    "X": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "Y": {
+      "item": "minecraft:experience_bottle"
+    }
+  },
+  "pattern": [
+    "  C  ",
+    " IGI ",
+    " YXY ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "thermal:dynamo_disenchantment"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "chiselsandbits"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "chiselsandbits:chisel_netherite"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "chiselsandbits:chisel_diamond"
+  },
+  "addition": {
+    "tag": "forge:ingots/netherite"
+  },
+  "result": {
+    "item": "chiselsandbits:chisel_netherite"
+  }
+}

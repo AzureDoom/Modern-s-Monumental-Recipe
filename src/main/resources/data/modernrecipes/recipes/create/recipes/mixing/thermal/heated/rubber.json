@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:rubber"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "industrialforegoing:latex_bucket"
+    },
+    {
+      "tag": "forge:slimeballs"
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:rubber",
+      "count": 2
+    }
+  ]
+}

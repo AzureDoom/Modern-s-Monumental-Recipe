@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "sophisticatedbackpacks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "sophisticatedbackpacks:upgrade_base"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "material_elements:leather_sheet"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "tag": "forge:string"
+    },
+    "E": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "W": {
+      "item": "material_elements:leather_sheet"
+    }
+  },
+  "pattern": [
+    "GEG",
+    "EWE",
+    "GEG"
+  ],
+  "result": {
+    "item": "sophisticatedbackpacks:upgrade_base"
+  }
+}

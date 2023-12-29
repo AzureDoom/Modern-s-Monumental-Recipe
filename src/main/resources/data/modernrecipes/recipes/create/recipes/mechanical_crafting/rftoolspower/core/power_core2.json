@@ -1,0 +1,50 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolspower:power_core2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:rf_coil"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "r": {
+      "item": "thermal:rf_coil"
+    },
+    "R": {
+      "tag": "forge:gears/compressed_iron"
+    },
+    "e": {
+      "tag": "forge:plates/diamond"
+    },
+    "s": {
+      "item": "rftoolsbase:dimensionalshard"
+    },
+    "a": {
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  },
+  "pattern": [
+    " ses ",
+    " rRr ",
+    " sas ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolspower:power_core2"
+  }
+}

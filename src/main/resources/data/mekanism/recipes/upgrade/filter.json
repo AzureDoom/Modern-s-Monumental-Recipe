@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:upgrade_filter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_glass"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "ae2:quartz_glass"
+    },
+    "B": {
+      "tag": "forge:dusts/tin"
+    },
+    "C": {
+      "item": "mekanism:basic_mechanical_pipe"
+    }
+  },
+  "pattern": [
+    " A ",
+    "CBC",
+    " A "
+  ],
+  "result": {
+    "item": "mekanism:upgrade_filter",
+    "count": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:armor_steel_chest"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_chestplate"
+    },
+    {
+      "tag": "forge:plates/steel"
+    }
+  ],
+  "output": [
+    {
+      "item": "immersiveengineering:armor_steel_chest"
+    }
+  ]
+}

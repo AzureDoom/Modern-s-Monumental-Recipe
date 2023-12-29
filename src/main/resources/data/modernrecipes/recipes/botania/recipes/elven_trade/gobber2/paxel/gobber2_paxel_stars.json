@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_paxel_stars"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "gobber2:gobber2_paxel_end"
+    },
+    {
+      "item": "gobber2:gobber2_staff_stars"
+    }
+  ],
+  "output": [
+    {
+      "item": "gobber2:gobber2_paxel_stars"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:the_ultimate_ingot"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/enderium"
+    },
+    {
+      "tag": "forge:ingots/enderium"
+    },
+    {
+      "tag": "forge:ingots/enderium"
+    },
+    {
+      "tag": "forge:ingots/enderium"
+    },
+    {
+      "item": "extendedcrafting:ender_star"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcrafting:enhanced_ender_ingot"
+    }
+  ]
+}

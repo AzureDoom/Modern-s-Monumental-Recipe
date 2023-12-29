@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:uranium_gear"
+    }
+  ],
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/uranium",
+      "count": 4
+    },
+    {
+      "item": "thermal:press_gear_die"
+    }
+  ],
+  "result": [
+    {
+      "item": "alltheores:uranium_gear",
+      "count": 1
+    }
+  ],
+  "energy": 2400
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "undergarden:utherium_chestplate"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/utherium"
+    },
+    "start_item": {
+        "item": "minecraft:netherite_chestplate"
+    },
+    "output": {
+        "item": "undergarden:utherium_chestplate"
+  }
+}

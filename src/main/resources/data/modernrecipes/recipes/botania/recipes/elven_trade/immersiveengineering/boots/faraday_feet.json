@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:armor_faraday_feet"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:leather_boots"
+    },
+    {
+      "tag": "forge:plates/aluminum"
+    }
+  ],
+  "output": [
+    {
+      "item": "immersiveengineering:armor_faraday_feet"
+    }
+  ]
+}

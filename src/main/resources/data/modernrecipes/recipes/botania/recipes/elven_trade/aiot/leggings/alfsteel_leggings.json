@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mythicbotany:alfsteel_leggings"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "botania:terrasteel_leggings"
+    },
+    {
+      "item": "mythicbotany:alfsteel_ingot"
+    }
+  ],
+  "output": [
+    {
+      "item": "mythicbotany:alfsteel_leggings"
+    }
+  ]
+}

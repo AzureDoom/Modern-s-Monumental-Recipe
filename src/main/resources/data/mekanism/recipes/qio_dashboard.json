@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:qio_dashboard"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "A": {
+      "tag": "forge:pellets/polonium"
+    },
+    "T": {
+      "item": "mekanism:teleportation_core"
+    },
+    "I": {
+      "tag": "forge:ingots/lead"
+    }
+  },
+  "pattern": [
+    "IAI",
+    "AGA",
+    "ITI"
+  ],
+  "result": {
+    "item": "mekanism:qio_dashboard"
+  }
+}

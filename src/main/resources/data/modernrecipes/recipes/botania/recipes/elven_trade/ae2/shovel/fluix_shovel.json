@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:fluix_shovel"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_shovel"
+    },
+    {
+      "item": "ae2:fluix_block"
+    }
+  ],
+  "output": [
+    {
+      "item": "ae2:fluix_shovel"
+    }
+  ]
+}

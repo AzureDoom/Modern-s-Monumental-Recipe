@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:building_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "buildinggadgets:construction_paste"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "notenoughwands:wand_core"
+    },
+    "start_item": {
+        "item": "buildinggadgets:construction_paste"
+    },
+    "output": {
+        "item": "notenoughwands:building_wand"
+  }
+}

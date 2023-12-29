@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:building_wand"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "buildinggadgets:construction_paste"
+    },
+    {
+      "item": "notenoughwands:wand_core"
+    }
+  ],
+  "output": [
+    {
+      "item": "notenoughwands:building_wand"
+    }
+  ]
+}

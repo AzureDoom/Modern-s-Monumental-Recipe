@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:elementium_hoe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "addition": {
+    "tag": "forge:ingots/elementium"
+  },
+  "result": {
+    "item": "botania:elementium_hoe"
+  }
+}

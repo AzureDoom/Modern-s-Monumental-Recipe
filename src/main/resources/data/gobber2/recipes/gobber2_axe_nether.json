@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_axe_nether"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "tag": "forge:ingots/gobber_nether"
+  },
+  "result": {
+    "item": "gobber2:gobber2_axe_nether"
+  }
+}

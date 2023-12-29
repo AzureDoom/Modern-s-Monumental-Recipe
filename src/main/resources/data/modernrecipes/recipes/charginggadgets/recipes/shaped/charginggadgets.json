@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "d": {
+      "item": "mysticalagriculture:lapis_lazuli_essence"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "l": {
+      "item": "pneumaticcraft:charging_station"
+    },
+    "r": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "pattern": [
+    "iri",
+    "drd",
+    "ili"
+  ],
+  "result": {
+    "item": "charginggadgets:charging_station"
+  }
+}

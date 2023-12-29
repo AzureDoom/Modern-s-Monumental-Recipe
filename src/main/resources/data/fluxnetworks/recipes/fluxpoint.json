@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fluxnetworks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "fluxnetworks:flux_point"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "c": {
+      "item": "fluxnetworks:flux_block"
+    },
+    "b": {
+      "item": "fluxnetworks:flux_core"
+    },
+    "x": {
+      "tag": "forge:plastic"
+    }
+  },
+  "pattern": [
+    "xcx",
+    "cbc",
+    "xcx"
+  ],
+  "result": {
+    "item": "fluxnetworks:flux_point"
+  }
+}

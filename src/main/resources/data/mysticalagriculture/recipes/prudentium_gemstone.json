@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:prudentium_gemstone"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_gemstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:prudentium_gemstone"
+    }
+  ]
+}

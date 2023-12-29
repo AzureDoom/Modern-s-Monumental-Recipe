@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "undergarden:masticated_chestplate"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_chestplate"
+    },
+    {
+      "item": "undergarden:masticator_scales"
+    }
+  ],
+  "output": [
+    {
+      "item": "undergarden:masticated_chestplate"
+    }
+  ]
+}

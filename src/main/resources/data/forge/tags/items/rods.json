@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:rods/gobber_rod",
+    "#forge:rods/gobber_rod_nether",
+    "#forge:rods/gobber_rod_end",
+    "enigmaticlegacy:ender_rod"
+  ]
+}

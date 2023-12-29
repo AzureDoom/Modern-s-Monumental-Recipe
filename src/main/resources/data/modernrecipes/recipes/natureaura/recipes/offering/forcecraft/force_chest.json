@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forcecraft:force_chest"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "forcecraft:force_stick"
+    },
+    "start_item": {
+        "item": "minecraft:iron_chestplate"
+    },
+    "output": {
+        "item": "forcecraft:force_chest"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mutantmonsters:mutant_skeleton_chestplate"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "mutantmonsters:mutant_skeleton_lib"
+    },
+    {
+      "item": "minecraft:iron_leggings"
+    }
+  ],
+  "output": [
+    {
+      "item": "mutantmonsters:mutant_skeleton_leggings"
+    }
+  ]
+}

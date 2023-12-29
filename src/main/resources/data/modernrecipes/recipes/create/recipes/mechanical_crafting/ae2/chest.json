@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:chest"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "tag": "thermal:glass/hardened"
+    },
+    "B": {
+      "item": "ae2:terminal"
+    },
+    "C": {
+      "item": "ae2:fluix_glass_cable"
+    },
+    "D": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "E": {
+      "item": "mysticalagriculture:fluix_essence"
+    }
+  },
+  "pattern": [
+    " ABA ",
+    " C C ",
+    " DED ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2:chest"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagradditions:prudentium_coal"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "mysticalagradditions:inferium_coal"
+    },
+    {
+      "item": "mysticalagradditions:inferium_coal"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagradditions:prudentium_coal"
+    }
+  ]
+}

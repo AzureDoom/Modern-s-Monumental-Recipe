@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:inferium_ingot"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:prosperity_ingot"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:inferium_ingot"
+    }
+  ]
+}

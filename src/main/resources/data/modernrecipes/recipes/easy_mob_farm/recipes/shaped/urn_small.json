@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "easy_mob_farm"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "easy_mob_farm:urn_small"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "compressium:quartz_1"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "item": "compressium:quartz_1"
+    },
+    "G": {
+      "tag": "forge:tools/hammers"
+    },
+    "O": {
+      "tag": "modernrecipes:eyes"
+    }
+  },
+  "pattern": [
+    "WGW",
+    "WOW",
+    "WWW"
+  ],
+  "result": {
+    "item": "easy_mob_farm:urn_small"
+  }
+}

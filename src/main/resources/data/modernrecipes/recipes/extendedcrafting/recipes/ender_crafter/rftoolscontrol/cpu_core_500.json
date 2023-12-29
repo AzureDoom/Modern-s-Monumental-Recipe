@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolscontrol:cpu_core_500"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "QWQ",
+    "TST",
+    "QWQ"
+  ],
+  "key": {
+    "W": {
+      "tag": "forge:nuggets/electrum"
+    },
+    "T": {
+      "tag": "forge:paper"
+    },
+    "Q": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "S": {
+      "item": "rftoolscontrol:card_base"
+    }
+  },
+  "result": {
+    "item": "rftoolscontrol:cpu_core_500"
+  }
+}

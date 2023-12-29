@@ -1,0 +1,58 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "hexerei"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ars_nouveau:glyph_lightning"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ars_nouveau:air_essence"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:lightning_rod"
+    }
+  ],
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "minecraft:lava"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "ars_nouveau:air_essence"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "ars_nouveau:air_essence"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "ars_nouveau:air_essence"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "ars_nouveau:air_essence"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:glyph_lightning"
+  },
+  "liquidOutput": {
+    "fluid": "minecraft:lava"
+  },
+  "fluidLevelsConsumed": 2000,
+  "heatRequirement": "heated"
+}

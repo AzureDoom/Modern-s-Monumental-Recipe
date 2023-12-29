@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:deorum_blacksmith_gavel"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:diamond_blacksmith_gavel"
+    },
+    {
+      "tag": "forge:ingots/deorum"
+    }
+  ],
+  "output": [
+    {
+      "item": "forbidden_arcanus:deorum_blacksmith_gavel"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_hoe_end"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "addition": {
+    "tag": "forge:ingots/gobber_end"
+  },
+  "result": {
+    "item": "gobber2:gobber2_hoe_end"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:imperium_furnace"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "mysticalagriculture:imperium_block"
+    },
+    "start_item": {
+        "item": "mysticalagriculture:tertium_furnace"
+    },
+    "output": {
+        "item": "mysticalagriculture:imperium_furnace"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bettershears3"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "bettershears3:unfired_clay_shears"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "material_elements:leather_shears"
+  },
+  "addition": {
+    "tag": "forge:leather"
+  },
+  "result": {
+    "item": "bettershears3:unfired_clay_shears"
+  }
+}

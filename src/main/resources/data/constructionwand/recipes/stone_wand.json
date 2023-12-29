@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "constructionwand"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "notenoughwands"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "constructionwand:stone_wand"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "quark:stone_tool_materials"
+  },
+  "addition": {
+    "item": "notenoughwands:wand_core"
+  },
+  "result": {
+    "item": "constructionwand:stone_wand"
+  }
+}

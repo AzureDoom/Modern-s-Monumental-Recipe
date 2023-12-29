@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:swapping_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "sophisticatedbackpacks:tool_swapper_upgrade"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "notenoughwands:wand_core"
+    },
+    "start_item": {
+        "item": "sophisticatedbackpacks:tool_swapper_upgrade"
+    },
+    "output": {
+        "item": "notenoughwands:swapping_wand"
+  }
+}

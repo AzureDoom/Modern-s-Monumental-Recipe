@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:tertium_boots"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:prudentium_boots"
+    },
+    {
+      "item": "mysticalagriculture:tertium_gemstone"
+    }
+  ],
+  "output": [
+    {
+      "item": "mysticalagriculture:tertium_boots"
+    }
+  ]
+}

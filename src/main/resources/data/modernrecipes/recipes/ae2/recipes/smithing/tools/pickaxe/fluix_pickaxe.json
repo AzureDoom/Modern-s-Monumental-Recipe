@@ -9,10 +9,7 @@
       "item": "ae2:fluix_pickaxe"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "modernrecipes:part_mold_pickaxe"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:iron_pickaxe"
   },
@@ -20,7 +17,6 @@
     "item": "ae2:fluix_block"
   },
   "result": {
-    "item": "ae2:fluix_pickaxe",
-    "count": 1
+    "item": "ae2:fluix_pickaxe"
   }
 }

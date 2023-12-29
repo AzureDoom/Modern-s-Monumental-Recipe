@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagradditions:inferium_coal"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "tag": "minecraft:coals"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagradditions:inferium_coal"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:sword_steel"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "addition": {
+    "tag": "forge:ingots/steel"
+  },
+  "result": {
+    "item": "immersiveengineering:sword_steel"
+  }
+}

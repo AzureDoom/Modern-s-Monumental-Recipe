@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mininggadgets:mininggadget_simple"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "S": {
+      "tag": "forge:plates/diamond"
+    },
+    "Q": {
+      "tag": "modernrecipes:lasers"
+    },
+    "E": {
+      "tag": "forge:plates/iron"
+    },
+    "Z": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    " SEE ",
+    " SQZ ",
+    " SEE ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "mininggadgets:mininggadget_simple"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rftoolscontrol"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolscontrol:programmer"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:polished_rose_quartz"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:heavy_engineering"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:circuit_board"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "q": {
+      "item": "create:polished_rose_quartz"
+    },
+    "p": {
+      "tag": "forge:plastic"
+    },
+    "r": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "F": {
+      "item": "immersiveengineering:heavy_engineering"
+    },
+    "s": {
+      "item": "immersiveengineering:circuit_board"
+    }
+  },
+  "pattern": [
+    "rqr",
+    "pFp",
+    "rsr"
+  ],
+  "result": {
+    "item": "rftoolscontrol:programmer"
+  }
+}

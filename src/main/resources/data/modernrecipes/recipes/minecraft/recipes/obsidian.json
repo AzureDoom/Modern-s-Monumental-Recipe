@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  
+    "S A"
+  ],
+  
+  "key": {
+    "S": {
+      "tag": "forge:buckets/lava"
+    },
+    "A": {
+      "item": "minecraft:ice"
+    }    
+  },
+  
+  
+  "result": {
+    "item": "minecraft:obsidian"
+  }
+}

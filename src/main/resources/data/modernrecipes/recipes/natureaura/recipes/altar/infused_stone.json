@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:arcane_crystal_block"
+    }
+  ],
+    "type": "naturesaura:altar",
+    "input": {
+        "item": "forbidden_arcanus:arcane_crystal_block"
+    },
+    "output": {
+        "item": "naturesaura:infused_stone"
+    },
+    "catalyst": {
+        "item": "naturesaura:conversion_catalyst"
+    },
+    "aura": 7500,
+    "time": 200
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "undergarden"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "undergarden:utherium_hoe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_hoe"
+  },
+  "addition": {
+    "tag": "forge:ingots/utherium"
+  },
+  "result": {
+    "item": "undergarden:utherium_hoe"
+  }
+}

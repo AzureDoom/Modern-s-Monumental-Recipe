@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "bettershears3:obsidian_shears"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+         "tag": "forge:obsidian"
+    },
+    "start_item": {
+        "item": "bettershears3:emerald_shears"
+    },
+    "output": {
+        "item": "bettershears3:obsidian_shears"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:supremium_watering_can"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:mystical_fertilizer"
+    },
+    {
+      "item": "mysticalagriculture:mystical_fertilizer"
+    },
+    {
+      "item": "mysticalagriculture:mystical_fertilizer"
+    },
+    {
+      "item": "mysticalagriculture:mystical_fertilizer"
+    },
+    {
+      "item": "mysticalagriculture:supremium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:supremium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:supremium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:supremium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:imperium_watering_can"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:supremium_watering_can"
+    }
+  ]
+}

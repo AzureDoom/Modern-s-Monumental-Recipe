@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:capacitor_mv"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "X": {
+      "tag": "forge:treated_wood"
+    },
+    "T": {
+      "item": "immersiveengineering:electron_tube"
+    },
+    "C": {
+      "tag": "forge:sheetmetals/electrum"
+    },
+    "W": {
+      "tag": "forge:sheetmetals/iron"
+    },
+    "A": {
+      "tag": "forge:gears/lead"
+    }
+  },
+  "pattern": [
+    " WWW ",
+    " CAC ",
+    " XTX ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 2,
+    "item": "immersiveengineering:capacitor_mv"
+  }
+}

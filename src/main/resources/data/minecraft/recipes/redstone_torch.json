@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:redstone_torch"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:redstone_mushroom_spores"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "thermal:redstone_mushroom_spores"
+    },
+    "B": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    " A ",
+    " B "
+  ],
+  "result": {
+    "item": "minecraft:redstone_torch",
+    "count": 2
+  }
+}

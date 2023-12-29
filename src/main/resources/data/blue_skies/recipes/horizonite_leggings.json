@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blue_skies"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "blue_skies:horizonite_leggings"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_leggings"
+  },
+  "addition": {
+    "tag": "blue_skies:ingots/horizonite"
+  },
+  "result": {
+    "item": "blue_skies:horizonite_leggings"
+  }
+}

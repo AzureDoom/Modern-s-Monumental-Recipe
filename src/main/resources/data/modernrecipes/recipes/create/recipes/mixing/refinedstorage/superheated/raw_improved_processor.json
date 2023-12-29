@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:raw_improved_processor"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:wirecoil_electrum"
+    },
+    {
+      "tag": "forge:silicon"
+    },
+    {
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    {
+      "item": "refinedstorage:processor_binding"
+    },
+    {
+      "item": "immersiveengineering:wirecoil_electrum"
+    }
+  ],
+  "results": [
+    {
+      "item": "refinedstorage:raw_improved_processor"
+    }
+  ]
+}

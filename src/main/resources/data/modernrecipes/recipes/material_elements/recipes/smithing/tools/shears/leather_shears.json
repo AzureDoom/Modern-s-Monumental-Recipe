@@ -9,10 +9,7 @@
       "item": "material_elements:leather_shears"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "material_elements:leather_sheet"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:shears"
   },
@@ -20,7 +17,6 @@
     "item": "material_elements:leather_sheet"
   },
   "result": {
-    "item": "material_elements:leather_shears",
-    "count": 1
+    "item": "material_elements:leather_shears"
   }
 }

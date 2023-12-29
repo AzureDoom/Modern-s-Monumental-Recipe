@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "explorerscompass:explorerscompass"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "minecraft:cracked_stone_bricks"
+    },
+    "start_item": {
+        "item": "minecraft:compass"
+    },
+    "output": {
+        "item": "explorerscompass:explorerscompass"
+  }
+}

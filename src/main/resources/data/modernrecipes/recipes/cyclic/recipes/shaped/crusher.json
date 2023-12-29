@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:crusher"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "compressium:cobblestone_1"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "sophisticatedbackpacks:stonecutter_upgrade"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "compressium:cobblestone_1"
+    },
+    "B": {
+      "tag": "forge:plates/copper"
+    },
+    "C": {
+      "item": "sophisticatedbackpacks:stonecutter_upgrade"
+    },
+    "D": {
+      "tag": "forge:storage_blocks/flint"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "result": {
+    "item": "cyclic:crusher"
+  }
+}

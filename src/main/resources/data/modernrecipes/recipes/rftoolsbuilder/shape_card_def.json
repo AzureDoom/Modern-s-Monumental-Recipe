@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:reinforced_bricks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "pneumaticcraft:reinforced_bricks"
+    },
+    "i": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "p": {
+      "tag": "forge:paper"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    "pBp",
+    "rir",
+    "pBp"
+  ],
+  "result": {
+    "item": "rftoolsbuilder:shape_card_def"
+  }
+}

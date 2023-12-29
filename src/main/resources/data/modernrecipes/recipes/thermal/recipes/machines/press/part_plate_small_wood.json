@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:part_plate_small_wood"
+    }
+  ],
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "tag": "minecraft:planks",
+      "count": 4
+    },
+    {
+      "item": "thermal:press_packing_2x2_die"
+    }
+  ],
+  "result": [
+    {
+      "item": "modernrecipes:part_plate_small_wood",
+      "count": 2
+    }
+  ],
+  "energy": 2400
+}

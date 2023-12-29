@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "industrialforegoing:fluid_extractor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:fluid_pump"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "B": {
+      "tag": "forge:gears/electrum"
+    },
+    "C": {
+      "tag": "modernrecipes:piston"
+    },
+    "D": {
+      "tag": "industrialforegoing:machine_frame/pity"
+    },
+    "E": {
+      "item": "immersiveengineering:fluid_pump"
+    }
+  },
+  "result": {
+    "item": "industrialforegoing:fluid_extractor"
+  }
+}

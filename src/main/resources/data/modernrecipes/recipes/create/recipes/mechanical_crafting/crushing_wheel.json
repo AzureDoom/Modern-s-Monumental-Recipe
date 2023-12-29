@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:crushing_wheel"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "B": {
+      "item": "create:large_cogwheel"
+    },
+    "C": {
+      "tag": "forge:sheetmetals/iron"
+    },
+    "D": {
+      "tag": "forge:treated_wood"
+    }
+  },
+  "pattern": [
+    " AAA ",
+    "ACDCA",
+    "ADBDA",
+    "ACDCA",
+    " AAA "
+  ],
+  "result": {
+    "count": 2,
+    "item": "create:crushing_wheel"
+  }
+}

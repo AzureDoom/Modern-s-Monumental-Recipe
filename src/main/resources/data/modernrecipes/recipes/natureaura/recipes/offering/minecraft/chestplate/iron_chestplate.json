@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:iron_chestplate"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/iron"
+    },
+    "start_item": {
+        "item": "minecraft:chainmail_chestplate"
+    },
+    "output": {
+        "item": "minecraft:iron_chestplate"
+  }
+}

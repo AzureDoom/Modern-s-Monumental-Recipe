@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:supremium_furnace"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "mysticalagriculture:supremium_block"
+    },
+    "start_item": {
+        "item": "mysticalagriculture:imperium_furnace"
+    },
+    "output": {
+        "item": "mysticalagriculture:supremium_furnace"
+  }
+}

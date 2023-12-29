@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:terrasteel_leggings"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "tag": "forge:ingots/terrasteel"
+    },
+    "start_item": {
+        "item": "minecraft:netherite_leggings"
+    },
+    "output": {
+        "item": "botania:terrasteel_leggings"
+  }
+}

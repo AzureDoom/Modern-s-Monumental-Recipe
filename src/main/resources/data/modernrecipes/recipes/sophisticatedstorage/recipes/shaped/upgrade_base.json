@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "sophisticatedstorage"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "sophisticatedstorage:upgrade_base"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "material_elements:leather_sheet"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "tag": "minecraft:planks"
+    },
+    "E": {
+      "tag": "forge:plates/steel"
+    },
+    "W": {
+      "item": "material_elements:leather_sheet"
+    }
+  },
+  "pattern": [
+    "GEG",
+    "EWE",
+    "GEG"
+  ],
+  "result": {
+    "item": "sophisticatedstorage:upgrade_base"
+  }
+}

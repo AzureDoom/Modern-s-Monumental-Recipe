@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "c": {
+      "item": "arsomega:magic_clay"
+    },
+    "g": {
+      "tag": "forge:dyes/green"
+    },
+    "n": {
+      "tag": "forge:nuggets/gold"
+    },
+    "r": {
+      "tag": "forge:dusts/glowstone"
+    }
+  },
+  "pattern": [
+    "ggg",
+    "crc",
+    "cnc"
+  ],
+  "result": {
+    "item": "scannable:blank_module"
+  }
+}

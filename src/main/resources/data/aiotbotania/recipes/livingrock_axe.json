@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aiotbotania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aiotbotania:livingrock_axe"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:livingrock"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:stone_axe"
+  },
+  "addition": {
+    "item": "botania:livingrock"
+  },
+  "result": {
+    "item": "aiotbotania:livingrock_axe"
+  }
+}

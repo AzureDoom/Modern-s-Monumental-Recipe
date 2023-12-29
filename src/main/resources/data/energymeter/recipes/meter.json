@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energymeter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "energymeter:meter"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "B": {
+      "item": "minecraft:comparator"
+    },
+    "C": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "D": {
+      "item": "create:display_board"
+    },
+    "E": {
+      "item": "minecraft:observer"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "result": {
+    "item": "energymeter:meter"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mysticalagriculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:tertium_shears"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:prudentium_shears"
+  },
+  "addition": {
+    "item": "mysticalagriculture:tertium_gemstone"
+  },
+  "result": {
+    "item": "mysticalagriculture:tertium_shears"
+  }
+}

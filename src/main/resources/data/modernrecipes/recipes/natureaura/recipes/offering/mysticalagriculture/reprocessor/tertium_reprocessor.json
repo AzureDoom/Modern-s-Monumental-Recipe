@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:tertium_reprocessor"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "mysticalagriculture:tertium_block"
+    },
+    "start_item": {
+        "item": "mysticalagriculture:prudentium_reprocessor"
+    },
+    "output": {
+        "item": "mysticalagriculture:tertium_reprocessor"
+  }
+}

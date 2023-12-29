@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_sa"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create_sa:brass_sword"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "tag": "forge:ingots/brass"
+  },
+  "result": {
+    "item": "create_sa:brass_sword"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forcecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forcecraft:force_bow"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:bow"
+  },
+  "addition": {
+    "item": "forcecraft:force_stick"
+  },
+  "result": {
+    "item": "forcecraft:force_bow"
+  }
+}

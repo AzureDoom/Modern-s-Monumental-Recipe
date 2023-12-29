@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagradditions:inferium_apple"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "minecraft:golden_apple"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagradditions:inferium_apple"
+    }
+  ]
+}

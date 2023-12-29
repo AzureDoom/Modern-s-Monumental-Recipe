@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:furnace_heater"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "l": {
+      "item": "immersiveengineering:coil_lv"
+    },
+    "c": {
+      "tag": "forge:plates/copper"
+    },
+    "i": {
+      "tag": "forge:plates/iron"
+    },
+    "r": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "pattern": [
+    "ici",
+    "clc",
+    "iri"
+  ],
+  "result": {
+    "item": "immersiveengineering:furnace_heater"
+  }
+}

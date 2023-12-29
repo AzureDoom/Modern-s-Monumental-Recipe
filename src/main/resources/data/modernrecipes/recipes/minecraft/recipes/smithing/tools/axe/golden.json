@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:golden_axe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "create_weaponry:iron_axe_head"
+  },
+  "addition": {
+    "tag": "forge:ingots/gold"
+  },
+  "result": {
+    "item": "minecraft:golden_axe"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bettershears3"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "bettershears3:diamond_shears"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "bettershears3:gold_shears"
+  },
+  "addition": {
+    "tag": "forge:storage_blocks/diamond"
+  },
+  "result": {
+    "item": "bettershears3:diamond_shears"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "prefab:item_sickle_diamond"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "prefab:item_sickle_gold"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "output": [
+    {
+      "item": "prefab:item_sickle_diamond"
+    }
+  ]
+}

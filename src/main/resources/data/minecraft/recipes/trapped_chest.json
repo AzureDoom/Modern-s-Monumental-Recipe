@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "A": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "###",
+    "A A",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:trapped_chest"
+  }
+}

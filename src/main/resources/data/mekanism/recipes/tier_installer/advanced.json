@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:advanced_tier_installer"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "mekanism:basic_tier_installer"
+    },
+    "B": {
+      "tag": "forge:circuits/advanced"
+    },
+    "C": {
+      "tag": "forge:gears/osmium"
+    },
+    "D": {
+      "tag": "mekanism:alloys/infused"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "CAC",
+    "DBD"
+  ],
+  "result": {
+    "item": "mekanism:advanced_tier_installer"
+  }
+}

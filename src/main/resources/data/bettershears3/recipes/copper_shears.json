@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bettershears3"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "bettershears3:copper_shears"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:shears"
+  },
+  "addition": {
+    "tag": "forge:ingots/copper"
+  },
+  "result": {
+    "item": "bettershears3:copper_shears"
+  }
+}

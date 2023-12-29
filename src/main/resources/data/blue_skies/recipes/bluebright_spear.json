@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blue_skies"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "blue_skies:bluebright_spear"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecolonies:spear"
+  },
+  "addition": {
+    "item": "blue_skies:bluebright_planks"
+  },
+  "result": {
+    "item": "blue_skies:bluebright_spear"
+  }
+}

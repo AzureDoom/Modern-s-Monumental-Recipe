@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:basin"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:plates/iron"
+    },
+    "B": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "pattern": [
+    "A A",
+    "BAB"
+  ],
+  "result": {
+    "item": "create:basin"
+  }
+}

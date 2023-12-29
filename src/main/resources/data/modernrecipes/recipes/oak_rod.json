@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "modernrecipes"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:oak_rod"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  a",
+    "ha ",
+    "   "
+  ],
+  "key": {
+    "h": {
+      "tag": "forge:tools/hammers"
+    },
+    "a": {
+      "tag": "forge:planks/oak"
+    }
+  },
+  "result": {
+    "item": "modernrecipes:oak_rod"
+  }
+} 

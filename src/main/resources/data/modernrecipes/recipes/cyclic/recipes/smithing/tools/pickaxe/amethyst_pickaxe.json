@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:amethyst_pickaxe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "tag": "forge:gems/amethyst"
+  },
+  "result": {
+    "item": "cyclic:amethyst_pickaxe"
+  }
+}

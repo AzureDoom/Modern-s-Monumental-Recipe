@@ -9,10 +9,7 @@
       "item": "ae2:certus_quartz_wrench"
     }
   ],
-  "type": "minecraft:smithing_transform",
-  "template": {
-    "tag": "forge:gems/certus_quartz"
-  },
+  "type": "minecraft:smithing",
   "base": {
     "item": "framedblocks:framed_wrench"
   },
@@ -20,7 +17,6 @@
     "tag": "forge:gems/certus_quartz"
   },
   "result": {
-    "item": "ae2:certus_quartz_wrench",
-    "count": 1
+    "item": "ae2:certus_quartz_wrench"
   }
 }

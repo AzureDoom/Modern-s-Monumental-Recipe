@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "Q": {
+      "tag": "forge:gems/quartz"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "pattern": [
+    "###",
+    "RRQ",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:observer"
+  }
+}

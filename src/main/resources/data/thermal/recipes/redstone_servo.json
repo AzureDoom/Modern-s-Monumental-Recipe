@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:redstone_servo"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "forge:gears/iron"
+    },
+    "R": {
+      "tag": "forge:plates/steel"
+    },
+    "E": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "W": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    "WRW",
+    "EIE",
+    "WRW"
+  ],
+  "result": {
+    "item": "thermal:redstone_servo"
+  }
+}

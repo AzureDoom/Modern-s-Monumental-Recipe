@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:sandstone_shovel"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:stone_shovel"
+  },
+  "addition": {
+    "tag": "forge:sandstone"
+  },
+  "result": {
+    "item": "cyclic:sandstone_shovel"
+  }
+}

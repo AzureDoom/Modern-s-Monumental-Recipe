@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:electric_bow"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:bow"
+    },
+    {
+      "item": "mekanism:energy_tablet"
+    }
+  ],
+  "output": [
+    {
+      "item": "mekanism:electric_bow"
+    }
+  ]
+}

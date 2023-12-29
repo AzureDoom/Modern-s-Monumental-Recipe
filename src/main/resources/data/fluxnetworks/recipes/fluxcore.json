@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "fluxnetworks:flux_core"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:obsidian"
+    },
+    {
+      "item": "fluxnetworks:flux_dust"
+    },
+    {
+      "tag": "modernrecipes:eyes"
+    }
+  ],
+  "results": [
+    {
+      "item": "fluxnetworks:flux_core",
+      "count": 2
+    }
+  ]
+}

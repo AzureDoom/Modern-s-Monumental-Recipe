@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "notenoughwands"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:moving_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "buildinggadgets:construction_paste"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "modernrecipes:conveyors"
+  },
+  "addition": {
+    "item": "notenoughwands:wand_core"
+  },
+  "result": {
+    "item": "notenoughwands:moving_wand"
+  }
+}

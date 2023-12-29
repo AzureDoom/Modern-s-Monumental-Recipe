@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:sandstone_hoe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:stone_hoe"
+  },
+  "addition": {
+    "tag": "forge:sandstone"
+  },
+  "result": {
+    "item": "cyclic:sandstone_hoe"
+  }
+}

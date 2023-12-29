@@ -6,13 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ad_astra:glacian_plating_pressure_plate"
+      "item": "ad_astra:glacian_pressure_plate"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "ad_astra:glacian_plating"
+      "item": "ad_astra:glacian_planks"
     },
     "B": {
       "tag": "forge:tools/hammers"
@@ -24,6 +24,6 @@
     " B "
   ],
   "result": {
-    "item": "ad_astra:glacian_plating_pressure_plate"
+    "item": "ad_astra:glacian_pressure_plate"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:millstone"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "tag": "forge:treated_wood"
+    },
+    "S": {
+      "item": "create:andesite_alloy"
+    },
+    "C": {
+      "item": "create:cogwheel"
+    },
+    "V": {
+      "tag": "forge:plates/iron"
+    }
+  },
+  "pattern": [
+    "VBV",
+    "SCS",
+    "VBV"
+  ],
+  "result": {
+    "item": "create:millstone"
+  }
+}

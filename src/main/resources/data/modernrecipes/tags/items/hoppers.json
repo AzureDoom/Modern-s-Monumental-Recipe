@@ -1,16 +1,14 @@
 {
   "values": [
-    //"littlelogistics:rapid_hopper",
-    //"littlelogistics:fluid_hopper"
-    //"naturesaura:grated_chute",
-    //"engineersdecor:factory_hopper",
     "minecraft:hopper",
+    "naturesaura:grated_chute",
     "pneumaticcraft:omnidirectional_hopper",
     "pneumaticcraft:liquid_hopper",
+    "engineersdecor:factory_hopper",
     "cyclic:hopper_fluid",
     "cyclic:hopper",
     "cyclic:hopper_gold",
-    "securitycraft:reinforced_hopper",
-    "toms_storage:ts.inventory_hopper_basic"
+    "littlelogistics:rapid_hopper",
+    "littlelogistics:fluid_hopper"
   ]
 }

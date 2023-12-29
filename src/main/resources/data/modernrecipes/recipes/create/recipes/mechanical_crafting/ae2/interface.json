@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:interface"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "B": {
+      "item": "ae2:quartz_glass"
+    },
+    "C": {
+      "item": "ae2:formation_core"
+    },
+    "D": {
+      "item": "ae2:annihilation_core"
+    }
+  },
+  "pattern": [
+    " ABA ",
+    " C D ",
+    " ABA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2:interface"
+  }
+}

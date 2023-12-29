@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:emerald_boots"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_boots"
+    },
+    {
+      "tag": "forge:gems/emerald"
+    }
+  ],
+  "output": [
+    {
+      "item": "cyclic:emerald_boots"
+    }
+  ]
+}

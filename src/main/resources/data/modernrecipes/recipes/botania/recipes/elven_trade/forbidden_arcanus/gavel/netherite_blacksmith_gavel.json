@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:netherite_blacksmith_gavel"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:deorum_blacksmith_gavel"
+    },
+    {
+      "tag": "forge:ingots/netherite"
+    }
+  ],
+  "output": [
+    {
+      "item": "forbidden_arcanus:netherite_blacksmith_gavel"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:depth_chest"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "naturesaura:depth_ingot"
+    },
+    "start_item": {
+        "item": "minecraft:diamond_chestplate"
+    },
+    "output": {
+        "item": "naturesaura:depth_chest"
+  }
+}

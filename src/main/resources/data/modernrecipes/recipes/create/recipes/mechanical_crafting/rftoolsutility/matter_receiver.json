@@ -1,0 +1,50 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsutility:matter_receiver"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:eye_redstone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_catalyst"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "o": {
+      "tag": "modernrecipes:eyes"
+    },
+    "F": {
+      "item": "rftoolsbase:machine_frame"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_catalyst"
+    },
+    "i": {
+      "tag": "forge:sheetmetals/steel"
+    },
+    "s": {
+      "item": "cyclic:eye_redstone"
+    }
+  },
+  "pattern": [
+    " iii ",
+    " rFr ",
+    " oso ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolsutility:matter_receiver"
+  }
+}

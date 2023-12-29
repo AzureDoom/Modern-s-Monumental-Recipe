@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:windmill"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "X": {
+      "tag": "forge:gears/iron"
+    },
+    "C": {
+      "item": "immersiveengineering:windmill_blade"
+    }
+  },
+  "pattern": [
+    " CCC ",
+    " CXC ",
+    " CCC ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "immersiveengineering:windmill"
+  }
+}

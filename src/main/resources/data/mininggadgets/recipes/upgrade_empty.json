@@ -1,0 +1,47 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mininggadgets:upgrade_empty"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:insulating_glass"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "P": {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    "B": {
+      "tag": "forge:gears/diamond"
+    },
+    "Q": {
+      "item": "immersiveengineering:insulating_glass"
+    },
+    "W": {
+      "tag": "forge:gems/lapis"
+    }
+  },
+  "pattern": [
+    " PWP ",
+    " QBQ ",
+    " PWP ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "mininggadgets:upgrade_empty"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:insulating_glass"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/green"
+    },
+    {
+      "tag": "forge:dusts/iron"
+    },
+    {
+      "tag": "forge:sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:insulating_glass",
+      "count": 2
+    }
+  ]
+}

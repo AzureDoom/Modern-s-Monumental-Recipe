@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:manasteel_pick"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_pickaxe"
+    },
+    {
+      "tag": "forge:ingots/manasteel"
+    }
+  ],
+  "output": [
+    {
+      "item": "botania:manasteel_pick"
+    }
+  ]
+}

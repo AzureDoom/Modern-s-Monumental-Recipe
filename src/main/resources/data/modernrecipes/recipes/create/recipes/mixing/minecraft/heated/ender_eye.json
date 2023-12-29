@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:ender_eye"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ender_pearls"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:ender_eye"
+    }
+  ]
+}

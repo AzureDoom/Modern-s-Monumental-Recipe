@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:rotary_condensentrator"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_glass"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "C": {
+      "tag": "forge:circuits/basic"
+    },
+    "T": {
+      "item": "mekanism:basic_chemical_tank"
+    },
+    "D": {
+      "item": "mekanism:basic_fluid_tank"
+    },
+    "E": {
+      "item": "mekanism:energy_tablet"
+    }
+  },
+  "pattern": [
+    "GCG",
+    "TED",
+    "GCG"
+  ],
+  "result": {
+    "item": "mekanism:rotary_condensentrator"
+  }
+}

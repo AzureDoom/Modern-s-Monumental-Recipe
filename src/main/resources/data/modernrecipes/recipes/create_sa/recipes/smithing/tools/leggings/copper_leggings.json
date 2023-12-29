@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_sa"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create_sa:copper_leggings"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_leggings"
+  },
+  "addition": {
+    "tag": "forge:ingots/copper"
+  },
+  "result": {
+    "item": "create_sa:copper_leggings"
+  }
+}

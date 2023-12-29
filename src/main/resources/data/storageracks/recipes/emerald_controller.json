@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "storageracks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "storageracks:emerald_controller"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "storageracks:gold_controller"
+    },
+    "L": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "LXL",
+    "LLL"
+  ],
+  "result": {
+    "item": "storageracks:emerald_controller",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blue_skies"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "blue_skies:maple_hoe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:wooden_hoe"
+  },
+  "addition": {
+    "item": "blue_skies:maple_planks"
+  },
+  "result": {
+    "item": "blue_skies:maple_hoe"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:upgrade_energy"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:quartz_glass"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "ae2:quartz_glass"
+    },
+    "B": {
+      "tag": "forge:dusts/gold"
+    },
+    "C": {
+      "tag": "mekanism:alloys/infused"
+    }
+  },
+  "pattern": [
+    " A ",
+    "CBC",
+    " A "
+  ],
+  "result": {
+    "item": "mekanism:upgrade_energy",
+    "count": 2
+  }
+}

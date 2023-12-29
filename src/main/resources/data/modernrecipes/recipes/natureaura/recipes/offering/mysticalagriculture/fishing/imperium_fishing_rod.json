@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:imperium_fishing_rod"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "mysticalagriculture:imperium_gemstone"
+    },
+    "start_item": {
+        "item": "mysticalagriculture:tertium_fishing_rod"
+    },
+    "output": {
+        "item": "mysticalagriculture:imperium_fishing_rod"
+  }
+}

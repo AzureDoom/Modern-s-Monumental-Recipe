@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "naturesaura"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "constructionwand:iron_wand"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "notenoughwands:wand_core"
+    }
+  ],
+  "type": "naturesaura:offering",
+    "input": {
+        "item": "notenoughwands:wand_core"
+    },
+    "start_item": {
+        "item": "constructionwand:stone_wand"
+    },
+    "output": {
+        "item": "constructionwand:iron_wand"
+  }
+}

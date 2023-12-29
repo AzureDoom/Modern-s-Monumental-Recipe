@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:inferium_sword"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_sword"
+    },
+    {
+      "item": "mysticalagriculture:inferium_gemstone"
+    }
+  ],
+  "output": [
+    {
+      "item": "mysticalagriculture:inferium_sword"
+    }
+  ]
+}

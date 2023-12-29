@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blue_skies"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "blue_skies:lunar_stone_pickaxe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:stone_pickaxe"
+  },
+  "addition": {
+    "item": "blue_skies:lunar_cobblestone"
+  },
+  "result": {
+    "item": "blue_skies:lunar_stone_pickaxe"
+  }
+}

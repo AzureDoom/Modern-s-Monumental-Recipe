@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolspower:cell2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "K": {
+      "item": "rftoolspower:power_core2"
+    },
+    "P": {
+      "item": "rftoolspower:cell1"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    " rKr ",
+    " KPK ",
+    " rKr ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "rftoolspower:cell2"
+  }
+}

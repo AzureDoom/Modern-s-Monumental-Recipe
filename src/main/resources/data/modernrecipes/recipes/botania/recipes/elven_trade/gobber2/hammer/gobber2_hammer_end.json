@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_hammer_end"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "hexerei:warhammer"
+    },
+    {
+      "tag": "forge:ingots/gobber_end"
+    }
+  ],
+  "output": [
+    {
+      "item": "gobber2:gobber2_hammer_end"
+    }
+  ]
+}

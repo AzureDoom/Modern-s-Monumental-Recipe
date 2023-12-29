@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:prudentium_essence"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "matc:prudentium_crystal",
+      "data": 32767
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:tertium_essence",
+      "count": 2
+    }
+  ]
+}

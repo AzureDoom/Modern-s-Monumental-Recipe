@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blue_skies"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "blue_skies:aquite_boots"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_boots"
+  },
+  "addition": {
+    "tag": "blue_skies:gems/aquite"
+  },
+  "result": {
+    "item": "blue_skies:aquite_boots"
+  }
+}

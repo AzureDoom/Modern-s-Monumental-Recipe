@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "computercraft:turtle_normal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:reinforced_crate"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:plates/steel"
+    },
+    "B": {
+      "item": "computercraft:computer_normal"
+    },
+    "C": {
+      "item": "immersiveengineering:reinforced_crate"
+    }
+  },
+  "result": {
+    "item": "computercraft:turtle_normal"
+  }
+}

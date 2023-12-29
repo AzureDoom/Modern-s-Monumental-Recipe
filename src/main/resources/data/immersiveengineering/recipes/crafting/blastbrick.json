@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:blastbrick"
+    }
+  ],
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:cokebrick"
+    },
+    {
+      "tag": "forge:netherbricks/red"
+    },
+    {
+      "tag": "forge:magma"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:blastbrick",
+      "count": 2
+    }
+  ]
+}

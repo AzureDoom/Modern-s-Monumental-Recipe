@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:crusher"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "B": {
+      "tag": "forge:circuits/basic"
+    },
+    "C": {
+      "item": "mekanism:steel_casing"
+    },
+    "D": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "DCD",
+    "ABA"
+  ],
+  "result": {
+    "item": "mekanism:crusher"
+  }
+}

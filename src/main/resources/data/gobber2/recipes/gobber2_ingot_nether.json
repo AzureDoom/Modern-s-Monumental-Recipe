@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "gobber2:gobber2_ingot_nether"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "gobber2:gobber2_glob_nether"
+    },
+    {
+      "item": "gobber2:gobber2_ingot"
+    },
+    {
+      "item": "gobber2:gobber2_ingot"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "results": [
+    {
+      "item": "gobber2:gobber2_ingot_nether"
+    }
+  ]
+}

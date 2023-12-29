@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mekanism:advanced_energy_cube"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "mekanism:basic_energy_cube"
+    },
+    "B": {
+      "item": "mekanism:energy_tablet"
+    },
+    "C": {
+      "tag": "forge:plates/osmium"
+    },
+    "D": {
+      "tag": "mekanism:alloys/infused"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "CAC",
+    "DBD"
+  ],
+  "result": {
+    "item": "mekanism:advanced_energy_cube"
+  }
+}

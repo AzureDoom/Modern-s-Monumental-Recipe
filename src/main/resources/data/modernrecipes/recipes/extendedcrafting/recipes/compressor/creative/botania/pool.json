@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:creative_pool"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:fabulous_pool"
+    }
+  ],
+  "type": "extendedcrafting:compressor",
+  "powerCost": 500000,
+  "inputCount": 10000,
+  "ingredient": {
+    "item": "botania:fabulous_pool"
+  },
+  "catalyst": {
+    "item": "extendedcrafting:the_ultimate_catalyst"
+  },
+  "result": {
+    "item": "botania:creative_pool"
+  }
+}

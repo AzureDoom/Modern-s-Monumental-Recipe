@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "greater_eye:greater_eye_nether"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "greater_eye:greater_eye"
+    },
+    {
+      "tag": "forge:gems/quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "greater_eye:greater_eye_nether"
+    }
+  ]
+}

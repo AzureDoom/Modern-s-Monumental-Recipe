@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:machine_brewer"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "engineersdecor:small_freezer"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "C": {
+      "item": "thermal:machine_frame"
+    },
+    "I": {
+      "tag": "forge:gears/constantan"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "minecraft:brewing_stand"
+    },
+    "Y": {
+      "tag": "thermal:glass/hardened"
+    }
+  },
+  "pattern": [
+    " XXX ",
+    " YCY ",
+    " IPI ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "thermal:machine_brewer"
+  }
+}

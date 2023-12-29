@@ -1,0 +1,50 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:inscriber"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:upgrade_augment_3"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "tag": "forge:plates/enderium"
+    },
+    "B": {
+      "tag": "modernrecipes:piston"
+    },
+    "C": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "D": {
+      "item": "thermal:upgrade_augment_3"
+    },
+    "E": {
+      "tag": "forge:gems/fluix"
+    }
+  },
+  "pattern": [
+    " ABA ",
+    " CDC ",
+    " AEA ",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2:inscriber"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:reinforced_deorum_hoe"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_hoe"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_stick"
+    }
+  ],
+  "output": [
+    {
+      "item": "forbidden_arcanus:reinforced_deorum_hoe"
+    }
+  ]
+}

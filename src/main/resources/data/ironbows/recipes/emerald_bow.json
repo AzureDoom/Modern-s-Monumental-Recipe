@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ironbows"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ironbows:emerald_bow"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:bow"
+  },
+  "addition": {
+    "tag": "forge:gems/emerald"
+  },
+  "result": {
+    "item": "ironbows:emerald_bow"
+  }
+}

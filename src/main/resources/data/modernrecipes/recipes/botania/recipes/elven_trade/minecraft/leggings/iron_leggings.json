@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:iron_leggings"
+    }
+  ],
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "minecraft:chainmail_leggings"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "output": [
+    {
+      "item": "minecraft:iron_leggings"
+    }
+  ]
+}

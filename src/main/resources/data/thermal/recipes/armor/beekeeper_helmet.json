@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "thermal:beekeeper_helmet"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:leather_helmet"
+  },
+  "addition": {
+    "item": "thermal:beekeeper_fabric"
+  },
+  "result": {
+    "item": "thermal:beekeeper_helmet"
+  }
+}
