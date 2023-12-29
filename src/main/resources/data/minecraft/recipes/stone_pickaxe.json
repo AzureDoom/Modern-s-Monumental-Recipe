@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    "S": {
+      "tag": "minecraft:wooden_pickaxe"
+    }
+  },
+  "pattern": [
+    "XSX",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:stone_pickaxe"
+  },
+  "show_notification": true
+}
