@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "#": {
-      "tag": "minecraft:stone_tool_materials"
+      "item": "modernrecipes:stone_rod"
     },
     "X": {
       "item": "minecraft:wooden_shovel"
