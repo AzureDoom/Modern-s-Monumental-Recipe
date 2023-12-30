@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:rods/gold"
+    },
+    "X": {
+      "tag": "forge:ingots/gold"
+    },
+    "S": {
+      "item": "minecraft:iron_axe"
+    }
+  },
+  "pattern": [
+    "XS",
+    "X#",
+    " #"
+  ],
+  "result": {
+    "item": "minecraft:golden_axe"
+  },
+  "show_notification": true
+}
