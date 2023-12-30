@@ -3,22 +3,19 @@
   "category": "equipment",
   "key": {
     "#": {
-      "item": "modernrecipes:stone_rod"
-    },
-    "X": {
       "tag": "minecraft:stone_tool_materials"
     },
-    "S": {
-      "item": "minecraft:wooden_pickaxe"
+    "X": {
+      "item": "minecraft:wooden_shovel"
     }
   },
   "pattern": [
-    "XSX",
-    " # ",
-    " # "
+    "X",
+    "#",
+    "#"
   ],
   "result": {
-    "item": "minecraft:stone_pickaxe"
+    "item": "minecraft:stone_shovel"
   },
   "show_notification": true
 }

@@ -9,16 +9,16 @@
       "tag": "minecraft:stone_tool_materials"
     },
     "S": {
-      "item": "minecraft:wooden_pickaxe"
+      "item": "minecraft:wooden_sword"
     }
   },
   "pattern": [
-    "XSX",
-    " # ",
-    " # "
+    "S",
+    "X",
+    "#"
   ],
   "result": {
-    "item": "minecraft:stone_pickaxe"
+    "item": "minecraft:stone_sword"
   },
   "show_notification": true
 }
