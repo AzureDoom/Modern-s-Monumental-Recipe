@@ -1,13 +1,7 @@
 {
   "replace": false,
   "values": [
-    "immersiveengineering:craftingtable",
-    "blue_skies:bluebright_crafting_table",
-    "blue_skies:starlit_crafting_table",
-    "blue_skies:frostbright_crafting_table",
-    "blue_skies:lunar_crafting_table",
-    "blue_skies:dusk_crafting_table",
-    "blue_skies:maple_crafting_table",
-    "blue_skies:cherry_crafting_table"
+    "#blue_skies:crafting_tables",
+    "cyclic:workbench"
   ]
 }
