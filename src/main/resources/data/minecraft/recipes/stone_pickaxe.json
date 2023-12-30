@@ -9,7 +9,7 @@
       "tag": "minecraft:stone_tool_materials"
     },
     "S": {
-      "tag": "minecraft:wooden_pickaxe"
+      "item": "minecraft:wooden_pickaxe"
     }
   },
   "pattern": [
