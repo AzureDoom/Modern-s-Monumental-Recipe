@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:rods/diamond"
+    },
+    "X": {
+      "tag": "forge:gems/diamond"
+    },
+    "S": {
+      "item": "minecraft:golden_axe"
+    }
+  },
+  "pattern": [
+    "XS",
+    "X#",
+    " #"
+  ],
+  "result": {
+    "item": "minecraft:diamond_axe"
+  },
+  "show_notification": true
+}
