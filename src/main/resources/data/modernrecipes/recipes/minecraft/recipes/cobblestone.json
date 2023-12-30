@@ -7,10 +7,10 @@
   
   "key": {
     "S": {
-      "tag": "forge:buckets/water"
+      "item": "minecraft:water_bucket"
     },
     "A": {
-      "tag": "forge:buckets/lava"
+      "item": "minecraft:lava_bucket"
     }    
   },
   
