@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:rods/iron"
+    },
+    "X": {
+      "tag": "forge:ingots/iron"
+    },
+    "S": {
+      "item": "minecraft:stone_hoe"
+    }
+  },
+  "pattern": [
+    "XS",
+    " #",
+    " #"
+  ],
+  "result": {
+    "item": "minecraft:iron_hoe"
+  },
+  "show_notification": true
+}
