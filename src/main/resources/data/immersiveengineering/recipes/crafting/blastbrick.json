@@ -19,7 +19,7 @@
       "tag": "forge:netherbricks/red"
     },
     {
-      "item": "minecraft:magma_block"
+      "tag": "forge:magma"
     }
   ],
   "results": [
