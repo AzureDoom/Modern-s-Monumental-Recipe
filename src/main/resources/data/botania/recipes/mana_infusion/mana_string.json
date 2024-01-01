@@ -1,0 +1,10 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "bloodmagic:soulsnare"
+  },
+  "mana": 1250,
+  "output": {
+    "item": "botania:mana_string"
+  }
+}
