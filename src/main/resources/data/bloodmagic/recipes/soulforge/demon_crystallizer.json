@@ -1,0 +1,20 @@
+{
+  "type": "bloodmagic:soulforge",
+  "drain": 100.0,
+  "input0": {
+    "item": "bloodmagic:soulforge"
+  },
+  "input1": {
+    "item": "forbidden_arcanus:rune"
+  },
+  "input2": {
+    "tag": "forge:gems/lapis"
+  },
+  "input3": {
+    "item": "botania:mana_glass"
+  },
+  "minimumDrain": 500.0,
+  "output": {
+    "item": "bloodmagic:demoncrystallizer"
+  }
+}
