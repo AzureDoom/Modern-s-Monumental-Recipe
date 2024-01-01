@@ -5,13 +5,13 @@
     "tag": "modernrecipes:cauldrons"
   },
   "input1": {
-    "tag": "forge:stone"
+    "item": "forbidden_arcanus:rune"
   },
   "input2": {
     "tag": "forge:gems/lapis"
   },
   "input3": {
-    "tag": "forge:gems/diamond"
+    "tag": "forge:gems/mana_diamond"
   },
   "minimumDrain": 400.0,
   "output": {
