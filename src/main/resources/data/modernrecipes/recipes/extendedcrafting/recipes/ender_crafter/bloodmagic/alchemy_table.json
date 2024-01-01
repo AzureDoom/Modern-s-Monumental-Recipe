@@ -1,0 +1,28 @@
+{
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "key": {
+    "b": {
+      "item": "forbidden_arcanus:purifying_soap"
+    },
+    "g": {
+      "item": "naturesaura:tainted_gold"
+    },
+    "o": {
+      "item": "bloodmagic:blankslate"
+    },
+    "s": {
+      "item": "bloodmagic:stonetilepath"
+    },
+    "w": {
+      "tag": "botania:livingwood_logs"
+    }
+  },
+  "pattern": [
+    "sss",
+    "wbw",
+    "gog"
+  ],
+  "result": {
+    "item": "bloodmagic:alchemytable"
+  }
+}
