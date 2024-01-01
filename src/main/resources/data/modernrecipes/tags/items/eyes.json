@@ -1,14 +1,9 @@
 {
   "values": [
-    "greater_eye:greater_eye",
-    "greater_eye:greater_eye_nether",
-    "greater_eye:greater_eye_end",
     "botania:third_eye",
     "minecraft:ender_eye",
     "reliquary:salamander_eye",
     "cyclic:ender_eye_reuse",
-    "upgrade_aquatic:elder_eye",
-    "stevescarts:component_eye_of_galgador",
     "enigmaticlegacy:extradimensional_eye"
   ]
 }
