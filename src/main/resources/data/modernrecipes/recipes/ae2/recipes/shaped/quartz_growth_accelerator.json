@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:quartz_growth_accelerator"
+      "item": "ae2:growth_accelerator"
     },
     {
       "type": "forge:item_exists",
@@ -34,6 +34,6 @@
     "aba"
   ],
   "result": {
-    "item": "ae2:quartz_growth_accelerator"
+    "item": "ae2:growth_accelerator"
   }
 }
