@@ -1,0 +1,28 @@
+{
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "key": {
+    "b": {
+      "item": "bloodmagic:masterbloodorb"
+    },
+    "g": {
+      "item": "bloodmagic:infusedslate"
+    },
+    "o": {
+      "tag": "forge:furnace"
+    },
+    "s": {
+      "item": "bloodmagic:stonetilepath"
+    },
+    "w": {
+      "tag": "forge:storage_blocks/iron"
+    }
+  },
+  "pattern": [
+    "sss",
+    "wbw",
+    "gog"
+  ],
+  "result": {
+    "item": "bloodmagic:alchemicalreactionchamber"
+  }
+}
