@@ -19,7 +19,7 @@
       "tag": "forge:gears/lapis"
     },
     "q": {
-      "tag": "forge:sheetmetals/steel"
+      "item": "createdeco:industrial_iron_sheet_metal"
     },
     "r": {
       "tag": "forge:sheetmetals/electrum"
