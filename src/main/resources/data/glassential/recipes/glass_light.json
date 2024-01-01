@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "prefab:block_compressed_glowstone"
+      "item": "securitycraft:reinforced_glowstone"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -19,7 +19,7 @@
       "tag": "forge:glass"
     },
     "B": {
-      "item": "prefab:block_compressed_glowstone"
+      "item": "securitycraft:reinforced_glowstone"
     }
   },
   "pattern": [
