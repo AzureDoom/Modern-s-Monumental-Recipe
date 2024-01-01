@@ -19,13 +19,13 @@
       "tag": "forge:ingots/gold"
     },
     {
-      "tag": "forge:charcoal"
+      "item": "minecraft:charcoal"
     },
     {
-      "tag": "forge:charcoal"
+      "item": "minecraft:charcoal"
     },
     {
-      "tag": "forge:charcoal"
+      "item": "minecraft:charcoal"
     },
     {
       "item": "forbidden_arcanus:mundabitur_dust"
@@ -34,7 +34,7 @@
       "tag": "forge:dusts/arcane_crystal"
     },
     {
-      "tag": "forge:charcoal"
+      "item": "minecraft:charcoal"
     }
   ],
   "results": [
