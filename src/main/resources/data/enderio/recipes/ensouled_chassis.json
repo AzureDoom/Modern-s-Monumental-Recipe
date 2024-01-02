@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "enderio:soul_chain"
+    },
+    "I": {
+      "tag": "forge:ingots/soularium"
+    },
+    "Q": {
+      "item": "occultism:soul_gem"
+    }
+  },
+  "pattern": [
+    "CIC",
+    "IQI",
+    "CIC"
+  ],
+  "result": {
+    "item": "enderio:ensouled_chassis"
+  },
+  "show_notification": true
+}
