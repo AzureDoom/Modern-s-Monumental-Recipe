@@ -11,7 +11,7 @@
       "item": "minecraft:red_carpet"
     },
     "b": {
-      "tag": "redstonepen:pen"
+      "item": "redstonepen:pen"
     },
     "c": {
       "item": "naturesaura:ancient_planks"
