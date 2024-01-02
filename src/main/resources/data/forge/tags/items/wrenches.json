@@ -1,21 +1,5 @@
 {
   "values": [
-    "refinedstorage:wrench",
-    "create:wrench",
-    "supplementaries:wrench",
-    "ad_astra:wrench",
-    "additionaladditions:wrench",
-    "ae2:certus_quartz_wrench",
-    "ae2:nether_quartz_wrench",
-    "cyclic:cable_wrench",
-    "enderio:yeta_wrench",
-    "essentials:wrench",
-    "essentials:circuit_wrench",
-    "bigreactors:wrench",
-    "forcecraft:force_wrench",
-    "framedblocks:framed_wrench",
-    "littlelogistics:conductors_wrench",
-    "platforms:wrench",
-    "rftoolsbase:smartwrench"
+    "create:wrench"
   ]
 }
