@@ -2,6 +2,9 @@
   "replace": false,
   "values": [
     "#blue_skies:crafting_tables",
-    "cyclic:workbench"
+    "cyclic:workbench",
+    "eidolon:workbench",
+    "immersiveengineering:workbench",
+    "thermal:tinker_bench"
   ]
 }
