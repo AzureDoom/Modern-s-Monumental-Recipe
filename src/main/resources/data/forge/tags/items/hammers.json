@@ -2,14 +2,11 @@
   "values": [
     "ad_astra:hammer",
     "framedblocks:framed_hammer",
-    "alltheores:copper_ore_hammer",
-    "alltheores:iron_ore_hammer",
-    "alltheores:bronze_ore_hammer",
-    "alltheores:invar_ore_hammer",
-    "alltheores:platinum_ore_hammer",
+    "#alltheores:ore_hammers",
     "doom:sentinelhammer",
     "mcwroofs:roofing_hammer",
     "mcwwindows:hammer",
-    "mutantmonsters:hulk_hammer"
+    "mutantmonsters:hulk_hammer",
+    "#immersiveengineering:tools/hammers"
   ]
 }
