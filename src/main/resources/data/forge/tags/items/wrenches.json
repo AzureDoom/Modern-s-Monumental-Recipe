@@ -1,12 +1,12 @@
 {
   "values": [
     "refinedstorage:wrench",
-    "chiselsandbits:wrench",
     "create:wrench",
     "supplementaries:wrench",
     "ad_astra:wrench",
     "additionaladditions:wrench",
-    "#ae2:quartz_wrench",
+    "ae2:certus_quartz_wrench",
+    "ae2:nether_quartz_wrench",
     "cyclic:cable_wrench",
     "enderio:yeta_wrench",
     "essentials:wrench",
