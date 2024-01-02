@@ -25,6 +25,8 @@
     "mysticalagriculture:supremium_furnace",
     "mysticalagriculture:awakened_supremium_furnace",
     "#forcecraft:force_furnace",
-    "nethersdelight:blackstone_furnace"
+    "nethersdelight:blackstone_furnace",
+    "industrialforegoing:resourceful_furnace",
+    "industrialforegoing:mycelial_furnace"
   ]
 }
