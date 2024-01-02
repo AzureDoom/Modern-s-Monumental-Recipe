@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "eidolon",
+  "pattern": [
+    "yyy",
+    "xwx",
+    "zzz"
+  ],
+  "key": {
+    "w": {
+      "item": "naturesaura:wood_stand"
+    },
+    "x": {
+      "tag": "forge:ingots/pewter"
+    },
+    "y": {
+      "item": "minecraft:purple_carpet"
+    },
+    "z": {
+      "item": "naturesaura:ancient_planks"
+    }
+  },
+  "result": {
+    "item": "eidolon:worktable"
+  }
+}
