@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "graveyard:dark_iron_bars"
+    },
+    "G": {
+      "tag": "forge:dusts/grains_of_infinity"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "pattern": [
+    "BIB",
+    "IGI",
+    "BIB"
+  ],
+  "result": {
+    "item": "enderio:void_chassis"
+  },
+  "show_notification": true
+}
