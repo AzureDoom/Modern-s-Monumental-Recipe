@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "blue_skies:midnight_sandstone",
+      "required": false
+    },
+    {
+      "id": "blue_skies:midnight_sandstone_pillar",
+      "required": false
+    },
+    {
+      "id": "blue_skies:chiseled_midnight_sandstone",
+      "required": false
+    },
+    {
+      "id": "blue_skies:smooth_midnight_sandstone",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cut_midnight_sandstone",
+      "required": false
+    }
+  ]
+}
