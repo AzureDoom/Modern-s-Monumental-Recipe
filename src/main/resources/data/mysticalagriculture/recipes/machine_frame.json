@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "IRI",
+    "RSR",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "S": {
+      "item": "bloodmagic:stonebrickpath"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:machine_frame"
+  }
+}
