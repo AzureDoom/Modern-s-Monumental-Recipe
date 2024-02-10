@@ -1,2 +1,2 @@
-v0.74
-- Recipe Refactor, Just updates/improvements
+v0.75
+- Removed Natura's Aura Tool System as Mod Dev wont fix tag issue in 1.19.2
