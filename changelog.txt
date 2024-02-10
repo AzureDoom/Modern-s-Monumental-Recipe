@@ -1,2 +1,4 @@
-v0.75
-- Removed Natura's Aura Tool System as Mod Dev wont fix tag issue in 1.19.2
+v0.76
+- Fixed Broken Cyclic Crystal Boots Smithing Table Recipe
+- Fixed Broken Netherite Tools/Armor Smithing Table Recipes using Blocks instead of Ingots
+- Fixed Broken Netherite Sword Botania Elven Trade Recipe using Diamond Shovel instead  of Sword
