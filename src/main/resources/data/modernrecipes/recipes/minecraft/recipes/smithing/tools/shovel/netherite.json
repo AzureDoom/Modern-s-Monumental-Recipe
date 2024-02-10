@@ -14,7 +14,7 @@
     "item": "create_weaponry:diamond_shovel_head"
   },
   "addition": {
-    "tag": "forge:storage_blocks/netherite"
+    "tag": "forge:ingots/netherite"
   },
   "result": {
     "item": "minecraft:netherite_shovel"
