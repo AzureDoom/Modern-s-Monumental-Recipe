@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecraft:diamond_shovel"
+      "item": "minecraft:diamond_sword"
     },
     {
       "tag": "forge:ingots/netherite"
