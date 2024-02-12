@@ -1,0 +1,31 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "reliquary:mob_drops_craftable"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "G": {
+            "tag": "forge:ingots/gold"
+          },
+          "M": {
+            "item": "minecraft:magma_block"
+          }
+        },
+        "pattern": [
+          "GGG",
+          "GMG",
+          "GGG"
+        ],
+        "result": {
+          "item": "reliquary:molten_core"
+        }
+      }
+    }
+  ]
+}
