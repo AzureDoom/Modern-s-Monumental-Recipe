@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "reliquary:fertile_essence"
+    },
+    "N": {
+      "tag": "forge:nether_stars"
+    },
+    "R": {
+      "tag": "minecraft:flowers"
+    }
+  },
+  "pattern": [
+    "FNF",
+    "NRN",
+    "FNF"
+  ],
+  "result": {
+    "item": "reliquary:witherless_rose"
+  }
+}
