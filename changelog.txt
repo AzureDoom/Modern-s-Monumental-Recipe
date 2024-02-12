@@ -1,4 +1,2 @@
-v0.76
-- Fixed Broken Cyclic Crystal Boots Smithing Table Recipe
-- Fixed Broken Netherite Tools/Armor Smithing Table Recipes using Blocks instead of Ingots
-- Fixed Broken Netherite Sword Botania Elven Trade Recipe using Diamond Shovel instead  of Sword
+v0.77
+- Added Reliquary Custom Recipes, This means the mob drop items have recipes now
