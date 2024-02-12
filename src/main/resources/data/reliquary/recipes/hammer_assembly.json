@@ -1,0 +1,37 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "reliquary:handgun_enabled"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "B": {
+            "tag": "minecraft:buttons"
+          },
+          "I": {
+            "tag": "forge:ingots/compressed_iron"
+          },
+          "M": {
+            "item": "reliquary:molten_core"
+          },
+          "R": {
+            "tag": "forge:rods/blaze"
+          }
+        },
+        "pattern": [
+          "IIB",
+          "RMI",
+          "III"
+        ],
+        "result": {
+          "item": "reliquary:hammer_assembly"
+        }
+      }
+    }
+  ]
+}
