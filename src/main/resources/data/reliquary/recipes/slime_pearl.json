@@ -1,0 +1,31 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "reliquary:mob_drops_craftable"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "I": {
+            "tag": "forge:ingots/compressed_iron"
+          },
+          "S": {
+            "tag": "forge:slimeballs"
+          }
+        },
+        "pattern": [
+          "III",
+          "ISI",
+          "III"
+        ],
+        "result": {
+          "item": "reliquary:slime_pearl"
+        }
+      }
+    }
+  ]
+}
