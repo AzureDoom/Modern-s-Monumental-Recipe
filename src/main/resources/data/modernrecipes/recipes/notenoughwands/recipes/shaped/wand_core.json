@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "gobber2:gobber2_rod"
+      "item": "forcecraft:force_rod"
     }
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "X": {
-      "item": "gobber2:gobber2_rod"
+      "item": "forcecraft:force_rod"
     },
     "n": {
       "tag": "forge:plates/gold"
