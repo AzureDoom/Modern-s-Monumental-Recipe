@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "tag": "forge:buckets/water"
+    },
+    "D": {
+      "tag": "forge:dusts/glowstone"
+    },
+    "G": {
+      "tag": "forge:glass_panes"
+    },
+    "N": {
+      "tag": "forge:crops/nether_wart"
+    },
+    "P": {
+      "tag": "forge:gunpowder"
+    }
+  },
+  "pattern": [
+    "GBG",
+    "GDG",
+    "NGP"
+  ],
+  "result": {
+    "item": "reliquary:glowing_water"
+  }
+}
