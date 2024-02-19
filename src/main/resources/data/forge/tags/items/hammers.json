@@ -2,6 +2,9 @@
   "values": [
     "#alltheores:ore_hammers",
     "blue_skies:crushing_hammer",
+    "doom:sentinelhammer",
+    "framedblocks:framed_hammer",
+    "handcrafted:hammer",
     "mcwroofs:roofing_hammer",
     "mcwwindows:hammer"
   ]
