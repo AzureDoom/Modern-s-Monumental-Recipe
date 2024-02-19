@@ -1,3 +1,6 @@
 v0.8
 
 - Updated Forge version
+- Fixed Broken Chest Tag
+- Removed Corail WoodCutter support, as the mod has been replaced in Monumental
+- Fixed More Broken Tags
