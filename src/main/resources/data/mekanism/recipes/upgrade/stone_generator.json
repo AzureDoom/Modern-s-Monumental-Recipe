@@ -22,10 +22,10 @@
       "tag": "mekanism:alloys/infused"
     },
     "C": {
-      "tag": "forge:buckets/water"
+      "tag": "forge:water"
     },
     "D": {
-      "tag": "forge:buckets/lava"
+      "item": "minecraft:lava_bucket"
     }
   },
   "pattern": [
