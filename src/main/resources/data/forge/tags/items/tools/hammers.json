@@ -1,13 +1,5 @@
 {
   "values": [
-    "#alltheores:ore_hammers",
-    "blue_skies:crushing_hammer",
-    "doom:sentinelhammer",
-    "framedblocks:framed_hammer",
-    "handcrafted:hammer",
-    "#immersiveengineering:tools/hammers"
-    "mcwroofs:roofing_hammer",
-    "mcwwindows:hammer",
-    "mutantmonsters:hulk_hammer"
+    "#alltheores:ore_hammers"
   ]
 }
