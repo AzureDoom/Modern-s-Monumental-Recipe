@@ -20,7 +20,7 @@
       "tag": "forge:tools/hammers"
     },
     "a": {
-      "tag": "forge:planks/acacia"
+      "item": "minecraft:acacia_plank"
     }
   },
   "result": {
