@@ -1,5 +1,8 @@
 {
   "values": [
-    "#alltheores:ore_hammers"
+    "#alltheores:ore_hammers",
+    "blue_skies:crushing_hammer",
+    "mcwroofs:roofing_hammer",
+    "mcwwindows:hammer"
   ]
 }
