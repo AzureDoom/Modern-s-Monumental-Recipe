@@ -16,7 +16,7 @@
       "item": "minecraft:light_gray_concrete_powder"
     },
     {
-      "item": "buildinggadgets:construction_block_powder"
+      "tag": "forge:paper"
     },
     {
       "fluid": "minecraft:water",
