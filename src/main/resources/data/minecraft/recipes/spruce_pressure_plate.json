@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "forge:planks/spruce"
+      "item": "minecraft:spruce_planks"
     },
     "B": {
       "tag": "forge:tools/hammers"
