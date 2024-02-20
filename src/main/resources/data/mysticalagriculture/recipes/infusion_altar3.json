@@ -22,17 +22,20 @@
       "tag": "forge:ingots/obsidian"
     },
     {
-      "item": "botania:livingrock"
+      "tag": "botania:livingwood_logs"
     },
     {
-      "item": "botania:livingrock"
+      "tag": "botania:livingwood_logs"
     },
     {
-      "item": "botania:livingrock"
+      "tag": "botania:livingwood_logs"
     },
     {
       "tag": "forge:ingots/obsidian"
     },
+    {
+      "item": "forbidden_arcanus:corrupti_dust"
+    }
   ],
   "results": [
     {
