@@ -25,7 +25,7 @@
       "item": "immersiveengineering:hemp_fiber"
     },
     {
-      "item": "botania:spell_cloth"
+      "tag": "modernrecipes:cloth"
     },
     {
       "type": "pneumaticcraft:stacked_item",
