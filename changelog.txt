@@ -1,5 +1,3 @@
-v0.9
+v0.10
 
-- Fixed Broken Recipes
-- Ported Cloth Tag from 1.19.2
-- Updated processor Binding Recipe
+- Fixed More Broken Recipes
