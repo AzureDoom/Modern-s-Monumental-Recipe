@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mysticalagriculture:infusion_pedestal"
+      "item": "mysticalagriculture:infusion_altar"
     }
   ],
   "type": "create:mixing",
@@ -39,7 +39,7 @@
   ],
   "results": [
     {
-      "item": "mysticalagriculture:infusion_pedestal"
+      "item": "mysticalagriculture:infusion_altar"
     }
   ]
 }
