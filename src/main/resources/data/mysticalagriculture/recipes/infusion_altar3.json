@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mysticalagriculture:infusion_pedestal"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/obsidian"
+    },
+    {
+      "item": "forbidden_arcanus:corrupti_dust"
+    },
+    {
+      "tag": "forge:ingots/obsidian"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "tag": "forge:ingots/obsidian"
+    },
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:infusion_pedestal"
+    }
+  ]
+}
