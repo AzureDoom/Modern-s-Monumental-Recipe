@@ -19,6 +19,8 @@
     "material_elements:cloth_red",
     "material_elements:cloth_black",
     "forbidden_arcanus:cloth",
-    "botania:manaweave_cloth"
+    "eidolon:tattered_cloth",
+    "botania:manaweave_cloth",
+    "botania:spell_cloth"
   ]
 }
