@@ -1,6 +1,5 @@
-v0.8
+v0.9
 
-- Updated Forge version
-- Fixed Broken Chest Tag
-- Removed Corail WoodCutter support, as the mod has been replaced in Monumental
-- Fixed More Broken Tags
+- Fixed Broken Recipes
+- Ported Cloth Tag from 1.19.2
+- Updated processor Binding Recipe
