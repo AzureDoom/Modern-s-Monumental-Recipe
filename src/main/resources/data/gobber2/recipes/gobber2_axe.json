@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "gobber2:gobber2_axe"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
