@@ -9,7 +9,7 @@
       "item": "gobber2:gobber2_hoe_end"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_hoe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "gobber2:gobber2_hoe_end"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
