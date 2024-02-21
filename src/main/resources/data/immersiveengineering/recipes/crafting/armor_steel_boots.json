@@ -6,18 +6,18 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_legs"
+      "item": "immersiveengineering:armor_steel_boots"
     }
   ],
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "minecraft:iron_leggings"
+    "item": "minecraft:iron_boots"
   },
   "addition": {
     "tag": "forge:plates/steel"
   },
   "result": {
-    "item": "immersiveengineering:armor_steel_legs"
+    "item": "immersiveengineering:armor_steel_boots"
   },
   "template": {
     "item": "apotheotic_additions:iron_upgrade_smithing_template"

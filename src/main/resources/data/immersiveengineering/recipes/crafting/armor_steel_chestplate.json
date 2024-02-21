@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_chest"
+      "item": "immersiveengineering:armor_steel_chestplate"
     }
   ],
   "type": "minecraft:smithing",
@@ -17,6 +17,9 @@
     "tag": "forge:plates/steel"
   },
   "result": {
-    "item": "immersiveengineering:armor_steel_chest"
+    "item": "immersiveengineering:armor_steel_chestplate"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }

@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "immersiveengineering:armor_steel_head"
+      "item": "immersiveengineering:armor_steel_helmet"
     }
   ],
   "type": "minecraft:smithing_transform",
@@ -17,7 +17,7 @@
     "tag": "forge:plates/steel"
   },
   "result": {
-    "item": "immersiveengineering:armor_steel_head"
+    "item": "immersiveengineering:armor_steel_helmet"
   },
   "template": {
     "item": "apotheotic_additions:iron_upgrade_smithing_template"

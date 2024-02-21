@@ -9,7 +9,7 @@
       "item": "immersiveengineering:shield"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:shield"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "immersiveengineering:shield"
+  },
+  "template": {
+    "item": "modernrecipes:part_plate_small_wood"
   }
 }
