@@ -9,7 +9,7 @@
       "item": "immersiveengineering:hoe_steel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_hoe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "immersiveengineering:hoe_steel"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }
