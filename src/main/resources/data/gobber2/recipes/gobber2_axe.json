@@ -9,7 +9,7 @@
       "item": "gobber2:gobber2_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_axe"
   },
