@@ -1,5 +1,8 @@
 {
   "values": [
+    "greater_eye:greater_eye",
+    "greater_eye:greater_eye_nether",
+    "greater_eye:greater_eye_end",
     "botania:third_eye",
     "minecraft:ender_eye",
     "reliquary:salamander_eye",
