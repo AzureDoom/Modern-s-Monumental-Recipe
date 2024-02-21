@@ -9,7 +9,7 @@
       "item": "immersiveengineering:armor_steel_feet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_boots"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "immersiveengineering:armor_steel_feet"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }
