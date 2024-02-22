@@ -9,7 +9,7 @@
       "item": "aiotbotania:terra_hoe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_hoe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "aiotbotania:terra_hoe"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
