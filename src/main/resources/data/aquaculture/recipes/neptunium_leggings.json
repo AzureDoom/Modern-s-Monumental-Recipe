@@ -9,7 +9,7 @@
       "item": "aquaculture:neptunium_leggings"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_leggings"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "aquaculture:neptunium_leggings"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
