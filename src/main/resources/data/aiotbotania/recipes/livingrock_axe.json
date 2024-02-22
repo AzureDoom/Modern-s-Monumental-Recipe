@@ -13,7 +13,7 @@
       "item": "botania:livingrock"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:stone_axe"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "aiotbotania:livingrock_axe"
+  },
+  "template": {
+    "tag": "forge:stone"
   }
 }
