@@ -9,7 +9,7 @@
       "item": "aiotbotania:livingwood_sword"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:wooden_sword"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "aiotbotania:livingwood_sword"
+  },
+  "template": {
+    "item": "'modernrecipes:part_plate_small_wood'"
   }
 }
