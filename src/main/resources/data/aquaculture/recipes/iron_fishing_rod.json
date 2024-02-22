@@ -9,7 +9,7 @@
       "item": "aquaculture:iron_fishing_rod"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:fishing_rod"
   },
