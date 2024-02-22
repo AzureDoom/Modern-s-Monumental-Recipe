@@ -25,6 +25,14 @@
     "additionallanterns:crimson_chain",
     "additionallanterns:warped_chain",
     "additionallanterns:purpur_chain",
-    "additionallanterns:bricks_chain"
+    "additionallanterns:bricks_chain",
+    "additionallanterns:stone_chain",
+    "additionallanterns:stone_bricks_chain",
+    "additionallanterns:waxed_copper_chain",
+    "additionallanterns:waxed_exposed_copper_chain",
+    "additionallanterns:waxed_oxidized_copper_chain",
+    "additionallanterns:waxed_weather_copper_chain",
+    "additionallanterns:weather_copper_chain",
+    "enderio:soul_chain"
   ]
 }
