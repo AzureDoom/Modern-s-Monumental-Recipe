@@ -9,7 +9,7 @@
       "item": "aquaculture:neptunium_sword"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_sword"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "aquaculture:neptunium_sword"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
