@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "aquaculture:iron_fishing_rod"
+  },
+  "template": {
+    "item": "modernrecipes:part_plate_small_wood"
   }
 }
