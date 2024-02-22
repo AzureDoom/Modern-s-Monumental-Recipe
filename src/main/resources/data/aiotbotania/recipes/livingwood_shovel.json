@@ -9,7 +9,7 @@
       "item": "aiotbotania:livingwood_shovel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:wooden_shovel"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "aiotbotania:livingwood_shovel"
+  },
+  "template": {
+    "item": "'modernrecipes:part_plate_small_wood'"
   }
 }
