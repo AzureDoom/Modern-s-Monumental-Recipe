@@ -9,7 +9,7 @@
       "item": "ad_astra:space_helmet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:chainmail_helmet"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "ad_astra:space_helmet"
+  },
+  "template": {
+    "tag": "modernrecipes:chains"
   }
 }
