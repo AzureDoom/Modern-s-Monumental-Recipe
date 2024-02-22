@@ -9,7 +9,7 @@
       "item": "aquaculture:neptunium_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "aquaculture:neptunium_chestplate"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
