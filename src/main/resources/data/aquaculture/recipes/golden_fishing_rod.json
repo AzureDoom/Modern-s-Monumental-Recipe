@@ -9,7 +9,7 @@
       "item": "aquaculture:gold_fishing_rod"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "aquaculture:iron_fishing_rod"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "aquaculture:gold_fishing_rod"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }
