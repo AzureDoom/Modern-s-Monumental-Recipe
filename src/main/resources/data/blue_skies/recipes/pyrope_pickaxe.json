@@ -9,7 +9,7 @@
       "item": "blue_skies:pyrope_pickaxe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_pickaxe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "blue_skies:pyrope_pickaxe"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }
