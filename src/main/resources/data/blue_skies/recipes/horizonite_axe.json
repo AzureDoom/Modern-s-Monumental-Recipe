@@ -9,7 +9,7 @@
       "item": "blue_skies:horizonite_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_axe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "blue_skies:horizonite_axe"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }
