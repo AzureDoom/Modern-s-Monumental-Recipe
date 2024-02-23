@@ -9,7 +9,7 @@
       "item": "blue_skies:lunar_stone_sword"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:stone_sword"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "blue_skies:lunar_stone_sword"
+  },
+  "template": {
+    "item": "blue_skies:lunar_stone"
   }
 }

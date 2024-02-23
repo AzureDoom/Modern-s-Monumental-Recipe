@@ -9,7 +9,7 @@
       "item": "blue_skies:lunar_spear"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecolonies:spear"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "blue_skies:lunar_spear"
+  },
+  "template": {
+    "item": "blue_skies:lunar_log"
   }
 }
