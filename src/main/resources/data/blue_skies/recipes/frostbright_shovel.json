@@ -9,7 +9,7 @@
       "item": "blue_skies:frostbright_shovel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:wooden_shovel"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "blue_skies:frostbright_shovel"
+  },
+  "template": {
+    "item": "blue_skies:frostbright_log"
   }
 }
