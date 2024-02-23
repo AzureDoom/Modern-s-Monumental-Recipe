@@ -9,7 +9,7 @@
       "item": "blue_skies:pyrope_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "blue_skies:pyrope_chestplate"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }
