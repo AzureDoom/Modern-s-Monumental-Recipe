@@ -9,7 +9,7 @@
       "item": "blue_skies:maple_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:wooden_axe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "blue_skies:maple_axe"
+  },
+  "template": {
+    "item": "blue_skies:maple_log"
   }
 }
