@@ -9,7 +9,7 @@
       "item": "blue_skies:diopside_leggings"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_leggings"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "blue_skies:diopside_leggings"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
