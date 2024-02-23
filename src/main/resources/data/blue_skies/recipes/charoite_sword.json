@@ -9,7 +9,7 @@
       "item": "blue_skies:charoite_sword"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_sword"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "blue_skies:charoite_sword"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
