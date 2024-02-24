@@ -53,7 +53,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:coal",
+          "name": "mysticalagriculture:coal_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
