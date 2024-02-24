@@ -161,7 +161,7 @@
         {
           "type": "minecraft:item",
           "weight": 20,
-          "name": "minecraft:string",
+          "name": "mysticalagriculture:spider_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
