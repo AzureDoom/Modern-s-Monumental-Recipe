@@ -30,6 +30,11 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "weight": 6,
+          "name": "minecraft:smithing_table"
+        },
+        {
+          "type": "minecraft:item",
           "weight": 2,
           "name": "mysticalagriculture:netherite_essence"
         },
