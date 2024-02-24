@@ -33,6 +33,10 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:smithing_table"
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:golden_pickaxe"
         },
         {
@@ -92,7 +96,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:slime_ball",
+          "name": "mysticalagriculture:slime_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -114,7 +118,7 @@
         {
           "type": "minecraft:item",
           "weight": 20,
-          "name": "minecraft:emerald",
+          "name": "mysticalagriculture:emerald_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -128,7 +132,7 @@
         {
           "type": "minecraft:item",
           "weight": 20,
-          "name": "minecraft:diamond",
+          "name": "mysticalagriculture:diamond_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -139,7 +143,7 @@
         {
           "type": "minecraft:item",
           "weight": 15,
-          "name": "minecraft:gold_ingot",
+          "name": "mysticalagriculture:gold_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -153,7 +157,7 @@
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:iron_ingot",
+          "name": "mysticalagriculture:iron_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
