@@ -9,7 +9,7 @@
       "item": "botania:magnet_ring_greater"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "botania:magnet_ring"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:magnet_ring_greater"
+  },
+  "template": {
+    "item": "botania:manasteel_nugget"
   }
 }
