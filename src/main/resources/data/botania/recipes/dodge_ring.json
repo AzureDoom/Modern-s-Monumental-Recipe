@@ -9,7 +9,7 @@
       "item": "botania:dodge_ring"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "botania:rune_air"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:dodge_ring"
+  },
+  "template": {
+    "item": "botania:manasteel_nugget"
   }
 }
