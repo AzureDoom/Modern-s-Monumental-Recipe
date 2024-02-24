@@ -9,7 +9,7 @@
       "item": "botania:aura_ring"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "botania:rune_mana"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:aura_ring"
+  },
+  "template": {
+    "item": "botania:manasteel_nugget"
   }
 }
