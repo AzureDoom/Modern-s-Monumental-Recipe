@@ -9,7 +9,7 @@
       "item": "botania:pixie_ring"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "botania:pixie_dust"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:pixie_ring"
+  },
+  "template": {
+    "item": "botania:elementium_nugget"
   }
 }
