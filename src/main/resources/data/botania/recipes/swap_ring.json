@@ -9,7 +9,7 @@
       "item": "botania:swap_ring"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "forge:storage_blocks/clay"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:swap_ring"
+  },
+  "template": {
+    "item": "botania:manasteel_nugget"
   }
 }
