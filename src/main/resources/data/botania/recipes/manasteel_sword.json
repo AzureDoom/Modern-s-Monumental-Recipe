@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:manasteel_sword"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }

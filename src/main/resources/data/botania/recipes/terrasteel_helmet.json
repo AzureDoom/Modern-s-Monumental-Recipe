@@ -9,7 +9,7 @@
       "item": "botania:terrasteel_helmet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_helmet"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:terrasteel_helmet"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }

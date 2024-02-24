@@ -9,7 +9,7 @@
       "item": "botania:manasteel_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_axe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:manasteel_axe"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }

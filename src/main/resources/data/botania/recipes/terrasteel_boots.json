@@ -9,7 +9,7 @@
       "item": "botania:terrasteel_boots"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_boots"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:terrasteel_boots"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }

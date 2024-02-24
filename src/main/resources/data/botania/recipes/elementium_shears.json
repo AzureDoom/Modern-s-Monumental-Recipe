@@ -9,7 +9,7 @@
       "item": "botania:elementium_shears"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:shears"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:elementium_shears"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }

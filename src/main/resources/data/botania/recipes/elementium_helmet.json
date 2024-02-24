@@ -9,7 +9,7 @@
       "item": "botania:elementium_helmet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_helmet"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:elementium_helmet"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }
