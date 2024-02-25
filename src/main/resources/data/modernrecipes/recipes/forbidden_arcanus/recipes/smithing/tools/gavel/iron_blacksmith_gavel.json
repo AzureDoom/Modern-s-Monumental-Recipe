@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forbidden_arcanus:iron_blacksmith_gavel"
+  },
+  "template": {
+    "tag": "forge:stone"
   }
 }
