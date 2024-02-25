@@ -9,7 +9,7 @@
       "item": "pneumaticcraft:compressed_iron_boots"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_boots"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "pneumaticcraft:compressed_iron_boots"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }
