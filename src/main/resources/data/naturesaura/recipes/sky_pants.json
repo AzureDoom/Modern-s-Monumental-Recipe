@@ -9,7 +9,7 @@
       "item": "naturesaura:sky_pants"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_leggings"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "naturesaura:sky_pants"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
