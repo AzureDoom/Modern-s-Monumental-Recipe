@@ -155,7 +155,7 @@
         {
           "type": "minecraft:item",
           "weight": 100,
-          "name": "minecraft:coal",
+          "name": "mysticalagriculture:coal_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
