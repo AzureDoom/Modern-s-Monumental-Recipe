@@ -9,7 +9,7 @@
       "item": "pneumaticcraft:compressed_iron_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "pneumaticcraft:compressed_iron_chestplate"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }
