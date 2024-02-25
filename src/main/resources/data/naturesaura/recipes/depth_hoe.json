@@ -9,7 +9,7 @@
       "item": "naturesaura:depth_hoe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_hoe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "naturesaura:depth_hoe"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
