@@ -9,7 +9,7 @@
       "item": "forbidden_arcanus:stone_blacksmith_gavel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "forbidden_arcanus:wooden_blacksmith_gavel"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forbidden_arcanus:stone_blacksmith_gavel"
+  },
+  "template": {
+    "item": "modernrecipes:part_plate_small_wood"
   }
 }
