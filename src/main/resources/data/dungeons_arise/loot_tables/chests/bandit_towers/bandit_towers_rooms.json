@@ -150,7 +150,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:string",
+          "name": "mysticalagriculture:spider_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
