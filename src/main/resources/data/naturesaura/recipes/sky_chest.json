@@ -9,7 +9,7 @@
       "item": "naturesaura:sky_chest"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "naturesaura:sky_chest"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
