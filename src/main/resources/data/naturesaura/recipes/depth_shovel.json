@@ -9,7 +9,7 @@
       "item": "naturesaura:depth_shovel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_shovel"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "naturesaura:depth_shovel"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
