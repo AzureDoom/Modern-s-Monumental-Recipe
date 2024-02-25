@@ -9,7 +9,7 @@
       "item": "forbidden_arcanus:iron_blacksmith_gavel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "forbidden_arcanus:stone_blacksmith_gavel"
   },
