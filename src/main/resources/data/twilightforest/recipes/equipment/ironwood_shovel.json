@@ -9,7 +9,7 @@
       "item": "twilightforest:ironwood_shovel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_shovel"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "twilightforest:ironwood_shovel"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }

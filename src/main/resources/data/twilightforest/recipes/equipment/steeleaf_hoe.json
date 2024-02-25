@@ -9,7 +9,7 @@
       "item": "twilightforest:steeleaf_hoe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_hoe"
   },
@@ -18,5 +18,7 @@
   },
   "result": {
     "item": "twilightforest:steeleaf_hoe"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
-}

@@ -9,7 +9,7 @@
       "item": "twilightforest:steeleaf_shovel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_shovel"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "twilightforest:steeleaf_shovel"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }

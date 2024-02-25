@@ -9,7 +9,7 @@
       "item": "twilightforest:knightmetal_shield"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "forge:ingots/knightmetal"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "twilightforest:knightmetal_shield"
+  },
+  "template": {
+    "tag": "minecraft:planks"
   }
 }

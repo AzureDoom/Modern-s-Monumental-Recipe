@@ -9,7 +9,7 @@
       "item": "twilightforest:fiery_pickaxe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_pickaxe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "twilightforest:fiery_pickaxe"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }

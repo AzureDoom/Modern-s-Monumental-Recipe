@@ -9,7 +9,7 @@
       "item": "twilightforest:steeleaf_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_axe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "twilightforest:steeleaf_axe"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }

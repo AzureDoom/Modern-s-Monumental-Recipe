@@ -9,7 +9,7 @@
       "item": "twilightforest:ironwood_boots"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_boots"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "twilightforest:ironwood_boots"
+  },
+  "template": {
+    "item": "apotheotic_additions:iron_upgrade_smithing_template"
   }
 }
