@@ -9,7 +9,7 @@
       "item": "undergarden:cloggrum_leggings"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_leggings"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "undergarden:cloggrum_leggings"
+  },
+  "template": {
+    "tag": "forge:stone"
   }
 }

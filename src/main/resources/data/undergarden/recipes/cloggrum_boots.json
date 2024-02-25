@@ -9,7 +9,7 @@
       "item": "undergarden:cloggrum_boots"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_boots"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "undergarden:cloggrum_boots"
+  },
+  "template": {
+    "tag": "forge:stone"
   }
 }

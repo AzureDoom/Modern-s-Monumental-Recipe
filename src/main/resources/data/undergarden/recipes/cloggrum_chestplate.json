@@ -9,7 +9,7 @@
       "item": "undergarden:cloggrum_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "undergarden:cloggrum_chestplate"
+  },
+  "template": {
+    "tag": "forge:stone"
   }
 }
