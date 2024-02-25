@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "naturescompass:naturescompass"
+  },
+  "template": {
+    "tag": "minecraft:leaves"
   }
 }
