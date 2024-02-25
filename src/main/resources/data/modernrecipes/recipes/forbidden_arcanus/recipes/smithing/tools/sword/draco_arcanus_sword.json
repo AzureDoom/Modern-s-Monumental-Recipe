@@ -9,7 +9,7 @@
       "item": "forbidden_arcanus:draco_arcanus_sword"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_sword"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forbidden_arcanus:draco_arcanus_sword"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
