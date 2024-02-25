@@ -9,7 +9,7 @@
       "item": "forbidden_arcanus:diamond_blacksmith_gavel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "forbidden_arcanus:golden_blacksmith_gavel"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forbidden_arcanus:diamond_blacksmith_gavel"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
