@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/iron"
+    },
+    "i": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    " #",
+    "i "
+  ],
+  "result": {
+    "item": "croptopia:knife"
+  },
+  "show_notification": true
+}
