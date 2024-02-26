@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:supremium_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:imperium_leggings"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:supremium_leggings"
+  },
+  "template": {
+    "item": "mysticalagriculture:imperium_nugget"
   }
 }
