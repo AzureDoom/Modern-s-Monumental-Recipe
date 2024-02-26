@@ -13,7 +13,7 @@
       "item": "bettershears3:diamond_shears"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "bettershears3:diamond_shears"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "mysticalagriculture:inferium_shears"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
