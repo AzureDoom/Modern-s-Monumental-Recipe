@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:inferium_furnace"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "forge:furnaces"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:inferium_furnace"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
