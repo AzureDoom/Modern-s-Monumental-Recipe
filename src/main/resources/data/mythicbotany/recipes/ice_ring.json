@@ -9,7 +9,7 @@
       "item": "mythicbotany:ice_ring"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mythicbotany:niflheim_rune"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mythicbotany:ice_ring"
+  },
+  "template": {
+    "item": "botania:elementium_nugget"
   }
 }
