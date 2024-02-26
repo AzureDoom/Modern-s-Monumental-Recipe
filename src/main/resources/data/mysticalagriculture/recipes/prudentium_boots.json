@@ -10,7 +10,7 @@
       "item": "mysticalagriculture:prudentium_boots"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:inferium_boots"
   },
@@ -19,5 +19,8 @@
   },
   "result": {
     "item": "mysticalagriculture:prudentium_boots"
+  },
+  "template": {
+    "item": "mysticalagriculture:prudentium_nugget"
   }
 }
