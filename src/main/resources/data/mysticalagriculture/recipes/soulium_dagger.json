@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:soulium_dagger"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:golden_sword"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:soulium_dagger"
+  },
+  "template": {
+    "item": "apotheotic_additions:golden_upgrade_smithing_template"
   }
 }
