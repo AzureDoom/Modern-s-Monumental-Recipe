@@ -13,7 +13,7 @@
       "item": "botania:aura_ring_greater"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "botania:aura_ring_greater"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "mythicbotany:aura_ring_greatest"
+  },
+  "template": {
+    "item": "botania:quartz_mana"
   }
 }
