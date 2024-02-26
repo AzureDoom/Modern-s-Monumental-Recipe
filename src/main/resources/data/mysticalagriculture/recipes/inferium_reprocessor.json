@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:inferium_reprocessor"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:machine_frame"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:inferium_reprocessor"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
