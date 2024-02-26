@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:supremium_bow"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:imperium_bow"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:supremium_bow"
+  },
+  "template": {
+    "item": "mysticalagriculture:imperium_nugget"
   }
 }
