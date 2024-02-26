@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:prudentium_fishing_rod"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:inferium_fishing_rod"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:prudentium_fishing_rod"
+  },
+  "template": {
+    "item": "mysticalagriculture:prudentium_nugget"
   }
 }
