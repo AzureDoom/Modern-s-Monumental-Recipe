@@ -13,7 +13,7 @@
       "item": "cyclic:scythe_leaves"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "cyclic:scythe_leaves"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "mysticalagriculture:inferium_scythe"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
