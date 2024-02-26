@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:tertium_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:prudentium_axe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:tertium_axe"
+  },
+  "template": {
+    "item": "mysticalagriculture:prudentium_nugget"
   }
 }
