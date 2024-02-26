@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:prudentium_reprocessor"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:inferium_reprocessor"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:prudentium_reprocessor"
+  },
+  "template": {
+    "item": "mysticalagriculture:prudentium_nugget"
   }
 }
