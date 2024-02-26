@@ -10,7 +10,7 @@
       "item": "mysticalagriculture:prudentium_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:inferium_chestplate"
   },
@@ -19,5 +19,8 @@
   },
   "result": {
     "item": "mysticalagriculture:prudentium_chestplate"
+  },
+  "template": {
+    "item": "mysticalagriculture:prudentium_nugget"
   }
 }
