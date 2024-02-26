@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:tertium_scythe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:prudentium_scythe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:tertium_scythe"
+  },
+  "template": {
+    "item": "mysticalagriculture:prudentium_nugget"
   }
 }
