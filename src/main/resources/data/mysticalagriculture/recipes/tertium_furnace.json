@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:tertium_furnace"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:prudentium_furnace"
   },
