@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:supremium_crossbow"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:imperium_crossbow"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:supremium_crossbow"
+  },
+  "template": {
+    "item": "mysticalagriculture:imperium_nugget"
   }
 }
