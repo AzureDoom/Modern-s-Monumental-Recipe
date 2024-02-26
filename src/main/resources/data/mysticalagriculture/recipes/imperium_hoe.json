@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:imperium_hoe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:tertium_hoe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:imperium_hoe"
+  },
+  "template": {
+    "item": "mysticalagriculture:tertium_nugget"
   }
 }
