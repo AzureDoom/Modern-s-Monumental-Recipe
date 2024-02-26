@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:prudentium_bow"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:inferium_bow"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:prudentium_bow"
+  },
+  "template": {
+    "item": "mysticalagriculture:prudentium_nugget"
   }
 }
