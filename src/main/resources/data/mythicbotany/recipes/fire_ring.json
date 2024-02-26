@@ -9,7 +9,7 @@
       "item": "mythicbotany:fire_ring"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mythicbotany:muspelheim_rune"
   },
