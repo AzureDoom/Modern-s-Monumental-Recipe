@@ -9,7 +9,7 @@
       "item": "mysticalagriculture:inferium_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:inferium_chestplate"
+  },
+  "template": {
+    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
   }
 }
