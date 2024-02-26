@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mythicbotany:fire_ring"
+  },
+  "template": {
+    "item": "botania:elementium_nugget"
   }
 }
