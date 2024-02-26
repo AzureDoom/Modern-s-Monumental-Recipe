@@ -10,7 +10,7 @@
       "item": "mysticalagriculture:prudentium_helmet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:inferium_helmet"
   },
@@ -19,5 +19,8 @@
   },
   "result": {
     "item": "mysticalagriculture:prudentium_helmet"
+  },
+  "template": {
+    "item": "mysticalagriculture:prudentium_nugget"
   }
 }
