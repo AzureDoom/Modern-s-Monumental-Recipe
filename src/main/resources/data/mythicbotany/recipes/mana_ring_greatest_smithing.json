@@ -13,7 +13,7 @@
       "item": "botania:mana_ring_greater"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "botania:mana_ring_greater"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "mythicbotany:mana_ring_greatest"
+  },
+  "template": {
+    "item": "mythicbotany:alfsteel_nugget"
   }
 }
