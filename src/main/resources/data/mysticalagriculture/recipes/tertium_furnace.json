@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mysticalagriculture:tertium_furnace"
+  },
+  "template": {
+    "item": "mysticalagriculture:prudentium_nugget"
   }
 }
