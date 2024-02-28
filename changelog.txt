@@ -1,9 +1,3 @@
-v0.11
+v0.12
 
-- Fixed Gobber2 Smithing Table Recipes
-- Fixed Immersive Smithing Table Recipes
-- Added Back Greater Eyes to the modernrecipes:eyes custom Tag
-- Updated Custom Chain Tag
-- Fixed Most Broken Smithing Table Recipes, More will become fixed in coming weeks
-- Added Croptopia Knife Fix, The Recipe now uses tags and now works with other modded items
-- Updated Dungeons Arise Loot Tables
+- Fixed more Smithing Table Recipes
