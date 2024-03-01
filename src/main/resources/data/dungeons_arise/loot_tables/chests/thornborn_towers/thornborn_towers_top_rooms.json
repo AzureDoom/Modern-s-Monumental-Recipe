@@ -9,7 +9,20 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:beetroot",
+          "name": "minecraft:smithing_table",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:nature_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -28,7 +41,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 2
+                "max": 4
               }
             }
           ]
@@ -41,8 +54,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 12
+                "min": 12,
+                "max": 28
               }
             }
           ]
@@ -77,11 +90,23 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_helmet"
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 12
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_chestplate"
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 18
+            }
+          ]
         }
       ]
     },
@@ -93,7 +118,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:spider_essence",
+          "name": "mysticalagriculture:spider_essence"
         },
         {
           "type": "minecraft:item",
@@ -140,8 +165,24 @@
       ]
     },
     {
-      "rolls": 1,
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
       "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:diamond_essence",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
         {
           "type": "minecraft:item",
           "weight": 3,
@@ -150,8 +191,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 8
+                "min": 4,
+                "max": 16
               }
             }
           ]
@@ -164,8 +205,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 8
+                "min": 8,
+                "max": 12
               }
             }
           ]

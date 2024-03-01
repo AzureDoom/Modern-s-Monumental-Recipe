@@ -92,6 +92,10 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:smithing_table"
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:crossbow"
         },
         {
@@ -156,7 +160,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:gold_essence",
+          "name": "mysticalagriculture:gold_essence"
         },
         {
           "type": "minecraft:item",
@@ -203,7 +207,7 @@
         {
           "type": "minecraft:item",
           "weight": 20,
-          "name": "mysticalagriculture:iron_essence",
+          "name": "minecraft:iron_ingot",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -213,6 +217,15 @@
               }
             }
           ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/village/village_plains_house"
         }
       ]
     }

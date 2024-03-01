@@ -48,27 +48,77 @@
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_sword"
+          "name": "minecraft:diamond_sword",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 25
+              },
+              "treasure": true
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_helmet"
+          "name": "minecraft:diamond_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 25
+              },
+              "treasure": true
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_chestplate"
+          "name": "minecraft:diamond_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 25
+              },
+              "treasure": true
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_leggings"
+          "name": "minecraft:diamond_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 25
+              },
+              "treasure": true
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_boots"
+          "name": "minecraft:diamond_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 25
+              },
+              "treasure": true
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -87,8 +137,22 @@
       ]
     },
     {
-      "rolls": 2,
+      "rolls": 3,
       "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:smithing_table",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ]
+        },
         {
           "type": "minecraft:item",
           "weight": 12,
@@ -97,8 +161,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 6
+                "min": 8,
+                "max": 16
               }
             }
           ]
@@ -111,8 +175,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 8
+                "min": 6,
+                "max": 10
               }
             }
           ]
@@ -121,6 +185,15 @@
           "type": "minecraft:item",
           "weight": 15,
           "name": "mysticalagriculture:diamond_essence",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 5
+              }
+            }
+          ]
         }
       ]
     },

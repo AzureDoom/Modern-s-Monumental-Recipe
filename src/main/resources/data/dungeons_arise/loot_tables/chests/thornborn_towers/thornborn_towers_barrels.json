@@ -6,6 +6,19 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "minecraft:smithing_table",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:book",
           "functions": [
             {

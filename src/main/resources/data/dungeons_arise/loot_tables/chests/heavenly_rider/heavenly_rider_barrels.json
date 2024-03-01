@@ -1,21 +1,26 @@
 {
-  "type": "minecraft:chest",
   "pools": [
     {
       "rolls": 1,
       "entries": [
         {
           "type": "minecraft:empty",
+          "name": "minecraft:smithing_table",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:empty",
+          "name": "minecraft:stone",
           "weight": 50
         },
         {
           "type": "minecraft:item",
-          "weight": 25,
           "name": "minecraft:splash_potion",
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Potion:\"minecraft:strong_healing\"}"
+              "tag": "{Potion:\"minecraft:strong_healing\"}",
+              "count": 1
             },
             {
               "function": "minecraft:set_count",
@@ -24,12 +29,13 @@
                 "max": 3
               }
             }
-          ]
+          ],
+          "weight": 25
         },
         {
           "type": "minecraft:item",
-          "weight": 50,
           "name": "minecraft:potion",
+          "weight": 50,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -40,9 +46,18 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Potion:\"minecraft:healing\"}"
+              "tag": "{Potion:\"minecraft:healing\"}",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:totem_of_undying",
+          "weight": 1
         }
       ]
     },
@@ -51,18 +66,20 @@
       "entries": [
         {
           "type": "minecraft:empty",
+          "name": "minecraft:stone",
           "weight": 10
         },
         {
           "type": "minecraft:item",
-          "weight": 1,
           "name": "minecraft:book",
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
-              "levels": 8
+              "levels": 30,
+              "count": 1
             }
-          ]
+          ],
+          "weight": 1
         }
       ]
     },
@@ -71,11 +88,11 @@
       "entries": [
         {
           "type": "minecraft:empty",
+          "name": "minecraft:stone",
           "weight": 20
         },
         {
           "type": "minecraft:item",
-          "weight": 2,
           "name": "minecraft:chorus_fruit",
           "functions": [
             {
@@ -85,7 +102,8 @@
                 "max": 8
               }
             }
-          ]
+          ],
+          "weight": 2
         }
       ]
     },
@@ -94,7 +112,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:pumpkin",
+          "name": "mysticalagriculture:nature_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -120,7 +138,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:carrot",
+          "name": "mysticalagriculture:nature_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -141,7 +159,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 20,
           "name": "mysticalagriculture:gold_essence",
           "functions": [
             {
@@ -151,11 +168,11 @@
                 "max": 12
               }
             }
-          ]
+          ],
+          "weight": 20
         },
         {
           "type": "minecraft:item",
-          "weight": 40,
           "name": "minecraft:golden_carrot",
           "functions": [
             {
@@ -165,12 +182,27 @@
                 "max": 8
               }
             }
+          ],
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
           ]
         },
         {
           "type": "minecraft:item",
-          "weight": 20,
           "name": "minecraft:golden_apple",
+          "weight": 20,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -182,6 +214,19 @@
           ]
         }
       ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/nether_bridge"
+        }
+      ]
     }
-  ]
+  ],
+  "type": "minecraft:chest"
 }

@@ -33,10 +33,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:smithing_table"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:rose_bush"
         },
         {
@@ -54,15 +50,33 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_boots"
+          "name": "minecraft:iron_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 20
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_helmet"
+          "name": "minecraft:iron_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 20
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_chestplate"
+          "name": "minecraft:iron_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 20
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -96,8 +110,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 12
+                "min": 12,
+                "max": 32
               }
             }
           ]
@@ -137,8 +151,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 12
+                "min": 16,
+                "max": 48
               }
             }
           ]
@@ -151,8 +165,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 2
+                "min": 3,
+                "max": 12
               }
             }
           ]
@@ -165,8 +179,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 6
+                "min": 8,
+                "max": 14
               }
             }
           ]
@@ -179,8 +193,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 6
+                "min": 12,
+                "max": 16
               }
             }
           ]
@@ -191,17 +205,8 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:rose_bush",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 2,
-                "max": 3
-              }
-            }
-          ]
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/simple_dungeon"
         }
       ]
     }

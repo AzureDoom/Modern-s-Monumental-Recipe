@@ -69,7 +69,7 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "min": 0,
-                "max": 12
+                "max": 16
               }
             }
           ]
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "rolls": 1,
+      "rolls": 2,
       "entries": [
         {
           "type": "minecraft:item",
@@ -225,8 +225,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 12
+                "min": 16,
+                "max": 32
               }
             }
           ]
@@ -239,8 +239,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 8
+                "min": 8,
+                "max": 16
               }
             }
           ]
@@ -248,13 +248,13 @@
         {
           "type": "minecraft:item",
           "weight": 200,
-          "name": "minecraft:potato",
+          "name": "mysticalagriculture:nature_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 8
+                "max": 16
               }
             }
           ]
@@ -267,8 +267,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 12
+                "min": 16,
+                "max": 48
               }
             }
           ]
@@ -281,8 +281,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 12
+                "min": 14,
+                "max": 16
               }
             }
           ]

@@ -43,6 +43,16 @@
               "tag": "{Potion:\"minecraft:healing\"}"
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:smithing_table"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:totem_of_undying"
         }
       ]
     },
@@ -60,7 +70,7 @@
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
-              "levels": 8
+              "levels": 30
             }
           ]
         }
@@ -76,8 +86,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 3,
-                "max": 12
+                "min": 12,
+                "max": 16
               }
             }
           ]
@@ -118,14 +128,28 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "weight": 16,
+          "name": "minecraft:netherite_scrap",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "weight": 20,
           "name": "mysticalagriculture:diamond_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 8
+                "min": 8,
+                "max": 12
               }
             }
           ]
@@ -140,6 +164,20 @@
               "count": {
                 "min": 2,
                 "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:enchanted_golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
               }
             }
           ]

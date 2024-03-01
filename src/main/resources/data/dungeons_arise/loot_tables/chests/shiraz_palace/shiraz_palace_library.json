@@ -22,11 +22,11 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:music_disc_11"
+          "name": "minecraft:smithing_table"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:smithing_table"
+          "name": "minecraft:music_disc_11"
         },
         {
           "type": "minecraft:item",
@@ -73,7 +73,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:glowstone_dust",
+          "name": "mysticalagriculture:glowstone_essence",
           "functions": [
             {
               "function": "minecraft:set_count",

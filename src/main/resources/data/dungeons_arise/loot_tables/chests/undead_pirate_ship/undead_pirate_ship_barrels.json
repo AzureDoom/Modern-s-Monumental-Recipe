@@ -60,7 +60,21 @@
         {
           "type": "minecraft:item",
           "weight": 1,
-          "name": "mysticalagriculture:redstone_essence",
+          "name": "minecraft:smithing_table",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "mysticalagriculture:creeper_essence",
           "functions": [
             {
               "function": "minecraft:set_count",

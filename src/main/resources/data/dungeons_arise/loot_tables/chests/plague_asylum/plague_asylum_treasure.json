@@ -8,6 +8,20 @@
       },
       "entries": [
         {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:smithing_table",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ]
+        },
+        {
           "type": "minecraft:tag",
           "name": "minecraft:arrows",
           "expand": true,
@@ -43,8 +57,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 3
+                "min": 4,
+                "max": 8
               }
             }
           ]
@@ -57,8 +71,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 6
+                "min": 6,
+                "max": 18
               }
             }
           ]
@@ -71,8 +85,22 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 3,
-                "max": 6
+                "min": 12,
+                "max": 24
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:gold_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
               }
             }
           ]
@@ -89,16 +117,34 @@
         {
           "type": "minecraft:item",
           "weight": 3,
-          "name": "minecraft:diamond_helmet"
+          "name": "minecraft:diamond_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 10,
+                "max": 15
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:diamond_boots"
+          "name": "minecraft:diamond_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 10,
+                "max": 15
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "weight": 2,
+          "weight": 5,
           "name": "minecraft:diamond_leggings",
           "functions": [
             {
@@ -113,7 +159,16 @@
         {
           "type": "minecraft:item",
           "weight": 3,
-          "name": "minecraft:diamond_chestplate"
+          "name": "minecraft:diamond_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 10,
+                "max": 15
+              }
+            }
+          ]
         }
       ]
     },

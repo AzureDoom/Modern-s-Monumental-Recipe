@@ -6,6 +6,19 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "minecraft:smithing_table",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:rose_bush",
           "functions": [
             {
@@ -156,7 +169,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:gold_essence",
+          "name": "mysticalagriculture:gold_essence"
         },
         {
           "type": "minecraft:item",

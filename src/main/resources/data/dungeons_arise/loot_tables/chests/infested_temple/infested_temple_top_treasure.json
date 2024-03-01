@@ -24,7 +24,7 @@
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
-              "levels": 10
+              "levels": 20
             }
           ]
         },
@@ -35,8 +35,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 12
+                "min": 24,
+                "max": 32
               }
             }
           ]
@@ -44,10 +44,7 @@
       ]
     },
     {
-      "rolls": {
-        "min": 0,
-        "max": 1
-      },
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:empty",
@@ -55,23 +52,43 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_leggings"
+          "name": "minecraft:diamond_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:smithing_table"
+          "name": "minecraft:diamond_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_boots"
+          "name": "minecraft:diamond_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_chestplate"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:diamond_sword"
+          "name": "minecraft:diamond_sword",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
         }
       ]
     },
@@ -80,13 +97,52 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:gold_essence",
+          "name": "botania:mana_pearl",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
+                "min": 1,
                 "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:iron_essence",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
               }
             }
           ]
@@ -99,8 +155,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 2
+                "min": 2,
+                "max": 6
               }
             }
           ]

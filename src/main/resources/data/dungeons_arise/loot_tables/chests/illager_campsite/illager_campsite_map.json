@@ -45,8 +45,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 10
+                "min": 8,
+                "max": 24
               }
             }
           ]
@@ -58,7 +58,7 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
+                "min": 8,
                 "max": 24
               }
             }
@@ -71,8 +71,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 4
+                "min": 8,
+                "max": 16
               }
             }
           ]
@@ -84,11 +84,29 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_sword"
+          "name": "minecraft:iron_sword",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 6,
+                "max": 18
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:stone_sword"
+          "name": "minecraft:stone_sword",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 8,
+                "max": 16
+              }
+            }
+          ]
         }
       ]
     },
@@ -97,11 +115,29 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:bow"
+          "name": "minecraft:bow",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 8,
+                "max": 12
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:crossbow"
+          "name": "minecraft:crossbow",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 8,
+                "max": 14
+              }
+            }
+          ]
         }
       ]
     },
@@ -114,22 +150,46 @@
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "minecraft:iron_boots"
+          "name": "minecraft:iron_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "minecraft:iron_leggings"
+          "name": "minecraft:iron_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "minecraft:iron_helmet"
+          "name": "minecraft:iron_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "minecraft:iron_chestplate"
+          "name": "minecraft:iron_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
         },
         {
           "type": "minecraft:empty",
@@ -145,19 +205,55 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_boots"
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 8,
+                "max": 20
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_leggings"
+          "name": "minecraft:leather_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 8,
+                "max": 16
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_chestplate"
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 8,
+                "max": 16
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_helmet"
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 8,
+                "max": 16
+              }
+            }
+          ]
         }
       ]
     },
@@ -175,7 +271,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 5
+                "max": 16
               }
             }
           ]

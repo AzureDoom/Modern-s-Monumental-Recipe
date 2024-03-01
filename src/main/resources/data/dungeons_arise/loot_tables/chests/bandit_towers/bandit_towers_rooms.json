@@ -7,6 +7,11 @@
         {
           "type": "minecraft:item",
           "weight": 5,
+          "name": "minecraft:smithing_table"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:iron_helmet"
         },
         {
@@ -70,8 +75,8 @@
     },
     {
       "rolls": {
-        "min": 1,
-        "max": 2
+        "min": 2,
+        "max": 3
       },
       "entries": [
         {
@@ -82,8 +87,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 24
+                "min": 32,
+                "max": 64
               }
             }
           ]
@@ -97,7 +102,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 2,
-                "max": 4
+                "max": 6
               }
             }
           ]
@@ -111,7 +116,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 8,
-                "max": 16
+                "max": 48
               }
             }
           ]
@@ -124,8 +129,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 6
+                "min": 4,
+                "max": 12
               }
             }
           ]
@@ -133,7 +138,7 @@
       ]
     },
     {
-      "rolls": 2,
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
@@ -184,8 +189,12 @@
           "name": "minecraft:chests/village/village_desert_house"
         },
         {
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/village/village_weaponsmith"
+        },
+        {
           "type": "minecraft:empty",
-          "weight": 100
+          "weight": 35
         },
         {
           "type": "minecraft:loot_table",

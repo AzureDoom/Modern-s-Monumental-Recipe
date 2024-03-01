@@ -6,6 +6,19 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "minecraft:smithing_table",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:brown_mushroom",
           "functions": [
             {
@@ -38,8 +51,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 12
+                "min": 12,
+                "max": 18
               }
             }
           ]
@@ -76,7 +89,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 8
+                "max": 12
               }
             }
           ]
@@ -89,8 +102,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 3
+                "min": 3,
+                "max": 12
               }
             }
           ]
@@ -103,8 +116,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 3
+                "min": 4,
+                "max": 16
               }
             }
           ]
@@ -112,7 +125,7 @@
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_nugget",
+          "name": "mysticalagriculture:iron_essence",
           "functions": [
             {
               "function": "minecraft:set_count",

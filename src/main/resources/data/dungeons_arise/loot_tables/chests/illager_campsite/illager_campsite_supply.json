@@ -76,7 +76,7 @@
         {
           "type": "minecraft:item",
           "weight": 20,
-          "name": "minecraft:potato",
+          "name": "mysticalagriculture:nature_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -90,7 +90,7 @@
         {
           "type": "minecraft:item",
           "weight": 20,
-          "name": "minecraft:wheat",
+          "name": "mysticalagriculture:nature_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -104,7 +104,7 @@
         {
           "type": "minecraft:item",
           "weight": 20,
-          "name": "minecraft:carrot",
+          "name": "mysticalagriculture:nature_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -121,7 +121,11 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:slime_essence",
+          "name": "minecraft:smithing_table"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:slime_essence"
         }
       ]
     },
@@ -161,7 +165,7 @@
         {
           "type": "minecraft:item",
           "weight": 20,
-          "name": "mysticalagriculture:spider_essence",
+          "name": "minecraft:string",
           "functions": [
             {
               "function": "minecraft:set_count",

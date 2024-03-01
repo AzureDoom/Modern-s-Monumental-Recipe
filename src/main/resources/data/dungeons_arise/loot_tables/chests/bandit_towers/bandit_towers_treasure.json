@@ -18,7 +18,6 @@
               "destination": "dungeons_arise:explorer_maps/foundry",
               "decoration": "target_x",
               "zoom": 2,
-              "search_radius": 100,
               "skip_existing_chunks": false
             }
           ]
@@ -78,47 +77,132 @@
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_helmet"
+          "name": "minecraft:iron_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 39
+              },
+              "treasure": true
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_chestplate"
+          "name": "minecraft:iron_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 39
+              },
+              "treasure": true
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_leggings"
+          "name": "minecraft:iron_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 39
+              },
+              "treasure": true
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_boots"
+          "name": "minecraft:iron_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 39
+              },
+              "treasure": true
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:diamond_helmet"
+          "name": "minecraft:diamond_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 15,
+                "max": 20
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:diamond_chestplate"
+          "name": "minecraft:diamond_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 15,
+                "max": 20
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:diamond_leggings"
+          "name": "minecraft:diamond_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 15,
+                "max": 20
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:diamond_boots"
+          "name": "minecraft:diamond_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 15,
+                "max": 20
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "weight": 10,
-          "name": "minecraft:smithing_table"
+          "weight": 8,
+          "name": "botania:mana_pearl",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -158,14 +242,28 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "weight": 24,
+          "name": "mysticalagriculture:iron_essence",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 16,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "weight": 32,
           "name": "mysticalagriculture:gold_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 8
+                "min": 1,
+                "max": 16
               }
             }
           ]
@@ -179,7 +277,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 8,
-                "max": 32
+                "max": 64
               }
             }
           ]
@@ -236,7 +334,15 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
+          "name": "minecraft:chests/village/village_desert_house"
+        },
+        {
+          "type": "minecraft:loot_table",
           "name": "minecraft:chests/village/village_weaponsmith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/desert_pyramid"
         }
       ]
     }

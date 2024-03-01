@@ -30,6 +30,30 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:smithing_table"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "mysticalagriculture:netherite_essence"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:netherite_scrap",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "weight": 10,
           "name": "mysticalagriculture:gold_essence",
           "functions": [
@@ -37,7 +61,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 12,
-                "max": 22
+                "max": 48
               }
             }
           ]
@@ -50,8 +74,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 6
+                "min": 12,
+                "max": 16
               }
             }
           ]
@@ -68,15 +92,24 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
-                "min": 8,
-                "max": 8
+                "min": 25,
+                "max": 39
               }
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:crossbow"
+          "name": "minecraft:crossbow",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 25,
+                "max": 39
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -85,8 +118,8 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
-                "min": 8,
-                "max": 8
+                "min": 25,
+                "max": 39
               }
             }
           ]
@@ -101,8 +134,8 @@
                 {
                   "function": "minecraft:enchant_with_levels",
                   "levels": {
-                    "min": 8,
-                    "max": 8
+                    "min": 25,
+                    "max": 39
                   }
                 }
               ]
@@ -119,8 +152,8 @@
                 {
                   "function": "minecraft:enchant_with_levels",
                   "levels": {
-                    "min": 8,
-                    "max": 8
+                    "min": 25,
+                    "max": 39
                   }
                 }
               ]
@@ -132,8 +165,8 @@
                 {
                   "function": "minecraft:enchant_with_levels",
                   "levels": {
-                    "min": 8,
-                    "max": 8
+                    "min": 25,
+                    "max": 39
                   }
                 }
               ]
@@ -156,7 +189,7 @@
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
-              "levels": 8
+              "levels": 30
             }
           ]
         }
@@ -184,6 +217,17 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:enchanted_golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "weight": 20,
           "name": "minecraft:golden_apple",
           "functions": [
@@ -191,7 +235,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 2
+                "max": 4
               }
             }
           ]

@@ -9,7 +9,20 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:beetroot",
+          "name": "minecraft:smithing_table",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:nature_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -41,8 +54,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 12
+                "min": 12,
+                "max": 28
               }
             }
           ]
@@ -50,23 +63,50 @@
       ]
     },
     {
-      "rolls": 1,
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_boots"
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 18
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_leggings"
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 18
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_helmet"
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 18
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_chestplate"
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 18
+            }
+          ]
         }
       ]
     },
@@ -116,7 +156,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:glowstone_dust",
+          "name": "mysticalagriculture:glowstone_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -147,17 +187,17 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:diamond_essence",
+          "name": "mysticalagriculture:diamond_essence"
         },
         {
           "type": "minecraft:item",
-          "weight": 20,
+          "weight": 3,
           "name": "mysticalagriculture:gold_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
+                "min": 4,
                 "max": 6
               }
             }
@@ -165,14 +205,28 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 30,
+          "weight": 5,
           "name": "mysticalagriculture:iron_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 8
+                "min": 12,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "mysticalagriculture:emerald_essence",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 6,
+                "max": 12
               }
             }
           ]
