@@ -1,3 +1,2 @@
-v0.79
-- Added Cloth Tag
-- Added/Updated New Refinedstorage Binder Recipes
+v0.80
+- Added Harder Pipez Recipes
