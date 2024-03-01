@@ -21,10 +21,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:smithing_table"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:chorus_fruit"
         },
         {
@@ -126,7 +122,7 @@
         {
           "type": "minecraft:item",
           "weight": 200,
-          "name": "mysticalagriculture:nature_essence",
+          "name": "minecraft:potato",
           "functions": [
             {
               "function": "minecraft:set_count",

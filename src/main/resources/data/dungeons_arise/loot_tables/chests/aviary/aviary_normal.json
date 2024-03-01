@@ -31,12 +31,7 @@
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "minecraft:netherite_ingot"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 4,
-          "name": "minecraft:smithing_table"
+          "name": "mysticalagriculture:netherite_essence"
         },
         {
           "type": "minecraft:item",

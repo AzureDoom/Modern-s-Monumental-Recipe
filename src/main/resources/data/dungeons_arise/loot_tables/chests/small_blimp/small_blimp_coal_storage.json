@@ -9,20 +9,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:smithing_table",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 1
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "mysticalagriculture:redstone_essence",
           "weight": 50,
           "functions": [

@@ -9,7 +9,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:glowstone_essence",
+          "name": "minecraft:glowstone_dust",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -41,15 +41,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
+                "min": 2,
                 "max": 12
               }
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:smithing_table"
         },
         {
           "type": "minecraft:item",

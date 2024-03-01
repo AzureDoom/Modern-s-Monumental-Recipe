@@ -7,41 +7,22 @@
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:stone_pickaxe",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 12,
-                "max": 24
-              }
-            }
-          ]
+          "name": "minecraft:stone_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:smithing_table"
         },
         {
           "type": "minecraft:item",
           "weight": 25,
-          "name": "minecraft:iron_pickaxe",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 4,
-                "max": 6
-              }
-            }
-          ]
+          "name": "minecraft:iron_pickaxe"
         },
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:golden_pickaxe",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 4
-            }
-          ]
+          "name": "minecraft:golden_pickaxe"
         }
       ]
     },
@@ -70,95 +51,35 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 4,
-                "max": 8
-              }
-            }
-          ]
+          "name": "minecraft:iron_chestplate"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 4,
-                "max": 8
-              }
-            }
-          ]
+          "name": "minecraft:iron_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 4,
-                "max": 8
-              }
-            }
-          ]
+          "name": "minecraft:iron_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 4,
-                "max": 8
-              }
-            }
-          ]
+          "name": "minecraft:iron_boots"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 24
-            }
-          ]
+          "name": "minecraft:chainmail_chestplate"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 24
-            }
-          ]
+          "name": "minecraft:chainmail_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 24
-            }
-          ]
+          "name": "minecraft:chainmail_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 24
-            }
-          ]
+          "name": "minecraft:chainmail_boots"
         }
       ]
     },
@@ -186,7 +107,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 32
+                "max": 16
               }
             }
           ]
@@ -202,23 +123,18 @@
         {
           "type": "minecraft:item",
           "weight": 1,
-          "name": "minecraft:smithing_table"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 1,
-          "name": "mysticalagriculture:diamond_essence"
+          "name": "mysticalagriculture:diamond_essence",
         },
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "mysticalagriculture:gold_essence",
+          "name": "minecraft:gold_ingot",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 6,
-                "max": 8
+                "min": 2,
+                "max": 4
               }
             }
           ]
@@ -232,7 +148,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 16
+                "max": 12
               }
             }
           ]
@@ -245,8 +161,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 32,
-                "max": 48
+                "min": 16,
+                "max": 32
               }
             }
           ]
