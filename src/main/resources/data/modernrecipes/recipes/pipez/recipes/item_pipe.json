@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "DRD",
+    "III"
+  ],
+  "key": {
+    "D": {
+      "item": "essentials:item_shifter"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "result": {
+    "item": "pipez:item_pipe",
+    "count": 16
+  }
+}

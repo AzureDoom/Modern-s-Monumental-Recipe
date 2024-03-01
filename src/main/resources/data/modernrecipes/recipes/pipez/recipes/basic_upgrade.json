@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "INI",
+    "NRN",
+    "INI"
+  ],
+  "key": {
+    "N": {
+      "tag": "forge:nuggets/iron"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "result": {
+    "item": "pipez:basic_upgrade",
+    "count": 1
+  }
+}
