@@ -1,0 +1,47 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:uncrafter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "compressium:diamond_1"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "compressium:netherite_4"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ror",
+    "gsg",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:calcite"
+    },
+    "s": {
+      "item": "cyclic:gem_obsidian"
+    },
+    "o": {
+      "tag": "forge:obsidian"
+    },
+    "g": {
+      "item": "compressium:netherite_4"
+    },
+    "r": {
+      "item": "compressium:diamond_4"
+    }
+  },
+  "result": {
+    "item": "cyclic:uncrafter",
+    "count": 1
+  }
+}
