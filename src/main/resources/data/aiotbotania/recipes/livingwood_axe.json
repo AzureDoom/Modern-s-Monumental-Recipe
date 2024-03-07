@@ -1,22 +1,22 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "aiotbotania"
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aiotbotania"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "aiotbotania:livingwood_axe"
+        }
+    ],
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:wooden_axe"
     },
-    {
-      "type": "forge:item_exists",
-      "item": "aiotbotania:livingwood_axe"
+    "addition": {
+        "tag": "botania:livingwood_logs"
+    },
+    "result": {
+        "item": "aiotbotania:livingwood_axe"
     }
-  ],
-  "type": "minecraft:smithing",
-  "base": {
-    "item": "minecraft:wooden_axe"
-  },
-  "addition": {
-    "tag": "botania:livingwood_logs"
-  },
-  "result": {
-    "item": "aiotbotania:livingwood_axe"
-  }
 }
