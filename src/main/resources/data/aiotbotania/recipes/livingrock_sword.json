@@ -1,26 +1,26 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "aiotbotania"
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aiotbotania"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "aiotbotania:livingrock_sword"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "botania:livingrock"
+        }
+    ],
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:stone_sword"
     },
-    {
-      "type": "forge:item_exists",
-      "item": "aiotbotania:livingrock_sword"
+    "addition": {
+        "item": "botania:livingrock"
     },
-    {
-      "type": "forge:item_exists",
-      "item": "botania:livingrock"
+    "result": {
+        "item": "aiotbotania:livingrock_sword"
     }
-  ],
-  "type": "minecraft:smithing",
-  "base": {
-    "item": "minecraft:stone_sword"
-  },
-  "addition": {
-    "item": "botania:livingrock"
-  },
-  "result": {
-    "item": "aiotbotania:livingrock_sword"
-  }
 }
