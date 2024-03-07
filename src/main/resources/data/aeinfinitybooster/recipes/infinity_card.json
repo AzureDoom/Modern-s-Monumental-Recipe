@@ -1,39 +1,39 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "aeinfinitybooster"
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aeinfinitybooster"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "aeinfinitybooster:infinity_card"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "ae2:wireless_booster"
+        }
+    ],
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "a": {
+            "tag": "modernrecipes:eyes"
+        },
+        "b": {
+            "tag": "forge:nether_stars"
+        },
+        "c": {
+            "item": "ae2:wireless_booster"
+        },
+        "d": {
+            "tag": "forge:ingots/netherite"
+        }
     },
-    {
-      "type": "forge:item_exists",
-      "item": "aeinfinitybooster:infinity_card"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:wireless_booster"
+    "pattern": [
+        "aca",
+        "cbc",
+        "ddd"
+    ],
+    "result": {
+        "item": "aeinfinitybooster:infinity_card"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "a": {
-      "tag": "modernrecipes:eyes"
-    },
-    "b": {
-      "tag": "forge:nether_stars"
-    },
-    "c": {
-      "item": "ae2:wireless_booster"
-    },
-    "d": {
-      "tag": "forge:ingots/netherite"
-    }
-  },
-  "pattern": [
-    "aca",
-    "cbc",
-    "ddd"
-  ],
-  "result": {
-    "item": "aeinfinitybooster:infinity_card"
-  }
 }

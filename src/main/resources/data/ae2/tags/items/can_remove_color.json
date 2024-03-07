@@ -1,7 +1,1 @@
-{
-  "values": [
-    "minecraft:water_bucket",
-    "minecraft:snowball",
-    "supplementaries:soap"
-  ]
-}
+{"values":["minecraft:water_bucket","minecraft:snowball","supplementaries:soap"]}
