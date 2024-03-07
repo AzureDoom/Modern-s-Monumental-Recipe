@@ -1,22 +1,22 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "aiotbotania"
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aiotbotania"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "aiotbotania:livingwood_pickaxe"
+        }
+    ],
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:wooden_pickaxe"
     },
-    {
-      "type": "forge:item_exists",
-      "item": "aiotbotania:livingwood_pickaxe"
+    "addition": {
+        "tag": "botania:livingwood_logs"
+    },
+    "result": {
+        "item": "aiotbotania:livingwood_pickaxe"
     }
-  ],
-  "type": "minecraft:smithing",
-  "base": {
-    "item": "minecraft:wooden_pickaxe"
-  },
-  "addition": {
-    "tag": "botania:livingwood_logs"
-  },
-  "result": {
-    "item": "aiotbotania:livingwood_pickaxe"
-  }
 }
