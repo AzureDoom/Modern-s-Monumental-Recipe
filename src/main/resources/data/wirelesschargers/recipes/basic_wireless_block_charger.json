@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " A ",
-    "BCB",
-    "BDB"
-  ],
-  "key": {
-    "A": {
-      "tag": "forge:ingots/refined_glowstone"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " A ",
+        "BCB",
+        "BDB"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:ingots/refined_glowstone"
+        },
+        "B": {
+            "tag": "forge:ingots/compressed_iron"
+        },
+        "C": {
+            "tag": "modernrecipes:eyes"
+        },
+        "D": {
+            "tag": "forge:storage_blocks/redstone_ingot"
+        }
     },
-    "B": {
-      "tag": "forge:ingots/compressed_iron"
-    },
-    "C": {
-      "tag": "modernrecipes:eyes"
-    },
-    "D": {
-      "tag": "forge:storage_blocks/redstone_ingot"
+    "result": {
+        "item": "wirelesschargers:basic_wireless_block_charger"
     }
-  },
-  "result": {
-    "item": "wirelesschargers:basic_wireless_block_charger"
-  }
 }
