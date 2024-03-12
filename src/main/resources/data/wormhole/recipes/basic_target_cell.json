@@ -1,40 +1,40 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "wormhole"
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "wormhole"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "wormhole:basic_target_cell"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "minecraft:target"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "mysticalagriculture:lapis_lazuli_essence"
+        }
+    ],
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "G": {
+            "tag": "forge:ingots/compressed_iron"
+        },
+        "E": {
+            "item": "minecraft:target"
+        },
+        "S": {
+            "item": "mysticalagriculture:lapis_lazuli_essence"
+        }
     },
-    {
-      "type": "forge:item_exists",
-      "item": "wormhole:basic_target_cell"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "minecraft:target"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mysticalagriculture:lapis_lazuli_essence"
+    "pattern": [
+        "GSG",
+        "SES",
+        "GSG"
+    ],
+    "result": {
+        "item": "wormhole:basic_target_cell"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "G": {
-      "tag": "forge:ingots/compressed_iron"
-    },
-    "E": {
-      "item": "minecraft:target"
-    },
-    "S": {
-      "item": "mysticalagriculture:lapis_lazuli_essence"
-    }
-  },
-  "pattern": [
-    "GSG",
-    "SES",
-    "GSG"
-  ],
-  "result": {
-    "item": "wormhole:basic_target_cell"
-  }
 }
