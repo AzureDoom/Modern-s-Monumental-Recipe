@@ -9,7 +9,7 @@
       "item": "explorerscompass:explorerscompass"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:compass"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "explorerscompass:explorerscompass"
+  },
+  "template": {
+    "tags": "forge:plates/iron"
   }
 }
