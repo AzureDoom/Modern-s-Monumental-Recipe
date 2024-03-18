@@ -8,8 +8,8 @@
       "type": "forge:item_exists",
       "item": "gobber2:gobber2_bow"
     }
-  ],
-  "type": "minecraft:smithing",
+  ],  "type": "minecraft:smithing_transform",
+
   "base": {
     "tag": "forge:string"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "gobber2:gobber2_bow"
+  },
+  "template": {
+    "tags": "forge:plates/iron"
   }
 }
