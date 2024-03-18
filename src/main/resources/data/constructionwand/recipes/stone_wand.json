@@ -17,7 +17,7 @@
       "item": "constructionwand:stone_wand"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "quark:stone_tool_materials"
   },
@@ -26,5 +26,8 @@
   },
   "result": {
     "item": "constructionwand:stone_wand"
+  },
+  "template": {
+    "tags": "forge:stone"
   }
 }
