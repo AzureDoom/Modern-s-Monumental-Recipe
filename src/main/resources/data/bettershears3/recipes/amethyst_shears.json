@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "bettershears3:amethyst_shears"
+  },
+  "template": {
+    "tag": "forge:gems/amethyst"
   }
 }
