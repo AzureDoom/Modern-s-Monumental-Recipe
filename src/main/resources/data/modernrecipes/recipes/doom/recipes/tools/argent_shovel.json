@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "doom"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "doom:argent_shovel"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "addition": {
+    "item": "doom:argent_plate"
+  },
+  "result": {
+    "item": "doom:argent_shovel"
+  }
+}
