@@ -9,7 +9,7 @@
       "item": "cyclic:emerald_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_axe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "cyclic:emerald_axe"
+  },
+  "template": {
+    "tags": "forge:plates/emerald"
   }
 }
