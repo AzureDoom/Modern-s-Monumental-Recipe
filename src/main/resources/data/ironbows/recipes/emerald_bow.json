@@ -9,7 +9,7 @@
       "item": "ironbows:emerald_bow"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:bow"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "ironbows:emerald_bow"
+  },
+  "template": {
+    "tags": "forge:plates/emerald"
   }
 }
