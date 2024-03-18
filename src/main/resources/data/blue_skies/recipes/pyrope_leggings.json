@@ -20,6 +20,6 @@
     "item": "blue_skies:pyrope_leggings"
   },
   "template": {
-    "item": "apotheotic_additions:iron_upgrade_smithing_template"
+    "tags": "forge:plates/iron"
   }
 }
