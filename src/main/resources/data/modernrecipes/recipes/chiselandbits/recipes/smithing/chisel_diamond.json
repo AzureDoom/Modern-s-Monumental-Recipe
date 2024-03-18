@@ -9,7 +9,7 @@
       "item": "chiselsandbits:chisel_diamond"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "chiselsandbits:chisel_gold"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "chiselsandbits:chisel_diamond"
+  },
+  "template": {
+    "tags": "forge:plates/diamond"
   }
 }
