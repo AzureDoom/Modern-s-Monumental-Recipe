@@ -9,7 +9,7 @@
       "item": "bettershears3:copper_shears"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:shears"
   },
