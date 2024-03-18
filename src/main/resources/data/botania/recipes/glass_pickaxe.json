@@ -9,7 +9,7 @@
       "item": "botania:glass_pickaxe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:wooden_pickaxe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "botania:glass_pickaxe"
+  },
+  "template": {
+    "tags": "forge:glass/colorless"
   }
 }

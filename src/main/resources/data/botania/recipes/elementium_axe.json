@@ -20,6 +20,6 @@
     "item": "botania:elementium_axe"
   },
   "template": {
-    "item": "apotheotic_additions:iron_upgrade_smithing_template"
+    "tags": "forge:plates/iron"
   }
 }

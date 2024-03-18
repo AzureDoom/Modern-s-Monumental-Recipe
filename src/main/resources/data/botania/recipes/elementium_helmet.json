@@ -20,6 +20,6 @@
     "item": "botania:elementium_helmet"
   },
   "template": {
-    "item": "apotheotic_additions:iron_upgrade_smithing_template"
+    "tags": "forge:plates/iron"
   }
 }

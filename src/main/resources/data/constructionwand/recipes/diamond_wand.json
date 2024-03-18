@@ -13,7 +13,7 @@
       "item": "constructionwand:diamond_wand"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "constructionwand:iron_wand"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "constructionwand:diamond_wand"
+  },
+  "template": {
+    "tags": "forge:plates/iron"
   }
 }
