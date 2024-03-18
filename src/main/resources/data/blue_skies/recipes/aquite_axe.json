@@ -20,6 +20,6 @@
     "item": "blue_skies:aquite_axe"
   },
   "template": {
-    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
+    "tags": "forge:plates/diamond"
   }
 }
