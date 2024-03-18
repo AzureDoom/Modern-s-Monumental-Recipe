@@ -9,7 +9,7 @@
       "item": "create_sa:copper_sword"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_sword"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "create_sa:copper_sword"
+  },
+  "template": {
+    "tags": "forge:plates/copper"
   }
 }
