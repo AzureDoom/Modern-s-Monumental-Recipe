@@ -9,7 +9,7 @@
       "item": "bettershears3:clay_shears"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "bettershears3:unfired_clay_shears"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "bettershears3:clay_shears"
+  },
+  "template": {
+    "item": "modernrecipes:clay_plate"
   }
 }
