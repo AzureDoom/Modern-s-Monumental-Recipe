@@ -1,6 +1,25 @@
 {
   "values": [
     "minecraft:chain",
+    "additionallanterns:amethyst_chain",
+    "additionallanterns:andesite_chain",
+    "additionallanterns:basalt_chain",
+    "additionallanterns:blackstone_chain",
+    "additionallanterns:bone_chain",
+    "additionallanterns:bricks_chain",
+    "additionallanterns:cobblestone_chain",
+    "additionallanterns:cobblestone_deepslate_chain",
+    "additionallanterns:copper_chain",
+    "additionallanterns:crimson_chain",
+    "additionallanterns:dark_prismarine_chain",
+    "additionallanterns:deepslate_bricks_chain",
+    "additionallanterns:diamond_chain",
+    "additionallanterns:diorite_chain",
+    "additionallanterns:emerald_chain",
+    "additionallanterns:end_stone_chain",
+    "additionallanterns:exposed_copper_chain",
+    "additionallanterns:gold_chain",
+    "additionallanterns:granite_chain",
     "enderio:soul_chain"
   ]
 }
