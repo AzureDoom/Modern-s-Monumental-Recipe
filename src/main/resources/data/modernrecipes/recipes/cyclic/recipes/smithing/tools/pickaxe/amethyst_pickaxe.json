@@ -9,7 +9,7 @@
       "item": "cyclic:amethyst_pickaxe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_pickaxe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "cyclic:amethyst_pickaxe"
+  },
+  "template": {
+    "tags": "forge:plates/iron"
   }
 }
