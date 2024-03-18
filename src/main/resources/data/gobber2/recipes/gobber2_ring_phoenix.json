@@ -9,7 +9,7 @@
       "item": "gobber2:gobber2_ring_phoenix"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "gobber2:gobber2_ring_nether"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "gobber2:gobber2_ring_phoenix"
+  },
+  "template": {
+    "tags": "forge:netherrack"
   }
 }
