@@ -9,7 +9,7 @@
       "item": "immersiveengineering:armor_faraday_feet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:leather_boots"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "immersiveengineering:armor_faraday_feet"
+  },
+  "template": {
+    "tags": "forge:leather"
   }
 }

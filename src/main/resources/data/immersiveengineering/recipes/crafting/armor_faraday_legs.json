@@ -9,7 +9,7 @@
       "item": "immersiveengineering:armor_faraday_legs"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:leather_helmet"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "immersiveengineering:armor_faraday_legs"
+  },
+  "template": {
+    "tags": "forge:leather"
   }
 }

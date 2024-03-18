@@ -9,7 +9,7 @@
       "item": "immersiveengineering:armor_faraday_chest"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:leather_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "immersiveengineering:armor_faraday_chest"
+  },
+  "template": {
+    "tags": "forge:leather"
   }
 }
