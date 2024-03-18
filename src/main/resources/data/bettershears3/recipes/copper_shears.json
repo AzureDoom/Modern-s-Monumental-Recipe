@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "bettershears3:copper_shears"
+  },
+  "template": {
+    "tags": "forge:plates/copper"
   }
 }
