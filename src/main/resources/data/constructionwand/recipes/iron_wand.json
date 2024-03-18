@@ -24,6 +24,6 @@
     "item": "constructionwand:iron_wand"
   },
   "template": {
-    "tags": "forge:stone"
+    "tags": "forge:plates/iron"
   }
 }
