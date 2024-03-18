@@ -9,7 +9,7 @@
       "item": "cyclic:amethyst_hoe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_hoe"
   },
@@ -18,5 +18,11 @@
   },
   "result": {
     "item": "cyclic:amethyst_hoe"
+  },
+  "template": {
+    "tags": "forge:plates/iron"
+  },
+  "template": {
+    "tags": "minecraft:netherite_upgrade_smithing_template"
   }
 }
