@@ -13,7 +13,7 @@
       "item": "mekanism:scuba_tank"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mekanism:scuba_tank"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "create:diving_helmet"
+  },
+  "template": {
+    "tags": "forge:plates/copper"
   }
 }
