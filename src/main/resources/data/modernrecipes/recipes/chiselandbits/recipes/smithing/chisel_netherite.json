@@ -9,7 +9,7 @@
       "item": "chiselsandbits:chisel_netherite"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "chiselsandbits:chisel_diamond"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "chiselsandbits:chisel_netherite"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
