@@ -10,10 +10,10 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mekanism:scuba_tank"
+      "item": "pneumaticcraft:scuba_upgrade"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "pneumaticcraft:scuba_upgrade"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "create:diving_boots"
+  },
+  "template": {
+    "tags": "forge:plates/copper"
   }
 }
