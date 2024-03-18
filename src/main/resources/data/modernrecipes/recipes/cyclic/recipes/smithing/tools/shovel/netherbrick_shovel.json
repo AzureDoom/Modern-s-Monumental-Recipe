@@ -9,7 +9,7 @@
       "item": "cyclic:netherbrick_shovel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_shovel"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "cyclic:netherbrick_shovel"
+  },
+  "template": {
+    "tags": "forge:netherrack"
   }
 }
