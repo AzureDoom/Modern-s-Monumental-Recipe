@@ -9,7 +9,7 @@
       "item": "bettershears3:warden_shears"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "bettershears3:netherite_shears"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "bettershears3:warden_shears"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
