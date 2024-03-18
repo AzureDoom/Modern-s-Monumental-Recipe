@@ -23,6 +23,6 @@
     "tags": "forge:plates/iron"
   },
   "template": {
-    "tags": "minecraft:netherite_upgrade_smithing_template"
+    "tags": "forge:plates/iron"
   }
 }
