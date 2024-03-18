@@ -9,7 +9,7 @@
       "item": "gobber2:gobber2_hammer_end"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "hexerei:warhammer"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "gobber2:gobber2_hammer_end"
+  },
+  "template": {
+    "tags": "forge:end_stones"
   }
 }
