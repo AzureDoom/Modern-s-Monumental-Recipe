@@ -9,7 +9,7 @@
       "item": "cyclic:sandstone_hoe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:stone_hoe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "cyclic:sandstone_hoe"
+  },
+  "template": {
+    "tags": "forge:sandstone"
   }
 }
