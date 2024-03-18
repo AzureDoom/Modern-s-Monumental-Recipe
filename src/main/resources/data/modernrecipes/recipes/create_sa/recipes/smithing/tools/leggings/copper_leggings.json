@@ -9,7 +9,7 @@
       "item": "create_sa:copper_leggings"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_leggings"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "create_sa:copper_leggings"
+  },
+  "template": {
+    "tags": "forge:plates/copper"
   }
 }
