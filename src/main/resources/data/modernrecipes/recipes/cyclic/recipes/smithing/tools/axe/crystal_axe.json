@@ -9,7 +9,7 @@
       "item": "cyclic:crystal_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_axe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "cyclic:crystal_axe"
+  },
+  "template": {
+    "tags": "minecraft:netherite_upgrade_smithing_template"
   }
 }
