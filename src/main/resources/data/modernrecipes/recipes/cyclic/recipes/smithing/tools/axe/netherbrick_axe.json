@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "cyclic:netherbrick_axe"
+  },
+  "template": {
+    "tags": "forge:netherrack"
   }
 }
