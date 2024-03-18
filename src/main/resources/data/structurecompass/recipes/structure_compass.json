@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "structurecompass:structure_compass"
+  },
+  "template": {
+    "tags": "forge:plates/iron"
   }
 }
