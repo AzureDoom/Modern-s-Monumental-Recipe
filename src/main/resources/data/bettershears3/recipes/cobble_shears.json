@@ -9,7 +9,7 @@
       "item": "bettershears3:cobble_shears"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "bettershears3:clay_shears"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "bettershears3:cobble_shears"
+  },
+  "template": {
+    "tag": "forge:cobblestone"
   }
 }
