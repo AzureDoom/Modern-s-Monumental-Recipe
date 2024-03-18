@@ -9,7 +9,7 @@
       "item": "ae2:certus_quartz_hoe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_hoe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "ae2:certus_quartz_hoe"
+  },
+  "template": {
+    "tags": "forge:plates/iron"
   }
 }
