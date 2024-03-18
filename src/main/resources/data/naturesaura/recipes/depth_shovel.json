@@ -20,6 +20,6 @@
     "item": "naturesaura:depth_shovel"
   },
   "template": {
-    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
+    "tags": "forge:plates/diamond"
   }
 }

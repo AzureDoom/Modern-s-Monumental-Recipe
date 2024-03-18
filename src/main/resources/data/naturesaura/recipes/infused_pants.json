@@ -20,6 +20,6 @@
     "item": "naturesaura:infused_iron_pants"
   },
   "template": {
-    "item": "apotheotic_additions:iron_upgrade_smithing_template"
+    "tags": "forge:plates/iron"
   }
 }
