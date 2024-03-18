@@ -20,6 +20,6 @@
     "item": "blue_skies:charoite_leggings"
   },
   "template": {
-    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
+    "tags": "forge:plates/diamond"
   }
 }
