@@ -9,7 +9,7 @@
       "item": "ae2:certus_quartz_shovel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_shovel"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "ae2:certus_quartz_shovel"
+  },
+  "template": {
+    "tags": "forge:plates/iron"
   }
 }
