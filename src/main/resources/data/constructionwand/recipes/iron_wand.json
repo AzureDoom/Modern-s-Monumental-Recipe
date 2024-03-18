@@ -13,7 +13,7 @@
       "item": "constructionwand:iron_wand"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "constructionwand:stone_wand"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "constructionwand:iron_wand"
+  },
+  "template": {
+    "tags": "forge:stone"
   }
 }
