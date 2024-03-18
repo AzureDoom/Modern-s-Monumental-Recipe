@@ -9,7 +9,7 @@
       "item": "gobber2:gobber2_sword_traveler"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "gobber2:gobber2_sword_end"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "gobber2:gobber2_sword_traveler"
+  },
+  "template": {
+    "item": "enderio:staff_of_travelling"
   }
 }
