@@ -20,6 +20,6 @@
     "item": "twilightforest:steeleaf_chestplate"
   },
   "template": {
-    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
+    "tags": "forge:plates/diamond"
   }
 }

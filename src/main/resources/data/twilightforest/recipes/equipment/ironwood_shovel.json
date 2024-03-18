@@ -20,6 +20,6 @@
     "item": "twilightforest:ironwood_shovel"
   },
   "template": {
-    "item": "apotheotic_additions:iron_upgrade_smithing_template"
+    "tags": "forge:plates/iron"
   }
 }

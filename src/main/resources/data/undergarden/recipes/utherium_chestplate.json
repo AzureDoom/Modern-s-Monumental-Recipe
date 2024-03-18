@@ -20,6 +20,6 @@
     "item": "undergarden:utherium_chestplate"
   },
   "template": {
-    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
+    "tags": "forge:plates/diamond"
   }
 }
