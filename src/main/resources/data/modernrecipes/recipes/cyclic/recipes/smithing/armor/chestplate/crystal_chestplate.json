@@ -9,7 +9,7 @@
       "item": "cyclic:crystal_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "cyclic:crystal_chestplate"
+  },
+  "template": {
+    "tags": "minecraft:netherite_upgrade_smithing_template"
   }
 }
