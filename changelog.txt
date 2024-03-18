@@ -1,3 +1,4 @@
-v0.13
+v0.15
 
-- Pipez Mod Harder Recipes
+- Added bk Most of all Smithing table recipe
+- Fixed Broken Custom Chian tag
