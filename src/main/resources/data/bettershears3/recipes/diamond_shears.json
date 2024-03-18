@@ -9,7 +9,7 @@
       "item": "bettershears3:diamond_shears"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "bettershears3:gold_shears"
   },
