@@ -9,7 +9,7 @@
       "item": "create_sa:brass_sword"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_sword"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "create_sa:brass_sword"
+  },
+  "template": {
+    "tags": "forge:plates/brass"
   }
 }
