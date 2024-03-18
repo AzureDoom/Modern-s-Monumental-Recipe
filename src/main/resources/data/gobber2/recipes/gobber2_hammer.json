@@ -9,7 +9,7 @@
       "item": "gobber2:gobber2_hammer"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "hexerei:warhammer"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "gobber2:gobber2_hammer"
+  },
+  "template": {
+    "tags": "forge:plates/iron"
   }
 }
