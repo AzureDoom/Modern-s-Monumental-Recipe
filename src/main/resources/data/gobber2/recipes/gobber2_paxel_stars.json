@@ -9,7 +9,7 @@
       "item": "gobber2:gobber2_paxel_stars"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "gobber2:gobber2_paxel_end"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "gobber2:gobber2_paxel_stars"
+  },
+  "template": {
+    "tags": "forge:end_stones"
   }
 }
