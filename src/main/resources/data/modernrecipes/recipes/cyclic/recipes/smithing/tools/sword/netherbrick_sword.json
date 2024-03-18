@@ -9,7 +9,7 @@
       "item": "cyclic:netherbrick_sword"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_sword"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "cyclic:netherbrick_sword"
+  },
+  "template": {
+    "tags": "forge:netherrack"
   }
 }
