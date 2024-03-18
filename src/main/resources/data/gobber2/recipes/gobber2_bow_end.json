@@ -20,6 +20,6 @@
     "item": "gobber2:gobber2_bow_end"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tags": "forge:end_stones"
   }
 }
