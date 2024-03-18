@@ -9,7 +9,7 @@
       "item": "create_sa:zinc_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_axe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "create_sa:zinc_axe"
+  },
+  "template": {
+    "tags": "forge:plates/zinc"
   }
 }
