@@ -20,6 +20,6 @@
     "item": "blue_skies:pyrope_chestplate"
   },
   "template": {
-    "item": "apotheotic_additions:iron_upgrade_smithing_template"
+    "tags": "forge:plates/iron"
   }
 }
