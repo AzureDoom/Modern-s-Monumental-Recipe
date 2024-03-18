@@ -9,7 +9,7 @@
       "item": "create_sa:copper_hoe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_hoe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "create_sa:copper_hoe"
+  },
+  "template": {
+    "tags": "forge:plates/copper"
   }
 }
