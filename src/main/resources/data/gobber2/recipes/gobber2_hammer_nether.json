@@ -9,7 +9,7 @@
       "item": "gobber2:gobber2_hammer_nether"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "hexerei:warhammer"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "gobber2:gobber2_hammer_nether"
+  },
+  "template": {
+    "tags": "forge:netherrack"
   }
 }
