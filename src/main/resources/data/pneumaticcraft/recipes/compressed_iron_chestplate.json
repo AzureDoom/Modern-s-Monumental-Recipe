@@ -20,6 +20,6 @@
     "item": "pneumaticcraft:compressed_iron_chestplate"
   },
   "template": {
-    "item": "apotheotic_additions:iron_upgrade_smithing_template"
+    "tag": "forge:plates/iron"
   }
 }
