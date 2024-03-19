@@ -20,6 +20,6 @@
     "item": "gobber2:gobber2_paxel_stars"
   },
   "template": {
-    "tags": "forge:end_stones"
+    "tag": "forge:end_stones"
   }
 }

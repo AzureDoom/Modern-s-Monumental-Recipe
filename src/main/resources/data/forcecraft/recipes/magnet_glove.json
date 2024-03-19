@@ -13,7 +13,7 @@
       "item": "immersiveengineering:toolupgrade_shield_magnet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "immersiveengineering:toolupgrade_shield_magnet"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "forcecraft:magnet_glove"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }

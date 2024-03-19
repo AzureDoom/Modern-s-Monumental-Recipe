@@ -20,6 +20,6 @@
     "item": "gobber2:gobber2_bow"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

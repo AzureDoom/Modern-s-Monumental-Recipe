@@ -9,7 +9,7 @@
       "item": "forcecraft:force_chest"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forcecraft:force_chest"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }

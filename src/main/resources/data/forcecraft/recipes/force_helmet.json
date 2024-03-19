@@ -9,7 +9,7 @@
       "item": "forcecraft:force_helmet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_helmet"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forcecraft:force_helmet"
+  },
+  "template": {
+    "tag": "forge:plates/diamond"
   }
 }

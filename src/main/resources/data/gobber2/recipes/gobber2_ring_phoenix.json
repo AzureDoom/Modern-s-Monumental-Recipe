@@ -20,6 +20,6 @@
     "item": "gobber2:gobber2_ring_phoenix"
   },
   "template": {
-    "tags": "forge:netherrack"
+    "tag": "forge:netherrack"
   }
 }

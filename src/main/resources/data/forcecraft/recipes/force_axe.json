@@ -9,7 +9,7 @@
       "item": "forcecraft:force_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_axe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forcecraft:force_axe"
+  },
+  "template": {
+    "tag": "forge:plates/diamond"
   }
 }

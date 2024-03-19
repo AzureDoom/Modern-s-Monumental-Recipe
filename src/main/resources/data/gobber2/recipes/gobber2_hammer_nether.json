@@ -20,6 +20,6 @@
     "item": "gobber2:gobber2_hammer_nether"
   },
   "template": {
-    "tags": "forge:netherrack"
+    "tag": "forge:netherrack"
   }
 }

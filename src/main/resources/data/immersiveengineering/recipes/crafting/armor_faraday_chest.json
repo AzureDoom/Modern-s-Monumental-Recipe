@@ -20,6 +20,6 @@
     "item": "immersiveengineering:armor_faraday_chest"
   },
   "template": {
-    "tags": "forge:leather"
+    "tag": "forge:leather"
   }
 }

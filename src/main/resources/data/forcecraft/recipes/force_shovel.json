@@ -9,7 +9,7 @@
       "item": "forcecraft:force_shovel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:stone_shovel"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forcecraft:force_shovel"
+  },
+  "template": {
+    "tag": "forge:stone"
   }
 }

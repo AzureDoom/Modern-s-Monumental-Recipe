@@ -9,7 +9,7 @@
       "item": "forcecraft:force_legs"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:chainmail_leggings"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forcecraft:force_legs"
+  },
+  "template": {
+    "tag": "forge:leather"
   }
 }

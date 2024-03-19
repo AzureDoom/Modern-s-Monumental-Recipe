@@ -20,6 +20,6 @@
     "item": "immersiveengineering:hoe_steel"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

@@ -20,6 +20,6 @@
         "item": "immersiveengineering:armor_steel_chestplate"
     },
     "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
     }
 }
