@@ -9,7 +9,7 @@
       "item": "minecraft:stone_pickaxe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:wooden_pickaxe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:stone_pickaxe"
+  },
+  "template": {
+    "tag": "forge:stone"
   }
 }
