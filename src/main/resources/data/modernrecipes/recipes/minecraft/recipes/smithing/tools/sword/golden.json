@@ -9,7 +9,7 @@
       "item": "minecraft:golden_sword"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "create_weaponry:iron_sword_head"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:golden_sword"
+  },
+  "template": {
+    "tag": "forge:plates/gold"
   }
 }
