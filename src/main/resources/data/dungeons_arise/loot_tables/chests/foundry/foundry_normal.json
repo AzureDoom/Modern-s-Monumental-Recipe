@@ -13,15 +13,11 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:smithing_table"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:emerald_block"
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:glowstone_essence",
+          "name": "minecraft:glowstone_dust",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -34,40 +30,13 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:book",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 20,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:netherite_scrap",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 2,
-                "max": 4
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "mysticalagriculture:diamond_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 24
+                "min": 2,
+                "max": 8
               }
             }
           ]

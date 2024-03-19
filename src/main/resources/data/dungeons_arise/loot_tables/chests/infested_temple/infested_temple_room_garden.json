@@ -9,7 +9,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:nature_essence",
+          "name": "minecraft:beetroot",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -36,13 +36,13 @@
         {
           "type": "minecraft:item",
           "weight": 3,
-          "name": "minecraft:bread",
+          "name": "minecraft:birch_leaves",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 12
+                "min": 3,
+                "max": 8
               }
             }
           ]
@@ -50,46 +50,23 @@
       ]
     },
     {
-      "rolls": {
-        "min": 2,
-        "max": 3
-      },
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly"
-            }
-          ]
+          "name": "minecraft:chainmail_boots"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly"
-            }
-          ]
+          "name": "minecraft:chainmail_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly"
-            }
-          ]
+          "name": "minecraft:chainmail_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly"
-            }
-          ]
+          "name": "minecraft:chainmail_chestplate"
         }
       ]
     },
@@ -111,7 +88,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:iron_essence",
+          "name": "minecraft:bamboo",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -177,10 +154,7 @@
       ]
     },
     {
-      "rolls": {
-        "min": 1,
-        "max": 2
-      },
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
@@ -189,21 +163,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 8
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "mysticalagriculture:diamond_essence",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 4
+                "min": 2,
+                "max": 6
               }
             }
           ]
@@ -217,7 +178,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 3,
-                "max": 12
+                "max": 6
               }
             }
           ]
@@ -230,20 +191,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 12,
-                "max": 18
+                "min": 2,
+                "max": 4
               }
             }
           ]
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "minecraft:chests/simple_dungeon"
         }
       ]
     }

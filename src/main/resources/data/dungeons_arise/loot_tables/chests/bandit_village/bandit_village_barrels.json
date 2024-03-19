@@ -7,11 +7,6 @@
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:smithing_table"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
           "name": "minecraft:iron_helmet"
         },
         {
@@ -79,20 +74,20 @@
     },
     {
       "rolls": {
-        "min": 2,
-        "max": 3
+        "min": 1,
+        "max": 2
       },
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 8,
+          "weight": 24,
           "name": "minecraft:iron_nugget",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 32,
-                "max": 64
+                "min": 4,
+                "max": 16
               }
             }
           ]
@@ -100,27 +95,13 @@
         {
           "type": "minecraft:item",
           "weight": 16,
-          "name": "mysticalagriculture:gold_essence",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 2,
-                "max": 6
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 8,
           "name": "minecraft:gold_nugget",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
                 "min": 8,
-                "max": 48
+                "max": 16
               }
             }
           ]
@@ -133,8 +114,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 12
+                "min": 2,
+                "max": 4
               }
             }
           ]
@@ -189,16 +170,8 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "name": "minecraft:chests/village/village_desert_house"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "name": "minecraft:chests/village/village_weaponsmith"
-        },
-        {
           "type": "minecraft:empty",
-          "weight": 35
+          "weight": 100
         },
         {
           "type": "minecraft:loot_table",

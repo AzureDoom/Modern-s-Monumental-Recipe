@@ -25,12 +25,8 @@
       ]
     },
     {
-      "rolls": 2,
+      "rolls": 1,
       "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:smithing_table"
-        },
         {
           "type": "minecraft:item",
           "name": "minecraft:wither_rose"
@@ -96,7 +92,7 @@
       ]
     },
     {
-      "rolls": 2,
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
@@ -128,55 +124,19 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 0,
-                "max": 4
-              }
-            }
-          ]
+          "name": "minecraft:chainmail_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 0,
-                "max": 4
-              }
-            }
-          ]
+          "name": "minecraft:chainmail_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 0,
-                "max": 4
-              }
-            }
-          ]
+          "name": "minecraft:chainmail_boots"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 0,
-                "max": 4
-              }
-            }
-          ]
+          "name": "minecraft:chainmail_chestplate"
         },
         {
           "type": "minecraft:item",

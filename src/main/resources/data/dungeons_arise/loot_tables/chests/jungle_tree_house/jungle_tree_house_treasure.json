@@ -62,11 +62,11 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:smithing_table"
+          "name": "mysticalagriculture:diamond_essence"
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:diamond_essence"
+          "name": "minecraft:smithing_table"
         },
         {
           "type": "minecraft:item",
@@ -189,7 +189,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:nature_essence",
+          "name": "minecraft:pumpkin",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -202,7 +202,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:nature_essence",
+          "name": "minecraft:melon",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -228,7 +228,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:glowstone_essence",
+          "name": "minecraft:glowstone_dust",
           "functions": [
             {
               "function": "minecraft:set_count",

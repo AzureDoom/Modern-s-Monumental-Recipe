@@ -52,24 +52,10 @@
     },
     {
       "rolls": {
-        "min": 2,
-        "max": 3
+        "min": 1,
+        "max": 2
       },
       "entries": [
-        {
-          "type": "minecraft:item",
-          "weight": 5,
-          "name": "minecraft:smithing_table",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 1
-              }
-            }
-          ]
-        },
         {
           "type": "minecraft:item",
           "weight": 25,
@@ -78,8 +64,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 16
+                "min": 1,
+                "max": 6
               }
             }
           ]
@@ -92,8 +78,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 10
+                "min": 1,
+                "max": 4
               }
             }
           ]
@@ -101,16 +87,7 @@
         {
           "type": "minecraft:item",
           "weight": 15,
-          "name": "mysticalagriculture:diamond_essence",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 5
-              }
-            }
-          ]
+          "name": "mysticalagriculture:diamond_essence"
         },
         {
           "type": "minecraft:item",
@@ -120,8 +97,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 3,
-                "max": 8
+                "min": 2,
+                "max": 4
               }
             }
           ]

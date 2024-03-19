@@ -83,7 +83,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:nature_essence",
+          "name": "minecraft:beetroot",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -100,7 +100,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:nature_essence",
+          "name": "minecraft:bamboo",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -140,7 +140,7 @@
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "mysticalagriculture:nature_essence",
+          "name": "minecraft:potato",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -154,7 +154,7 @@
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "mysticalagriculture:nature_essence",
+          "name": "minecraft:wheat",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -168,7 +168,7 @@
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "mysticalagriculture:nature_essence",
+          "name": "minecraft:carrot",
           "functions": [
             {
               "function": "minecraft:set_count",

@@ -7,11 +7,6 @@
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:smithing_table"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
           "name": "minecraft:iron_helmet"
         },
         {
@@ -36,13 +31,13 @@
         {
           "type": "minecraft:item",
           "weight": 15,
-          "name": "minecraft:slime_ball",
+          "name": "mysticalagriculture:slime_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 4
+                "max": 2
               }
             }
           ]
@@ -51,20 +46,6 @@
           "type": "minecraft:item",
           "weight": 15,
           "name": "minecraft:fermented_spider_eye",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 4
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 8,
-          "name": "mysticalagriculture:enderman_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -91,8 +72,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 32,
-                "max": 64
+                "min": 4,
+                "max": 12
               }
             }
           ]
@@ -106,7 +87,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 2,
-                "max": 6
+                "max": 4
               }
             }
           ]
@@ -120,7 +101,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 8,
-                "max": 48
+                "max": 12
               }
             }
           ]
@@ -134,7 +115,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 12
+                "max": 8
               }
             }
           ]
@@ -193,16 +174,8 @@
           "name": "minecraft:chests/village/village_desert_house"
         },
         {
-          "type": "minecraft:loot_table",
-          "name": "minecraft:chests/village/village_weaponsmith"
-        },
-        {
           "type": "minecraft:empty",
-          "weight": 35
-        },
-        {
-          "type": "minecraft:loot_table",
-          "name": "minecraft:chests/desert_pyramid"
+          "weight": 100
         }
       ]
     }
