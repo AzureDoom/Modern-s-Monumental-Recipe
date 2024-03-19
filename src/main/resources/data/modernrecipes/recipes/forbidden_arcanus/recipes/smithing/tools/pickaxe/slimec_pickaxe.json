@@ -20,6 +20,6 @@
     "item": "forbidden_arcanus:slimec_pickaxe"
   },
   "template": {
-    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
+    "tag": "forge:plates/diamond"
   }
 }

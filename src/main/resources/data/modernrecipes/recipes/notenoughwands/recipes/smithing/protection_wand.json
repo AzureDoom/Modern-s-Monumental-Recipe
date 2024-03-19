@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "modernrecipes:keys"
+    "tag": "modernrecipes:keys"
   },
   "addition": {
     "item": "notenoughwands:advanced_wand_core"

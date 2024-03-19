@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "forbidden_arcanus:deorum_blacksmith_gavel"
+      "item": "forbidden_arcanus:diamond_blacksmith_gavel"
     },
     {
       "tag": "forge:ingots/netherite"

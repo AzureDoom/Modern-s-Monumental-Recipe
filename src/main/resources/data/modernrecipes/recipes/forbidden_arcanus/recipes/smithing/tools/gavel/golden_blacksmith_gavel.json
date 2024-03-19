@@ -20,6 +20,6 @@
     "item": "forbidden_arcanus:golden_blacksmith_gavel"
   },
   "template": {
-    "item": "apotheotic_additions:iron_upgrade_smithing_template"
+    "tag": "forge:plates/iron"
   }
 }
