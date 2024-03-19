@@ -9,7 +9,7 @@
       "item": "minecraft:chainmail_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:chainmail_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:iron_chestplate"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }

@@ -9,7 +9,7 @@
       "item": "minecraft:chainmail_helmet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:chainmail_helmet"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:iron_helmet"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }

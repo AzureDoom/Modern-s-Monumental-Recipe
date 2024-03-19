@@ -9,7 +9,7 @@
       "item": "minecraft:golden_leggings"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:golden_leggings"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:diamond_leggings"
+  },
+  "template": {
+    "tag": "forge:plates/diamond"
   }
 }

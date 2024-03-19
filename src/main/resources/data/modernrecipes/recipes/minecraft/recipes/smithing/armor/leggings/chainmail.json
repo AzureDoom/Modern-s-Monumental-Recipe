@@ -9,7 +9,7 @@
       "item": "minecraft:chainmail_leggings"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:leather_leggings"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:chainmail_leggings"
+  },
+  "template": {
+    "tag": "forge:leather"
   }
 }
