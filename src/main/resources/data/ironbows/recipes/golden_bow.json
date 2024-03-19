@@ -20,6 +20,6 @@
     "item": "ironbows:golden_bow"
   },
   "template": {
-    "tags": "forge:plates/gold"
+    "tag": "forge:plates/gold"
   }
 }

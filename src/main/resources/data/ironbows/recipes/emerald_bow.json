@@ -20,6 +20,6 @@
     "item": "ironbows:emerald_bow"
   },
   "template": {
-    "tags": "forge:plates/emerald"
+    "tag": "forge:plates/emerald"
   }
 }
