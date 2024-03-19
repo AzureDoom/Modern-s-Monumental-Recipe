@@ -13,7 +13,7 @@
       "item": "mysticalagriculture:enderman_essence"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mysticalagriculture:enderman_essence"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "notenoughwands:teleportation_wand"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }
