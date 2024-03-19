@@ -20,6 +20,6 @@
     "item": "naturesaura:sky_helmet"
   },
   "template": {
-    "tags": "forge:plates/diamond"
+    "tag": "forge:plates/diamond"
   }
 }

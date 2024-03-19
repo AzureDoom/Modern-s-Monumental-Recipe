@@ -20,6 +20,6 @@
     "item": "naturesaura:infused_iron_pickaxe"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

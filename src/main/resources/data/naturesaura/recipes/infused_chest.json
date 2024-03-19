@@ -20,6 +20,6 @@
     "item": "naturesaura:infused_iron_chest"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

@@ -20,6 +20,6 @@
     "item": "naturesaura:depth_axe"
   },
   "template": {
-    "tags": "forge:plates/diamond"
+    "tag": "forge:plates/diamond"
   }
 }
