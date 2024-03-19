@@ -1,6 +1,5 @@
 {
   "values": [
-    "minecraft:iron_golem",
-    "#monumental:mob_spawner_blacklist"
+    "minecraft:iron_golem"
   ]
 }

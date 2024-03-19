@@ -1,6 +1,8 @@
 {
     "replace": false,
     "values": [
+        "ae2:smooth_sky_stone_chest",
+        "ae2:chest",
         "echochest:echo_chest",
         "ironchest:iron_chest",
         "ironchest:gold_chest",
@@ -9,8 +11,6 @@
         "ironchest:crystal_chest",
         "ironchest:obsidian_chest",
         "ironchest:dirt_chest",
-        "ae2:smooth_sky_stone_chest",
-        "mekanism:personal_chest",
-        "securitycraft:keypad_chest"
+        "mekanism:personal_chest"
     ]
 }
