@@ -1,4 +1,6 @@
 v0.15
 
 - Added bk Most of all Smithing table recipe
-- Fixed Broken Custom Chian tag
+- Fixed Broken Custom Chain tag
+- Fixed more Broken Tags Hopefully
+- Fixed Broken Gear Recipe
