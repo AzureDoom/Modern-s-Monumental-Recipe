@@ -121,7 +121,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:slime_essence",
+          "name": "mysticalagriculture:slime_essence"
         }
       ]
     },

@@ -20,6 +20,6 @@
     "item": "ae2:certus_quartz_sword"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

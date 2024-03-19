@@ -1,4 +1,14 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "psi"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "psi:cad_assembler"
+    }
+  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

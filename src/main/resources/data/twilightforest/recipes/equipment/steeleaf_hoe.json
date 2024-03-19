@@ -20,5 +20,5 @@
     "item": "twilightforest:steeleaf_hoe"
   },
   "template": {
-    "tags": "forge:plates/diamond"
+    "tag": "forge:plates/diamond"
   }

@@ -20,6 +20,6 @@
     "item": "ae2:nether_quartz_axe"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

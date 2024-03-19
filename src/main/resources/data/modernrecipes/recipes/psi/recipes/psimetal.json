@@ -1,4 +1,14 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "psi"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "psi:trick_infusion"
+    }
+  ],
   "type": "psi:trick_crafting",
   "cad": {
     "item": "psi:cad_assembly_iron"

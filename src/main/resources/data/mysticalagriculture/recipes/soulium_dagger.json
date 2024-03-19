@@ -20,6 +20,6 @@
     "item": "mysticalagriculture:soulium_dagger"
   },
   "template": {
-    "item": "apotheotic_additions:golden_upgrade_smithing_template"
+    "tag": "forge:plates/gold"
   }
 }
