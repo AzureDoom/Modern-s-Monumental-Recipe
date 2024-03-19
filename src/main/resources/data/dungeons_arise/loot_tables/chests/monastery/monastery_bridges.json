@@ -92,10 +92,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:smithing_table"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:crossbow"
         },
         {

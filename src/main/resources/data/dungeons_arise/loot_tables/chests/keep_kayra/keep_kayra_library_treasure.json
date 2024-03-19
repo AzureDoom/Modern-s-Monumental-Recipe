@@ -18,6 +18,7 @@
               "destination": "dungeons_arise:shiraz_palace",
               "decoration": "target_x",
               "zoom": 2,
+              "search_radius": 100,
               "skip_existing_chunks": false
             }
           ]
@@ -71,17 +72,7 @@
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_sword",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 20,
-                "max": 25
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:diamond_sword"
         },
         {
           "type": "minecraft:item",
@@ -115,41 +106,6 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 8,
-          "name": "minecraft:diamond_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 20,
-                "max": 25
-              },
-              "treasure": true
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 8,
-          "name": "minecraft:diamond_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 20,
-                "max": 25
-              },
-              "treasure": true
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 2,
-          "name": "minecraft:netherite_helmet"
-        },
-        {
-          "type": "minecraft:item",
           "weight": 15,
           "name": "mysticalagriculture:enderman_essence",
           "functions": [
@@ -165,7 +121,7 @@
       ]
     },
     {
-      "rolls": 3,
+      "rolls": 2,
       "entries": [
         {
           "type": "minecraft:item",
@@ -175,8 +131,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 16
+                "min": 2,
+                "max": 8
               }
             }
           ]
@@ -189,8 +145,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 6,
-                "max": 10
+                "min": 2,
+                "max": 8
               }
             }
           ]
@@ -203,8 +159,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 6
+                "min": 1,
+                "max": 2
               }
             }
           ]

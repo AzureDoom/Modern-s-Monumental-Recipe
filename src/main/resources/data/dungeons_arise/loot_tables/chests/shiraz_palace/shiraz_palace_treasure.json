@@ -5,6 +5,50 @@
       "rolls": 1,
       "entries": [
         {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
           "type": "minecraft:empty",
           "weight": 1
         },
@@ -26,7 +70,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 500
+          "weight": 1000
         },
         {
           "type": "minecraft:item",
@@ -57,87 +101,19 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:tipped_arrow",
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{CustomPotionEffects:[{Id:2b,Amplifier:4b,Duration:600}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 8
-              }
-            }
-          ]
+          "name": "minecraft:diamond_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:tipped_arrow",
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{CustomPotionEffects:[{Id:20b,Amplifier:4b,Duration:30},{Id:25b,Amplifier:6b,Duration:600}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 8
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "rolls": {
-        "min": 2,
-        "max": 3
-      },
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:diamond_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 15,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:smithing_table"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 15,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:diamond_boots"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 15,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:diamond_leggings"
         },
         {
           "type": "minecraft:item",
@@ -155,51 +131,13 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_pickaxe",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 15,
-                "max": 25
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:netherite_sword",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 15,
-                "max": 25
-              }
-            }
-          ]
+          "name": "minecraft:diamond_pickaxe"
         }
       ]
     },
     {
-      "rolls": {
-        "min": 2,
-        "max": 3
-      },
+      "rolls": 2,
       "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:smithing_table",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 1
-              }
-            }
-          ]
-        },
         {
           "type": "minecraft:item",
           "name": "mysticalagriculture:gold_essence",
@@ -207,8 +145,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 24,
-                "max": 48
+                "min": 1,
+                "max": 8
               }
             }
           ]
@@ -220,8 +158,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 12,
-                "max": 48
+                "min": 1,
+                "max": 12
               }
             }
           ]
@@ -233,8 +171,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 30,
-                "max": 48
+                "min": 1,
+                "max": 3
               }
             }
           ]

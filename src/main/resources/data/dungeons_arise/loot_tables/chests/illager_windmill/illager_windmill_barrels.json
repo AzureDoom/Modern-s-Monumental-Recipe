@@ -6,19 +6,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:smithing_table",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 2
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "mysticalagriculture:redstone_essence",
           "functions": [
             {
@@ -71,7 +58,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:nature_essence",
+          "name": "minecraft:wheat",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -109,57 +96,27 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_sword",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 10
-            }
-          ]
+          "name": "minecraft:diamond_sword"
         },
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:iron_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 10
-            }
-          ]
+          "name": "minecraft:iron_helmet"
         },
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:iron_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 10
-            }
-          ]
+          "name": "minecraft:iron_leggings"
         },
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:iron_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 10
-            }
-          ]
+          "name": "minecraft:iron_chestplate"
         },
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:iron_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 10
-            }
-          ]
+          "name": "minecraft:iron_boots"
         }
       ]
     },
@@ -176,8 +133,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 24,
-                "max": 32
+                "min": 12,
+                "max": 24
               }
             }
           ]
@@ -189,8 +146,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 14
+                "min": 2,
+                "max": 8
               }
             }
           ]
@@ -202,8 +159,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 16
+                "min": 2,
+                "max": 10
               }
             }
           ]
@@ -222,10 +179,6 @@
               "tag": "{display:{Name:'{\"text\":\"Beer\",\"color\":\"gold\",\"bold\":true,\"italic\":false}'},CustomPotionEffects:[{Id:1b,Amplifier:1b,Duration:4800},{Id:3b,Amplifier:1b,Duration:4800},{Id:10b,Amplifier:0b,Duration:4800},{Id:18b,Amplifier:3b,Duration:9600}],CustomPotionColor:15794030}"
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:iron_hoe"
         },
         {
           "type": "minecraft:item",

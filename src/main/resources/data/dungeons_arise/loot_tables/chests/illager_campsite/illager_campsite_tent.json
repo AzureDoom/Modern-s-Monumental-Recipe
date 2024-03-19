@@ -9,29 +9,15 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:book",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 8,
-                "max": 18
-              }
-            }
-          ]
+          "name": "minecraft:book"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:book",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 2
-              }
-            }
-          ]
+          "name": "minecraft:smithing_table"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book"
         },
         {
           "type": "minecraft:item",
@@ -66,29 +52,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_sword",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 10,
-                "max": 18
-              }
-            }
-          ]
+          "name": "minecraft:iron_sword"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:stone_sword",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 8,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:stone_sword"
         }
       ]
     },
@@ -101,46 +69,22 @@
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "minecraft:iron_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 12
-            }
-          ]
+          "name": "minecraft:iron_boots"
         },
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "minecraft:iron_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 12
-            }
-          ]
+          "name": "minecraft:iron_leggings"
         },
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "minecraft:iron_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 12
-            }
-          ]
+          "name": "minecraft:iron_helmet"
         },
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "minecraft:iron_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 12
-            }
-          ]
+          "name": "minecraft:iron_chestplate"
         }
       ]
     },
@@ -152,55 +96,19 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:golden_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 10,
-                "max": 12
-              }
-            }
-          ]
+          "name": "minecraft:golden_boots"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:golden_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 10,
-                "max": 12
-              }
-            }
-          ]
+          "name": "minecraft:golden_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 10,
-                "max": 12
-              }
-            }
-          ]
+          "name": "minecraft:leather_chestplate"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 10,
-                "max": 12
-              }
-            }
-          ]
+          "name": "minecraft:leather_helmet"
         }
       ]
     },
