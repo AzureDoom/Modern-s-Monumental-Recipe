@@ -9,7 +9,7 @@
       "item": "modularrouters:breaker_module"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "forge:tools/pickaxe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "modularrouters:breaker_module"
+  },
+  "template": {
+    "tag": "forge:dirt"
   }
 }
