@@ -20,6 +20,6 @@
     "item": "twilightforest:ironwood_pickaxe"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

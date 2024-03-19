@@ -20,6 +20,6 @@
     "item": "twilightforest:ironwood_hoe"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

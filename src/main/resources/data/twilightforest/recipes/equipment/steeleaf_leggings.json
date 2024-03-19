@@ -20,6 +20,6 @@
     "item": "twilightforest:steeleaf_leggings"
   },
   "template": {
-    "tags": "forge:plates/diamond"
+    "tag": "forge:plates/diamond"
   }
 }
