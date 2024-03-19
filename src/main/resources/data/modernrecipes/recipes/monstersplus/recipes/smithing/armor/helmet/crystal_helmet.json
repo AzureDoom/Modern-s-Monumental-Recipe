@@ -9,7 +9,7 @@
       "item": "monsterplus:crystal_helmet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:golden_helmet"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "monsterplus:crystal_helmet"
+  },
+  "template": {
+    "tag": "forge:plates/gold"
   }
 }
