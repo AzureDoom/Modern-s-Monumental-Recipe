@@ -13,7 +13,7 @@
       "item": "easy_mob_farm:catch_cage_small"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "easy_mob_farm:catch_cage_small"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "notenoughwands:capturing_wand"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }
