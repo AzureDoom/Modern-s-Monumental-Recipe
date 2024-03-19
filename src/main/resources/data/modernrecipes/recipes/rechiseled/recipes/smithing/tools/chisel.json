@@ -9,7 +9,7 @@
       "item": "rechiseled:chisel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "chiselsandbits:chisel_stone"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "rechiseled:chisel"
+  },
+  "template": {
+    "tag": "forge:stone"
   }
 }
