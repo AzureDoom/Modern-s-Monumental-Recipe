@@ -13,7 +13,7 @@
       "item": "createchromaticreturn:glowing_ingot"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "createchromaticreturn:glowing_ingot"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "notenoughwands:illumination_wand"
+  },
+  "template": {
+    "tag": "forge:plates/gold"
   }
 }
