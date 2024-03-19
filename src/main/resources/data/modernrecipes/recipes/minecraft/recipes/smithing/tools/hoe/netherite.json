@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "create_weaponry:diamond_hoe_head"
+    "item": "minecraft:diamond_hoe"
   },
   "addition": {
     "tag": "forge:storage_blocks/netherite"

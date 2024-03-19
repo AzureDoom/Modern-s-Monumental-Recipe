@@ -1,0 +1,40 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "reliquary:handgun_enabled"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "B": {
+            "item": "reliquary:barrel_assembly"
+          },
+          "G": {
+            "item": "reliquary:grip_assembly"
+          },
+          "I": {
+            "tag": "forge:ingots/compressed_iron"
+          },
+          "M": {
+            "item": "reliquary:hammer_assembly"
+          },
+          "S": {
+            "item": "reliquary:slime_pearl"
+          }
+        },
+        "pattern": [
+          "BIM",
+          "ISI",
+          "IGI"
+        ],
+        "result": {
+          "item": "reliquary:handgun"
+        }
+      }
+    }
+  ]
+}

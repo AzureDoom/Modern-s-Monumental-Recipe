@@ -20,6 +20,6 @@
     "item": "doom:painter_doom_chestplate"
   },
   "template": {
-    "tags": "minecraft:netherite_upgrade_smithing_template"
+    "tag": "minecraft:netherite_upgrade_smithing_template"
   }
 }

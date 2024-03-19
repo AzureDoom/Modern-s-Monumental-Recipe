@@ -96,7 +96,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:coal",
+          "name": "mysticalagriculture:coal_essence",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -156,7 +156,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:gold_essence",
+          "name": "mysticalagriculture:gold_essence"
         },
         {
           "type": "minecraft:item",

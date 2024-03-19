@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "tag": "forge:wools/black"
+    },
+    "C": {
+      "item": "reliquary:crimson_cloth"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "pattern": [
+    "ICI",
+    "BCB",
+    "BCB"
+  ],
+  "result": {
+    "item": "reliquary:twilight_cloak"
+  }
+}

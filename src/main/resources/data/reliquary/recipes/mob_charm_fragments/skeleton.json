@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "reliquary:rib_bone"
+    },
+    "S": {
+      "tag": "forge:bones"
+    },
+    "T": {
+      "item": "minecraft:flint"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "STS",
+    "PPP"
+  ],
+  "result": {
+    "item": "reliquary:mob_charm_fragment",
+    "nbt": "{entity:\"minecraft:skeleton\"}"
+  }
+}

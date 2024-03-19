@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "N": {
+      "item": "reliquary:nebulous_heart"
+    }
+  },
+  "pattern": [
+    "NG",
+    "IN"
+  ],
+  "result": {
+    "item": "reliquary:magicbane"
+  }
+}

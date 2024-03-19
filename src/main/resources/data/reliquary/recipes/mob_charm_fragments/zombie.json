@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "reliquary:zombie_heart"
+    },
+    "S": {
+      "item": "mysticalagriculture:zombie_essence"
+    },
+    "T": {
+      "tag": "forge:bones"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "STS",
+    "PPP"
+  ],
+  "result": {
+    "item": "reliquary:mob_charm_fragment",
+    "nbt": "{entity:\"minecraft:zombie\"}"
+  }
+}

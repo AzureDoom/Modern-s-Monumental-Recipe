@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "reliquary:chelicerae"
+    },
+    "E": {
+      "tag": "modernrecipes:eyes"
+    },
+    "K": {
+      "item": "reliquary:kraken_shell_fragment"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    " CE",
+    " KC",
+    "S  "
+  ],
+  "result": {
+    "item": "reliquary:serpent_staff"
+  }
+}
