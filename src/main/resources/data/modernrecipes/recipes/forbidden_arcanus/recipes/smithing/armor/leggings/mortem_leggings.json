@@ -20,6 +20,6 @@
     "item": "forbidden_arcanus:mortem_leggings"
   },
   "template": {
-    "tags": "modernrecipes:chains"
+    "tag": "modernrecipes:chains"
   }
 }
