@@ -9,7 +9,7 @@
       "item": "forbidden_arcanus:mortem_helmet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:chainmail_helmet"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forbidden_arcanus:mortem_helmet"
+  },
+  "template": {
+    "tags": "modernrecipes:chains"
   }
 }
