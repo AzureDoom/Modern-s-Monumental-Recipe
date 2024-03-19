@@ -20,7 +20,7 @@
         {
           "type": "minecraft:item",
           "weight": 50,
-          "name": "mysticalagriculture:diamond_essence",
+          "name": "mysticalagriculture:diamond_essence"
         },
         {
           "type": "minecraft:item",

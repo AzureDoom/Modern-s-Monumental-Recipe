@@ -7,7 +7,7 @@
     {
       "type": "forge:item_exists",
       "item": "notenoughwands:building_wand"
-    },
+    }
   ],
   "type": "minecraft:smithing_transform",
   "base": {
