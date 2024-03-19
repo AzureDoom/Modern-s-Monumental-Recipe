@@ -9,14 +9,17 @@
       "item": "minecraft:golden_shovel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
-    "item": "create_weaponry:iron_shovel_head"
+    "item": "minecraft:iron_shovel"
   },
   "addition": {
     "tag": "forge:ingots/gold"
   },
   "result": {
     "item": "minecraft:golden_shovel"
+  },
+  "template": {
+    "tag": "forge:plates/gold"
   }
 }
