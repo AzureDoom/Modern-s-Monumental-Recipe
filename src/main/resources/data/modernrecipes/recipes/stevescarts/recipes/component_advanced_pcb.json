@@ -1,4 +1,18 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "stevescarts"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "stevescarts:component_advanced_pcb"
+    }
+  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "#X#",

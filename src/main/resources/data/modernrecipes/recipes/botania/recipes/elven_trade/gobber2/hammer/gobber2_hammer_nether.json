@@ -5,6 +5,10 @@
       "modid": "botania"
     },
     {
+      "type": "forge:mod_loaded",
+      "modid": "hexerei"
+    },
+    {
       "type": "forge:item_exists",
       "item": "gobber2:gobber2_hammer_nether"
     }

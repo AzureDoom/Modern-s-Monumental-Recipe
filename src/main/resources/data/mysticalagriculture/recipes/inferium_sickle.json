@@ -24,6 +24,6 @@
     "item": "mysticalagriculture:inferium_sickle"
   },
   "template": {
-    "item": "apotheotic_additions:diamond_upgrade_smithing_template"
+    "tag": "forge:plates/diamond"
   }
 }
