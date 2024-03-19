@@ -9,7 +9,7 @@
       "item": "notenoughwands:acceleration_wand"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "modernrecipes:clocks"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "notenoughwands:acceleration_wand"
+  },
+  "template": {
+    "tag": "modernrecipes:clocks"
   }
 }
