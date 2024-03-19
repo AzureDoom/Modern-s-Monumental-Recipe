@@ -13,7 +13,7 @@
       "item": "sophisticatedbackpacks:tool_swapper_upgrade"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "sophisticatedbackpacks:tool_swapper_upgrade"
   },
@@ -22,5 +22,8 @@
   },
   "result": {
     "item": "notenoughwands:swapping_wand"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }
