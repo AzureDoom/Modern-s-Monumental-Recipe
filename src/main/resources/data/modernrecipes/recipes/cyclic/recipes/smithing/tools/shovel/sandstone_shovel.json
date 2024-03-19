@@ -20,6 +20,6 @@
     "item": "cyclic:sandstone_shovel"
   },
   "template": {
-    "tags": "forge:sandstone"
+    "tag": "forge:sandstone"
   }
 }

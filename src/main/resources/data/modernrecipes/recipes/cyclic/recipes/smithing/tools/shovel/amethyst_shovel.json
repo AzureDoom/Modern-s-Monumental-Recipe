@@ -20,6 +20,6 @@
     "item": "cyclic:amethyst_shovel"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

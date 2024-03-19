@@ -20,9 +20,6 @@
     "item": "cyclic:amethyst_hoe"
   },
   "template": {
-    "tags": "forge:plates/iron"
-  },
-  "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }
