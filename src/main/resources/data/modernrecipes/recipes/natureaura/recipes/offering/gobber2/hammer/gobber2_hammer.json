@@ -7,6 +7,10 @@
     {
       "type": "forge:item_exists",
       "item": "gobber2:gobber2_hammer"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "hexerei:warhammer"
     }
   ],
   "type": "naturesaura:offering",
