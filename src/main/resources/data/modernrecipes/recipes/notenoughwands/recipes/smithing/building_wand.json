@@ -8,19 +8,18 @@
       "type": "forge:item_exists",
       "item": "notenoughwands:building_wand"
     },
-    {
-      "type": "forge:item_exists",
-      "item": "buildinggadgets:construction_paste"
-    }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
-    "item": "buildinggadgets:construction_paste"
+    "tag": "chipped:bricks"
   },
   "addition": {
     "item": "notenoughwands:wand_core"
   },
   "result": {
     "item": "notenoughwands:building_wand"
+  },
+  "template": {
+    "tag": "chipped:bricks"
   }
 }
