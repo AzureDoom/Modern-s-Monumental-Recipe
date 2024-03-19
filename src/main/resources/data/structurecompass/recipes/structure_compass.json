@@ -20,6 +20,6 @@
     "item": "structurecompass:structure_compass"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }
