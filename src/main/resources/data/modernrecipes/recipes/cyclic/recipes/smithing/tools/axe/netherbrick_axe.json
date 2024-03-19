@@ -20,6 +20,6 @@
     "item": "cyclic:netherbrick_axe"
   },
   "template": {
-    "tags": "forge:netherrack"
+    "tag": "forge:netherrack"
   }
 }
