@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "create_weaponry:golden_pickaxe_head"
+    "item": "minecraft:golden_pickaxe"
   },
   "addition": {
     "tag": "forge:gems/diamond"
