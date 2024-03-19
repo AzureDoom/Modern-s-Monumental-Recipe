@@ -9,7 +9,7 @@
       "item": "monsterplus:crystal_boots"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:golden_boots"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "monsterplus:crystal_boots"
+  },
+  "template": {
+    "tag": "forge:plates/gold"
   }
 }
