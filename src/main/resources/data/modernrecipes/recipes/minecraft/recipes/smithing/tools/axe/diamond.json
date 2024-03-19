@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "create_weaponry:golden_axe_head"
+    "item": "minecraft:golden_axe"
   },
   "addition": {
     "tag": "forge:gems/diamond"
