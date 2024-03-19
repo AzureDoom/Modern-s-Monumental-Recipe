@@ -20,6 +20,6 @@
     "item": "cyclic:emerald_pickaxe"
   },
   "template": {
-    "tags": "forge:plates/emerald"
+    "tag": "forge:plates/emerald"
   }
 }

@@ -20,6 +20,6 @@
     "item": "cyclic:netherbrick_pickaxe"
   },
   "template": {
-    "tags": "forge:netherrack"
+    "tag": "forge:netherrack"
   }
 }

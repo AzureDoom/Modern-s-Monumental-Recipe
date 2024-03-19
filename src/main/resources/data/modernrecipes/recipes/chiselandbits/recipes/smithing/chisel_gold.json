@@ -20,6 +20,6 @@
     "item": "chiselsandbits:chisel_gold"
   },
   "template": {
-    "tags": "forge:plates/gold"
+    "tag": "forge:plates/gold"
   }
 }

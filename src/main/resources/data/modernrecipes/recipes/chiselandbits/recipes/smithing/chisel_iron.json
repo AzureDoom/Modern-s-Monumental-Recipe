@@ -20,6 +20,6 @@
     "item": "chiselsandbits:chisel_iron"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

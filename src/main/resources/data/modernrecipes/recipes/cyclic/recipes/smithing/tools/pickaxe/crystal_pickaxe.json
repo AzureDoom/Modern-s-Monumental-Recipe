@@ -20,6 +20,6 @@
     "item": "cyclic:crystal_pickaxe"
   },
   "template": {
-    "tags": "minecraft:netherite_upgrade_smithing_template"
+    "tag": "minecraft:netherite_upgrade_smithing_template"
   }
 }

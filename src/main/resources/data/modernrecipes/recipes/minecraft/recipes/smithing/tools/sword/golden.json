@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "create_weaponry:iron_sword_head"
+    "item": "minecraft:iron_sword"
   },
   "addition": {
     "tag": "forge:ingots/gold"
