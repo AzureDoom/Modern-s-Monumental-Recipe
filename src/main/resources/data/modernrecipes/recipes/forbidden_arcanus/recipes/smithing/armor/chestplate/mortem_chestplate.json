@@ -9,7 +9,7 @@
       "item": "forbidden_arcanus:mortem_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:chainmail_chestplate"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forbidden_arcanus:mortem_chestplate"
+  },
+  "template": {
+    "tags": "modernrecipes:chains"
   }
 }
