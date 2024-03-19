@@ -20,6 +20,6 @@
     "item": "explorerscompass:explorerscompass"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }
