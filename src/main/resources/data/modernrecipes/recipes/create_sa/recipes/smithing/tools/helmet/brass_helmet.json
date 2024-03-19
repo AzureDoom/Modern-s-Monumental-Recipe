@@ -20,6 +20,6 @@
     "item": "create_sa:brass_helmet"
   },
   "template": {
-    "tags": "forge:plates/brass"
+    "tag": "forge:plates/brass"
   }
 }

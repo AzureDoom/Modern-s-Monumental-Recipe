@@ -20,6 +20,6 @@
     "item": "create_sa:copper_helmet"
   },
   "template": {
-    "tags": "forge:plates/copper"
+    "tag": "forge:plates/copper"
   }
 }

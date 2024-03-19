@@ -20,6 +20,6 @@
     "item": "create_sa:zinc_pickaxe"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

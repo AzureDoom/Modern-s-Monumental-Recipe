@@ -20,6 +20,6 @@
     "item": "create_sa:copper_boots"
   },
   "template": {
-    "tags": "forge:plates/copper"
+    "tag": "forge:plates/copper"
   }
 }

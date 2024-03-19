@@ -20,6 +20,6 @@
     "item": "create_sa:zinc_helmet"
   },
   "template": {
-    "tags": "forge:plates/zinc"
+    "tag": "forge:plates/zinc"
   }
 }

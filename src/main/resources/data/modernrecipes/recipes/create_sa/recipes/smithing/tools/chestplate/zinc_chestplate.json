@@ -20,6 +20,6 @@
     "item": "create_sa:zinc_chestplate"
   },
   "template": {
-    "tags": "forge:plates/zinc"
+    "tag": "forge:plates/zinc"
   }
 }

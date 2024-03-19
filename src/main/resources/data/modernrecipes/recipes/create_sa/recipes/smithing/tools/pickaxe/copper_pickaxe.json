@@ -20,6 +20,6 @@
     "item": "create_sa:copper_pickaxe"
   },
   "template": {
-    "tags": "forge:plates/copper"
+    "tag": "forge:plates/copper"
   }
 }

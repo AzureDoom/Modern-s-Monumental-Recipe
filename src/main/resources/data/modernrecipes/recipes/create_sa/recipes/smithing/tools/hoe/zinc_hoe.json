@@ -20,6 +20,6 @@
     "item": "create_sa:zinc_hoe"
   },
   "template": {
-    "tags": "forge:plates/zinc"
+    "tag": "forge:plates/zinc"
   }
 }

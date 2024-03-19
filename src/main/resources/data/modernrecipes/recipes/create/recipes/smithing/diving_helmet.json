@@ -24,6 +24,6 @@
     "item": "create:diving_helmet"
   },
   "template": {
-    "tags": "forge:plates/copper"
+    "tag": "forge:plates/copper"
   }
 }
