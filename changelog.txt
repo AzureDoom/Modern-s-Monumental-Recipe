@@ -1,2 +1,3 @@
-v0.82
-- Added New Doom Recipes
+v0.83
+- Fixed Dungeon Arise Loot Tables
+- Added Enchanter Infuser Harder Recipes
