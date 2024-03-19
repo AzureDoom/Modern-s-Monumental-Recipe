@@ -7,6 +7,10 @@
     {
       "type": "forge:item_exists",
       "item": "mysticalagriculture:inferium_shears"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "bettershears3:diamond_shears"
     }
   ],
   "type": "naturesaura:offering",
