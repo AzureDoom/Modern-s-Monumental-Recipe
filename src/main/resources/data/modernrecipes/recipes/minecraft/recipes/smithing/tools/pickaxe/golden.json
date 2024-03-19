@@ -9,7 +9,7 @@
       "item": "minecraft:golden_pickaxe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "create_weaponry:iron_pickaxe_head"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:golden_pickaxe"
+  },
+  "template": {
+    "tag": "forge:plates/gold"
   }
 }
