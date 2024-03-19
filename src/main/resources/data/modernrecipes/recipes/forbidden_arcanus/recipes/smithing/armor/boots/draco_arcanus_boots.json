@@ -20,6 +20,6 @@
     "item": "forbidden_arcanus:draco_arcanus_boots"
   },
   "template": {
-    "tags": "minecraft:netherite_upgrade_smithing_template"
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
