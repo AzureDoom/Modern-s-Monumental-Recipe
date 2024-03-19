@@ -147,7 +147,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:diamond_essence",
+          "name": "mysticalagriculture:diamond_essence"
         },
         {
           "type": "minecraft:item",

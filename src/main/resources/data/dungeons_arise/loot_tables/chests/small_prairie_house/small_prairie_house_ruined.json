@@ -156,7 +156,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:gold_essence",
+          "name": "mysticalagriculture:gold_essence"
         },
         {
           "type": "minecraft:item",

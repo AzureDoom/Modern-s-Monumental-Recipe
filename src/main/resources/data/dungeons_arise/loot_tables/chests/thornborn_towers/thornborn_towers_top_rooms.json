@@ -93,7 +93,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "mysticalagriculture:spider_essence",
+          "name": "mysticalagriculture:spider_essence"
         },
         {
           "type": "minecraft:item",
