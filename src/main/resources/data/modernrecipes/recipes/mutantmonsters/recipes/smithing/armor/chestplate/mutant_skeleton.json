@@ -9,7 +9,7 @@
       "item": "mutantmonsters:mutant_skeleton_chestplate"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "mutantmonsters:mutant_skeleton_arms"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "mutantmonsters:mutant_skeleton_chestplate"
+  },
+  "template": {
+    "tag": "modernrecipes:chiains"
   }
 }
