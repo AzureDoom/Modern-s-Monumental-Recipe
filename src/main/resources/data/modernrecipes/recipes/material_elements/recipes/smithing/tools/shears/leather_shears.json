@@ -9,7 +9,7 @@
       "item": "material_elements:leather_shears"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:shears"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "material_elements:leather_shears"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }
