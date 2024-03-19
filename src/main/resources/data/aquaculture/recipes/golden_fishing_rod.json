@@ -20,6 +20,6 @@
     "item": "aquaculture:gold_fishing_rod"
   },
   "template": {
-    "item": "apotheotic_additions:iron_upgrade_smithing_template"
+    "tag": "forge:plates/iron"
   }
 }

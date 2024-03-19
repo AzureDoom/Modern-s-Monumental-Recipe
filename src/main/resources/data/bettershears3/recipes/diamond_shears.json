@@ -20,6 +20,6 @@
     "item": "bettershears3:diamond_shears"
   },
   "template": {
-    "tags": "forge:plates/diamond"
+    "tag": "forge:plates/diamond"
   }
 }
