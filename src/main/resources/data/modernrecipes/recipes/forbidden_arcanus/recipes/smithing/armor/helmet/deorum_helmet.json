@@ -9,7 +9,7 @@
       "item": "forbidden_arcanus:deorum_helmet"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_helmet"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forbidden_arcanus:deorum_helmet"
+  },
+  "template": {
+    "tags": "minecraft:netherite_upgrade_smithing_template"
   }
 }
