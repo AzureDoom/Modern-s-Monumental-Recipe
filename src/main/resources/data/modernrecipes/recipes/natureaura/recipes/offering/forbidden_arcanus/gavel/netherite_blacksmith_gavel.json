@@ -14,7 +14,7 @@
         "tag": "forge:ingots/netherite"
     },
     "start_item": {
-        "item": "forbidden_arcanus:deorum_blacksmith_gavel"
+        "item": "forbidden_arcanus:diamondW_blacksmith_gavel"
     },
     "output": {
         "item": "forbidden_arcanus:netherite_blacksmith_gavel"

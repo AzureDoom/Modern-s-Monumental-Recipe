@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ad_astra:wrench",
+    "additionaladditions:wrench",
+    "essentials:circuit_wrench",
+    "forcecraft:force_wrench",
+    "refinedstorage:wrench"
+  ]
+}

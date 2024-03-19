@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "mutantmonsters:mutant_skeleton_lib"
+      "item": "mutantmonsters:mutant_skeleton_limb"
     },
     {
       "item": "minecraft:iron_leggings"
