@@ -20,6 +20,6 @@
     "item": "undergarden:utherium_shovel"
   },
   "template": {
-    "tags": "forge:plates/diamond"
+    "tag": "forge:plates/diamond"
   }
 }

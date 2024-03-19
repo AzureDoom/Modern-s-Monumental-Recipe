@@ -20,6 +20,6 @@
     "item": "undergarden:froststeel_boots"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }
