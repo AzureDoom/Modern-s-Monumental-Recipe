@@ -9,7 +9,7 @@
       "item": "minecraft:crossbow"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:tripwire_hook"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:crossbow"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }

@@ -9,7 +9,7 @@
       "item": "minecraft:iron_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:stone_axe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:iron_axe"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }

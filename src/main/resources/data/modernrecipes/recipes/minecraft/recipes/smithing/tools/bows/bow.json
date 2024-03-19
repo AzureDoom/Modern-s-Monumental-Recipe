@@ -9,7 +9,7 @@
       "item": "minecraft:bow"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "forge:string"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:bow"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }

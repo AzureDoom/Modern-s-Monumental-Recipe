@@ -9,7 +9,7 @@
       "item": "minecraft:netherite_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "create_weaponry:diamond_axe_head"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:netherite_axe"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }

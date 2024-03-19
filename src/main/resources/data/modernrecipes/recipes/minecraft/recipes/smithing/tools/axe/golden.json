@@ -9,7 +9,7 @@
       "item": "minecraft:golden_axe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "create_weaponry:iron_axe_head"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:golden_axe"
+  },
+  "template": {
+    "tag": "forge:plates/gold"
   }
 }
