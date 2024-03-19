@@ -7,20 +7,19 @@
     {
       "type": "forge:item_exists",
       "item": "notenoughwands:protection_wand"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "viescraftmachines:tool_ignition_key"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
-    "item": "viescraftmachines:tool_ignition_key"
+    "item": "modernrecipes:keys"
   },
   "addition": {
     "item": "notenoughwands:advanced_wand_core"
   },
   "result": {
     "item": "notenoughwands:protection_wand"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }
