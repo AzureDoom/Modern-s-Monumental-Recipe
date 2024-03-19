@@ -9,7 +9,7 @@
       "item": "minecraft:netherite_shovel"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "create_weaponry:diamond_shovel_head"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:netherite_shovel"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
