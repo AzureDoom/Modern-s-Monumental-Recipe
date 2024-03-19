@@ -42,6 +42,10 @@
     "additionallanterns:weathered_copper_chain",
     "cyclic:gold_chain",
     "cyclic:copper_chain",
+    "cyclic:netherite_chain",
+    "decorative_blocks:chain",
+    "forbidden_arcanus:deorum_chain",
+    "littlelogistics:spring",
     "enderio:soul_chain"
   ]
 }
