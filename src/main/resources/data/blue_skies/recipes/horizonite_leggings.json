@@ -20,6 +20,6 @@
     "item": "blue_skies:horizonite_leggings"
   },
   "template": {
-    "tags": "forge:plates/diamond"
+    "tag": "forge:plates/diamond"
   }
 }

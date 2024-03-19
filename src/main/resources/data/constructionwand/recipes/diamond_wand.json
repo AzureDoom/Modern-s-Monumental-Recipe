@@ -24,6 +24,6 @@
     "item": "constructionwand:diamond_wand"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

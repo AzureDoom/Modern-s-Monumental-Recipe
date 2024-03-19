@@ -20,6 +20,6 @@
     "item": "blue_skies:aquite_sword"
   },
   "template": {
-    "tags": "forge:plates/diamond"
+    "tag": "forge:plates/diamond"
   }
 }

@@ -20,6 +20,6 @@
     "item": "blue_skies:pyrope_pickaxe"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

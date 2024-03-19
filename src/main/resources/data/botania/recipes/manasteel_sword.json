@@ -20,6 +20,6 @@
     "item": "botania:manasteel_sword"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

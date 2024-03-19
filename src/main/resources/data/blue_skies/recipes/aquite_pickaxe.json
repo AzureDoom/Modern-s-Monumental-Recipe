@@ -20,6 +20,6 @@
     "item": "blue_skies:aquite_pickaxe"
   },
   "template": {
-    "tags": "forge:plates/diamond"
+    "tag": "forge:plates/diamond"
   }
 }

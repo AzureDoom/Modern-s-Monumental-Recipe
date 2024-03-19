@@ -20,6 +20,6 @@
     "item": "blue_skies:pyrope_sword"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

@@ -28,6 +28,6 @@
     "item": "constructionwand:stone_wand"
   },
   "template": {
-    "tags": "forge:stone"
+    "tag": "forge:stone"
   }
 }

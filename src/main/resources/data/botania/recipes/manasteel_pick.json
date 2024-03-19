@@ -20,6 +20,6 @@
     "item": "botania:manasteel_pick"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

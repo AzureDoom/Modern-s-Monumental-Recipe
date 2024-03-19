@@ -20,6 +20,6 @@
     "item": "botania:glass_pickaxe"
   },
   "template": {
-    "tags": "forge:glass/colorless"
+    "tag": "forge:glass/colorless"
   }
 }

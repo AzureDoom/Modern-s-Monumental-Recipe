@@ -20,6 +20,6 @@
     "item": "botania:elementium_pickaxe"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }

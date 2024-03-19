@@ -20,6 +20,6 @@
     "item": "blue_skies:charoite_leggings"
   },
   "template": {
-    "tags": "forge:plates/diamond"
+    "tag": "forge:plates/diamond"
   }
 }

@@ -20,6 +20,6 @@
     "item": "botania:elementium_boots"
   },
   "template": {
-    "tags": "forge:plates/iron"
+    "tag": "forge:plates/iron"
   }
 }
