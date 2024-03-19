@@ -20,6 +20,6 @@
     "item": "cyclic:crystal_helmet"
   },
   "template": {
-    "tags": "minecraft:netherite_upgrade_smithing_template"
+    "item": "minecraft:netherite_upgrade_smithing_template"
   }
 }
