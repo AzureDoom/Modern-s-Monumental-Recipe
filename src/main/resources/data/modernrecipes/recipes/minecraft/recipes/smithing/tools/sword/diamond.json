@@ -9,14 +9,17 @@
       "item": "minecraft:diamond_sword"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
-    "item": "create_weaponry:golden_sword_head"
+    "item": "minecraft:golden_sword"
   },
   "addition": {
     "tag": "forge:gems/diamond"
   },
   "result": {
     "item": "minecraft:diamond_sword"
+  },
+  "template": {
+    "tag": "forge:plates/diamond"
   }
 }
