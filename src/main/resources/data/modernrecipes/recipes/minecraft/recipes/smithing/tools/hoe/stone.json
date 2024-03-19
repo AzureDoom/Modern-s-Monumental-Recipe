@@ -9,7 +9,7 @@
       "item": "minecraft:stone_hoe"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:wooden_hoe"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "minecraft:stone_hoe"
+  },
+  "template": {
+    "tag": "forge:stone"
   }
 }
