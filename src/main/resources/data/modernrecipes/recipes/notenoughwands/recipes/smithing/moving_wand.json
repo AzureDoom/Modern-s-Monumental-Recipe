@@ -7,13 +7,9 @@
     {
       "type": "forge:item_exists",
       "item": "notenoughwands:moving_wand"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "buildinggadgets:construction_paste"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "modernrecipes:conveyors"
   },
@@ -22,5 +18,8 @@
   },
   "result": {
     "item": "notenoughwands:moving_wand"
+  },
+  "template": {
+    "tag": "forge:plates/iron"
   }
 }
