@@ -9,7 +9,7 @@
       "item": "forbidden_arcanus:deorum_leggings"
     }
   ],
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:netherite_leggings"
   },
@@ -18,5 +18,8 @@
   },
   "result": {
     "item": "forbidden_arcanus:deorum_leggings"
+  },
+  "template": {
+    "tags": "minecraft:netherite_upgrade_smithing_template"
   }
 }
