@@ -1,0 +1,12 @@
+{
+  "values": [
+    "framedblocks:framed_key",
+    "mcwwindows:key",
+    "storagedrawers:drawer_key",
+    "storagedrawers:quantify_key",
+    "storagedrawers:shround_key",
+    "supplementaries:key",
+    "bloodmagic:simplekey",
+    "bloodmagic:minekey"
+  ]
+}
