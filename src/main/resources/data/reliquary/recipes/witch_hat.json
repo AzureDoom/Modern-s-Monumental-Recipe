@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "reliquary"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "reliquary:witch_hat"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "handcrafted:witch_trophy"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "O": {
+      "item": "handcrafted:witch_trophy"
+    },
+    "D": {
+      "item": "easy_mob_farm:witch_bottle"
+    }
+  },
+  "pattern": [
+    "O O",
+    " D ",
+    "O O"
+  ],
+  "result": {
+    "item": "reliquary:witch_hat"
+  }
+}
