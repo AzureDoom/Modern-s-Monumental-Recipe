@@ -11,7 +11,7 @@
         "type": "minecraft:crafting_shaped",
         "key": {
           "B": {
-            "tag": "forge:buckets/water"
+            "tag": "forge:water"
           },
           "C": {
             "tag": "forge:dyes/green"

@@ -14,7 +14,7 @@
             "tag": "forge:ingots/gold"
           },
           "P": {
-            "tag": "forge:pumpkins"
+            "item": "minecraft:pumpkin"
           },
           "S": {
             "item": "minecraft:snow"
