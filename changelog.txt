@@ -1,3 +1,2 @@
-v0.83
-- Fixed Dungeon Arise Loot Tables
-- Added Enchanter Infuser Harder Recipes
+v0.84
+- Added Witch Hat Recipes for Reliquary
