@@ -21,7 +21,7 @@
       "item": "ae2:logic_processor"
     }
   ],
-  "pressure": 4,
+  "pressure": 4.0,
   "results": [
     {
       "item": "ae2:formation_core",

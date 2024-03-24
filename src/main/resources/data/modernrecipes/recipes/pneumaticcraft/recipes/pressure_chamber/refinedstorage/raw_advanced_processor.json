@@ -28,7 +28,7 @@
       "item": "refinedstorage:processor_binding"
     }
   ],
-  "pressure": 4,
+  "pressure": 4.0,
   "results": [
     {
       "item": "refinedstorage:raw_advanced_processor",
