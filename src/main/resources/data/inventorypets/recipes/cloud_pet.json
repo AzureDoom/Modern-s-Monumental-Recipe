@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "inventorypets:pet_cloud"
+  },
+  "pattern": [
+    "OFO",
+    "ODO",
+    "OGO"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "forge:nether_stars"
+    },
+    "F": {
+      "tag": "forge:gems/quartz"
+    },
+    "G": {
+      "tag": "forge:gems/mana_diamond"
+    },
+    "O": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  }
+}
