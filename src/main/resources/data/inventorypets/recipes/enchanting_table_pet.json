@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "inventorypets:pet_enchanting_table"
+  },
+  "pattern": [
+    "OFO",
+    "ODO",
+    "OGO"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "forge:gems/mana_diamond"
+    },
+    "F": {
+      "item": "reliquary:magicbane"
+    },
+    "G": {
+      "item": "forge:ingots/gold"
+    },
+    "O": {
+      "item": "compressium:obsidian_2"
+    }
+  }
+}
