@@ -1,4 +1,3 @@
-v0.19
+v0.20
 
-- Fixed some more recipes
-- Added new recipes
+- Added some Inventory Pets Harder Recipes
