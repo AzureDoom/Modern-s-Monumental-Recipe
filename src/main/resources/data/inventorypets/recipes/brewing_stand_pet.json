@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "inventorypets:pet_brewing_stand"
+  },
+  "pattern": [
+    "OFO",
+    "ODO",
+    "OGO"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "forge:gems/mana_diamond"
+    },
+    "F": {
+      "item": "minecraft:nether_wart_block"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "O": {
+      "item": "compressium:cobblestone_3"
+    }
+  }
+}
