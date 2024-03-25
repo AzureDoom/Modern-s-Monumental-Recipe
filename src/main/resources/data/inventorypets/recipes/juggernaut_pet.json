@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "inventorypets:pet_juggernaut"
+  },
+  "pattern": [
+    "OFO",
+    "ODO",
+    "OGO"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "forge:gems/mana_diamond"
+    },
+    "F": {
+      "item": "inventorypets:nugget_obsidian"
+    },
+    "G": {
+      "tag": "forge:nether_stars"
+    },
+    "O": {
+      "item": "compressium:redstone_2"
+    }
+  }
+}
