@@ -1,0 +1,22 @@
+{
+ "result": {
+  "item": "inventorypets:pet_anvil"
+ },
+ "pattern": [
+  "OOO",
+  "ODO",
+  "OGO"
+ ],
+ "type": "minecraft:crafting_shaped",
+ "key": {
+  "D": {
+   "tag": "forge:gems/mana_diamond"
+  },
+  "G": {
+   "tag": "forge:storage_blocks/gold"
+  },
+  "O": {
+   "tag": "forge:ingots/compressed_iron"
+  }
+ }
+}
