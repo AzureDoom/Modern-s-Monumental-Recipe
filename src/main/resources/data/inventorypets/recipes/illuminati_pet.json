@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "inventorypets:pet_illuminati"
+  },
+  "pattern": [
+    "OOO",
+    "ODO",
+    "OGO"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "forge:gems/mana_diamond"
+    },
+    "G": {
+      "tag": "forge:nether_stars"
+    },
+    "O": {
+      "item": "compressium:emerald_4"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "inventorypets:pet_nether_portal"
+  },
+  "pattern": [
+    "OFO",
+    "ODO",
+    "OGO"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "forge:gems/mana_diamond"
+    },
+    "F": {
+      "tag": "forge:gems/quartz"
+    },
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "O": {
+      "item": "compressium:obsidian_2"
+    }
+  }
+}

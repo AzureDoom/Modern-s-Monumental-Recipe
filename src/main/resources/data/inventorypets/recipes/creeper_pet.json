@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "inventorypets:pet_creeper"
+  },
+  "pattern": [
+    "OFO",
+    "ODO",
+    "OGO"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "forge:gems/mana_diamond"
+    },
+    "F": {
+      "item": "immersiveengineering:gunpowder_barrel"
+    },
+    "G": {
+      "tag": "forge:ingots/gold" 
+    },
+    "O": {
+      "item": "compressium:emerald/3"
+    }
+  }
+}
