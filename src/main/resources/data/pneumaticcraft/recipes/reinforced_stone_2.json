@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pneumaticcraft:reinforced_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    {
+      "item": "minecraft:smooth_stone"
+    }
+  ],
+  "result": [
+    {
+      "item": "pneumaticcraft:reinforced_stone",
+      "count": 2
+    }
+  ],
+  "energy": 2500
+}
