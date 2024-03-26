@@ -13,17 +13,19 @@
       "item": "naturesaura:infused_iron"
     }
   ],
-  "type": "botania:mana_infusion",
-  "catalyst": {
-    "type": "block",
-    "block": "botania:alchemy_catalyst"
-  },
-  "input": {
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
     "item": "naturesaura:infused_iron"
   },
-  "mana": 3000,
+  "center": {
+    "item": "botania:alchemy_catalyst"
+  },
+  "tier": 2,
+  "time": 30,
   "output": {
-    "count": 2,
-    "item": "botania:manasteel_ingot"
-  }
+    "item":"botania:manasteel_ingot",
+    "count": 2
+  },
+  "result": "forcecraft:item"
 }
