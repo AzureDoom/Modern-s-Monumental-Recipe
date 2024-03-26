@@ -1,2 +1,4 @@
-v0.84
-- Added Witch Hat Recipes for Reliquary
+v0.85
+- Added new Inventorypets recipes
+- Added new Pneumaticcraft Reinforced Stone recipes
+- Added new Extendedcrafting luminessence recipes
