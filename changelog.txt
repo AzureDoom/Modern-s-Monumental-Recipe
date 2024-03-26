@@ -1,4 +1,3 @@
-v0.85
-- Added new Inventorypets recipes
-- Added new Pneumaticcraft Reinforced Stone recipes
-- Added new Extendedcrafting luminessence recipes
+v0.86
+- Added new Manasteel recipe using Forcecraft infuser
+- Fixed OG Manasteel infusion recipe
