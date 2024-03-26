@@ -16,7 +16,7 @@
   "type": "botania:mana_infusion",
   "catalyst": {
     "type": "block",
-    "block": "botania:conjuration_catalyst"
+    "block": "botania:alchemy_catalyst"
   },
   "input": {
     "item": "naturesaura:infused_iron"
