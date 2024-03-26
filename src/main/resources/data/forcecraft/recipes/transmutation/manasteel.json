@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:infused_iron"
+    }
+  ],
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
+    "item": "naturesaura:infused_iron"
+  },
+  "center": {
+    "item": "botania:alchemy_catalyst"
+  },
+  "tier": 2,
+  "time": 30,
+  "output": {
+    "item":"botania:manasteel_ingot",
+    "count": 2
+  },
+  "result": "forcecraft:item"
+}
