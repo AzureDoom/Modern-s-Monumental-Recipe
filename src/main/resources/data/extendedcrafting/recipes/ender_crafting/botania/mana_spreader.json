@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:mana_spreader"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "CCC",
+    "XBP",
+    "CCC"
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:feathers"
+    },
+    "C": {
+      "tag": "botania:livingwood_logs"
+    },
+    "P": {
+      "tag": "forge:glass_panes"
+    },
+    "X": {
+      "item": "extendedcrafting:luminessence"
+    }
+  },
+  "result": {
+    "item": "botania:mana_spreader",
+    "count": 1
+  }
+}
