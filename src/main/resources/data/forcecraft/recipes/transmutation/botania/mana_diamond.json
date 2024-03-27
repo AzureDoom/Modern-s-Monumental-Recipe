@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forcecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:mana_diamond"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "occultism:soul_gem"
+    }
+  ],
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
+    "item": "occultism:soul_gem"
+  },
+  "center": {
+    "item": "botania:conjuration_catalyst"
+  },
+  "tier": 2,
+  "time": 30,
+  "output": {
+    "item":"botania:mana_diamond",
+    "count": 2
+  },
+  "result": "forcecraft:item"
+}
