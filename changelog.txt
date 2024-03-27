@@ -1,2 +1,3 @@
-v0.84
-- Added Witch Hat Recipes for Reliquary
+v0.86
+- Added new Manasteel recipe using Forcecraft infuser
+- Fixed OG Manasteel infusion recipe
