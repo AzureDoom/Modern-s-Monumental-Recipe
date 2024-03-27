@@ -6,17 +6,13 @@
     },
     {
       "type": "forge:item_exists",
-      "tag": "forge:storage_blocks/compressed_iron"
-    },
-    {
-      "type": "forge:item_exists",
       "item": "naturesaura:infused_stone"
     }
   ],
   "type":"forcecraft:infuser",
   "ingredient": 
   {
-      "tag": "forge:storage_blocks/compressed_iron"
+    "tag": "forge:storage_blocks/compressed_iron"
   },
   "center": {
     "item": "botania:conjuration_catalyst"
