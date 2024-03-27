@@ -12,7 +12,7 @@
   "type":"forcecraft:infuser",
   "ingredient": 
   {
-    "tag": "forge:storage_blocks/compressed_iron"
+    "tag": "forge:storage_blocks/arcane_crystal"
   },
   "center": {
     "item": "botania:conjuration_catalyst"
