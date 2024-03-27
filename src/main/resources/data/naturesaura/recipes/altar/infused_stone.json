@@ -15,7 +15,7 @@
     "block": "botania:conjuration_catalyst"
   },
   "input": {
-    "tag": "forge:storage_blocks/compressed_iron"
+    "tag": "forge:storage_blocks/arcane_crystal"
   },
   "mana": 13500,
   "output": {
