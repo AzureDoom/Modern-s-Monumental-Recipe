@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forcecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "botania:mana_pearl"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:chorus_flower"
+    }
+  ],
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
+    "item": "minecraft:chorus_flower"
+  },
+  "center": {
+    "item": "botania:conjuration_catalyst"
+  },
+  "tier": 2,
+  "time": 30,
+  "output": {
+    "item":"botania:mana_pearl",
+    "count": 2
+  },
+  "result": "forcecraft:item"
+}
