@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forcecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "tag": "forge:storage_blocks/compressed_iron"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:infused_stone"
+    }
+  ],
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
+      "tag": "forge:storage_blocks/compressed_iron"
+  },
+  "center": {
+    "item": "botania:conjuration_catalyst"
+  },
+  "tier": 2,
+  "time": 30,
+  "output": {
+    "item":"naturesaura:infused_stone",
+    "count": 2
+  },
+  "result": "forcecraft:item"
+}
