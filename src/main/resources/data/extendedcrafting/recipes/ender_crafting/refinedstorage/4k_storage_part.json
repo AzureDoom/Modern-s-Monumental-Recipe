@@ -19,14 +19,11 @@
   ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
-    "IEI",
+    "IXI",
     "XBX",
     "IXI"
   ],
   "key": {
-    "E": {
-      "item": "refinedstorage:quartz_enriched_iron"
-    },
     "B": {
       "item": "extendedcrafting:redstone_component"
     },
