@@ -14,10 +14,6 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "ae2:quartz_vibrant_glass"
-    },
-    {
-      "type": "forge:item_exists",
       "item": "ae2:fluid_storage_cell_16k"
     }
   ],
@@ -25,7 +21,7 @@
   "acceptMirrored": false,
   "key": {
     "X": {
-      "item": "ae2:quartz_vibrant_glass"
+      "item": "extendedcrafting:redstone_component"
     },
     "I": {
       "tag": "forge:silicon"
