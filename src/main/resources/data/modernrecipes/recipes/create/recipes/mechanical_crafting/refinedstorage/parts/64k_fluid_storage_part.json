@@ -10,10 +10,6 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
-    },
-    {
-      "type": "forge:item_exists",
       "item": "ae2:fluid_storage_cell_16k"
     }
   ],
@@ -21,7 +17,7 @@
   "acceptMirrored": false,
   "key": {
     "X": {
-      "item": "extendedcrafting:redstone_component"
+      "tag": "modernrecipes:tanks"
     },
     "I": {
       "tag": "forge:silicon"
