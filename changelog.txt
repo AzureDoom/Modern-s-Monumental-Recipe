@@ -1,3 +1,5 @@
-v0.86
-- Added new Manasteel recipe using Forcecraft infuser
-- Fixed OG Manasteel infusion recipe
+v0.87
+- Added some new Forcecraft infuser recipes
+- Added Extended Crafting Ender Crafting for Refined Storage Parts
+- Added Extended Crafting Ender Crafting for Mana Spreader
+- Fixed Broken Refined Storage Part Create Mech Recipes
