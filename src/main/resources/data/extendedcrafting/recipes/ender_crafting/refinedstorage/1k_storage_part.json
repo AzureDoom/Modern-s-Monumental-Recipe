@@ -23,9 +23,9 @@
   ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
-    "CCC",
-    "XBP",
-    "CCC"
+    "IEI",
+    "XGX",
+    "IBI"
   ],
   "key": {
     "E": {
