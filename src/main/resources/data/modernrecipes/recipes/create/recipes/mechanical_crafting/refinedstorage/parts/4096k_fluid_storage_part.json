@@ -6,6 +6,10 @@
     },
     {
       "type": "forge:item_exists",
+      "item": "refinedstorage:1024k_fluid_storage_part"
+    }
+    {
+      "type": "forge:item_exists",
       "item": "refinedstorage:4096k_fluid_storage_part"
     }
   ],
@@ -15,9 +19,6 @@
     "P": {
       "item": "refinedstorage:advanced_processor"
     },
-    "E": {
-      "item": "refinedstorage:quartz_enriched_iron"
-    },
     "S": {
       "item": "refinedstorage:1024k_fluid_storage_part"
     },
@@ -26,7 +27,7 @@
     }
   },
   "pattern": [
-    " PEP ",
+    " PSP ",
     " SRS ",
     " PSP ",
     "     ",
