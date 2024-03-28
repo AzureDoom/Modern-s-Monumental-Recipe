@@ -7,6 +7,10 @@
     {
       "type": "forge:item_exists",
       "item": "refinedstorage:1024k_fluid_storage_part"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:256k_fluid_storage_part"
     }
   ],
   "type": "create:mechanical_crafting",
@@ -14,9 +18,6 @@
   "key": {
     "P": {
       "item": "refinedstorage:improved_processor"
-    },
-    "E": {
-      "item": "refinedstorage:quartz_enriched_iron"
     },
     "S": {
       "item": "refinedstorage:256k_fluid_storage_part"
@@ -26,7 +27,7 @@
     }
   },
   "pattern": [
-    " PEP ",
+    " PSP ",
     " SRS ",
     " PSP ",
     "     ",
