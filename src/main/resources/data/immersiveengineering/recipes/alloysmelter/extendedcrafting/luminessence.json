@@ -1,0 +1,31 @@
+{
+  "type": "immersiveengineering:alloy",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:luminessence"
+    }
+  ],
+  "input0": {
+    "base_ingredient": {
+      "item": "ars_nouveau:glyph_lighting"
+    },
+    "count": 4
+  },
+  "input1": {
+    "item": "thermal:glowstone_mushroom_spores"
+  },
+    "count": 4
+  },
+  "result": {
+    "base_ingredient": {
+      "item": "extendedcrafting:luminessence"
+    },
+    "count": 4
+  },
+  "time": 600
+}
