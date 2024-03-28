@@ -6,11 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "refinedstorage:64k_storage_part"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
+    "item": "refinedstorage:256k_fluid_storage_part",
     }
   ],
   "type": "extendedcrafting:shaped_ender_crafter",
