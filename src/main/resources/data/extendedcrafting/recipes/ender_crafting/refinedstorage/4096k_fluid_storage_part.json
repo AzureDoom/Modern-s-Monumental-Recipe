@@ -7,7 +7,7 @@
     {
       "type": "forge:item_exists",
       "item": "refinedstorage:1024k_fluid_storage_part"
-    }
+    },
     {
       "type": "forge:item_exists",
       "item": "refinedstorage:4096k_fluid_storage_part"
