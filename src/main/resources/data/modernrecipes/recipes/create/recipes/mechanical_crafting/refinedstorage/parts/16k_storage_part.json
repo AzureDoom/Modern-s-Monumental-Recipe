@@ -16,9 +16,6 @@
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
-    "E": {
-      "item": "refinedstorage:quartz_enriched_iron"
-    },
     "B": {
       "item": "extendedcrafting:redstone_component"
     },
@@ -30,7 +27,7 @@
     }
   },
   "pattern": [
-    " IEI ",
+    " IXI ",
     " XBX ",
     " IXI ",
     "     ",
