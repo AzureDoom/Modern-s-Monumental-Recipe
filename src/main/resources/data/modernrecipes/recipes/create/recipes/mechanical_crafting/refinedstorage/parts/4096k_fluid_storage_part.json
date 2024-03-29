@@ -15,9 +15,6 @@
     "P": {
       "item": "refinedstorage:advanced_processor"
     },
-    "E": {
-      "item": "refinedstorage:quartz_enriched_iron"
-    },
     "S": {
       "item": "refinedstorage:1024k_fluid_storage_part"
     },
@@ -26,7 +23,7 @@
     }
   },
   "pattern": [
-    " PEP ",
+    " PSP ",
     " SRS ",
     " PSP ",
     "     ",

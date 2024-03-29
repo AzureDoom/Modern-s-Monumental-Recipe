@@ -12,9 +12,6 @@
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
-    "E": {
-      "item": "refinedstorage:quartz_enriched_iron"
-    },
     "X": {
       "item": "refinedstorage:64k_fluid_storage_part"
     },
@@ -26,7 +23,7 @@
     }
   },
   "pattern": [
-    " IEI ",
+    " IXI ",
     " XGX ",
     " IXI ",
     "     ",
