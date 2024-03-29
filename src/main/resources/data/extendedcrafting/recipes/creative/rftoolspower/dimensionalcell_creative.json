@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolspower:dimensionalcell_creative"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolspower:dimensionalcell_advanced"
+    }
+  ],
+  "type": "extendedcrafting:compressor",
+  "powerCost": 500000,
+  "inputCount": 10000,
+  "ingredient": {
+    "item": "rftoolspower:dimensionalcell_advanced"
+  },
+  "catalyst": {
+    "item": "extendedcrafting:the_ultimate_catalyst"
+  },
+  "result": {
+    "item": "rftoolspower:dimensionalcell_creative"
+  }
+}
