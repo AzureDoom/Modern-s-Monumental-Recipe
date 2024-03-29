@@ -1,0 +1,56 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:controller"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:smooth_sky_stone_block"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:advanced_processor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:machine_casing"
+    }
+  ],
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "ABCBA",
+    "BDDDB",
+    "CDEDC",
+    "BDDDB",
+    "ABCBA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:silicon"
+    },
+    "B": {
+      "item": "ae2:smooth_sky_stone_block"
+    },
+    "C": {
+      "item": "refinedstorage:advanced_processor"
+    },
+    "D": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "E": {
+      "item": "refinedstorage:machine_casing"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:controller"
+  }
+}
