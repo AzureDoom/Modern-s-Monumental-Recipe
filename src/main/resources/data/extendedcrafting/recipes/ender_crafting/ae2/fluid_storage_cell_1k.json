@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:fluid_storage_cell_1k"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "XDX",
+    "DBD",
+    "AAA"
+  ],
+  "key": {
+    "X": {
+      "item": "ae2:quartz_glass"
+    },
+    "A": {
+      "tag": "forge:ingots/copper"
+    },
+    "B": {
+      "item": "ae2:cell_component_1k"
+    },
+    "D": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "result": {
+    "item": "ae2:fluid_storage_cell_1k"
+  }
+}
