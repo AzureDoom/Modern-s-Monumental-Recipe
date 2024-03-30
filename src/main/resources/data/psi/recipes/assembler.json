@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "naturesaura:infused_iron_block"
+    },
+    "B": {
+      "tag": "botania:runes"
+    },
+    "C": {
+      "item": "forbidden_arcanus:purifying_soap"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "CBC",
+    "ACA"
+  ],
+  "result": {
+    "item": "psi:cad_assembler"
+  }
+}
