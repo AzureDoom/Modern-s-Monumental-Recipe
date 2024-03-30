@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:semi_dark_monitor"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "EBC",
+    "DAC",
+    "EBC"
+  ],
+  "key": {
+    "A": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "B": {
+      "tag": "forge:ingots/refined_glowstone"
+    },
+    "C": {
+      "item": "ae2:quartz_glass"
+    },
+    "D": {
+      "tag": "forge:gears/compressed_iron"
+    },
+    "E": {
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  },
+  "result": {
+    "item": "ae2:semi_dark_monitor"
+  }
+}

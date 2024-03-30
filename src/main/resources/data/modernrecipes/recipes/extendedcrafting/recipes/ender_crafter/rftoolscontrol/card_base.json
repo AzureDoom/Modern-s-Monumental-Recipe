@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolscontrol:card_base"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "QQQ",
+    "TTT",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "forge:nuggets/electrum"
+    },
+    "T": {
+      "tag": "forge:dyes/green"
+    },
+    "Q": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  },
+  "result": {
+    "item": "rftoolscontrol:card_base"
+  }
+}

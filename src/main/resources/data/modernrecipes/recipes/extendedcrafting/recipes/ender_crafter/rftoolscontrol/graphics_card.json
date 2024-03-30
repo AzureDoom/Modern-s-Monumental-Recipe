@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolscontrol:graphics_card"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "QQQ",
+    "WSW",
+    "QCQ"
+  ],
+  "key": {
+    "W": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+    "Q": {
+      "tag": "forge:gems/quartz"
+    },
+    "S": {
+      "item": "rftoolscontrol:card_base"
+    },
+    "C": {
+      "tag": "forge:storage_blocks/glowstone"
+    }
+  },
+  "result": {
+    "item": "rftoolscontrol:graphics_card"
+  }
+}
