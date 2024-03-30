@@ -15,7 +15,7 @@
     "block": "botania:alchemy_catalyst"
   },
   "input": {
-    "tag": "forge:storage_blocks/compressed_iron"
+    "item": "pneumaticcraft:compressed_iron_block"
   },
   "mana": 3000,
   "output": {
