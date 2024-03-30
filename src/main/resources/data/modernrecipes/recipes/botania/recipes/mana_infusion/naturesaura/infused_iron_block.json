@@ -7,7 +7,7 @@
     {
       "type": "forge:item_exists",
       "item": "naturesaura:infused_iron_block"
-    },
+    }
   ],
   "type": "botania:mana_infusion",
   "catalyst": {
@@ -15,7 +15,7 @@
     "block": "botania:alchemy_catalyst"
   },
   "input": {
-    "item": "pneumaticcraft:compressed_iron_block"
+    "tag": "forge:storage_blocks/compressed_iron"
   },
   "mana": 3000,
   "output": {
