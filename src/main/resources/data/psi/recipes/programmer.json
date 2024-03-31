@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "naturesaura:infused_iron_block"
+      "tag": "forge:storage_blocks/flux_star"
     },
     "B": {
-      "tag": "botania:runes"
+      "item": "psi:psidust_block"
     },
     "C": {
       "item": "forbidden_arcanus:purifying_soap"
@@ -17,6 +17,6 @@
     "ACA"
   ],
   "result": {
-    "item": "psi:cad_assembler"
+    "item": "psi:programmer"
   }
 }
