@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forcecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:luminessence"
+    }
+  ],
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
+    "item": "thermal:glowstone_mushroom_spores"
+  },
+    "item": "thermal:glowstone_mushroom_spores"
+  },
+    "item": "thermal:glowstone_mushroom_spores"
+  },
+    "item": "thermal:glowstone_mushroom_spores"
+  }, 
+  {
+    "item": "ars_nouveau:glyph_lighting"
+  },
+    "item": "ars_nouveau:glyph_lighting"
+  },
+    "item": "ars_nouveau:glyph_lighting"
+  },
+    "item": "ars_nouveau:glyph_lighting"
+  },
+  "center": {
+    "item": "forcecraft:upgrade_core"
+  },
+  "tier": 2,
+  "time": 30,
+  "output": {
+    "item":"extendedcrafting:luminessence",
+    "count": 2
+  },
+  "result": "forcecraft:item"
+}
