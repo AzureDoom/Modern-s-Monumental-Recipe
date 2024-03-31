@@ -38,7 +38,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "mysticalagriculture:ice",
+          "name": "mysticalagriculture:ice_essence",
           "weight": 20
         },
         {
