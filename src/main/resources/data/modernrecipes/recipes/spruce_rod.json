@@ -20,7 +20,7 @@
       "tag": "forge:tools/hammers"
     },
     "a": {
-      "tag": "forge:planks/spruce"
+      "item": "minecraft:spruce_planks"
     }
   },
   "result": {
