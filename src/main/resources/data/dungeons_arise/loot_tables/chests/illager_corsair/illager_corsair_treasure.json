@@ -37,6 +37,20 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
+          "name": "extendedcrafting:luminessence",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "weight": 15,
           "name": "mysticalagriculture:nether_quartz_essence",
           "functions": [
