@@ -186,6 +186,20 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 8,
+          "name": "extendedcrafting:luminessence",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "weight": 12,
           "name": "mysticalagriculture:diamond_essence",
           "functions": [
