@@ -1,36 +1,36 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "aeinfinitybooster"
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aeinfinitybooster"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "aeinfinitybooster:dimension_card"
+        },
+        {
+            "type": "forge:item_exists",
+            "item": "aeinfinitybooster:infinity_card"
+        }
+    ],
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "a": {
+            "item": "aeinfinitybooster:infinity_card"
+        },
+        "b": {
+            "tag": "forge:nether_stars"
+        },
+        "c": {
+            "tag": "modernrecipes:eyes"
+        }
     },
-    {
-      "type": "forge:item_exists",
-      "item": "aeinfinitybooster:dimension_card"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "aeinfinitybooster:infinity_card"
+    "pattern": [
+        "aba",
+        "bcb",
+        "aba"
+    ],
+    "result": {
+        "item": "aeinfinitybooster:dimension_card"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "a": {
-      "item": "aeinfinitybooster:infinity_card"
-    },
-    "b": {
-      "tag": "forge:nether_stars"
-    },
-    "c": {
-      "tag": "modernrecipes:eyes"
-    }
-  },
-  "pattern": [
-    "aba",
-    "bcb",
-    "aba"
-  ],
-  "result": {
-    "item": "aeinfinitybooster:dimension_card"
-  }
 }
