@@ -1,22 +1,25 @@
 {
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "aiotbotania"
-        },
-        {
-            "type": "forge:item_exists",
-            "item": "aiotbotania:livingrock_shovel"
-        }
-    ],
-    "type": "minecraft:smithing",
-    "base": {
-        "item": "minecraft:stone_shovel"
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aiotbotania"
     },
-    "addition": {
-        "item": "botania:livingrock"
-    },
-    "result": {
-        "item": "aiotbotania:livingrock_shovel"
+    {
+      "type": "forge:item_exists",
+      "item": "aiotbotania:livingrock_shovel"
     }
+  ],
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:stone_shovel"
+  },
+  "addition": {
+    "item": "botania:livingrock"
+  },
+  "result": {
+    "item": "aiotbotania:livingrock_shovel"
+  },
+  "template": {
+    "tag": "forge:stone"
+  }
 }

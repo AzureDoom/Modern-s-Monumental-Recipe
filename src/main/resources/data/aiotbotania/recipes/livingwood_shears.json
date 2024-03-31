@@ -1,22 +1,25 @@
 {
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "aiotbotania"
-        },
-        {
-            "type": "forge:item_exists",
-            "item": "aiotbotania:livingwood_shears"
-        }
-    ],
-    "type": "minecraft:smithing",
-    "base": {
-        "item": "minecraft:shears"
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aiotbotania"
     },
-    "addition": {
-        "tag": "botania:livingwood_logs"
-    },
-    "result": {
-        "item": "aiotbotania:livingwood_shears"
+    {
+      "type": "forge:item_exists",
+      "item": "aiotbotania:livingwood_shears"
     }
+  ],
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:shears"
+  },
+  "addition": {
+    "tag": "botania:livingwood_logs"
+  },
+  "result": {
+    "item": "aiotbotania:livingwood_shears"
+  },
+  "template": {
+    "item": "modernrecipes:part_plate_small_wood"
+  }
 }

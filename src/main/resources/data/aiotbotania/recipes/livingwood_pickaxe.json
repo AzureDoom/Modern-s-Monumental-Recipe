@@ -1,22 +1,25 @@
 {
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "aiotbotania"
-        },
-        {
-            "type": "forge:item_exists",
-            "item": "aiotbotania:livingwood_pickaxe"
-        }
-    ],
-    "type": "minecraft:smithing",
-    "base": {
-        "item": "minecraft:wooden_pickaxe"
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aiotbotania"
     },
-    "addition": {
-        "tag": "botania:livingwood_logs"
-    },
-    "result": {
-        "item": "aiotbotania:livingwood_pickaxe"
+    {
+      "type": "forge:item_exists",
+      "item": "aiotbotania:livingwood_pickaxe"
     }
+  ],
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_pickaxe"
+  },
+  "addition": {
+    "tag": "botania:livingwood_logs"
+  },
+  "result": {
+    "item": "aiotbotania:livingwood_pickaxe"
+  },
+  "template": {
+    "item": "modernrecipes:part_plate_small_wood"
+  }
 }

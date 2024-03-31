@@ -1,26 +1,29 @@
 {
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "aiotbotania"
-        },
-        {
-            "type": "forge:item_exists",
-            "item": "aiotbotania:livingrock_shears"
-        },
-        {
-            "type": "forge:item_exists",
-            "item": "botania:livingrock"
-        }
-    ],
-    "type": "minecraft:smithing",
-    "base": {
-        "item": "minecraft:shears"
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aiotbotania"
     },
-    "addition": {
-        "item": "botania:livingrock"
+    {
+      "type": "forge:item_exists",
+      "item": "aiotbotania:livingrock_shears"
     },
-    "result": {
-        "item": "aiotbotania:livingrock_shears"
+    {
+      "type": "forge:item_exists",
+      "item": "botania:livingrock"
     }
+  ],
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:shears"
+  },
+  "addition": {
+    "item": "botania:livingrock"
+  },
+  "result": {
+    "item": "aiotbotania:livingrock_shears"
+  },
+  "template": {
+    "tag": "forge:stone"
+  }
 }
