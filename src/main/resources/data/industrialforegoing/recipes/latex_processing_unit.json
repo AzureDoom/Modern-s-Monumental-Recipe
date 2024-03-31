@@ -35,7 +35,7 @@
       "item": "thermal:rf_coil"
     },
     "C": {
-      "item": "pneumaticcraft:plastic"
+      "tag": "forge:plastic"
     },
     "D": {
       "tag": "industrialforegoing:machine_frame/pity"
