@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forcecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "naturesaura:infused_iron_block"
+    }
+  ],
+  "type":"forcecraft:infuser",
+  "ingredient": 
+  {
+    "tag": "forge:storage_blocks/compressed_iron"
+  },
+  "center": {
+    "item": "botania:alchemy_catalyst"
+  },
+  "tier": 2,
+  "time": 30,
+  "output": {
+    "item":"naturesaura:infused_iron_block",
+    "count": 1
+  },
+  "result": "forcecraft:item"
+}
