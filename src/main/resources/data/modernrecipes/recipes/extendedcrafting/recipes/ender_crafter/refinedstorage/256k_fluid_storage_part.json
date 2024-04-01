@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:256k_fluid_storage_part"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "IXI",
+    "XBX",
+    "IXI"
+  ],
+  "key": {
+    "B": {
+      "tag": "modernrecipes:tanks"
+    },
+    "X": {
+      "item": "refinedstorage:16k_storage_part"
+    },
+    "I": {
+      "item": "refinedstorage:advanced_processor"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:256k_fluid_storage_part",
+    "count": 1
+  }
+}

@@ -25,7 +25,7 @@
   ],
   "key": {
     "A": {
-      "item": "pneumaticcraft:plastic"
+      "tag": "forge:plastic"
     },
     "B": {
       "item": "modernrecipes:compressed_iron_plate"

@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:creative_item_cell"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:item_storage_cell_256k"
+    }
+  ],
+  "type": "extendedcrafting:compressor",
+  "powerCost": 500000,
+  "inputCount": 10000,
+  "ingredient": {
+    "item": "ae2:item_storage_cell_256k"
+  },
+  "catalyst": {
+    "item": "extendedcrafting:the_ultimate_catalyst"
+  },
+  "result": {
+    "item": "ae2:creative_item_cell"
+  }
+}

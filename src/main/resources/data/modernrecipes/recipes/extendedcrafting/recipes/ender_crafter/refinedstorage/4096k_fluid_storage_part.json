@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extendedcrafting"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "refinedstorage:4096k_fluid_storage_part"
+    }
+  ],
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "PSP",
+    "SRS",
+    "PSP"
+  ],
+  "key": {
+    "P": {
+      "item": "refinedstorage:advanced_processor"
+    },
+    "S": {
+      "item": "refinedstorage:1024k_fluid_storage_part"
+    },
+    "R": {
+      "tag": "modernrecipes:tanks"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:4096k_fluid_storage_part",
+    "count": 1
+  }
+}
