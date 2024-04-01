@@ -10,10 +10,6 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "botania:spell_cloth"
-    },
-    {
-      "type": "forge:item_exists",
       "item": "industrialforegoing:pink_slime_ingot"
     }
   ],

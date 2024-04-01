@@ -22,7 +22,7 @@
       "tag": "forge:gems/quartz"
     }
   ],
-  "pressure": 4.0,
+  "pressure": 4,
   "results": [
     {
       "item": "refinedstorage:destruction_core",
