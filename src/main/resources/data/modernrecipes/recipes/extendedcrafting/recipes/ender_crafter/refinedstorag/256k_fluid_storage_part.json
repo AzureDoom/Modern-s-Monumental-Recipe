@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-    "item": "refinedstorage:256k_fluid_storage_part",
+      "item": "refinedstorage:256k_fluid_storage_part"
     }
   ],
   "type": "extendedcrafting:shaped_ender_crafter",
