@@ -1,4 +1,14 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "viescraftmachines"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "viescraftmachines:machine_parts_mold"
+    }
+  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "X#X",
