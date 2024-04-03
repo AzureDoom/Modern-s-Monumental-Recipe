@@ -1,3 +1,4 @@
 v0.91
 - Added Ad Astra Custom Loot Tables
 - Added luminessence to some Dungeon Arise Loot Tables
+- Added Loot Bundle Tweaks
