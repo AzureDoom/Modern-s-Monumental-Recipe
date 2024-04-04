@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "rebornstorage:larger_item_disk_part"
+      "item": "rebornstorage:larger_item_disk"
     }
   ],
   "type": "minecraft:crafting_shaped",
