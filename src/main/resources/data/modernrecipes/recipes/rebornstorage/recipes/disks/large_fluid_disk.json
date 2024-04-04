@@ -1,4 +1,18 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rebornstorage"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    }
+    {
+      "type": "forge:item_exists",
+      "item": "rebornstorage:large_fluid_disk"
+    }
+  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "GRG",
