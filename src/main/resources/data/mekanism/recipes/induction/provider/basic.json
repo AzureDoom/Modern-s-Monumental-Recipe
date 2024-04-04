@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "rftoolspower:cell1"
+    },
+    "C": {
+      "tag": "forge:circuits/basic"
+    },
+    "L": {
+      "tag": "forge:dusts/lithium"
+    }
+  },
+  "pattern": [
+    "LCL",
+    "C#C",
+    "LCL"
+  ],
+  "result": {
+    "item": "mekanism:basic_induction_provider"
+  }
+}
