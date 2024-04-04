@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DID",
+    "GRG",
+    "DGD"
+  ],
+  "key": {
+    "G": [
+      {
+        "tag": "refinedstorage:parts/fluids/16384k"
+      }
+    ],
+    "D": [
+      {
+        "item": "refinedstorage:advanced_processor"
+      }
+    ],
+    "I": [
+      {
+        "item": "refinedstorage:quartz_enriched_iron"
+      }
+    ],
+    "R": [
+      {
+        "tag": "forge:buckets/empty"
+      }
+    ]
+  },
+  "result": {
+    "item": "rebornstorage:medium_fluid_disk_part"
+  }
+}
