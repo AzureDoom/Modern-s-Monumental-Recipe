@@ -7,7 +7,7 @@
     {
       "type": "forge:item_exists",
       "item": "extendedcrafting:redstone_component"
-    }
+    },
     {
       "type": "forge:item_exists",
       "item": "rebornstorage:medium_fluid_disk"

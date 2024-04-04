@@ -7,10 +7,10 @@
     {
       "type": "forge:item_exists",
       "item": "extendedcrafting:redstone_component"
-    }
+    },
     {
       "type": "forge:item_exists",
-      "item": "rebornstorage:larger_item_disk_part"
+      "item": "rebornstorage:larger_fluid_disk"
     }
   ],
   "type": "minecraft:crafting_shaped",
