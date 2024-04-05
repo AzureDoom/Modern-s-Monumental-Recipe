@@ -3,6 +3,8 @@
   "values": [
     "minecraft:bucket",
     "blue_skies:ventium_bucket",
-    "naturesaura:color_changer"
+    "botania:open_bucket",
+    "meadow:wooden_bucket",
+    "naturesaura:color_changer",
   ]
 }
