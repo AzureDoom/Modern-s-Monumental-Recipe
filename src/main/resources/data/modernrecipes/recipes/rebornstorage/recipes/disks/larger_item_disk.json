@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rebornstorage"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "extendedcrafting:redstone_component"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rebornstorage:larger_item_disk"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "tag": "forge:glass"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "I": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "P": {
+      "tag": "refinedstorage:parts/items/16384k"
+    }
+  },
+  "pattern": [
+    "GRG",
+    "RPR",
+    "III"
+  ],
+  "result": {
+    "item": "rebornstorage:larger_item_disk"
+  }
+}
