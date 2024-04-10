@@ -4,6 +4,7 @@ plugins {
     id 'idea'
     id 'maven-publish'
     id 'net.neoforged.gradle.userdev' version '7.0.+'
+    id 'me.modmuss50.mod-publish-plugin' version "0.4.0"
 }
 
 version = mod_version
@@ -82,4 +83,28 @@ publishing {
 
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
+}
+
+if (file('key.properties').exists()) {
+    publishMods {
+        def releaseProp = new Properties()
+        File secretPropsFile = file("key.properties")
+        releaseProp.load(secretPropsFile.newInputStream())
+        file = jar.archiveFile
+        changelog = rootProject.file("changelog.md").text
+        type = STABLE
+        modLoaders.add("neoforge")
+
+        curseforge {
+            projectId = project.curseforge_id
+            projectSlug = project.curseforge_slug
+            accessToken = releaseProp.getProperty("curseKey")
+            minecraftVersions.add(project.minecraft_version)
+        }
+        modrinth {
+            projectId = project.modrinth_id
+            accessToken = releaseProp.getProperty('modrinthKey')
+            minecraftVersions.add(project.minecraft_version)
+        }
+    }
 }
