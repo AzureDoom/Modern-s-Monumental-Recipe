@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomesoplenty"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "biomesoplenty:magic_pressure_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "biomesoplenty:magic_logs"
+    },
+    "B": {
+      "tag": "neoforge:tools/hammers"
+    }
+  },
+  "pattern": [
+    " A ",
+    " A ",
+    " B "
+  ],
+  "result": {
+    "item": "biomesoplenty:magic_pressure_plate"
+  }
+}
