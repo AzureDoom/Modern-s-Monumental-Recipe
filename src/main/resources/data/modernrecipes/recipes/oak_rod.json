@@ -20,7 +20,7 @@
       "tag": "forge:tools/hammers"
     },
     "a": {
-      "item": "minecraft:oak_planks"
+      "tag": "chipped:oak_planks"
     }
   },
   "result": {
