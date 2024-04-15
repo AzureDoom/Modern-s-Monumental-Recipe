@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "modernrecipes"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:acacia_rod"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  a",
+    "ha ",
+    "   "
+  ],
+  "key": {
+    "h": {
+      "tag": "forge:tools/hammers"
+    },
+    "a": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "modernrecipes:acacia_rod"
+  }
+} 

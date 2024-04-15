@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "modernrecipes"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:stone_rod"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  a",
+    "ha ",
+    "   "
+  ],
+  "key": {
+    "h": {
+      "tag": "forge:tools/hammers"
+    },
+    "a": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "modernrecipes:stone_rod"
+  }
+} 

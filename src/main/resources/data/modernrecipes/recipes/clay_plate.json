@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "modernrecipes"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "modernrecipes:clay_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ha ",
+    "a  ",
+    "   "
+  ],
+  "key": {
+    "h": {
+      "tag": "forge:tools/hammers"
+    },
+    "a": {
+      "tag": "forge:storage_blocks/clay"
+    }
+  },
+  "result": {
+    "item": "modernrecipes:clay_plate"
+  }
+} 
