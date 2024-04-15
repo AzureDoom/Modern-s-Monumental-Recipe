@@ -16,7 +16,7 @@
       "item": "reliquary:magicbane"
     },
     "G": {
-      "item": "forge:ingots/gold"
+      "tag": "forge:ingots/gold"
     },
     "O": {
       "item": "compressium:obsidian_2"
