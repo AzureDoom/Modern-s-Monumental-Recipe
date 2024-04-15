@@ -1,12 +1,11 @@
 {
   "type": "ad_astra:compressing",
-  "cookingtime": 200,
-  "energy": 20,
-  "ingredient": {
+  "input": {
     "tag": "forge:ingots/steel"
   },
-  "result": {
-    "count": 1,
-    "id": "alltheores:steel_plate"
-  }
+  "output": {
+    "id": "alltheores:steel_plate",
+    "count": 1
+  },
+  "cookTime": 200
 }
