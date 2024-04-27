@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "B B",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "compressium:cobblestone_1"
+    },
+    "B": {
+      "tag": "forge:cobblestone"
+    }    
+  },
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}
