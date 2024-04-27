@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:zinc_plate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:andesite_alloy"
+    }
+  ],
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "item": "create:andesite_alloy"
+    },
+    "middle": {
+      "tag": "tconstruct:casts/multi_use/plate"
+    },
+    "top": {
+      "tag": "forge:ingots/zinc"
+    }
+  },
+  "mode": "press",
+  "result": {
+    "item": "alltheores:zinc_plate"
+  }
+}
