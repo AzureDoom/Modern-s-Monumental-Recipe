@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rftoolsutility"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "rftoolsutility:crafter2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "tag": "forge:workbench"
+    },
+    "M": {
+      "item": "rftoolsutility:crafter1"
+    },
+    "T": {
+      "tag": "forge:plates/steel"
+    },
+    "Q": {
+      "item": "immersiveengineering:wirecoil_redstone"
+    }
+  },
+  "pattern": [
+    "QTQ",
+    "CMC",
+    "QTQ"
+  ],
+  "result": {
+    "item": "rftoolsutility:crafter2"
+  }
+}
