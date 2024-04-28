@@ -4,6 +4,18 @@
     "ars_nouveau:potion_jar",
     "ars_nouveau:mob_jar",
     "ars_nouveau:jar_of_light",
-    "ars_nouveau:void_jar"
+    "ars_nouveau:void_jar",
+    "cookingforblockheads:milk_jar",
+    "delightful:jelly_bottle",
+    "delightful:glow_jelly_bottle",
+    "forbidden_arcanus:utrem_jar",
+    "forbidden_arcanus:pixie_utrem_jar",
+    "forbidden_arcanus:corrupted_pixie_utrem_jar",
+    "hexereri:herb_jar",
+    "supplementaries:jar",
+    "twilightforest:firefly_jar",
+    "twilightforest:cicada_jar",
+    "thermal:jar",
+    "productivebees:jar_oak"
   ]
 }
