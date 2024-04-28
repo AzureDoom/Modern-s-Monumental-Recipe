@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","key":{"d":{"tag":"forge:dyes/blue"},"j":{"tag":"forge:ingots/copper"},"k":{"item":"ae2:printed_logic_processor"},"p":{"tag":"forge:paper"}},"pattern":[" k ","ddd","ppp"],"result":{"item":"immersiveengineering:blueprint","nbt":{"blueprint":"components"}}}
+{"type":"minecraft:crafting_shaped","key":{"d":{"tag":"forge:dyes/blue"},"k":{"item":"ae2:printed_logic_processor"},"p":{"tag":"forge:paper"}},"pattern":[" k ","ddd","ppp"],"result":{"item":"immersiveengineering:blueprint","nbt":{"blueprint":"components"}}}
