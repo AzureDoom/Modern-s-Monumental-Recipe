@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AFA",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/rose_gold"
+    },
+    "B": {
+      "item": "tombstone:impregnated_diamond"
+    },
+    "C": {
+      "item": "psi:cad_core_overclocked"
+    },
+    "D": {
+      "tag": "forge:gears/platinum"
+    },
+    "E": {
+      "tag": "modernrecipes:jars"
+    },
+    "F": {
+      "item": "rftoolsutility:speed_module"
+    }
+  },
+  "result": {
+    "item": "tiab:time_in_a_bottle"
+  }
+}
