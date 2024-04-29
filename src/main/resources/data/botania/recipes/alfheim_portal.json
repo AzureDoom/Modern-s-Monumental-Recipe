@@ -5,7 +5,7 @@
       "tag": "botania:elementium_nuggets"
     },
     "W": {
-      "tag": "botania:livingwood_logs"
+      "tag": "forge:logs/archwood"
     }
   },
   "pattern": [
