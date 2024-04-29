@@ -11,10 +11,17 @@
     {
       "type": "forge:item_exists",
       "item": "immersiveengineering:mold_rod"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "create:andesite_alloy"
     }
   ],
   "type": "ae2:inscriber",
   "ingredients": {
+    "bottom": {
+      "item": "create:andesite_alloy"
+    },
     "middle": {
       "item": "immersiveengineering:mold_rod"
     },
