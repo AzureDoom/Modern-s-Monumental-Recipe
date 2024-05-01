@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "forbidden_arcanus:corrupti_dust"
+    },
+    "G": {
+      "tag": "forge:ingots/psimetal"
+    },
+    "P": {
+      "item": "botania:alchemy_catalyst"
+    },
+    "S": {
+      "item": "botania:livingrock"
+    }
+  },
+  "pattern": [
+    "SBS",
+    "GPG",
+    "SGS"
+  ],
+  "result": {
+    "item": "botania:conjuration_catalyst"
+  }
+}
