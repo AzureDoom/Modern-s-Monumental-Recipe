@@ -318,6 +318,6 @@
     }
   ],
   "type": "lootbundles:loot_fragment",
-  "probability": 0.2,
-  "maxCount": 0
+  "probability": 0.0,
+  "maxCount": 1
 }
