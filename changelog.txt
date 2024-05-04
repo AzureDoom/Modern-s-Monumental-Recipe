@@ -1,2 +1,2 @@
-v0.97
-- Misc Changes/Features
+v0.99
+- Misc Changes/Features/Additions
