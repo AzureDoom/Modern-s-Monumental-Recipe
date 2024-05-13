@@ -22,7 +22,7 @@
       "tag": "forge:dusts/glowstone"
     }
   ],
-  "pressure": 4,
+  "pressure": 4.0,
   "results": [
     {
       "item": "refinedstorage:construction_core",
