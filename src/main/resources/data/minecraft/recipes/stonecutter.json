@@ -6,17 +6,13 @@
     },
     "I": {
       "tag": "forge:ingots/iron"
-    },
-    "X": {
-      "tag": "forge:furnaces"
     }
   },
   "pattern": [
-    "III",
-    "IXI",
+    " I ",
     "###"
   ],
   "result": {
-    "item": "minecraft:blast_furnace"
+    "item": "minecraft:stonecutter"
   }
 }

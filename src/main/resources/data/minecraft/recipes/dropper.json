@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "minecraft:stone_crafting_materials"
+      "item": "compressium:cobblestone_1"
     },
     "R": {
       "tag": "forge:dusts/redstone"
