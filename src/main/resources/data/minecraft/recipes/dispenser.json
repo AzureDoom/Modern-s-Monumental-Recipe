@@ -8,7 +8,7 @@
       "tag": "forge:dusts/redstone"
     },
     "X": {
-      "item": "minecraft:bow"
+      "tag": "forge:bows"
     }
   },
   "pattern": [
