@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#G#",
+    "X#X"
+  ],
+  "key": {
+    "X": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "G": {
+      "tag": "forge:plates/gold"
+    },
+    "#": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "result": {
+    "item": "stevescarts:component_simple_pcb"
+  }
+}
