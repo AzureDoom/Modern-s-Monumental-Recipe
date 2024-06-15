@@ -5,7 +5,7 @@
       "tag": "forge:eggs"
     },
     "M": {
-      "item": "tconstruct:honey_bucket"
+      "tag": "forge:buckets/honey"
     },
     "S": {
       "item": "mysticalagriculture:glowstone_essence"
