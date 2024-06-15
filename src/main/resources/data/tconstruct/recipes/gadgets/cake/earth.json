@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "tag": "forge:eggs"
+    },
+    "M": {
+      "item": "tconstruct:earth_slime_bucket"
+    },
+    "S": {
+      "tag": "forge:sugar"
+    },
+    "W": {
+      "item": "tconstruct:earth_slime_tall_grass"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "SES",
+    "WWW"
+  ],
+  "result": {
+    "item": "tconstruct:earth_cake"
+  }
+}
