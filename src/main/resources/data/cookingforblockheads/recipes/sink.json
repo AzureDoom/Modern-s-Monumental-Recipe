@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cookingforblockheads"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "compressedcreativity:mesh_dense"
+    }
+  ],
+  "result": {
+    "item": "cookingforblockheads:sink"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "CBC",
+    "CCC"
+  ],
+  "key": {
+    "I": {
+      "item": "compressedcreativity:mesh_dense"
+    },
+    "C": {
+      "item": "modernrecipes:clay_plate"
+    },
+    "B": {
+      "item": "mysticalagriculture:water_essence"
+    }
+  }
+}
