@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "tag": "forge:eggs"
+    },
+    "M": {
+      "item": "tconstruct:honey_bucket"
+    },
+    "S": {
+      "item": "mysticalagriculture:glowstone_essence"
+    },
+    "W": {
+      "item": "tconstruct:blood_slime_tall_grass"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "SES",
+    "WWW"
+  ],
+  "result": {
+    "item": "tconstruct:blood_cake"
+  }
+}
