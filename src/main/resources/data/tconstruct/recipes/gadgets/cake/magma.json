@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "tag": "forge:eggs"
+    },
+    "M": {
+      "item": "reliquary:molten_core"
+    },
+    "S": {
+      "item": "mysticalagriculture:glowstone_essence"
+    },
+    "W": {
+      "item": "minecraft:crimson_roots"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "SES",
+    "WWW"
+  ],
+  "result": {
+    "item": "tconstruct:magma_cake"
+  }
+}
