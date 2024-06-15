@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "tconstruct:quartz_glass"
+      "item": "tconstruct:grout"
     }
   ],
   "type": "create:mixing",
