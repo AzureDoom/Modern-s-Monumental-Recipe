@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "forge:gunpowder"
+    },
+    "X": {
+      "item": "minecraft:flint"
+    },
+    "S": {
+      "item": "mysticalagriculture:sulfur_essence"
+    }
+  },
+  "pattern": [
+    "S#S",
+    "#X#",
+    "S#S"
+  ],
+  "result": {
+    "item": "tconstruct:efln_ball"
+  }
+}
