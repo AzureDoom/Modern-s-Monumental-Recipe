@@ -1,0 +1,35 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:not",
+          "value": {
+            "type": "forge:tag_empty",
+            "tag": "forge:ingots/copper"
+          }
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "M": {
+            "tag": "forge:plates/copper"
+          },
+          "S": {
+            "tag": "forge:chests/wooden"
+          }
+        },
+        "pattern": [
+          "MMM",
+          "MSM",
+          "MMM"
+        ],
+        "result": {
+          "item": "ironchest:copper_chest"
+        }
+      }
+    }
+  ]
+}
