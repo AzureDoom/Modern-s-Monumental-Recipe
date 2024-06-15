@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "M": {
+      "item": "mysticalagriculture:obsidian_essence"
+    },
+    "S": {
+      "item": "ironchest:diamond_chest"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "MSM",
+    "MMM"
+  ],
+  "result": {
+    "item": "ironchest:obsidian_chest"
+  }
+}
