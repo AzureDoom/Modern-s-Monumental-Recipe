@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "modernrecipes:part_plate_small_wood"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "X": {
+      "tag": "forge:plates/gold"
+    }
+  },
+  "pattern": [
+    "X X",
+    "X#X",
+    "XRX"
+  ],
+  "result": {
+    "count": 6,
+    "item": "minecraft:powered_rail"
+  }
+}

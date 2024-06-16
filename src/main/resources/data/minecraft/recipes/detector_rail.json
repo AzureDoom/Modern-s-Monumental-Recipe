@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "X": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "pattern": [
+    "X X",
+    "X#X",
+    "XRX"
+  ],
+  "result": {
+    "count": 6,
+    "item": "minecraft:detector_rail"
+  }
+}

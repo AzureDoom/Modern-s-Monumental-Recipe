@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "S": {
+      "item": "modernrecipes:part_plate_small_wood"
+    },
+    "X": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "pattern": [
+    "XSX",
+    "X#X",
+    "XSX"
+  ],
+  "result": {
+    "count": 6,
+    "item": "minecraft:activator_rail"
+  }
+}
