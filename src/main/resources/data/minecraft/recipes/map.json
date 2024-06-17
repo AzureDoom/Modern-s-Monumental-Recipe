@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "forge:paper"
+      "item": "domum_ornamentum:paper_extra"
     },
     "X": {
-      "item": "minecraft:compass"
+      "tag": "forge:compasses"
     }
   },
   "pattern": [
