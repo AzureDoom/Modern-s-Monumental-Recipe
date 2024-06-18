@@ -20,12 +20,18 @@
     },
     "L": {
       "tag": "forge:plates/iron"
+    },
+    "D": {
+      "tag": "forge:rods/iron"
+    },
+    "B": {
+      "item": "immersiveengineering:component_iron"
     }
   },
   "pattern": [
-    "L L",
+    "B B",
     "LXL",
-    " L "
+    " D "
   ],
   "result": {
     "item": "minecraft:hopper",
