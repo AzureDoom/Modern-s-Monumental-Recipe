@@ -1,2 +1,2 @@
-v0.105
+v0.106
 - Misc Changes/Features/Additions
