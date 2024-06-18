@@ -1,0 +1,31 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "reliquary:potions_enabled"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "G": {
+            "item": "create:hand_crank"
+          },
+          "N": {
+            "item": "botania:livingrock"
+          }
+        },
+        "pattern": [
+          "GNG",
+          "NGN",
+          "NNN"
+        ],
+        "result": {
+          "item": "reliquary:apothecary_mortar"
+        }
+      }
+    }
+  ]
+}
