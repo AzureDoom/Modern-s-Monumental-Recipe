@@ -13,7 +13,7 @@
   "heatRequirement": "superheated",
   "ingredients": [
     {
-      "tag": "forge:nether_stars"
+      "item": "extendedcrafting:ender_star"
     },
     {
       "tag": "forge:silicon"
