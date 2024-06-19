@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "modernrecipes:compressed_iron_plate"
+    },
+    "F": {
+      "tag": "forge:furnaces"
+    },
+    "I": {
+      "tag": "forge:gears/iron"
+    },
+    "G": {
+      "item": "additionallanterns:stone_chain"
+    },
+    "H": {
+      "item": "pneumaticcraft:stone_base"
+    }
+  },
+  "pattern": [
+    "###",
+    "GFG",
+    "#H#"
+  ],
+  "result": {
+    "item": "ad_astra:coal_generator"
+  }
+}
