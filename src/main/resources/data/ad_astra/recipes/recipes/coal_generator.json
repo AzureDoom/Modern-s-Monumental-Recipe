@@ -7,9 +7,6 @@
     "F": {
       "tag": "forge:furnaces"
     },
-    "I": {
-      "tag": "forge:gears/iron"
-    },
     "G": {
       "item": "additionallanterns:stone_chain"
     },
