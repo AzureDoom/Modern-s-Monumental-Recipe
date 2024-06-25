@@ -22,8 +22,7 @@
       "item": "minecraft:magma_block"
     },
     {
-      "fluid": "cyclic:honey",
-      "tag": "forge:honey",
+      "fluidTag": "forge:honey",
       "amount": 500
     }
   ],
