@@ -10,7 +10,10 @@
       "tag": "minecraft:logs"
     },
     "P": {
-      "item": "modernrecipes:part_plate_small_wood"
+      "type": "forge:nbt",
+      "item": "tconstruct:large_plate",
+      "count": 1,
+      "nbt": "{Material:\"tconstruct:wood\"}"
     },
     "I": {
       "tag": "forge:tools/pickaxes"
