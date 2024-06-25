@@ -22,8 +22,7 @@
       "tag": "forge:ingots/gold"
     },
     {
-      "tag": "forge:magma",
-      "count": 1000
+      "tag": "forge:magma"
     }
   ],
   "results": [
