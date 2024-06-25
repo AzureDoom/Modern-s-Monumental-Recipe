@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "compressium:obsidian_1"
+    },
+    "B": {
+      "tag": "forge:books"
+    },
+    "D": {
+      "tag": "forge:plates/diamond"
+    }
+  },
+  "pattern": [
+    " B ",
+    "D#D",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:enchanting_table"
+  }
+}
