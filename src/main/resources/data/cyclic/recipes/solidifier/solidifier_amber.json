@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cyclic:gem_amber"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:fire_charge"
+    },
+    {
+      "tag": "forge:dusts/redstone"
+    },
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "fluid": "cyclic:honey",
+      "tag": "forge:honey",
+      "count": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "cyclic:gem_amber",
+      "count": 2
+    }
+  ]
+}
