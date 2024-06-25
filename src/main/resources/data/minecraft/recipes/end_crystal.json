@@ -5,7 +5,7 @@
       "tag": "modernrecipes:eyes"
     },
     "G": {
-      "tag": "forge:glass"
+      "item": "thermal:enderium_glass"
     },
     "T": {
       "item": "minecraft:ghast_tear"
