@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+    "type": "forge:nbt",
+    "item": "cyclic:charm_fire",
+    "count": 1,
+    "nbt": "{Damge:\"0\"}"
+    },
+    "G": {
+      "tag": "forge:stone"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GEG",
+    "GGG"
+  ],
+  "result": {
+    "item": "minecraft:magma_block"
+  }
+}
