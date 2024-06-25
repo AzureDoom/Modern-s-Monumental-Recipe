@@ -24,7 +24,7 @@
     {
       "fluid": "cyclic:honey",
       "tag": "forge:honey",
-      "count": 500
+      "amount": 500
     }
   ],
   "results": [
