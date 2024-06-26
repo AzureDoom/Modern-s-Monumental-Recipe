@@ -5,7 +5,7 @@
       "item": "minecraft:birch_planks"
     },
     "B": {
-      "tag": "c:tools/hammer"
+      "tag": "alltheores:ore_hammers"
     }
   },
   "pattern": [

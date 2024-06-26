@@ -5,7 +5,7 @@
       "item": "minecraft:warped_planks"
     },
     "B": {
-      "tag": "c:tools/hammers"
+      "tag": "alltheores:ore_hammers"
     }
   },
   "pattern": [
