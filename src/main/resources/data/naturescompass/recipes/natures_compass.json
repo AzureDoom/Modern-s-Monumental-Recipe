@@ -1,12 +1,13 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:compass"
-  },
   "addition": {
     "tag": "minecraft:saplings"
   },
+  "base": {
+    "item": "minecraft:compass"
+  },
   "result": {
+    "count": 1,
     "id": "naturescompass:naturescompass"
   },
   "template": {
