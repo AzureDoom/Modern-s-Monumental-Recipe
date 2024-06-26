@@ -7,6 +7,6 @@
     "item": "minecraft:cracked_stone_bricks"
   },
   "result": {
-    "item": "explorerscompass:explorerscompass"
+    "id": "explorerscompass:explorerscompass"
   }
 }
