@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:compass"
+  },
+  "addition": {
+    "item": "minecraft:cracked_stone_bricks"
+  },
+  "result": {
+    "item": "explorerscompass:explorerscompass"
+  }
+}
