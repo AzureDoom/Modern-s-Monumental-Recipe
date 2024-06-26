@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "c:stone"
+    },
+    "B": {
+      "tag": "modernrecipes:tools/hammers"
+    }
+  },
+  "pattern": [
+    " A ",
+    " A ",
+    " B "
+  ],
+  "result": {
+    "id": "minecraft:stone_pressure_plate"
+  }
+}
