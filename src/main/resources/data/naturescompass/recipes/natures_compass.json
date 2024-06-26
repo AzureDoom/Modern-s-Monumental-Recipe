@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:compass"
+  },
+  "addition": {
+    "tag": "saplings"
+  },
+  "result": {
+    "id": "naturescompass:naturescompass"
+  },
+  "template": {
+    "tag": "minecraft:leaves"
+  }
+}
