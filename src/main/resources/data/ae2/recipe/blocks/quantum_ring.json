@@ -1,16 +1,4 @@
-{
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "ae2"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:quantum_ring"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
   "key": {
     "a": {
       "item": "modernrecipes:compressed_iron_plate"
