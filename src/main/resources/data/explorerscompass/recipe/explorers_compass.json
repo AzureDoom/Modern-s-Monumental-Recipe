@@ -8,5 +8,8 @@
   },
   "result": {
     "id": "explorerscompass:explorerscompass"
+  },
+  "template": {
+    "tag": "c:plates/iron"
   }
 }
