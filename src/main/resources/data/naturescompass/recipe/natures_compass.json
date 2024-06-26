@@ -7,9 +7,9 @@
     "tag": "minecraft:saplings"
   },
   "result": {
-    "item": "naturescompass:naturescompass"
+    "id": "naturescompass:naturescompass"
   },
   "template": {
-    "tag": "minecraft:leaves"
+    "tag": "minecraft:logs"
   }
 }
