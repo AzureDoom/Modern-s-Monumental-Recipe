@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modernrecipes"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "modernrecipes:compressed_iron_plate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ha ",
+    "a  ",
+    "   "
+  ],
+  "key": {
+    "h": {
+      "tag": "forge:tools/hammers"
+    },
+    "a": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "result": {
+    "id": "modernrecipes:compressed_iron_plate"
+  }
+} 

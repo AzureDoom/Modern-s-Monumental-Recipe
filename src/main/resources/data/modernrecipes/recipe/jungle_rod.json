@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modernrecipes"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "modernrecipes:jungle_rod"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  a",
+    "ha ",
+    "   "
+  ],
+  "key": {
+    "h": {
+      "tag": "forge:tools/hammers"
+    },
+    "a": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "result": {
+    "id": "modernrecipes:jungle_rod"
+  }
+} 
