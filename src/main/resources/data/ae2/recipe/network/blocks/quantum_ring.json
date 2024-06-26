@@ -1,3 +1,4 @@
+{ 
   "type": "minecraft:crafting_shaped",
   "key": {
     "a": {
@@ -22,6 +23,7 @@
     "aba"
   ],
   "result": {
+    "count": 1,
     "id": "ae2:quantum_ring"
   }
 }
