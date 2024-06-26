@@ -5,7 +5,7 @@
       "tag": "c:silicon"
     },
     "middle": {
-      "tag": "all_certus_quartz"
+      "tag": "ae2:all_certus_quartz"
     },
     "top": {
       "item": "ae2:calculation_processor_press"
