@@ -4,12 +4,12 @@
     "item": "minecraft:compass"
   },
   "addition": {
-    "tag": "saplings"
+    "tag": "minecraft:saplings"
   },
   "result": {
     "id": "naturescompass:naturescompass"
   },
   "template": {
-    "tag": "leaves"
+    "tag": "minecraft:leaves"
   }
 }
