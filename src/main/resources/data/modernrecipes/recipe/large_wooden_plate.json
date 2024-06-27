@@ -20,7 +20,7 @@
       "item": "modernrecipes:part_plate_small_wood"
     },
     "B": {
-      "item": "minecraft:planks"
+      "tag": "minecraft:planks"
     },
     "C": {
       "tag": "c:tools/hammer"
