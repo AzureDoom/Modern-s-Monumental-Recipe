@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modernrecipes"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "modernrecipes:part_plate_large_wood"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ACA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "modernrecipes:part_plate_small_wood"
+    },
+    "B": {
+      "item": "minecraft:planks"
+    },
+    "C": {
+      "tag": "c:tools/hammer"
+    }
+  },
+  "result": {
+    "id": "modernrecipes:part_plate_large_wood"
+  }
+} 
