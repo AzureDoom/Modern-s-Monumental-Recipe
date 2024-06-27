@@ -1,5 +1,5 @@
 {
-	"block.modernrecipes.workbench": "workbench",
+	"block.modernrecipes.workbench": "Workbench",
 	"item.modernrecipes.compressed_iron_plate": "Compressed Iron Plate",
 	"item.modernrecipes.tool_toolbox": "Tool Toolbox",
 	"item.modernrecipes.part_mold": "Part Mold",
@@ -16,6 +16,8 @@
 	"item.modernrecipes.part_mold_sickle": "Part Mold Sickle",
 	"item.modernrecipes.part_mold_sword": "Part Mold Sword",
 	"item.modernrecipes.part_plate_small_wood": "Small Wooden Plate",
-	"item.modernrecipes.workbench": "workbench",
+	"item.modernrecipes.part_plate_large_wood": "Large Wooden Plate",
+	"item.modernrecipes.part_wood_crosstie": "Wooden Crosstie",
+	"item.modernrecipes.workbench": "Workbench",
 	"itemGroup.modernrecipes.items": "Modern Recipes"
 }
