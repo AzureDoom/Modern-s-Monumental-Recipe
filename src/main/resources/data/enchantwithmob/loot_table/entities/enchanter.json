@@ -11,17 +11,19 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 0.0,
-                "max": 3.0,
+                "min": 0,
+                "max": 3,
                 "type": "minecraft:uniform"
               }
             },
             {
-              "function": "minecraft:looting_enchant",
               "count": {
-                "min": 0.0,
-                "max": 1.0
-              }
+                "type": "minecraft:uniform",
+                "max": 1,
+                "min": 0
+              },
+              "enchantment": "minecraft:looting",
+              "function": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "mysticalagriculture:emerald_essence"
@@ -43,20 +45,55 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 0.0,
-                "max": 3.0,
+                "min": 0,
+                "max": 3,
                 "type": "minecraft:uniform"
               }
             },
             {
-              "function": "minecraft:looting_enchant",
               "count": {
-                "min": 0.0,
-                "max": 1.0
-              }
+                "type": "minecraft:uniform",
+                "max": 1,
+                "min": 0
+              },
+              "enchantment": "minecraft:looting",
+              "function": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:paper"
+        }
+      ]
+    },
+    {
+      "name": "cloth",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "enchantwithmob:enchanter_clothes"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "enchantwithmob:enchanter_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "enchantwithmob:enchanter_boots"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        },
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.035,
+            "per_level_above_first": 0.01
+          },
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.05
         }
       ]
     },
@@ -74,9 +111,86 @@
           "condition": "minecraft:killed_by_player"
         },
         {
-          "condition": "minecraft:random_chance_with_looting",
-          "chance": 0.15,
-          "looting_multiplier": 0.02
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.035,
+            "per_level_above_first": 0.01
+          },
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.05
+        }
+      ]
+    },
+    {
+      "name": "enchant_book",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "enchantwithmob:mob_enchant_book"
+        }
+      ],
+      "functions": [
+        {
+          "function": "enchantwithmob:mob_enchant_with_levels",
+          "levels": {
+            "type": "minecraft:uniform",
+            "min": 10,
+            "max": 30
+          },
+          "treasure": true
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        },
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.035,
+            "per_level_above_first": 0.01
+          },
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.05
+        }
+      ]
+    },
+    {
+      "name": "enchanters_book",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "enchantwithmob:enchanters_book"
+        }
+      ],
+      "functions": [
+        {
+          "function": "enchantwithmob:mob_enchant_with_levels",
+          "levels": {
+            "type": "minecraft:uniform",
+            "min": 10,
+            "max": 30
+          },
+          "treasure": true
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        },
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.035,
+            "per_level_above_first": 0.01
+          },
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.05
         }
       ]
     }
