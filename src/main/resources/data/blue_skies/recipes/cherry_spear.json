@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecolonies:spear"
+    "tag": "forge:rods/wooden"
   },
   "addition": {
     "item": "blue_skies:cherry_planks"
