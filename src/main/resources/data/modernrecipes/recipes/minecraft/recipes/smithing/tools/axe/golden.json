@@ -11,10 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "type": "forge:nbt",
-    "item": "tconstruct:axe_head",
-    "count": 1,
-    "nbt": "{Material:\"tconstruct:iron\"}"
+    "item": "minecraft:iron_axe"
   },
   "addition": {
     "tag": "forge:ingots/gold"
