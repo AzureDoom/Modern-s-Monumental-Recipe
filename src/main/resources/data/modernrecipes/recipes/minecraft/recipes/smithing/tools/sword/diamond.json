@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "create_weaponry:golden_sword_head"
+    "item": "create_weaponry:golden_sword"
   },
   "addition": {
     "tag": "forge:gems/diamond"
