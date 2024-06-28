@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "biomesoplenty:hellbark_planks"
+      "item": "biomesoplenty:hellbark_planks"
     },
     "B": {
       "tag": "alltheores:ore_hammers"
