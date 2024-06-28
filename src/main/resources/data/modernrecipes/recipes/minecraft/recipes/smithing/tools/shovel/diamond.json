@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "create_weaponry:golden_shovel_head"
+    "item": "minecraft:golden_shovel"
   },
   "addition": {
     "tag": "forge:gems/diamond"
