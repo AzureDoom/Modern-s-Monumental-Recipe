@@ -12,7 +12,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "minecolonies:spear"
+      "tag": "forge:rods/wooden"
     },
     {
       "item": "blue_skies:frostbright_planks"
