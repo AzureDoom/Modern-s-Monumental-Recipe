@@ -65,6 +65,8 @@ public class ModernRecipesMod {
         public static final Supplier<Item> Part_Mold_Sickle = ITEMS.register("part_mold_sickle", baseItem);
         public static final Supplier<Item> Part_Mold_Sword = ITEMS.register("part_mold_sword", baseItem);
         public static final Supplier<Item> Part_Plate_Small_Wood = ITEMS.register("part_plate_small_wood", baseItem);
+        public static final Supplier<Item> Part_Plate_Large_Wood = ITEMS.register("part_plate_large_wood", baseItem);
+        public static final Supplier<Item> Part_Wood_Crosstie = ITEMS.register("part_wood_crosstie", baseItem);
 
         /**
          * This is just a simple block item, allowing you to register it for use in your recipes. Doesn't do anything fancy, is just a simple item that exists.
@@ -105,6 +107,8 @@ public class ModernRecipesMod {
                         () -> new ItemStack(ModItems.Part_Mold_Shovel_2.get())).icon(
                         () -> new ItemStack(ModItems.Part_Mold_Sickle.get())).icon(
                         () -> new ItemStack(ModItems.Part_Mold_Sword.get())).icon(
+                        () -> new ItemStack(ModItems.Part_Wood_Crosstie.get())).icon(
+                        () -> new ItemStack(ModItems.Part_Plate_Large_Wood.get())).icon(
                         () -> new ItemStack(ModItems.Part_Plate_Small_Wood.get()))
                 // Sets the items in the tab, in the order that you register them here
                 .displayItems((enabledFeatures, entries) -> {
@@ -123,7 +127,9 @@ public class ModernRecipesMod {
                     entries.accept(ModItems.Part_Mold_Shovel_2.get());
                     entries.accept(ModItems.Part_Mold_Sickle.get());
                     entries.accept(ModItems.Part_Mold_Sword.get());
+                    entries.accept(ModItems.Part_Wood_Crosstie.get());
                     entries.accept(ModItems.Part_Plate_Small_Wood.get());
+                    entries.accept(ModItems.Part_Plate_Large_Wood.get());
                     entries.accept(ModItems.EXAMPLE_BLOCK_ITEM.get());
                 }).build());
     }
