@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aquaculture"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "aquaculture:neptunium_chestplate"
+    }
+  ],
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "addition": {
+    "tag": "c:ingots/neptunium"
+  },
+  "result": {
+    "id": "aquaculture:neptunium_chestplate"
+  },
+  "template": {
+    "tag": "c:storage_blocks/netherite"
+  }
+}
