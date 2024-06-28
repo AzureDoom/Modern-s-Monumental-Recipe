@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "biomesoplenty:jacaranda_logs"
+      "item": "biomesoplenty:jacaranda_planks"
     },
     "B": {
       "tag": "alltheores:ore_hammers"

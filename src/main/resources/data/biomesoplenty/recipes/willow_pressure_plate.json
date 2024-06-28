@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "biomesoplenty:willow_logs"
+      "item": "biomesoplenty:willow_planks"
     },
     "B": {
       "tag": "alltheores:ore_hammers"

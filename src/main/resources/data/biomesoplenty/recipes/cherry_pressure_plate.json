@@ -12,7 +12,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "biomesoplenty:cherry_logs"
+      "item": "biomesoplenty:cherry_planks"
     },
     "B": {
       "tag": "alltheores:ore_hammers"
