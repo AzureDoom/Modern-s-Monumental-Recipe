@@ -1,20 +1,10 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "occultism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "occultism:iesnium_pickaxe"
-    }
-  ],
   "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:diamond_pickaxe"
   },
   "addition": {
-    "item": "occultism:iesnium_ingot"
+    "tag": "c:ingots/iesnium"
   },
   "result": {
     "id": "occultism:iesnium_pickaxe"
