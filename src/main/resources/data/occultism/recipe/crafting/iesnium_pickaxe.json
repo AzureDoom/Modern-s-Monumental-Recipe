@@ -10,6 +10,6 @@
     "id": "occultism:iesnium_pickaxe"
   },
   "template": {
-    "tag": "c:storage_block/diamond"
+    "tag": "c:storage_blocks/diamond"
   }
 }
