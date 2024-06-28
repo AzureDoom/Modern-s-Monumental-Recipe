@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing_transform",
   "base": {
-    "tag": "forge:string"
+    "tag": "c:string"
   },
   "addition": {
     "tag": "c:ingots/neptunium"
