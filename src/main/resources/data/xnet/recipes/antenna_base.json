@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "forge:storage_block/compressed_iron"
+    },
+    "i": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    " i ",
+    " i ",
+    "iIi"
+  ],
+  "result": {
+    "item": "xnet:antenna_base"
+  }
+}

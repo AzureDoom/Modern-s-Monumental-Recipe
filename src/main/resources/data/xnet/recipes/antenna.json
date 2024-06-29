@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "graveyard:dark_iron_bars"
+    },
+    "i": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    "IiI",
+    "IiI",
+    " i "
+  ],
+  "result": {
+    "item": "xnet:antenna"
+  }
+}

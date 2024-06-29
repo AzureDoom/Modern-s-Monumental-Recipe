@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "minecraft:trapdoors"
+    },
+    "i": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "o": {
+      "tag": "forge:ender_pearls"
+    }
+  },
+  "pattern": [
+    "III",
+    "IoI",
+    " i "
+  ],
+  "result": {
+    "item": "xnet:antenna_dish"
+  }
+}
