@@ -30,7 +30,7 @@
     }
   ],
   "output": {
-    "item": "create:andesite_alloy"
+    "item": "create:rose_quartz"
   },
   "liquidOutput": {
     "fluid": "minecraft:lava"
