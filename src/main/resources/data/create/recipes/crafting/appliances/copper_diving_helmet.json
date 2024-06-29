@@ -6,7 +6,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "create:diving_helmet"
+      "item": "create:copper_diving_helmet"
     },
     {
       "type": "forge:item_exists",
@@ -21,6 +21,6 @@
     "tag": "forge:ingots/copper"
   },
   "result": {
-    "item": "create:diving_helmet"
+    "item": "create:copper_diving_helmet"
   }
 }
