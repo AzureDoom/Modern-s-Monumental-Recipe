@@ -14,7 +14,7 @@
     "item": "minecraft:wooden_shovel"
   },
   "addition": {
-    "tag": "forge:stone"
+    "tag": "minecraft:stone_tool_materials"
   },
   "result": {
     "item": "minecraft:stone_shovel"
