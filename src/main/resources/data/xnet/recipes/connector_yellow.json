@@ -8,10 +8,10 @@
       "tag": "forge:chests"
     },
     "g": {
-      "tag": "forge:ingots/gold"
+      "tag": "forge:plates/gold"
     },
     "r": {
-      "item": "minecraft:redstone"
+      "item": "extendedcrafting:redstone_component"
     }
   },
   "pattern": [
