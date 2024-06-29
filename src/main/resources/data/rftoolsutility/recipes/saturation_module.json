@@ -1,0 +1,24 @@
+{
+  "type": "rftoolsutility:syringe",
+  "key": {
+    "P": {
+      "item": "rftoolsutility:module_template"
+    },
+    "S": {
+      "item": "rftoolsutility:syringe"
+    },
+    "f": {
+      "item": "mysticalagriculture:zombie_essence"
+    }
+  },
+  "mob": "minecraft:zombie",
+  "pattern": [
+    "fSf",
+    "fPf",
+    "fff"
+  ],
+  "result": {
+    "item": "rftoolsutility:saturation_module"
+  },
+  "syringe": 1
+}

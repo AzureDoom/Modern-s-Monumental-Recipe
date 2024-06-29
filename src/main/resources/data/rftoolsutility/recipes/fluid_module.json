@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "ad_astra:water_pump"
+    },
+    "Z": {
+      "tag": "forge:dyes/black"
+    },
+    "i": {
+      "item": "mysticalagriculture:compressed_iron_essence"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    " X ",
+    "rir",
+    " Z "
+  ],
+  "result": {
+    "item": "rftoolsutility:fluid_module"
+  }
+}

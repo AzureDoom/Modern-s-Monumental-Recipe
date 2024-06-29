@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "tag": "forge:storage_blocks/redstone_ingot"
+    },
+    "o": {
+      "tag": "forge:ender_pearls"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    "ror",
+    "rRr",
+    "rrr"
+  ],
+  "result": {
+    "item": "rftoolsutility:redstone_information"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:repeater"
+    },
+    "Z": {
+      "tag": "forge:dyes/black"
+    },
+    "i": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    " X ",
+    "rir",
+    " Z "
+  ],
+  "result": {
+    "item": "rftoolsutility:redstone_module"
+  }
+}

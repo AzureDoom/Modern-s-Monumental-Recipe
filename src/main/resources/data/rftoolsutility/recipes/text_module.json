@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Z": {
+      "tag": "forge:dyes/black"
+    },
+    "i": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "p": {
+      "tag": "forge:paper"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    " p ",
+    "rir",
+    " Z "
+  ],
+  "result": {
+    "item": "rftoolsutility:text_module"
+  }
+}
