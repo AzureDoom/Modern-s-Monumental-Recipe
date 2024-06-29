@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "xnet:connector_blue"
+    },
+    "d": {
+      "tag": "forge:plates/diamond"
+    },
+    "o": {
+      "tag": "forge:ender_pearls"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_component"
+    }
+  },
+  "pattern": [
+    "Co",
+    "dr"
+  ],
+  "result": {
+    "item": "xnet:advanced_connector_blue",
+    "count": 2
+  }
+}
