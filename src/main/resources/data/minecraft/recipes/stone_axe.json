@@ -1,21 +1,21 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "minecraft"
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
     },
-    {
-      "type": "forge:item_exists",
-      "item": "minecraft:stone_axe"
+    "X": {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    "S": {
+      "item": "minecraft:wooden_axe"
     }
+  },
+  "pattern": [
+    "XX",
+    "XS",
+    " #"
   ],
-  "type": "minecraft:smithing",
-  "base": {
-    "item": "minecraft:wooden_axe"
-  },
-  "addition": {
-    "tag": "forge:stone"
-  },
   "result": {
     "item": "minecraft:stone_axe"
   }
