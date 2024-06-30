@@ -16,10 +16,16 @@ This mod is the Core Mod used for all the Custom Recipes in Monumental Experienc
     ordering="NONE"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="modernrecipes"
+    mandatory=true
+    versionRange="[0.109,)"
+    ordering="BEFORE"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.19.2,1.20)"
-    ordering="NONE"
+    ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="ae2"
@@ -134,6 +140,18 @@ This mod is the Core Mod used for all the Custom Recipes in Monumental Experienc
     mandatory=true
     versionRange="[1.19.2-1.1.0,)"
     ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="mutantmonsters"
+    mandatory=true
+    versionRange="[4.0.6,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="material_elements"
+    mandatory=true
+    versionRange="[6.3.0,)"
+    ordering="NONE"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="nethersdelight"
