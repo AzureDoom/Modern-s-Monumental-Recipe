@@ -1,10 +1,20 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:stone_shovel"
+    }
+  ],
   "type": "minecraft:smithing",
-  "addition": {
-    "tag": "minecraft:stone_tool_materials"
-  },
   "base": {
     "item": "minecraft:wooden_shovel"
+  },
+  "addition": {
+    "tag": "minecraft:stone_tool_materials"
   },
   "result": {
     "item": "minecraft:stone_shovel"
