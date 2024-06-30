@@ -21,3 +21,225 @@ This mod is the Core Mod used for all the Custom Recipes in Monumental Experienc
     versionRange="[1.19.2,1.20)"
     ordering="NONE"
     side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="ae2"
+    mandatory=true
+    versionRange="[12.9.9,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="ars_nouveau"
+    mandatory=true
+    versionRange="[3.23.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="barteringstation"
+    mandatory=true
+    versionRange="[4.0.3,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="blue_skies"
+    mandatory=true
+    versionRange="[1.3.20,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="biomesoplenty"
+    mandatory=true
+    versionRange="[17.1.2.544,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="bettershears3"
+    mandatory=true
+    versionRange="[1.19.2-3.1.6_RELEASE,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="buildinggadgets"
+    mandatory=true
+    versionRange="[3.16.3,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="cookingforblockheads"
+    mandatory=true
+    versionRange="[1.19.2-13.3.4,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="create"
+    mandatory=true
+    versionRange="[0.5.0.f,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="createaddition"
+    mandatory=true
+    versionRange="[1.2.3,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="chiselsandbits"
+    mandatory=true
+    versionRange="[1.3.146,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="cyclic"
+    mandatory=true
+    versionRange="[1.19.2-1.8.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="doom"
+    mandatory=true
+    versionRange="[1.19.2-5.0.6,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="extrastorage"
+    mandatory=true
+    versionRange="[3.0.1,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="easy_mob_farm"
+    mandatory=true
+    versionRange="[7.1.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="forbidden_arcanus"
+    mandatory=true
+    versionRange="[1.19.2-2.1.5,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="inventorypets"
+    mandatory=true
+    versionRange="[1.19.2-2.1.2.1,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="monsterplus"
+    mandatory=true
+    versionRange="1.1.6.1,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="mining_dimension"
+    mandatory=true
+    versionRange="[1.19.2-1.1.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="nethersdelight"
+    mandatory=true
+    versionRange="[1.19-3.1,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="notenoughwands"
+    mandatory=true
+    versionRange="[1.19-5.0.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="pipez"
+    mandatory=true
+    versionRange="[1.2.15,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="rftoolsbase"
+    mandatory=true
+    versionRange="[1.19-4.1.9,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="rftoolsbuilder"
+    mandatory=true
+    versionRange="[1.19-5.2.10,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="rftoolsutility"
+    mandatory=true
+    versionRange="[1.19-5.1.10,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="rftoolscontrol"
+    mandatory=true
+    versionRange="[1.19-6.1.5,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="rftoolsstorage"
+    mandatory=true
+    versionRange="[1.19-4.1.3,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="rftoolspower"
+    mandatory=true
+    versionRange="[1.19-5.1.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="refinedstorage"
+    mandatory=true
+    versionRange="[1.11.7,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="rebornstorage"
+    mandatory=true
+    versionRange="[1.19.2-5.0.3,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="rechiseled"
+    mandatory=true
+    versionRange="[1.1.6,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="sophisticatedstorage"
+    mandatory=true
+    versionRange="[1.19.2-0.9.7.765,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="stevescarts"
+    mandatory=true
+    versionRange="[1.19.2-1.1.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="tradingpost"
+    mandatory=true
+    versionRange="[4.2.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="upgrade_aquatic"
+    mandatory=true
+    versionRange="[5.1.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="waystones"
+    mandatory=true
+    versionRange="[11.4.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="xnet"
+    mandatory=true
+    versionRange="[1.19-5.2.4,)"
+    ordering="AFTER"
+    side="BOTH"
