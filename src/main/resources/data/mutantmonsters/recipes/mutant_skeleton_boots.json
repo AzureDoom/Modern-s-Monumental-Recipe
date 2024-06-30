@@ -2,21 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "minecraft"
+      "modid": "mutantmonsters"
     },
     {
       "type": "forge:item_exists",
-      "item": "mutantmonsters:mutant_skeleton_leggings"
+      "item": "mutantmonsters:mutant_skeleton_boots"
     }
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "mutantmonsters:mutant_skeleton_pelvis"
+    "item": "minecraft:leather_boots"
   },
   "addition": {
     "item": "mutantmonsters:mutant_skeleton_limb"
   },
   "result": {
-    "item": "mutantmonsters:mutant_skeleton_leggings"
+    "item": "mutantmonsters:mutant_skeleton_boots"
   }
 }
