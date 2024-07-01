@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:nether_quartz_hoe"
+    }
+  ],
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "addition": {
+    "tag": "forge:gems/quartz"
+  },
+  "result": {
+    "id": "ae2:nether_quartz_hoe"
+  },
+  "template": {
+    "tag": "c:storage_blocks/iron"
+  }
+}

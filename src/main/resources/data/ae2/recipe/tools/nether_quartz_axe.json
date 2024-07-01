@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:nether_quartz_axe"
+    }
+  ],
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_axe"
+  },
+  "addition": {
+    "tag": "forge:gems/quartz"
+  },
+  "result": {
+    "item": "ae2:nether_quartz_axe"
+  },
+  "template": {
+    "tag": "c:storage_blocks/iron"
+  }
+}
