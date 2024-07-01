@@ -14,7 +14,7 @@
     "item": "minecraft:iron_sword"
   },
   "addition": {
-    "tag": "forge:gems/quartz"
+    "tag": "c:gems/quartz"
   },
   "result": {
     "id": "ae2:nether_quartz_sword"

@@ -14,7 +14,7 @@
     "item": "minecraft:iron_axe"
   },
   "addition": {
-    "tag": "forge:gems/quartz"
+    "tag": "c:gems/quartz"
   },
   "result": {
     "item": "ae2:nether_quartz_axe"

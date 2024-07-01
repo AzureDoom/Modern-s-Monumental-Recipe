@@ -14,7 +14,7 @@
     "item": "framedblocks:framed_wrench"
   },
   "addition": {
-    "tag": "forge:gems/quartz"
+    "tag": "c:gems/quartz"
   },
   "result": {
     "id": "ae2:nether_quartz_wrench"
