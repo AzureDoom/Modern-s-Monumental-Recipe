@@ -17,7 +17,7 @@
     "tag": "c:gems/certus_quartz"
   },
   "result": {
-    "item": "ae2:certus_quartz_sword"
+    "id": "ae2:certus_quartz_sword"
   },
   "template": {
     "tag": "c:storage_blocks/iron"
