@@ -17,7 +17,7 @@
     "tag": "c:gems/quartz"
   },
   "result": {
-    "item": "ae2:nether_quartz_axe"
+    "id": "ae2:nether_quartz_axe"
   },
   "template": {
     "tag": "c:storage_blocks/iron"
