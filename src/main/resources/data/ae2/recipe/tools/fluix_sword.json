@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ae2:fluix_sword"
+    }
+  ],
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "addition": {
+    "item": "ae2:fluix_block"
+  },
+  "result": {
+    "id": "ae2:fluix_sword"
+  },
+  "template": {
+    "tag": "c:storage_blocks/iron"
+  }
+}
