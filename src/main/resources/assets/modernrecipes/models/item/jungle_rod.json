@@ -1,6 +1,6 @@
 {
    "parent": "item/generated",
    "textures": {
-       "layer0": "modernrecipes:item/part_mold_axe"
+       "layer0": "modernrecipes:item/jungle_rod"
    }
 }

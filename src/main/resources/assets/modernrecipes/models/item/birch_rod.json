@@ -1,6 +1,6 @@
 {
    "parent": "item/generated",
    "textures": {
-       "layer0": "modernrecipes:item/part_mold_gear_1"
+       "layer0": "modernrecipes:item/birch_rod"
    }
 }
