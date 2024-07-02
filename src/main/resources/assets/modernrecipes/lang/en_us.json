@@ -11,6 +11,8 @@
 	"item.modernrecipes.oak_rod": "Oak Rod",
 	"item.modernrecipes.spruce_rod": "Spruce Rod",
 	"item.modernrecipes.clay_plate": "Clay Plate",
+	"item.modernrecipes.part_chainlinks": "Chain Links",
+	"item.modernrecipes.part_cog_wood": "Wooden Cog Wheel",
 	"item.modernrecipes.workbench": "workbench",
 	"itemGroup.modernrecipes.items": "Modern Recipes"
 }
