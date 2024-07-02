@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:compass"
+  },
+  "addition": {
+    "item": "minecraft:carved_pumpkin"
+  },
+  "result": {
+    "id": "structurecompass:structure_compass"
+  },
+  "template": {
+    "tag": "c:plates/iron"
+  }
+}
