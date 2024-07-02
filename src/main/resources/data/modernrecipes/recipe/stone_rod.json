@@ -17,10 +17,10 @@
   ],
   "key": {
     "h": {
-      "tag": "forge:tools/hammers"
+      "tag": "c:tools/hammers"
     },
     "a": {
-      "tag": "forge:stone"
+      "tag": "c:stone"
     }
   },
   "result": {
