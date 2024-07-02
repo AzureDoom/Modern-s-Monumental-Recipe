@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:acacia_planks"
+    },
+    "B": {
+      "tag": "alltheores:ore_hammers"
+    }
+  },
+  "pattern": [
+    " A ",
+    " A ",
+    " B "
+  ],
+  "result": {
+    "id": "minecraft:acacia_pressure_plate"
+  }
+}
