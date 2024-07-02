@@ -17,10 +17,10 @@
   ],
   "key": {
     "h": {
-      "tag": "c:tools/hammer"
+      "tag": "modernrecipes:tools/hammer"
     },
     "a": {
-      "tag": "forge:storage_blocks/clay"
+      "tag": "c:storage_blocks/clay"
     }
   },
   "result": {
