@@ -25,9 +25,10 @@
       "item": "minecraft:blaze_rod"
     },
     "S": {
-      "item": "mysticalagriculture:soul_jar",
       "type": "mysticalagriculture:wither_skeleton",
-      "souls": 8.0
+      "item": "mysticalagriculture:soul_jar",
+      "count": 1,
+      "nbt": "{Souls:\"8.0d\"}"
     }
   },
   "result": {
