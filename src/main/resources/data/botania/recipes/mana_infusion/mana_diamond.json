@@ -10,7 +10,7 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cyclic_gem_obsidian"
+      "item": "cyclic:gem_obsidian"
     }
   ],
   "type": "botania:mana_infusion",
@@ -19,7 +19,7 @@
     "block": "botania:conjuration_catalyst"
   },
   "input": {
-    "item": "cyclic_gem_obsidian"
+    "item": "cyclic:gem_obsidian"
   },
   "mana": 5000,
   "output": {
