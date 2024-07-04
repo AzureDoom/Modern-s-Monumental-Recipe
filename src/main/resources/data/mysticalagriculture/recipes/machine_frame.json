@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "IRI",
+    "RSR",
+    "SRS"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "S": {
+      "item": "compressium:stone_2"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:machine_frame"
+  }
+}
