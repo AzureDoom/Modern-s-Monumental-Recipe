@@ -17,10 +17,10 @@
   ],
   "key": {
     "h": {
-      "tag": "c:tools/hammer"
+      "tag": "modernrecipes:tools/hammer"
     },
     "a": {
-      "tag": "forge:ingots/compressed_iron"
+      "tag": "c:ingots/compressed_iron"
     }
   },
   "result": {

@@ -23,7 +23,7 @@
       "tag": "minecraft:planks"
     },
     "C": {
-      "tag": "alltheores:ore_hammers"
+      "tag": "modernrecipes:tools/hammer"
     }
   },
   "result": {
