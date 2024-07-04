@@ -16,19 +16,16 @@
       "item": "minecraft:diamond_axe"
     },
     "I": {
-      "item": "minecraft:netherite_ingot"
+      "tag": "forge:plates/netherite"
     },
     "P": {
       "item": "minecraft:blaze_powder"
     },
     "R": {
-      "item": "minecraft:blaze_rod"
+      "item": "botania:blaze_block"
     },
     "S": {
-      "type": "mysticalagriculture:wither_skeleton",
-      "item": "mysticalagriculture:soul_jar",
-      "count": 1,
-      "nbt": "{Souls:\"8.0d\"}"
+      "item": "arsomega:glyph_wither_summon"
     }
   },
   "result": {
