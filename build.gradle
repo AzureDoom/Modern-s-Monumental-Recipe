@@ -75,7 +75,14 @@ tasks.withType(ProcessResources).configureEach {
             mod_license            : mod_license,
             mod_version            : mod_version,
             mod_authors            : mod_authors,
-            mod_description        : mod_description
+            mod_description        : mod_description,
+            ae2_version            : ae2_version,
+            aquaculture_version    : aquaculture_version,
+            biomesoplenty_version   : biomesoplenty_version,
+            the_bumblezone_version   : the_bumblezone_version,
+            explorers_compass_version   : explorers_compass_version,
+            natures_compass_version   : natures_compass_version,
+            structure_compass_version   : structure_compass_version
     ]
     inputs.properties replaceProperties
 
