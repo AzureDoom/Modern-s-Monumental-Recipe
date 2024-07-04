@@ -16,22 +16,16 @@ This mod is the Core Mod used for all the Custom Recipes in Monumental Experienc
     ordering="NONE"
     side="BOTH"
 [[dependencies.modernrecipes]]
-    modId="modernrecipes"
-    mandatory=true
-    versionRange="[0.109,)"
-    ordering="BEFORE"
-    side="BOTH"
-[[dependencies.modernrecipes]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.19.2,1.20)"
-    ordering="AFTER"
+    ordering="NONE"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="ae2"
-    mandatory=true
+    mandatory=false
     versionRange="[12.9.9,)"
-    ordering="AFTER"
+    ordering="BEFORE"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="ars_nouveau"
@@ -146,6 +140,12 @@ This mod is the Core Mod used for all the Custom Recipes in Monumental Experienc
     mandatory=true
     versionRange="[4.0.6,)"
     ordering="NONE"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="mekanism"
+    mandatory=false
+    versionRange="[10.3.9.13,)"
+    ordering="BEFORE"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="material_elements"
