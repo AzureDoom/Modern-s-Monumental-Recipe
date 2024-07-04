@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "enigmaticlegacy:is_enabled",
+      "item": "enigmaticlegacy:forbidden_axe"
+    }
+  ],
+  "pattern": [
+    "ISI",
+    "PXP",
+    " R "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:diamond_axe"
+    },
+    "I": {
+      "item": "minecraft:netherite_ingot"
+    },
+	"P": {
+      "item": "minecraft:blaze_powder"
+    },
+	"R": {
+      "item": "minecraft:blaze_rod"
+    },
+    "S": {
+      "item": "mysticalagriculture:soul_jar",
+      "type": "mysticalagriculture:wither_skeleton",
+      "souls": 8.0
+    }
+  },
+  "result": {
+    "item": "enigmaticlegacy:forbidden_axe"
+  }
+}
