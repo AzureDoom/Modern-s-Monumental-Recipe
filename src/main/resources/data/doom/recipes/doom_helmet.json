@@ -2,9 +2,9 @@
   "type": "extendedcrafting:shaped_flux_crafter",
   "powerRequired": 200000,
   "pattern": [
+    " S	",
     "EEE",
-    "ESE",
-    "EEE"
+    "ESE"
   ],
   "key": {
     "S": {
@@ -15,7 +15,7 @@
     }
   },
   "result": {
-    "item": "doom:praetor_doom_leggings",
+    "item": "doom:doom_helmet",
     "count": 1
   }
 }

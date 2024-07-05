@@ -4,7 +4,7 @@
   "pattern": [
     "EEE",
     "ESE",
-    "EEE"
+    "ESE"
   ],
   "key": {
     "S": {
@@ -15,7 +15,7 @@
     }
   },
   "result": {
-    "item": "doom:praetor_doom_leggings",
+    "item": "doom:doom_boots",
     "count": 1
   }
 }
