@@ -1,0 +1,66 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchromaticreturn:fortunite_bar"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    }
+  ],
+  "results": [
+    {
+      "count": 64,
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,66 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchromaticreturn:fortunite_bar"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "create:crushed_raw_gold"
+    }
+  ],
+  "results": [
+    {
+      "count": 64,
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

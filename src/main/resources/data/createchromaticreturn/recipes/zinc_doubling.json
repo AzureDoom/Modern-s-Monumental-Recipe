@@ -1,0 +1,63 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    }
+  ],
+  "results": [
+    {
+      "count": 32,
+      "item": "alltheores:zinc_ingot"
+    }
+  ],
+  "heatRequirement": "heated"
+}

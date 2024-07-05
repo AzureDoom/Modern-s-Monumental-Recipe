@@ -1,0 +1,63 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    }
+  ],
+  "results": [
+    {
+      "count": 32,
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "heatRequirement": "heated"
+}

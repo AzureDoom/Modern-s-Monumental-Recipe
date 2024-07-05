@@ -1,0 +1,66 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchromaticreturn:fortunite_bar"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    }
+  ],
+  "results": [
+    {
+      "count": 64,
+      "item": "alltheores:zinc_ingot"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

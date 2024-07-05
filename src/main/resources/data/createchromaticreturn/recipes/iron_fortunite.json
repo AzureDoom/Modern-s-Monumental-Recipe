@@ -1,0 +1,66 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchromaticreturn:fortunite_bar"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    }
+  ],
+  "results": [
+    {
+      "count": 64,
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "heatRequirement": "superheated"
+}
