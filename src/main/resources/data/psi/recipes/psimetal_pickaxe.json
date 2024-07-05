@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "psi"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "psi:psimetal_pickaxe"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "tag": "forge:gems/psigem"
+  },
+  "result": {
+    "item": "psi:psimetal_pickaxe"
+  }
+}
