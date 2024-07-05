@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "extendedcrafting"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:fluid_storage_cell_4k"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
-    }
-  ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
     "XDX",
