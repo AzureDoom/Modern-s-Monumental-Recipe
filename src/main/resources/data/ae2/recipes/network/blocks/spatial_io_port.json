@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:spatial_io_port"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "modernrecipes:compressed_iron_plate"
-    }
-  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {

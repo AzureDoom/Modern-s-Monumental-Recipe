@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:charger"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "modernrecipes:compressed_iron_plate"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:charging_station"
-    }
-  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
