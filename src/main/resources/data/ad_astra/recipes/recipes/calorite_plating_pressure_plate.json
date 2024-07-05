@@ -1,29 +1,19 @@
 {
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "ad_astra"
-        },
-        {
-            "type": "forge:item_exists",
-            "item": "ad_astra:calorite_plating_pressure_plate"
-        }
-    ],
-    "type": "minecraft:crafting_shaped",
-    "key": {
-        "A": {
-            "item": "ad_astra:calorite_plating"
-        },
-        "B": {
-            "tag": "forge:tools/hammers"
-        }
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "ad_astra:calorite_plating"
     },
-    "pattern": [
-        " A ",
-        " A ",
-        " B "
-    ],
-    "result": {
-        "item": "ad_astra:calorite_plating_pressure_plate"
+    "B": {
+      "tag": "forge:tools/hammers"
     }
+  },
+  "pattern": [
+    " A ",
+    " A ",
+    " B "
+  ],
+  "result": {
+    "item": "ad_astra:calorite_plating_pressure_plate"
+  }
 }
