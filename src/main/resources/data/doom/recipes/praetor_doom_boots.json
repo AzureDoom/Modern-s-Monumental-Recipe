@@ -1,0 +1,21 @@
+{
+  "type": "extendedcrafting:shaped_flux_crafter",
+  "powerRequired": 400000,
+  "pattern": [
+    "   ",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "S": {
+      "item": "doom:argent_energy"
+    },
+    "E": {
+      "item": "doom:argent_plate"
+    }
+  },
+  "result": {
+    "item": "doom:praetor_doom_boots",
+    "count": 1
+  }
+}
