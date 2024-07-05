@@ -11,7 +11,7 @@
   ],
   "type": "minecraft:smithing",
   "base": {
-    "item": "fancy_battleaxes:golden_battleaxe"
+    "item": "fancy_battleaxes:gold_battleaxe"
   },
   "addition": {
     "tag": "forge:gems/diamond"
