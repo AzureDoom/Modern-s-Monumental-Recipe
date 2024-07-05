@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "ae2"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:calculation_processor_press"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "rftoolsutility:timer"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "B": {
