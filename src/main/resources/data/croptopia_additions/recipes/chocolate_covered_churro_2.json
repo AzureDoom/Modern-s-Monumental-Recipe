@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:chocolate"
+    },
+    {
+      "item": "croptopia:churros"
+    },
+    {
+      "item": "croptopia:churros"
+    },
+    {
+      "item": "croptopia:churros"
+    },
+    {
+      "item": "croptopia:churros"
+    }
+  ],
+  "result": {
+    "item": "croptopia_additions:frosted_churro",
+    "count": 4
+  }
+}

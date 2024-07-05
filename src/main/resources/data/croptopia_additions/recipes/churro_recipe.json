@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:cinnamon"
+    },
+    {
+      "item": "croptopia:flour"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "croptopia:flour"
+    },
+    {
+      "item": "croptopia:olive_oil"
+    }
+  ],
+  "result": {
+    "item": "croptopia_additions:churro",
+    "count": 4
+  }
+}
