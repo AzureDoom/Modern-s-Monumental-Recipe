@@ -142,12 +142,6 @@ This mod is the Core Mod used for all the Custom Recipes in Monumental Experienc
     ordering="NONE"
     side="BOTH"
 [[dependencies.modernrecipes]]
-    modId="mekanism"
-    mandatory=false
-    versionRange="[10.3.9.13,)"
-    ordering="BEFORE"
-    side="BOTH"
-[[dependencies.modernrecipes]]
     modId="material_elements"
     mandatory=true
     versionRange="[6.3.0,)"
