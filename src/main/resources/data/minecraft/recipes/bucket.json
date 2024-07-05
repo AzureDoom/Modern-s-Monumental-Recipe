@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "i": {
+      "tag": "forge:plates/iron"
+    }
+  },
+  "pattern": [
+    "   ",
+    " i ",
+    "i i"
+  ],
+  "result": {
+    "item": "minecraft:anvil"
+  }
+}
