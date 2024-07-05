@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "#X#",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "X": {
+      "item": "mysticalagriculture:netherite_essence"
+    },
+    "S": {
+      "tag": "forge:string"
+    }
+  },
+  "result": {
+    "id": "minecraft:elytra"
+  }
+}
