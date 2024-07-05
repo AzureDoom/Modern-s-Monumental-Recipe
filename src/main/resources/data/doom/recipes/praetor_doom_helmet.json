@@ -1,8 +1,8 @@
 {
   "type": "extendedcrafting:shaped_flux_crafter",
-  "powerRequired": 400000,
+  "powerRequired": 200000,
   "pattern": [
-    "EEE",
+    " E ",
     "ESE",
     "EEE"
   ],
