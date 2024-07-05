@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "pneumaticcraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:formation_core"
-    }
-  ],
   "type": "pneumaticcraft:pressure_chamber",
   "inputs": [
     {
@@ -21,7 +11,7 @@
       "item": "ae2:logic_processor"
     }
   ],
-  "pressure": 4.0,
+  "pressure": 4,
   "results": [
     {
       "item": "ae2:formation_core",
