@@ -1,21 +1,11 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "A": {
-      "item": "constructionwand:diamond_wand"
-    },
-    "B": {
-      "item": "naturesaura:ancient_stick"
-    },
-    "C": {
-      "item": "naturesaura:ancient_stick"
-    }
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "constructionwand:diamond_wand"
   },
-  "pattern": [
-    " A ",
-    " B ",
-    " C "
-  ],
+  "addition": {
+    "item": "notenoughwands:advanced_wand_core"
+  },
   "result": {
     "item": "constructionwand:infinity_wand"
   }
