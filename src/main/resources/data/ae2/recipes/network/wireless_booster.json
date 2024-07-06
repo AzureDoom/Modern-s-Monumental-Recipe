@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "ae2"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:wireless_booster"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:black_iron_ingot"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "a": {

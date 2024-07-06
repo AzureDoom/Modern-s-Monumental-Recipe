@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "extendedcrafting"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:me_p2p_tunnel"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "modernrecipes:compressed_iron_plate"
-    }
-  ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
     "ABA",
