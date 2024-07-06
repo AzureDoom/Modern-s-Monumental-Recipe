@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "aquaculture:wooden_fillet_knife"
+  },
+  "addition": {
+    "tag": "forge:cobblestone"
+  },
+  "result": {
+    "item": "aquaculture:stone_fillet_knife"
+  }
+}
