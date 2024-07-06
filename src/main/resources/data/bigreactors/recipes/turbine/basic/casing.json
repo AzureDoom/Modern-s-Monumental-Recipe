@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "bigreactors"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "bigreactors:basic_turbinecasing"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
