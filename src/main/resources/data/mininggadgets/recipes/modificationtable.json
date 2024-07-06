@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mininggadgets:modificationtable"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:circuit_board"
-    }
-  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {

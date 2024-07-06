@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mininggadgets:mininggadget"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "createaddition:capacitor"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:electron_tube"
-    }
-  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {

@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mininggadgets:upgrade_empty"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_ingot"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:insulating_glass"
-    }
-  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
