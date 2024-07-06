@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "aquaculture:iron_hook"
+  },
+  "addition": {
+    "item": "minecraft:note_block"
+  },
+  "result": {
+    "item": "aquaculture:note_hook"
+  }
+}
