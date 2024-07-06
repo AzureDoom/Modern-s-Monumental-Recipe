@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "buildinggadgets:construction_block_powder"
-    }
-  ],
   "type": "create:mixing",
   "heatRequirement": "heated",
   "ingredients": [

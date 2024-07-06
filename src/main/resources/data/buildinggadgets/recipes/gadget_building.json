@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "buildinggadgets"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "buildinggadgets:gadget_building"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:insulating_glass"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:electron_tube"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
