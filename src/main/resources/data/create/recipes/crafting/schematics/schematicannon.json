@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:schematicannon"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "compressium:iron_1"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "L": {
