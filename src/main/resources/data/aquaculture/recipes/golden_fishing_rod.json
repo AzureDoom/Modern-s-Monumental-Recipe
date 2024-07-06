@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "aquaculture"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "aquaculture:gold_fishing_rod"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "aquaculture:iron_fishing_rod"

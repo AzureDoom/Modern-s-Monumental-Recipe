@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "aquaculture"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "aquaculture:neptunium_pickaxe"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:netherite_pickaxe"
