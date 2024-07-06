@@ -3,7 +3,7 @@
   "input": {
     "tag": "forge:ingots/iron"
   },
-  "loss_rate": 20,
+  "loss_rate": 15,
   "results": [
     {
       "item": "alltheores:steel_ingot"

@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "alltheores"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "alltheores:aluminum_gear"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
