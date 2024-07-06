@@ -2,7 +2,7 @@
   "type": "botania:elven_trade",
   "ingredients": [
     {
-      "item": "aiotbotania:terra_shovel"
+      "item": "aiotbotania:terra_hoe"
     },
     {
       "tag": "forge:ingots/alfsteel"
@@ -10,7 +10,7 @@
   ],
   "output": [
     {
-      "item": "aiotbotania:alfsteel_shovel"
+      "item": "aiotbotania:alfsteel_hoe"
     }
   ]
 }
