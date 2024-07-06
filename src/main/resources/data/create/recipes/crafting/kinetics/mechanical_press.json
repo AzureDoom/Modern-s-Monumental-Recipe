@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:mechanical_press"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "W": {

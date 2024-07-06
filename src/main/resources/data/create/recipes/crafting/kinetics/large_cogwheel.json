@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:large_cogwheel"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "S": {
