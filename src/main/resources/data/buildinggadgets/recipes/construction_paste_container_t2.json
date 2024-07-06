@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "buildinggadgets:construction_paste_container_t1"
+  },
+  "addition": {
+    "tag": "forge:plates/gold"
+  },
+  "result": {
+    "item": "buildinggadgets:construction_paste_container_t2"
+  }
+}
