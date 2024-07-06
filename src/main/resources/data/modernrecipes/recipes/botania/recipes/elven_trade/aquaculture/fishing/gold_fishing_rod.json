@@ -1,0 +1,16 @@
+{
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "aquaculture:iron_fishing_rod"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "output": [
+    {
+      "item": "aquaculture:gold_fishing_rod"
+    }
+  ]
+}

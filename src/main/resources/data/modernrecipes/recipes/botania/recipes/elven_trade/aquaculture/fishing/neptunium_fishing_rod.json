@@ -1,0 +1,16 @@
+{
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "aquaculture:diamond_fishing_rod"
+    },
+    {
+      "tag": "forge:ingots/neptunium"
+    }
+  ],
+  "output": [
+    {
+      "item": "aquaculture:neptunium_fishing_rod"
+    }
+  ]
+}
