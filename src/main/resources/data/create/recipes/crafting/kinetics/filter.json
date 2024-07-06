@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "tag": "forge:nuggets/iron"
+      "tag": "forge:plates/compressed_iron"
     },
     "S": {
       "tag": "minecraft:wool"
