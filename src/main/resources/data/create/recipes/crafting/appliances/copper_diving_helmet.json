@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:copper_diving_helmet"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:scuba_tank"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "mekanism:scuba_tank"
