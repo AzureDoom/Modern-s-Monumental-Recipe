@@ -1,0 +1,16 @@
+{
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "aquaculture:iron_hook"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "output": [
+    {
+      "item": "aquaculture:gold_hook"
+    }
+  ]
+}

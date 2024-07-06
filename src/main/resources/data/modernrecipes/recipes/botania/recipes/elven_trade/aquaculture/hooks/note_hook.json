@@ -1,0 +1,16 @@
+{
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "aquaculture:iron_hook"
+    },
+    {
+      "item": "minecraft:note_block"
+    }
+  ],
+  "output": [
+    {
+      "item": "aquaculture:note_hook"
+    }
+  ]
+}

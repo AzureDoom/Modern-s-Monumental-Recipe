@@ -1,0 +1,16 @@
+{
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "aquaculture:diamond_hook"
+    },
+    {
+      "tag": "forge:nether_stars"
+    }
+  ],
+  "output": [
+    {
+      "item": "aquaculture:nether_star_hook"
+    }
+  ]
+}

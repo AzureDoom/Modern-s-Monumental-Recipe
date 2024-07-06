@@ -1,0 +1,16 @@
+{
+  "type": "botania:elven_trade",
+  "ingredients": [
+    {
+      "item": "aquaculture:iron_hook"
+    },
+    {
+      "tag": "forge:dusts/redstone"
+    }
+  ],
+  "output": [
+    {
+      "item": "aquaculture:redstone_hook"
+    }
+  ]
+}
