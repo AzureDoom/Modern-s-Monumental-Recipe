@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "createaddition"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "createaddition:copper_spool"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:wirecutter"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "w": {
