@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "hexerei"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ars_nouveau:glyph_lightning"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ars_nouveau:air_essence"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "minecraft:lightning_rod"
-    }
-  ],
   "type": "hexerei:mixingcauldron",
   "liquid": {
     "fluid": "minecraft:lava"

@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "ars_nouveau"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ars_nouveau:enchanting_apparatus"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "z": {
