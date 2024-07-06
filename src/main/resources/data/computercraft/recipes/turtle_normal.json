@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "extendedcrafting"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "computercraft:turtle_normal"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:reinforced_crate"
-    }
-  ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
     "AAA",
