@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "extendedcrafting"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "botania:apothecary_mesa"
-    }
-  ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
     "CQC",
