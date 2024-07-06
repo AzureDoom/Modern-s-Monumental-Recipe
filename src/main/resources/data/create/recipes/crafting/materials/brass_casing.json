@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:brass_casing"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "supplementaries:timber_frame"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
