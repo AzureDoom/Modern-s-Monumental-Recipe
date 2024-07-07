@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "extendedcrafting"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mysticalagriculture:tinkering_table"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mysticalagriculture:soulium_dust"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "botania:livingrock"
-    }
-  ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
     "GGG",

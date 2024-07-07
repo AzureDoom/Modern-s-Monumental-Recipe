@@ -1,19 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mysticalagriculture:awakened_supremium_gemstone"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "matc:supremium_crystal",
-      "data": 32767
-    }
-  ],
   "type": "create:mixing",
   "heatRequirement": "superheated",
   "ingredients": [

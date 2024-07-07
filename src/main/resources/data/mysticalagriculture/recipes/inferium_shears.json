@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mysticalagriculture"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mysticalagriculture:inferium_shears"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "bettershears3:diamond_shears"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "bettershears3:diamond_shears"
