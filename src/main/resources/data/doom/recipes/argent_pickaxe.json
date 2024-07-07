@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "doom"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "doom:argent_pickaxe"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:netherite_pickaxe"
