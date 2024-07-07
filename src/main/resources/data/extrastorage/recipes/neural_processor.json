@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "extrastorage"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extrastorage:neural_processor"
-    }
-  ],
   "type": "ae2:inscriber",
   "ingredients": {
     "bottom": {
