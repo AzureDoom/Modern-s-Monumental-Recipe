@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "fancy_battleaxes"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "fancy_battleaxes:iron_battleaxe"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "fancy_battleaxes:stone_battleaxe"
