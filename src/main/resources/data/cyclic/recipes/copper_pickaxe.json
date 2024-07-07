@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "tag": "forge:ingots/copper"
+  },
+  "result": {
+    "item": "cyclic:copper_pickaxe"
+  }
+}
