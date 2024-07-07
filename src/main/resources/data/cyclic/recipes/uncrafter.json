@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "cyclic"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "cyclic:uncrafter"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "compressium:diamond_1"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "compressium:netherite_4"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "ror",

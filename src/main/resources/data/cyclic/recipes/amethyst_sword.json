@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "cyclic"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "cyclic:amethyst_sword"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:iron_sword"
