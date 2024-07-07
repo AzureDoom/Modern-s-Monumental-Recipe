@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mythicbotany"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mythicbotany:fire_ring"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "mythicbotany:muspelheim_rune"
