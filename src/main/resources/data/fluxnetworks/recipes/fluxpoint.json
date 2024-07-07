@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "fluxnetworks"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "fluxnetworks:flux_point"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_catalyst"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "c": {

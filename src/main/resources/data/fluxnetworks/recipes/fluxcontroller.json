@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "fluxnetworks"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "fluxnetworks:flux_controller"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "pneumaticcraft:printed_circuit_board"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "c": {
