@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "extendedcrafting"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:basic_table"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

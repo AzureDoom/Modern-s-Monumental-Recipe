@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:the_ultimate_ingot"
-    }
-  ],
   "type": "create:mixing",
   "heatRequirement": "superheated",
   "ingredients": [

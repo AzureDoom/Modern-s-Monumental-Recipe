@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "energymeter"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "energymeter:meter"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

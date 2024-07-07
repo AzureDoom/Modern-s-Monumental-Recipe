@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:basic_catalyst"
-    }
-  ],
   "type": "create:compacting",
   "heatRequirement": "heated",
   "ingredients": [
