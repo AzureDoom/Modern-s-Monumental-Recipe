@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "forcecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "botania:mana_pearl"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "minecraft:chorus_flower"
-    }
-  ],
   "type":"forcecraft:infuser",
   "ingredient": 
   {

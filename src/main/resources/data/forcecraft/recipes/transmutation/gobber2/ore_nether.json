@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "forcecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "compressium:netherrack_6"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "gobber2:gobber2_ore_nether"
-    }
-  ],
   "type":"forcecraft:infuser",
   "ingredient": 
   {

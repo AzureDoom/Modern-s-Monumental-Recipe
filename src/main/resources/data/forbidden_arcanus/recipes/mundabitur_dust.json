@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "forbidden_arcanus:mundabitur_dust"
-    }
-  ],
   "type": "create:mixing",
   "heatRequirement": "heated",
   "ingredients": [

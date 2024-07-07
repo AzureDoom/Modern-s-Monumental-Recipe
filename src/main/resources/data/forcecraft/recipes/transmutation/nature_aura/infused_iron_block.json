@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "forcecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "naturesaura:infused_iron_block"
-    }
-  ],
   "type":"forcecraft:infuser",
   "ingredient": 
   {

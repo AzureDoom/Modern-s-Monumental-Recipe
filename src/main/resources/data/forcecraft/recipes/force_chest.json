@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "forcecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "forcecraft:force_chest"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:iron_chestplate"

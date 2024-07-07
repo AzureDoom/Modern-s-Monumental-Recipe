@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "forcecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "botania:quartz_mana"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:polished_rose_quartz"
-    }
-  ],
   "type":"forcecraft:infuser",
   "ingredient": 
   {

@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "forcecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "botania:manasteel_ingot"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "naturesaura:infused_iron"
-    }
-  ],
   "type":"forcecraft:infuser",
   "ingredient": 
   {

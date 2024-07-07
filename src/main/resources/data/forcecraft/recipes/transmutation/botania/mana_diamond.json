@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "forcecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "botania:mana_diamond"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "occultism:soul_gem"
-    }
-  ],
   "type":"forcecraft:infuser",
   "ingredient": 
   {
