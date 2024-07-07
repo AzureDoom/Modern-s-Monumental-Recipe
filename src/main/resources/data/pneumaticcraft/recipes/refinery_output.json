@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "pneumaticcraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "pneumaticcraft:refinery_output"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:insulating_glass"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "S": {

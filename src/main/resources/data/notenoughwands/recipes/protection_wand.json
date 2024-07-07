@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "notenoughwands"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "notenoughwands:protection_wand"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "viescraftmachines:tool_ignition_key"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "viescraftmachines:tool_ignition_key"

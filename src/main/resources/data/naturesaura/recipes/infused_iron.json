@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "naturesaura"
-    }
-  ],
   "type": "hexerei:mixingcauldron",
   "liquid": {
     "fluid": "minecraft:lava"

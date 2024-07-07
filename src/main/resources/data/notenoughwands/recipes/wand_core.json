@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "notenoughwands"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "notenoughwands:wand_core"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "forcecraft:force_rod"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "X": {

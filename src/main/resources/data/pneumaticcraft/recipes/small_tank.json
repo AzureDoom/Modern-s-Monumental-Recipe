@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "pneumaticcraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "pneumaticcraft:small_tank"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "B": {

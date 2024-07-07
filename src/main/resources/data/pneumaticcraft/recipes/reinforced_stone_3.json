@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "pneumaticcraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "modernrecipes:compressed_iron_plate"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "minecraft:smooth_stone"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "pneumaticcraft:reinforced_stone"
-    }
-  ],
   "type": "pneumaticcraft:pressure_chamber",
   "inputs": [
     {

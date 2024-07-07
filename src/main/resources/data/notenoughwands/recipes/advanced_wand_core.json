@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "notenoughwands"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "notenoughwands:advanced_wand_core"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mysticalagriculture:ghast_essence"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "t": {

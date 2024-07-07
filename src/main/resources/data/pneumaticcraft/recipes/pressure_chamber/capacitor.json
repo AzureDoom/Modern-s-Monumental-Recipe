@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "pneumaticcraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "createaddition:capacitor"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:wirecoil_electrum"
-    }
-  ],
   "type": "pneumaticcraft:pressure_chamber",
   "inputs": [
     {

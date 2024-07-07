@@ -3,7 +3,7 @@
   "input": {
     "tag": "forge:ingots/steel"
   },
-  "loss_rate": 20,
+  "loss_rate": 15,
   "results": [
     {
       "item": "pneumaticcraft:ingot_iron_compressed"

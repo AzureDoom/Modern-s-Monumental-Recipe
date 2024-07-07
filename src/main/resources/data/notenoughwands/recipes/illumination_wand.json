@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "notenoughwands"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "notenoughwands:illumination_wand"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "createchromaticreturn:glowing_ingot"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "createchromaticreturn:glowing_ingot"
