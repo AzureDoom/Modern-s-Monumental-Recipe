@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "rftoolspower"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "rftoolspower:dimensionalcell_simple"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_catalyst"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:polished_rose_quartz"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "R": {

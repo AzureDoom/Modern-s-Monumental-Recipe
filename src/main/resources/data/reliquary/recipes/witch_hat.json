@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "reliquary"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "reliquary:witch_hat"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "handcrafted:witch_trophy"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "O": {

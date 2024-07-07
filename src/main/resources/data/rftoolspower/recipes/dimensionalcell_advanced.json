@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "rftoolspower"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "rftoolspower:dimensionalcell_advanced"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_catalyst"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "K": {
