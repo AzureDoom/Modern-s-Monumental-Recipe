@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "greater_eye:greater_eye"
-    }
-  ],
   "type": "create:mixing",
   "heatRequirement": "heated",
   "ingredients": [
