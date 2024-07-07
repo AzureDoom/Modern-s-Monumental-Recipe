@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "hexerei"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "hexerei:mixing_cauldron"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

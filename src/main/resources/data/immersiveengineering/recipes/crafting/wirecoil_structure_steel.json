@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersiveengineering"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:wirecoil_structure_steel"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "createaddition:spool"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "w": {

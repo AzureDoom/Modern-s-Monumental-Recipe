@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:blastbrick_reinforced"
-    }
-  ],
   "type": "create:compacting",
   "heatRequirement": "superheated",
   "ingredients": [

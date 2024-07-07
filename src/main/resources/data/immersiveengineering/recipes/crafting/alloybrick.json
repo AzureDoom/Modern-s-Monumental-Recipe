@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:alloybrick"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "compressium:sand_2"
-    }
-  ],
   "type": "create:compacting",
   "heatRequirement": "heated",
   "ingredients": [

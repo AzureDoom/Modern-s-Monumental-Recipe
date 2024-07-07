@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:dynamo"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "create:electron_tube"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "pneumaticcraft:printed_circuit_board"
-    }
-  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {

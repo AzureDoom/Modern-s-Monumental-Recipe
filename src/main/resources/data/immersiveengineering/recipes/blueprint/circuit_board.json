@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:circuit_board"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "thermal:upgrade_augment_3"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:electron_tube"
-    }
-  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {
