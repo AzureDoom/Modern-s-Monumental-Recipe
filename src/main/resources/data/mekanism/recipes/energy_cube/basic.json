@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:basic_energy_cube"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "modernrecipes:compressed_iron_plate"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

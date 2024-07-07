@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ironcoals:emerald_coal"
-    }
-  ],
   "type": "create:mixing",
   "heatRequirement": "heated",
   "ingredients": [

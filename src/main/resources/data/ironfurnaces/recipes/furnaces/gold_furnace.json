@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ironfurnaces:gold_furnace"
-    }
-  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {

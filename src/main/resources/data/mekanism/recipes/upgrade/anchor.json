@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:upgrade_anchor"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:quartz_glass"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

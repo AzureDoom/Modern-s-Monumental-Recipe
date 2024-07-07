@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:osmium_compressor"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "B": {

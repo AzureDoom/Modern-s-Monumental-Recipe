@@ -1,26 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "ironjetpacks"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ironjetpacks:basic_coil"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "modernrecipes:compressed_iron_plate"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "thermal:rf_coil"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

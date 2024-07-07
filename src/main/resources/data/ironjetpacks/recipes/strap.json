@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "ironjetpacks"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ironjetpacks:strap"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

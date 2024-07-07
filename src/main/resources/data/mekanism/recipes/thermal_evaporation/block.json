@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:thermal_evaporation_block"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_ingot_block"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

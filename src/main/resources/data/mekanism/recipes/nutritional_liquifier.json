@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:nutritional_liquifier"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "C": {

@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:basic_pressurized_tube"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:quartz_glass"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "modernrecipes:compressed_iron_plate"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:atomic_disassembler"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "E": {

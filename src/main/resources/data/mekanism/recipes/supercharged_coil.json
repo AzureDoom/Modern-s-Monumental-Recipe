@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:supercharged_coil"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

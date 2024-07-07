@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:basic_fluid_tank"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_ingot"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

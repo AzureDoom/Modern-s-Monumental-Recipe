@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:energized_smelter"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:quartz_glass"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

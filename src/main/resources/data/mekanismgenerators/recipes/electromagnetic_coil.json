@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanismgenerators"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanismgenerators:electromagnetic_coil"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "S": {

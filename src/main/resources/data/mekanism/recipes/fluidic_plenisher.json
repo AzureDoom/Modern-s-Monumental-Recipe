@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:fluidic_plenisher"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

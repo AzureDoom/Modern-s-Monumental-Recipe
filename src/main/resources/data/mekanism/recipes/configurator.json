@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:configurator"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mysticalagriculture:lapis_lazuli_essence"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

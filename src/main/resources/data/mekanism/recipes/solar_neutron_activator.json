@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:solar_neutron_activator"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "I": {

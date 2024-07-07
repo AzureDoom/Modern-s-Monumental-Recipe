@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:laser_amplifier"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "pneumaticcraft:assembly_laser"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mekanism:combiner"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "pneumaticcraft:reinforced_stone"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
