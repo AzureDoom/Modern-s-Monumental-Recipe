@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "modularrouters"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "modularrouters:breaker_module"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "tag": "forge:tools/pickaxe"

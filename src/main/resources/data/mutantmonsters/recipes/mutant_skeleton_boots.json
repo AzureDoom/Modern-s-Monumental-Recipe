@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mutantmonsters"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "mutantmonsters:mutant_skeleton_boots"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:leather_boots"

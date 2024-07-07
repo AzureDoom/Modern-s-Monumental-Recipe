@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "minecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "minecraft:iron_hoe"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:stone_hoe"

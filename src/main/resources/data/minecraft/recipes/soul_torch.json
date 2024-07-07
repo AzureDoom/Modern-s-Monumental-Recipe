@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "minecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "minecraft:soul_torch"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

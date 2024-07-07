@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "minecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "minecraft:hopper"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "cyclic:hopper"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "X": {

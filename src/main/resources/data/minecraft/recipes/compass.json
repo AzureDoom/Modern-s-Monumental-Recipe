@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "minecraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "minecraft:compass"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_ingot"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "tag": "forge:ingots/iron"
