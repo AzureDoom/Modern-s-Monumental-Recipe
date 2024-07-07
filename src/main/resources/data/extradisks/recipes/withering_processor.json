@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "extradisks"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extradisks:withering_processor"
-    }
-  ],
   "type": "ae2:inscriber",
   "ingredients": {
     "bottom": {
