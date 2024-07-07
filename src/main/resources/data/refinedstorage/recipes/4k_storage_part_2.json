@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "refinedstorage:4k_storage_part"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:cell_component_1k"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
-    }
-  ],
   "type": "create:mechanical_crafting",
   "acceptMirrored": false,
   "key": {

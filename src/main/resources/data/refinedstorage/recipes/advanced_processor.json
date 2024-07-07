@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "refinedstorage"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "refinedstorage:advanced_processor"
-    }
-  ],
   "type": "ae2:inscriber",
   "ingredients": {
     "bottom": {

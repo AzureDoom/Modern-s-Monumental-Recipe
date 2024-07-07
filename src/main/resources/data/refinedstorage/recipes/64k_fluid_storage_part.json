@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "extendedcrafting"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "refinedstorage:64k_storage_part"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:fluid_storage_cell_16k"
-    }
-  ],
   "type": "extendedcrafting:shaped_ender_crafter",
   "pattern": [
     "IGI",

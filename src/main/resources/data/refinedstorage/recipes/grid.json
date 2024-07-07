@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "refinedstorage"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "refinedstorage:grid"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "ae2:semi_dark_monitor"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "P": {

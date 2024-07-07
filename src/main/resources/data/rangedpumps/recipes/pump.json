@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "rangedpumps"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "rangedpumps:pump"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:fluid_pump"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "O": {

@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "refinedstorage:processor_binding"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:hemp_fiber"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "industrialforegoing:pink_slime_ingot"
-    }
-  ],
   "type": "create:mixing",
   "heatRequirement": "superheated",
   "ingredients": [

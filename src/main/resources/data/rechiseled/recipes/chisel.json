@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "rechiseled"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "rechiseled:chisel"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "chiselsandbits:chisel_stone"

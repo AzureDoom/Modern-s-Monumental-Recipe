@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "refinedstorage"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "refinedstorage:network_card"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "Q": {

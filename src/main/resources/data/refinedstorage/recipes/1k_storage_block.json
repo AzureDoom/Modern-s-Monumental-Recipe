@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "refinedstorage"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "refinedstorage:1k_storage_block"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "M": {

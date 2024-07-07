@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "pneumaticcraft"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_catalyst"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "refinedstorage:raw_advanced_processor"
-    }
-  ],
   "type": "pneumaticcraft:pressure_chamber",
   "inputs": [
     {
