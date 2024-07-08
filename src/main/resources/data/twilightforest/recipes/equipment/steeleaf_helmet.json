@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "twilightforest"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "twilightforest:steeleaf_helmet"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:diamond_helmet"

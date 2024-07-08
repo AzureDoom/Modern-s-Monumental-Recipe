@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "torchmaster"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "torchmaster:megatorch"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "reliquary:sojourner_staff"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "T": {

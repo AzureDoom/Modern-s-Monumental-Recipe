@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "waystones"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "waystones:return_scroll"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "naturesaura:tainted_gold"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "G": {

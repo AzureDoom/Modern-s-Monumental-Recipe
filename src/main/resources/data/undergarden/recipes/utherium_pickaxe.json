@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "undergarden"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "undergarden:utherium_pickaxe"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:diamond_pickaxe"

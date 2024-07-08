@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "torchmaster"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "torchmaster:dreadlamp"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "reliquary:lantern_of_paranoia"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "T": {

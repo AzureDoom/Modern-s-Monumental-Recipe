@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "twilightforest"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "twilightforest:ironwood_hoe"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:iron_hoe"

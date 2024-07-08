@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "xnet"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "xnet:advanced_connector_routing"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_component"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

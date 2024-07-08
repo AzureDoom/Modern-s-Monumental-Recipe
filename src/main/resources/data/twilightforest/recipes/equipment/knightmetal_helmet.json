@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "twilightforest"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "twilightforest:knightmetal_helmet"
-    }
-  ],
   "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:netherite_helmet"

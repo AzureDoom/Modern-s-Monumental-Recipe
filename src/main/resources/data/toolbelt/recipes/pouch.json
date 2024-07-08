@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "toolbelt"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "toolbelt:pouch"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "material_elements:leather_sheet"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "W": {

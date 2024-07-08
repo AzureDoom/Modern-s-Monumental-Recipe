@@ -1,22 +1,4 @@
 {
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "wormhole"
-        },
-        {
-            "type": "forge:item_exists",
-            "item": "wormhole:basic_target_cell"
-        },
-        {
-            "type": "forge:item_exists",
-            "item": "minecraft:target"
-        },
-        {
-            "type": "forge:item_exists",
-            "item": "mysticalagriculture:lapis_lazuli_essence"
-        }
-    ],
     "type": "minecraft:crafting_shaped",
     "key": {
         "G": {
