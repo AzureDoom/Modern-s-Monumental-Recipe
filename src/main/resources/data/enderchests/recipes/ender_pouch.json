@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DFD",
+    "FEF",
+    "DGD"
+  ],
+  "key": {
+    "D": { "tag": "forge:dyes" },
+    "E": { "item": "mekanism:teleportation_core" },
+    "F": { "tag": "forge:leather" },
+    "G": { "tag": "forge:wool" }
+  },
+  "result": { "item": "enderchests:ender_pouch" }
+}
