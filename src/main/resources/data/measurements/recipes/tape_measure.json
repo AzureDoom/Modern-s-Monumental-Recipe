@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GIY",
+    " GY"  ],
+  "key": {
+    "I": [
+      {
+        "tag": "forge:plates/iron"
+      }
+    ],
+    "Y": [
+      {
+        "item": "minecraft:yellow_wool"
+      }
+    ],
+    "G": [
+      {
+        "tag": "forge:string"
+      }
+    ]
+  },
+  "result": {
+    "item": "measurements:tape_measure"
+  }
+}
+
