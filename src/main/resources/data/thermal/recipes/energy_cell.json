@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "thermal"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "thermal:energy_cell"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "extendedcrafting:redstone_catalyst"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "C": {

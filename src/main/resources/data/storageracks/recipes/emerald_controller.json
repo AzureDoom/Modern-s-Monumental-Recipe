@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "storageracks"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "storageracks:emerald_controller"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "X": {

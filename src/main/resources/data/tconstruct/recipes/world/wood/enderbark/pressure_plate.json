@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "tconstruct"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "tconstruct:enderbark_pressure_plate"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {

@@ -1,22 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "shrink"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "shrink:shrinking_device"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "immersiveengineering:circuit_board"
-    },
-    {
-      "type": "forge:item_exists",
-      "item": "rftoolsbase:infused_enderpearl"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "G": {
