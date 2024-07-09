@@ -25,233 +25,623 @@ This mod is the Core Mod used for all the Custom Recipes in Monumental Experienc
     modId="ae2"
     mandatory=false
     versionRange="[12.9.9,)"
-    ordering="BEFORE"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="aeinfinitybooster"
+    mandatory=false
+    versionRange="[1.2.0+11,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="aiotbotania"
+    mandatory=false
+    versionRange="[1.19.2-3.0.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="alltheores"
+    mandatory=false
+    versionRange="[1.19.2-43.1.3,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="apotheosis"
+    mandatory=false
+    versionRange="[1.19.2-6.5.1,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="aquaculture"
+    mandatory=false
+    versionRange="[1.19.2-2.4.17,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="ad_astra"
+    mandatory=false
+    versionRange="[1.12.7,)"
+    ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="ars_nouveau"
-    mandatory=true
+    mandatory=false
     versionRange="[3.23.0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="barteringstation"
-    mandatory=true
+    mandatory=false
     versionRange="[4.0.3,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="blue_skies"
-    mandatory=true
+    mandatory=false
     versionRange="[1.3.20,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="biomesoplenty"
-    mandatory=true
+    mandatory=false
     versionRange="[17.1.2.544,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="bettershears3"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19.2-3.1.6_RELEASE,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="botanypotstiers"
+    mandatory=false
+    versionRange="[1.19.2-3.3.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="buildinggadgets"
-    mandatory=true
+    mandatory=false
     versionRange="[3.16.3,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="cookingforblockheads"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19.2-13.3.4,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="create"
-    mandatory=true
+    mandatory=false
     versionRange="[0.5.0.f,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="createaddition"
-    mandatory=true
+    mandatory=false
     versionRange="[1.2.3,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="chiselsandbits"
-    mandatory=true
+    mandatory=false
     versionRange="[1.3.146,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="cyclic"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19.2-1.8.2,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="computercraft"
+    mandatory=false
+    versionRange="[1.19.2-1.101.4,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="constructionwand"
+    mandatory=false
+    versionRange="[1.19.2-2.10,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="doom"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19.2-5.0.6,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="extrastorage"
-    mandatory=true
+    mandatory=false
     versionRange="[3.0.1,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="easy_mob_farm"
-    mandatory=true
+    mandatory=false
     versionRange="[7.1.0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="experienceobelisk"
+    mandatory=false
+    versionRange="[v2.1.0.1-1.19.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="environmental"
+    mandatory=false
+    versionRange="[v2.1.0.1-1.19.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="explorerscompass"
+    mandatory=false
+    versionRange="[1.19.2-1.3.0-forge,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="extendedcrafting"
+    mandatory=false
+    versionRange="[1.19.2-1.3.0-forge,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="extendedmushrooms"
+    mandatory=false
+    versionRange="[1.19.2-3.0.3.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="extradisks"
+    mandatory=false
+    versionRange="[1.19.2-2.2.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="extrastorage"
+    mandatory=false
+    versionRange="[1.19.2-3.0.1,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="forbidden_arcanus"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19.2-2.1.5,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="fancy_battleaxes"
+    mandatory=false
+    versionRange="[1.4.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="fluxnetworks"
+    mandatory=false
+    versionRange="[1.19.2-7.1.4,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="forcecraft"
+    mandatory=false
+    versionRange="[1.19.2-3.3.4,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="framedblocks"
+    mandatory=false
+    versionRange="[6.8.6,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="gobber2"
+    mandatory=false
+    versionRange="[1.19.2-2.7.32,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="greater_eye"
+    mandatory=false
+    versionRange="[1.4.6,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="hexerei"
+    mandatory=false
+    versionRange="[0.3.3.1,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="hexerei"
+    mandatory=false
+    versionRange="[0.3.3.1,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="immersiveengineering"
+    mandatory=false
+    versionRange="[1.19.2-9.2.4-170,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="industrialforegoing"
+    mandatory=false
+    versionRange="[1.19.2-3.3.2.4-9,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="inventorypets"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19.2-2.1.2.1,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="ironbows"
+    mandatory=false
+    versionRange="[1.19.2-FORGE-1.9,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="ironchest"
+    mandatory=false
+    versionRange="[1.19.2-14.2.7,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="ironcoals"
+    mandatory=false
+    versionRange="[4.1.4,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="ironfurnaces"
+    mandatory=false
+    versionRange="[1.19.2-3.6.5,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="ironjetpacks"
+    mandatory=false
+    versionRange="[1.19.2-6.0.7,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="littlelogistics"
+    mandatory=false
+    versionRange="[mc1.19.2-v1.4.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="monsterplus"
-    mandatory=true
+    mandatory=false
     versionRange="1.1.6.1,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="mining_dimension"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19.2-1.1.0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="mutantmonsters"
-    mandatory=true
+    mandatory=false
     versionRange="[4.0.6,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="material_elements"
-    mandatory=true
+    mandatory=false
     versionRange="[6.3.0,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="mekanism"
+    mandatory=false
+    versionRange="[1.19.2-10.3.9.13,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="mekanismgenerators"
+    mandatory=false
+    versionRange="[1.19.2-10.3.9.13,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="modularrouters"
+    mandatory=false
+    versionRange="[v1.19.2-10.2.1,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="mutantmonsters"
+    mandatory=false
+    versionRange="[v4.0.6,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="mysticalagriculture"
+    mandatory=false
+    versionRange="[1.19.2-6.0.14,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="mysticalagradditions"
+    mandatory=false
+    versionRange="[1.19.2-6.0.5,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="mythicbotany"
+    mandatory=false
+    versionRange="[1.19.2-3.0.2,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="twilightforest"
+    mandatory=false
+    versionRange="[1.19.2-1.3.1,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="nethersdelight"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19-3.1,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="notenoughwands"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19-5.0.2,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="naturesaura"
+    mandatory=false
+    versionRange="[38.2,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="naturescompass"
+    mandatory=false
+    versionRange="[1.19.2-1.10.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="occultism"
+    mandatory=false
+    versionRange="[1.19.2-1.90.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="pipez"
-    mandatory=true
+    mandatory=false
     versionRange="[1.2.15,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="pneumaticcraft"
+    mandatory=false
+    versionRange="[v1.19.2-4.3.15,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="prefab"
+    mandatory=false
+    versionRange="[1.9.2.5,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="psi"
+    mandatory=false
+    versionRange="[2.0.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="quark"
+    mandatory=false
+    versionRange="[3.4-418,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="rangedpumps"
+    mandatory=false
+    versionRange="[1.0.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="rftoolsbase"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19-4.1.9,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="rftoolsbuilder"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19-5.2.10,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="rftoolsutility"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19-5.1.10,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="rftoolscontrol"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19-6.1.5,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="rftoolsstorage"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19-4.1.3,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="rftoolspower"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19-5.1.2,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="refinedstorage"
-    mandatory=true
+    mandatory=false
     versionRange="[1.11.7,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="rebornstorage"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19.2-5.0.3,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="rechiseled"
-    mandatory=true
+    mandatory=false
     versionRange="[1.1.6,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="scannable"
+    mandatory=false
+    versionRange="[MC1.19.2-forge-1.7.7+dc5ea09,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="securitycraft"
+    mandatory=false
+    versionRange="[1.9.6.1,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="sophisticatedbackpacks"
+    mandatory=false
+    versionRange="[1.19.2-3.20.2.1035,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="sophisticatedstorage"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19.2-0.9.7.765,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="stevescarts"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19.2-1.1.2,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="storageracks"
+    mandatory=false
+    versionRange="[1.19.2-1.5,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="structurecompass"
+    mandatory=false
+    versionRange="[1.4.7,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="tradingpost"
-    mandatory=true
+    mandatory=false
     versionRange="[4.2.0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="tconstruct"
+    mandatory=false
+    versionRange="[3.8.3.39,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="tiab"
+    mandatory=false
+    versionRange="[3.0.1-mc1.19,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="toolbelt"
+    mandatory=false
+    versionRange="[1.19.2-1.19.7,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="thermal"
+    mandatory=false
+    versionRange="[10.3,10.4,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="thermal_expansion"
+    mandatory=false
+    versionRange="[10,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="torchmaster"
+    mandatory=false
+    versionRange="[19.2.93,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="twilightforest"
+    mandatory=false
+    versionRange="[4.2.1518,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="upgrade_aquatic"
-    mandatory=true
+    mandatory=false
     versionRange="[5.1.0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
+    modId="undergarden"
+    mandatory=false
+    versionRange="[0.8.3,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="viescraftmachines"
+    mandatory=false
+    versionRange="[1.19.2-2.0.0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="vinery"
+    mandatory=false
+    versionRange="[1.3.12,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="wirelesschargers"
+    mandatory=false
+    versionRange="[1.0.9a,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
+    modId="wormhole"
+    mandatory=false
+    versionRange="[1.1.16,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.modernrecipes]]
     modId="waystones"
-    mandatory=true
+    mandatory=false
     versionRange="[11.4.2,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.modernrecipes]]
     modId="xnet"
-    mandatory=true
+    mandatory=false
     versionRange="[1.19-5.2.4,)"
     ordering="AFTER"
     side="BOTH"
