@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    "P": {
+      "item": "create:andesite_alloy"
+    },
+    "T": {
+      "tag": "minecraft:planks"
+    },
+    "X": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "PXP",
+    "PRP"
+  ],
+  "result": {
+    "item": "minecraft:piston",
+    "count": 1
+  }
+}
