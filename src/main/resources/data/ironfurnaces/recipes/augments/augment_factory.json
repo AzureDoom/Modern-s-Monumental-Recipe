@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#R#",
+    "PXP",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:stone"
+    },
+    "P": {
+      "tag": "forge:paper"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_component"
+    },
+    "X": {
+      "item": "minecraft:piston"
+    },
+    "S": {
+      "item": "mekanism:basic_smelting_factory"
+    }
+  },
+  "result": {
+    "item": "ironfurnaces:augment_factory"
+  }
+}
